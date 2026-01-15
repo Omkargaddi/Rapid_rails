@@ -1,0 +1,196 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19309.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19309-GNC-INDB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GNC",
+            "station_name": "GANDHINAGAR CAPITAL"
+        },
+        {
+            "arrival_time": "18:21",
+            "day_of_journey": 1,
+            "departure_time": "18:23",
+            "distance_km": 22.0,
+            "sequence_number": 2,
+            "station_code": "CBCC",
+            "station_name": "CHANDLODIYA B CABIN"
+        },
+        {
+            "arrival_time": "18:32",
+            "day_of_journey": 1,
+            "departure_time": "18:34",
+            "distance_km": 28.0,
+            "sequence_number": 3,
+            "station_code": "SBT",
+            "station_name": "SABARMATI JN"
+        },
+        {
+            "arrival_time": "19:00",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 33.0,
+            "sequence_number": 4,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "19:46",
+            "day_of_journey": 1,
+            "departure_time": "19:48",
+            "distance_km": 61.0,
+            "sequence_number": 5,
+            "station_code": "MHD",
+            "station_name": "MAHEMADAVAD KHEDA ROAD"
+        },
+        {
+            "arrival_time": "20:02",
+            "day_of_journey": 1,
+            "departure_time": "20:04",
+            "distance_km": 79.0,
+            "sequence_number": 6,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 1,
+            "departure_time": "20:22",
+            "distance_km": 97.0,
+            "sequence_number": 7,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "21:17",
+            "day_of_journey": 1,
+            "departure_time": "21:22",
+            "distance_km": 129.0,
+            "sequence_number": 8,
+            "station_code": "CYI",
+            "station_name": "CHHAYAPURI"
+        },
+        {
+            "arrival_time": "22:04",
+            "day_of_journey": 1,
+            "departure_time": "22:06",
+            "distance_km": 171.0,
+            "sequence_number": 9,
+            "station_code": "DRL",
+            "station_name": "DEROL"
+        },
+        {
+            "arrival_time": "22:33",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 195.0,
+            "sequence_number": 10,
+            "station_code": "GDA",
+            "station_name": "GODHRA JN"
+        },
+        {
+            "arrival_time": "23:02",
+            "day_of_journey": 1,
+            "departure_time": "23:04",
+            "distance_km": 235.0,
+            "sequence_number": 11,
+            "station_code": "LMK",
+            "station_name": "LIMKHEDA"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": "23:32",
+            "distance_km": 267.0,
+            "sequence_number": 12,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "23:57",
+            "day_of_journey": 1,
+            "departure_time": "23:59",
+            "distance_km": 300.0,
+            "sequence_number": 13,
+            "station_code": "MGN",
+            "station_name": "MEGHNAGAR"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 380.0,
+            "sequence_number": 14,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "02:07",
+            "day_of_journey": 2,
+            "departure_time": "02:09",
+            "distance_km": 408.0,
+            "sequence_number": 15,
+            "station_code": "KUH",
+            "station_name": "KHACHROD"
+        },
+        {
+            "arrival_time": "02:45",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 421.0,
+            "sequence_number": 16,
+            "station_code": "NAD",
+            "station_name": "NAGDA JN"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 476.0,
+            "sequence_number": 17,
+            "station_code": "UJN",
+            "station_name": "UJJAIN JN"
+        },
+        {
+            "arrival_time": "04:28",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 517.0,
+            "sequence_number": 18,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 558.0,
+            "sequence_number": 19,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        }
+    ],
+    "train_name": "SHANTI EXPRESS",
+    "train_number": "19309",
+    "type": "MAIL EXPRESS"
+}

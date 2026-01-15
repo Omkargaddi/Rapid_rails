@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12886.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12886-BJE-SHM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BJE",
+            "station_name": "BHOJUDIH JN."
+        },
+        {
+            "arrival_time": "14:10",
+            "day_of_journey": 1,
+            "departure_time": "14:11",
+            "distance_km": 7.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "SNTD",
+            "station_name": "SANTALDIH"
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 30.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "ADRA",
+            "station_name": "ADRA"
+        },
+        {
+            "arrival_time": "15:13",
+            "day_of_journey": 1,
+            "departure_time": "15:14",
+            "distance_km": 69.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "CJN",
+            "station_name": "CHHATNA"
+        },
+        {
+            "arrival_time": "15:26",
+            "day_of_journey": 1,
+            "departure_time": "15:28",
+            "distance_km": 83.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BQA",
+            "station_name": "BANKURA"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "15:52",
+            "distance_km": 114.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "VSU",
+            "station_name": "BISHNUPUR"
+        },
+        {
+            "arrival_time": "16:12",
+            "day_of_journey": 1,
+            "departure_time": "16:13",
+            "distance_km": 139.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "GBA",
+            "station_name": "GARBETA"
+        },
+        {
+            "arrival_time": "16:24",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 150.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "CDGR",
+            "station_name": "CHANDRAKONA ROAD"
+        },
+        {
+            "arrival_time": "16:34",
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 162.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "SLB",
+            "station_name": "SALBONI"
+        },
+        {
+            "arrival_time": "16:58",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 186.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "MDN",
+            "station_name": "MIDNAPORE"
+        },
+        {
+            "arrival_time": "17:23",
+            "day_of_journey": 1,
+            "departure_time": "17:28",
+            "distance_km": 198.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "18:01",
+            "day_of_journey": 1,
+            "departure_time": "18:03",
+            "distance_km": 243.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "PKU",
+            "station_name": "PANSKURA"
+        },
+        {
+            "arrival_time": "19:07",
+            "day_of_journey": 1,
+            "departure_time": "19:09",
+            "distance_km": 308.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 313.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "SHM",
+            "station_name": "SHALIMAR"
+        }
+    ],
+    "train_name": "ARANYAK EXP",
+    "train_number": "12886",
+    "type": "SUPERFAST "
+}

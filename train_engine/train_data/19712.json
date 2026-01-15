@@ -1,0 +1,155 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19712.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19712-BPL-JP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "16:58",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 13.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "SHRN",
+            "station_name": "SANT HIRDARAM NAGAR"
+        },
+        {
+            "arrival_time": "17:16",
+            "day_of_journey": 1,
+            "departure_time": "17:18",
+            "distance_km": 41.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "SEH",
+            "station_name": "SEHORE"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "17:46",
+            "distance_km": 70.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "KPP",
+            "station_name": "KALAPIPAL"
+        },
+        {
+            "arrival_time": "17:58",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 83.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "SJP",
+            "station_name": "SHUJALPUR"
+        },
+        {
+            "arrival_time": "18:12",
+            "day_of_journey": 1,
+            "departure_time": "18:14",
+            "distance_km": 96.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "AKD",
+            "station_name": "AKODIA"
+        },
+        {
+            "arrival_time": "18:33",
+            "day_of_journey": 1,
+            "departure_time": "18:34",
+            "distance_km": 114.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "KSH",
+            "station_name": "KALI SINDH"
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": "18:47",
+            "distance_km": 126.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BCH",
+            "station_name": "BERCHHA"
+        },
+        {
+            "arrival_time": "19:04",
+            "day_of_journey": 1,
+            "departure_time": "19:06",
+            "distance_km": 145.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "MKC",
+            "station_name": "MAKSI JUNCTION"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:17",
+            "distance_km": 155.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "TAN",
+            "station_name": "TARANA ROAD"
+        },
+        {
+            "arrival_time": "20:10",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 186.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "UJN",
+            "station_name": "UJJAIN JN"
+        },
+        {
+            "arrival_time": "21:12",
+            "day_of_journey": 1,
+            "departure_time": "21:17",
+            "distance_km": 241.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "NAD",
+            "station_name": "NAGDA JN"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 791.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        }
+    ],
+    "train_name": "BPL JP EXP",
+    "train_number": "19712",
+    "type": "MAIL EXPRESS "
+}

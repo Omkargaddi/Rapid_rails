@@ -1,0 +1,140 @@
+{
+    "classes_available": [
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_53178.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "53178-LGL-SDAH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LGL",
+            "station_name": "LALGOLA"
+        },
+        {
+            "arrival_time": "09:29",
+            "day_of_journey": 1,
+            "departure_time": "09:31",
+            "distance_km": 2.0,
+            "sequence_number": 2,
+            "station_code": "KRP",
+            "station_name": "KRISHNAPUR"
+        },
+        {
+            "arrival_time": "09:37",
+            "day_of_journey": 1,
+            "departure_time": "09:38",
+            "distance_km": 8.0,
+            "sequence_number": 3,
+            "station_code": "PRTL",
+            "station_name": "PIRTALA"
+        },
+        {
+            "arrival_time": "09:43",
+            "day_of_journey": 1,
+            "departure_time": "09:44",
+            "distance_km": 12.0,
+            "sequence_number": 4,
+            "station_code": "BQG",
+            "station_name": "BHAGWANGOLA"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 1,
+            "departure_time": "09:51",
+            "distance_km": 19.0,
+            "sequence_number": 5,
+            "station_code": "SBNM",
+            "station_name": "SUBARNAMRIGI"
+        },
+        {
+            "arrival_time": "09:56",
+            "day_of_journey": 1,
+            "departure_time": "09:57",
+            "distance_km": 24.0,
+            "sequence_number": 6,
+            "station_code": "JJG",
+            "station_name": "JIAGANJ"
+        },
+        {
+            "arrival_time": "10:05",
+            "day_of_journey": 1,
+            "departure_time": "10:06",
+            "distance_km": 31.0,
+            "sequence_number": 7,
+            "station_code": "MBB",
+            "station_name": "MURSHIDABAD"
+        },
+        {
+            "arrival_time": "10:13",
+            "day_of_journey": 1,
+            "departure_time": "10:14",
+            "distance_km": 38.0,
+            "sequence_number": 8,
+            "station_code": "CSZ",
+            "station_name": "COSSIMBAZAR"
+        },
+        {
+            "arrival_time": "10:24",
+            "day_of_journey": 1,
+            "departure_time": "10:26",
+            "distance_km": 42.0,
+            "sequence_number": 9,
+            "station_code": "BPC",
+            "station_name": "BERHAMPORE CRT"
+        },
+        {
+            "arrival_time": "10:32",
+            "day_of_journey": 1,
+            "departure_time": "10:33",
+            "distance_km": 47.0,
+            "sequence_number": 10,
+            "station_code": "NBPH",
+            "station_name": "NEW BALRAMPUR HALT"
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 1,
+            "departure_time": "10:39",
+            "distance_km": 51.0,
+            "sequence_number": 11,
+            "station_code": "SGV",
+            "station_name": "SARAGCHNI"
+        },
+        {
+            "arrival_time": "10:44",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 54.0,
+            "sequence_number": 12,
+            "station_code": "BFT",
+            "station_name": "BHABTA"
+        },
+        {
+            "arrival_time": "15:12",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 231.0,
+            "sequence_number": 36,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        }
+    ],
+    "train_name": "LGL SDAH PSGN",
+    "train_number": "53178",
+    "type": "PASSENGER"
+}

@@ -1,0 +1,189 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12524.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12524-ANVT-NJP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        },
+        {
+            "arrival_time": "15:58",
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:08",
+            "distance_km": 154.0,
+            "sequence_number": 3,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 479.0,
+            "sequence_number": 4,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 596.0,
+            "sequence_number": 5,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 750.0,
+            "sequence_number": 6,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 2,
+            "departure_time": "05:53",
+            "distance_km": 800.0,
+            "sequence_number": 7,
+            "station_code": "DEOS",
+            "station_name": "DEORIA SADAR"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 869.0,
+            "sequence_number": 8,
+            "station_code": "SV",
+            "station_name": "SIWAN JN"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 2,
+            "departure_time": "07:55",
+            "distance_km": 930.0,
+            "sequence_number": 9,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "08:56",
+            "day_of_journey": 2,
+            "departure_time": "08:58",
+            "distance_km": 984.0,
+            "sequence_number": 10,
+            "station_code": "SEE",
+            "station_name": "SONPUR JN"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 2,
+            "departure_time": "09:15",
+            "distance_km": 989.0,
+            "sequence_number": 11,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 2,
+            "departure_time": "10:05",
+            "distance_km": 1043.0,
+            "sequence_number": 12,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "11:07",
+            "day_of_journey": 2,
+            "departure_time": "11:12",
+            "distance_km": 1095.0,
+            "sequence_number": 13,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "11:39",
+            "day_of_journey": 2,
+            "departure_time": "11:41",
+            "distance_km": 1124.0,
+            "sequence_number": 14,
+            "station_code": "ROA",
+            "station_name": "RUSERA GHAT"
+        },
+        {
+            "arrival_time": "13:03",
+            "day_of_journey": 2,
+            "departure_time": "13:05",
+            "distance_km": 1180.0,
+            "sequence_number": 15,
+            "station_code": "KGG",
+            "station_name": "KHAGARIA JN."
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 2,
+            "departure_time": "15:15",
+            "distance_km": 1304.0,
+            "sequence_number": 16,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "16:33",
+            "day_of_journey": 2,
+            "departure_time": "16:35",
+            "distance_km": 1402.0,
+            "sequence_number": 17,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1489.0,
+            "sequence_number": 18,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        }
+    ],
+    "train_name": "ANVT NJP SF EXP",
+    "train_number": "12524",
+    "type": "SUPERFAST"
+}

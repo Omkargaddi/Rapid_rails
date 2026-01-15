@@ -1,0 +1,136 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12405.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12405-BSL-NZM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 1,
+            "departure_time": "06:40",
+            "distance_km": 51.0,
+            "sequence_number": 2,
+            "station_code": "MKU",
+            "station_name": "MALKAPUR"
+        },
+        {
+            "arrival_time": "07:13",
+            "day_of_journey": 1,
+            "departure_time": "07:15",
+            "distance_km": 103.0,
+            "sequence_number": 3,
+            "station_code": "SEG",
+            "station_name": "SHEGAON"
+        },
+        {
+            "arrival_time": "07:45",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 140.0,
+            "sequence_number": 4,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "08:14",
+            "day_of_journey": 1,
+            "departure_time": "08:15",
+            "distance_km": 178.0,
+            "sequence_number": 5,
+            "station_code": "MZR",
+            "station_name": "MURTAJAPUR JN."
+        },
+        {
+            "arrival_time": "09:07",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 219.0,
+            "sequence_number": 6,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:22",
+            "distance_km": 981.0,
+            "sequence_number": 24,
+            "station_code": "LAR",
+            "station_name": "LALITPUR"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": "23:38",
+            "distance_km": 1070.0,
+            "sequence_number": 25,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "00:48",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 1168.0,
+            "sequence_number": 26,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "02:15",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 1287.0,
+            "sequence_number": 27,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "02:57",
+            "distance_km": 1340.0,
+            "sequence_number": 28,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1473.0,
+            "sequence_number": 29,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        }
+    ],
+    "train_name": "GONDWANA EXPRESS",
+    "train_number": "12405",
+    "type": "SUPERFAST"
+}

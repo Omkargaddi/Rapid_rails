@@ -1,0 +1,224 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14853.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "14853-BCY-JU",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BCY",
+            "station_name": "VARANASI CITY"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 4.0,
+            "sequence_number": 2,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "17:32",
+            "day_of_journey": 1,
+            "departure_time": "17:34",
+            "distance_km": 22.0,
+            "sequence_number": 3,
+            "station_code": "BTP",
+            "station_name": "BABATPUR"
+        },
+        {
+            "arrival_time": "18:11",
+            "day_of_journey": 1,
+            "departure_time": "18:13",
+            "distance_km": 61.0,
+            "sequence_number": 4,
+            "station_code": "JNU",
+            "station_name": "JAUNPUR JN"
+        },
+        {
+            "arrival_time": "18:48",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 95.0,
+            "sequence_number": 5,
+            "station_code": "SHG",
+            "station_name": "SHAHGANJ JN"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 1,
+            "departure_time": "19:32",
+            "distance_km": 139.0,
+            "sequence_number": 6,
+            "station_code": "ABP",
+            "station_name": "AKBARPUR"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 2,
+            "departure_time": "09:10",
+            "distance_km": 773.0,
+            "sequence_number": 24,
+            "station_code": "MURD",
+            "station_name": "MANDAWAR M RD"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 2,
+            "departure_time": "10:30",
+            "distance_km": 805.0,
+            "sequence_number": 25,
+            "station_code": "BKI",
+            "station_name": "BANDIKUI JN"
+        },
+        {
+            "arrival_time": "10:54",
+            "day_of_journey": 2,
+            "departure_time": "10:56",
+            "distance_km": 834.0,
+            "sequence_number": 26,
+            "station_code": "DO",
+            "station_name": "DAUSA JUNCTION"
+        },
+        {
+            "arrival_time": "11:38",
+            "day_of_journey": 2,
+            "departure_time": "11:41",
+            "distance_km": 890.0,
+            "sequence_number": 27,
+            "station_code": "GADJ",
+            "station_name": "GANDHINAGAR JAIPUR"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 2,
+            "departure_time": "12:15",
+            "distance_km": 895.0,
+            "sequence_number": 28,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "12:34",
+            "day_of_journey": 2,
+            "departure_time": "12:36",
+            "distance_km": 914.0,
+            "sequence_number": 29,
+            "station_code": "DNK",
+            "station_name": "DHANAKYA"
+        },
+        {
+            "arrival_time": "13:18",
+            "day_of_journey": 2,
+            "departure_time": "13:20",
+            "distance_km": 950.0,
+            "sequence_number": 30,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "13:38",
+            "day_of_journey": 2,
+            "departure_time": "13:40",
+            "distance_km": 957.0,
+            "sequence_number": 31,
+            "station_code": "SBR",
+            "station_name": "SAMBHAR LAKE"
+        },
+        {
+            "arrival_time": "14:02",
+            "day_of_journey": 2,
+            "departure_time": "14:04",
+            "distance_km": 985.0,
+            "sequence_number": 32,
+            "station_code": "NAC",
+            "station_name": "NAWA CITY"
+        },
+        {
+            "arrival_time": "14:18",
+            "day_of_journey": 2,
+            "departure_time": "14:20",
+            "distance_km": 1001.0,
+            "sequence_number": 33,
+            "station_code": "KMNC",
+            "station_name": "KUCHAMAN CITY"
+        },
+        {
+            "arrival_time": "14:33",
+            "day_of_journey": 2,
+            "departure_time": "14:36",
+            "distance_km": 1015.0,
+            "sequence_number": 34,
+            "station_code": "MKN",
+            "station_name": "MAKRANA JN"
+        },
+        {
+            "arrival_time": "15:06",
+            "day_of_journey": 2,
+            "departure_time": "15:09",
+            "distance_km": 1058.0,
+            "sequence_number": 35,
+            "station_code": "DNA",
+            "station_name": "DEGANA JN"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 2,
+            "departure_time": "15:32",
+            "distance_km": 1086.0,
+            "sequence_number": 36,
+            "station_code": "REN",
+            "station_name": "REN"
+        },
+        {
+            "arrival_time": "15:44",
+            "day_of_journey": 2,
+            "departure_time": "15:49",
+            "distance_km": 1104.0,
+            "sequence_number": 37,
+            "station_code": "MTD",
+            "station_name": "MERTA ROAD JN"
+        },
+        {
+            "arrival_time": "16:09",
+            "day_of_journey": 2,
+            "departure_time": "16:11",
+            "distance_km": 1124.0,
+            "sequence_number": 38,
+            "station_code": "GOTN",
+            "station_name": "GOTAN"
+        },
+        {
+            "arrival_time": "17:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1208.0,
+            "sequence_number": 39,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        }
+    ],
+    "train_name": "MARUDHAR EXP",
+    "train_number": "14853",
+    "type": "MAIL EXPRESS"
+}

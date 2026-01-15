@@ -1,0 +1,155 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15203.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15203-BJU-LJN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 17.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BCA",
+            "station_name": "BACHWARA JN"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 28.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "DSS",
+            "station_name": "DALSINGH SARAI"
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 51.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "21:43",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 64.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "KRBP",
+            "station_name": "KHUDIRAM BOSE PUSA"
+        },
+        {
+            "arrival_time": "21:56",
+            "day_of_journey": 1,
+            "departure_time": "21:58",
+            "distance_km": 78.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "DOL",
+            "station_name": "DHOLI"
+        },
+        {
+            "arrival_time": "22:35",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 103.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 157.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 1,
+            "departure_time": "23:50",
+            "distance_km": 162.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "SEE",
+            "station_name": "SONPUR JN"
+        },
+        {
+            "arrival_time": "00:09",
+            "day_of_journey": 2,
+            "departure_time": "00:11",
+            "distance_km": 185.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "DGA",
+            "station_name": "DIGHWARA"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 216.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "01:48",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 243.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "EKMA",
+            "station_name": "EKMA"
+        },
+        {
+            "arrival_time": "13:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 674.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        }
+    ],
+    "train_name": "BJU LJN EXP",
+    "train_number": "15203",
+    "type": "MAIL EXPRESS "
+}

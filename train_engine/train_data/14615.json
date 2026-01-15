@@ -1,0 +1,187 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14615.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "14615-LKU-ASR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LKU",
+            "station_name": "LALKUA JN."
+        },
+        {
+            "arrival_time": "00:31",
+            "day_of_journey": 2,
+            "departure_time": "00:33",
+            "distance_km": 38.0,
+            "sequence_number": 2,
+            "station_code": "BPZ",
+            "station_name": "BAZPUR"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 58.0,
+            "sequence_number": 3,
+            "station_code": "KPV",
+            "station_name": "KASHIPUR"
+        },
+        {
+            "arrival_time": "02:42",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 107.0,
+            "sequence_number": 4,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 206.0,
+            "sequence_number": 5,
+            "station_code": "NBD",
+            "station_name": "NAJIBABAD JN"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 247.0,
+            "sequence_number": 6,
+            "station_code": "LRJ",
+            "station_name": "LAKSAR JN"
+        },
+        {
+            "arrival_time": "05:47",
+            "day_of_journey": 2,
+            "departure_time": "05:52",
+            "distance_km": 265.0,
+            "sequence_number": 7,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 300.0,
+            "sequence_number": 8,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "07:31",
+            "day_of_journey": 2,
+            "departure_time": "07:33",
+            "distance_km": 330.0,
+            "sequence_number": 9,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 2,
+            "departure_time": "08:48",
+            "distance_km": 381.0,
+            "sequence_number": 10,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "09:31",
+            "day_of_journey": 2,
+            "departure_time": "09:48",
+            "distance_km": 426.0,
+            "sequence_number": 11,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "09:58",
+            "day_of_journey": 2,
+            "departure_time": "10:00",
+            "distance_km": 437.0,
+            "sequence_number": 12,
+            "station_code": "SASN",
+            "station_name": "SAHIBZADA AJIT SINGH NAGAR"
+        },
+        {
+            "arrival_time": "10:35",
+            "day_of_journey": 2,
+            "departure_time": "10:37",
+            "distance_km": 470.0,
+            "sequence_number": 13,
+            "station_code": "NMDA",
+            "station_name": "NEW MORINDA"
+        },
+        {
+            "arrival_time": "12:13",
+            "day_of_journey": 2,
+            "departure_time": "12:21",
+            "distance_km": 537.0,
+            "sequence_number": 14,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 2,
+            "departure_time": "12:52",
+            "distance_km": 573.0,
+            "sequence_number": 15,
+            "station_code": "PGW",
+            "station_name": "PHAGWARA JN"
+        },
+        {
+            "arrival_time": "13:17",
+            "day_of_journey": 2,
+            "departure_time": "13:22",
+            "distance_km": 594.0,
+            "sequence_number": 16,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "13:53",
+            "day_of_journey": 2,
+            "departure_time": "13:55",
+            "distance_km": 630.0,
+            "sequence_number": 17,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 673.0,
+            "sequence_number": 18,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        }
+    ],
+    "train_name": "LKU ASR EXP",
+    "train_number": "14615",
+    "type": "MAIL EXPRESS"
+}

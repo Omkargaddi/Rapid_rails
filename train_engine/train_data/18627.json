@@ -1,0 +1,152 @@
+{
+    "classes_available": [
+        "3A",
+        "3E",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18627.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "18627-HWH-RNC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "14:22",
+            "day_of_journey": 1,
+            "departure_time": "14:30",
+            "distance_km": 116.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "15:08",
+            "day_of_journey": 1,
+            "departure_time": "15:10",
+            "distance_km": 129.0,
+            "sequence_number": 3,
+            "station_code": "MDN",
+            "station_name": "MIDNAPORE"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 201.0,
+            "sequence_number": 4,
+            "station_code": "VSU",
+            "station_name": "BISHNUPUR"
+        },
+        {
+            "arrival_time": "16:38",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 231.0,
+            "sequence_number": 5,
+            "station_code": "BQA",
+            "station_name": "BANKURA"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 284.0,
+            "sequence_number": 6,
+            "station_code": "ADRA",
+            "station_name": "ADRA"
+        },
+        {
+            "arrival_time": "17:57",
+            "day_of_journey": 1,
+            "departure_time": "17:58",
+            "distance_km": 307.0,
+            "sequence_number": 7,
+            "station_code": "SNTD",
+            "station_name": "SANTALDIH"
+        },
+        {
+            "arrival_time": "18:09",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 314.0,
+            "sequence_number": 8,
+            "station_code": "BJE",
+            "station_name": "BHOJUDIH JN."
+        },
+        {
+            "arrival_time": "18:43",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 337.0,
+            "sequence_number": 9,
+            "station_code": "MHQ",
+            "station_name": "MOHUDA"
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 352.0,
+            "sequence_number": 10,
+            "station_code": "CRP",
+            "station_name": "CHANDRAPURA"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 367.0,
+            "sequence_number": 11,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "20:19",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 407.0,
+            "sequence_number": 12,
+            "station_code": "JAA",
+            "station_name": "JHALIDA"
+        },
+        {
+            "arrival_time": "20:33",
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 420.0,
+            "sequence_number": 13,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "22:55",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 483.0,
+            "sequence_number": 14,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        }
+    ],
+    "train_name": "INTERCITY EXP",
+    "train_number": "18627",
+    "type": "MAIL EXPRESS"
+}

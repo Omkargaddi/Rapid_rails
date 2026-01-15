@@ -1,0 +1,171 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17603.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17603-KCG-YNK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KCG",
+            "station_name": "KACHEGUDA"
+        },
+        {
+            "arrival_time": "21:49",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 52.0,
+            "sequence_number": 2,
+            "station_code": "SHNR",
+            "station_name": "SHADNAGAR"
+        },
+        {
+            "arrival_time": "22:28",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 106.0,
+            "sequence_number": 3,
+            "station_code": "MBNR",
+            "station_name": "MAHBUBNAGAR"
+        },
+        {
+            "arrival_time": "23:29",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 181.0,
+            "sequence_number": 4,
+            "station_code": "GWD",
+            "station_name": "GADWAL"
+        },
+        {
+            "arrival_time": "00:43",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 235.0,
+            "sequence_number": 5,
+            "station_code": "KRNT",
+            "station_name": "KURNOOL CITY"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 289.0,
+            "sequence_number": 6,
+            "station_code": "DHNE",
+            "station_name": "DHONE JN"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 361.0,
+            "sequence_number": 7,
+            "station_code": "GTL",
+            "station_name": "GUNTAKAL JN"
+        },
+        {
+            "arrival_time": "04:18",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 389.0,
+            "sequence_number": 8,
+            "station_code": "GY",
+            "station_name": "GOOTY"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 446.0,
+            "sequence_number": 9,
+            "station_code": "ATP",
+            "station_name": "ANANTAPUR"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 480.0,
+            "sequence_number": 10,
+            "station_code": "DMM",
+            "station_name": "DHARMAVARAM JN"
+        },
+        {
+            "arrival_time": "06:39",
+            "day_of_journey": 2,
+            "departure_time": "06:40",
+            "distance_km": 513.0,
+            "sequence_number": 11,
+            "station_code": "SSPN",
+            "station_name": "SAI P NILAYAM"
+        },
+        {
+            "arrival_time": "06:59",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 533.0,
+            "sequence_number": 12,
+            "station_code": "PKD",
+            "station_name": "PENUKONDA"
+        },
+        {
+            "arrival_time": "07:29",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 570.0,
+            "sequence_number": 13,
+            "station_code": "HUP",
+            "station_name": "HINDUPUR"
+        },
+        {
+            "arrival_time": "07:49",
+            "day_of_journey": 2,
+            "departure_time": "07:50",
+            "distance_km": 594.0,
+            "sequence_number": 14,
+            "station_code": "GBD",
+            "station_name": "GAURIBIDANUR"
+        },
+        {
+            "arrival_time": "08:29",
+            "day_of_journey": 2,
+            "departure_time": "08:30",
+            "distance_km": 633.0,
+            "sequence_number": 15,
+            "station_code": "DBU",
+            "station_name": "DODBALLAPUR"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 654.0,
+            "sequence_number": 16,
+            "station_code": "YNK",
+            "station_name": "YELAHANKA JN."
+        }
+    ],
+    "train_name": "KCG YNK EXP",
+    "train_number": "17603",
+    "type": "MAIL EXPRESS"
+}

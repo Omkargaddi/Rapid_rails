@@ -1,0 +1,122 @@
+{
+    "classes_available": [
+        "EV",
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12052.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12052-MAO-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "15:52",
+            "distance_km": 46.0,
+            "sequence_number": 2,
+            "station_code": "THVM",
+            "station_name": "THIVIM"
+        },
+        {
+            "arrival_time": "16:22",
+            "day_of_journey": 1,
+            "departure_time": "16:24",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "SWV",
+            "station_name": "SAWANTWADI ROAD"
+        },
+        {
+            "arrival_time": "16:40",
+            "day_of_journey": 1,
+            "departure_time": "16:42",
+            "distance_km": 99.0,
+            "sequence_number": 4,
+            "station_code": "KUDL",
+            "station_name": "KUDAL"
+        },
+        {
+            "arrival_time": "17:02",
+            "day_of_journey": 1,
+            "departure_time": "17:04",
+            "distance_km": 128.0,
+            "sequence_number": 5,
+            "station_code": "KKW",
+            "station_name": "KANKAVLI"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 239.0,
+            "sequence_number": 6,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "19:46",
+            "day_of_journey": 1,
+            "departure_time": "19:48",
+            "distance_km": 315.0,
+            "sequence_number": 7,
+            "station_code": "CHI",
+            "station_name": "CHIPLUN"
+        },
+        {
+            "arrival_time": "21:58",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 520.0,
+            "sequence_number": 8,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 557.0,
+            "sequence_number": 9,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "23:08",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 581.0,
+            "sequence_number": 10,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 590.0,
+            "sequence_number": 11,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "CSMT JANSHTABDI",
+    "train_number": "12052",
+    "type": "JAN SHATABDI"
+}

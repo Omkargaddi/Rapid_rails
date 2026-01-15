@@ -1,0 +1,263 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16102.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16102-QLN-TBM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "16:13",
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 13.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "KUV",
+            "station_name": "KUNDARA"
+        },
+        {
+            "arrival_time": "16:26",
+            "day_of_journey": 1,
+            "departure_time": "16:28",
+            "distance_km": 25.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KKZ",
+            "station_name": "KOTTARAKARA"
+        },
+        {
+            "arrival_time": "16:34",
+            "day_of_journey": 1,
+            "departure_time": "16:36",
+            "distance_km": 36.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "AVS",
+            "station_name": "AUVANESWSAREM"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 44.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "PUU",
+            "station_name": "PUNALUR"
+        },
+        {
+            "arrival_time": "17:43",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 66.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "TML",
+            "station_name": "TENMALAI"
+        },
+        {
+            "arrival_time": "18:34",
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 78.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "AYV",
+            "station_name": "ARYANKAVU"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 94.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "SCT",
+            "station_name": "SENGOTTAI"
+        },
+        {
+            "arrival_time": "19:28",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 101.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "TSI",
+            "station_name": "TENKASI JN"
+        },
+        {
+            "arrival_time": "19:43",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 117.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "KDNL",
+            "station_name": "KADAYANALLUR"
+        },
+        {
+            "arrival_time": "20:03",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 138.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "SNKL",
+            "station_name": "SANKARANKOVIL"
+        },
+        {
+            "arrival_time": "20:28",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 171.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "RJPM",
+            "station_name": "RAJAPALAYAM"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 182.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "SVPR",
+            "station_name": "SRIVILLIPUTTUR"
+        },
+        {
+            "arrival_time": "21:08",
+            "day_of_journey": 1,
+            "departure_time": "21:10",
+            "distance_km": 199.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "SVKS",
+            "station_name": "SIVAKASI"
+        },
+        {
+            "arrival_time": "21:43",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 224.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "VPT",
+            "station_name": "VIRUDUNAGAR JN"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 267.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 333.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 427.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "02:24",
+            "day_of_journey": 2,
+            "departure_time": "02:26",
+            "distance_km": 550.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "VRI",
+            "station_name": "VRIDDHACHALAM JN"
+        },
+        {
+            "arrival_time": "02:39",
+            "day_of_journey": 2,
+            "departure_time": "02:40",
+            "distance_km": 569.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "ULU",
+            "station_name": "ULUNDURPET"
+        },
+        {
+            "arrival_time": "03:18",
+            "day_of_journey": 2,
+            "departure_time": "03:20",
+            "distance_km": 604.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "04:14",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 672.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 708.0,
+            "platform": null,
+            "sequence_number": 23,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 738.0,
+            "platform": null,
+            "sequence_number": 24,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        }
+    ],
+    "train_name": "QLN MS EXPRESS",
+    "train_number": "16102",
+    "type": "MAIL EXPRESS "
+}

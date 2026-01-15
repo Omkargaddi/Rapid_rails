@@ -1,0 +1,112 @@
+{
+    "classes_available": [
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22985.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22985-UDZ-DEE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "00:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "UDZ",
+            "station_name": "UDAIPUR CITY"
+        },
+        {
+            "arrival_time": "01:24",
+            "day_of_journey": 1,
+            "departure_time": "01:26",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "MVJ",
+            "station_name": "MAVLI JN"
+        },
+        {
+            "arrival_time": "02:40",
+            "day_of_journey": 1,
+            "departure_time": "02:42",
+            "distance_km": 116.0,
+            "sequence_number": 3,
+            "station_code": "CNA",
+            "station_name": "CHANDERIA"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 1,
+            "departure_time": "03:25",
+            "distance_km": 163.0,
+            "sequence_number": 4,
+            "station_code": "BHL",
+            "station_name": "BHILWARA"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 1,
+            "departure_time": "05:40",
+            "distance_km": 294.0,
+            "sequence_number": 5,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "06:42",
+            "day_of_journey": 1,
+            "departure_time": "06:44",
+            "distance_km": 374.0,
+            "sequence_number": 6,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "07:37",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 441.0,
+            "sequence_number": 7,
+            "station_code": "RGS",
+            "station_name": "RINGAS JN"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 1,
+            "departure_time": "08:57",
+            "distance_km": 537.0,
+            "sequence_number": 8,
+            "station_code": "NNL",
+            "station_name": "NARNAUL"
+        },
+        {
+            "arrival_time": "09:58",
+            "day_of_journey": 1,
+            "departure_time": "10:00",
+            "distance_km": 589.0,
+            "sequence_number": 9,
+            "station_code": "RE",
+            "station_name": "REWARI JN."
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 667.0,
+            "sequence_number": 10,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        }
+    ],
+    "train_name": "RAJ HUMSAFAR EXP",
+    "train_number": "22985",
+    "type": "SUPERFAST"
+}

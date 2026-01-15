@@ -1,0 +1,334 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22619.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22619-BSP-TEN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:15",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 1,
+            "departure_time": "08:55",
+            "distance_km": 52.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 1,
+            "departure_time": "10:00",
+            "distance_km": 116.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "10:55",
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 153.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "11:19",
+            "day_of_journey": 1,
+            "departure_time": "11:21",
+            "distance_km": 184.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "RJN",
+            "station_name": "RAJNANDGAON"
+        },
+        {
+            "arrival_time": "11:43",
+            "day_of_journey": 1,
+            "departure_time": "11:45",
+            "distance_km": 215.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "DGG",
+            "station_name": "DONGARGARH"
+        },
+        {
+            "arrival_time": "12:43",
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 288.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "13:23",
+            "day_of_journey": 1,
+            "departure_time": "13:25",
+            "distance_km": 338.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "TMR",
+            "station_name": "TUMSAR ROAD"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 1,
+            "departure_time": "13:42",
+            "distance_km": 356.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BRD",
+            "station_name": "BHANDARA ROAD"
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 419.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 613.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "CD",
+            "station_name": "CHANDRAPUR"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 627.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BPQ",
+            "station_name": "BALHARSHAH"
+        },
+        {
+            "arrival_time": "21:48",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 873.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "WL",
+            "station_name": "WARANGAL"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 1082.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 1458.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "09:45",
+            "day_of_journey": 2,
+            "departure_time": "09:50",
+            "distance_km": 1582.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "11:08",
+            "day_of_journey": 2,
+            "departure_time": "11:10",
+            "distance_km": 1666.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "12:47",
+            "day_of_journey": 2,
+            "departure_time": "12:50",
+            "distance_km": 1791.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 2,
+            "departure_time": "14:00",
+            "distance_km": 1850.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 2,
+            "departure_time": "14:45",
+            "distance_km": 1900.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "15:42",
+            "day_of_journey": 2,
+            "departure_time": "15:45",
+            "distance_km": 1950.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 2,
+            "departure_time": "17:00",
+            "distance_km": 2005.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 2,
+            "departure_time": "18:13",
+            "distance_km": 2081.0,
+            "platform": null,
+            "sequence_number": 23,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "19:03",
+            "day_of_journey": 2,
+            "departure_time": "19:05",
+            "distance_km": 2136.0,
+            "platform": null,
+            "sequence_number": 24,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 2,
+            "departure_time": "19:45",
+            "distance_km": 2155.0,
+            "platform": null,
+            "sequence_number": 25,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "21:07",
+            "day_of_journey": 2,
+            "departure_time": "21:10",
+            "distance_km": 2212.0,
+            "platform": null,
+            "sequence_number": 26,
+            "station_code": "ALLP",
+            "station_name": "ALAPPUZHA"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 2,
+            "departure_time": "22:05",
+            "distance_km": 2256.0,
+            "platform": null,
+            "sequence_number": 27,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "22:42",
+            "day_of_journey": 2,
+            "departure_time": "22:45",
+            "distance_km": 2297.0,
+            "platform": null,
+            "sequence_number": 28,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 2,
+            "departure_time": "23:50",
+            "distance_km": 2360.0,
+            "platform": null,
+            "sequence_number": 29,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        },
+        {
+            "arrival_time": "00:53",
+            "day_of_journey": 3,
+            "departure_time": "00:55",
+            "distance_km": 2426.0,
+            "platform": null,
+            "sequence_number": 30,
+            "station_code": "NJT",
+            "station_name": "NAGER COIL TOWN"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2505.0,
+            "platform": null,
+            "sequence_number": 31,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        }
+    ],
+    "train_name": "BSP TEN SF EXP",
+    "train_number": "22619",
+    "type": "SUPERFAST "
+}

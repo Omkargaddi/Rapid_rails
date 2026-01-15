@@ -1,0 +1,150 @@
+{
+    "classes_available": [
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18418.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18418-GNPR-PURI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GNPR",
+            "station_name": "GUNUPUR"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 1,
+            "departure_time": "05:46",
+            "distance_km": 12.0,
+            "sequence_number": 2,
+            "station_code": "BSDR",
+            "station_name": "BANSADHARA PH"
+        },
+        {
+            "arrival_time": "06:01",
+            "day_of_journey": 1,
+            "departure_time": "06:02",
+            "distance_km": 26.0,
+            "sequence_number": 3,
+            "station_code": "KNGR",
+            "station_name": "KASHINAGAR"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 51.0,
+            "sequence_number": 4,
+            "station_code": "PLH",
+            "station_name": "PARALAKHEMUNDI"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 1,
+            "departure_time": "06:39",
+            "distance_km": 56.0,
+            "sequence_number": 5,
+            "station_code": "PHM",
+            "station_name": "PATAPATNAM"
+        },
+        {
+            "arrival_time": "07:12",
+            "day_of_journey": 1,
+            "departure_time": "07:13",
+            "distance_km": 83.0,
+            "sequence_number": 6,
+            "station_code": "TEK",
+            "station_name": "TEKKALI PH"
+        },
+        {
+            "arrival_time": "07:40",
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 90.0,
+            "sequence_number": 7,
+            "station_code": "NWP",
+            "station_name": "NAUPADA JN"
+        },
+        {
+            "arrival_time": "07:49",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 103.0,
+            "sequence_number": 8,
+            "station_code": "PUN",
+            "station_name": "PUNDI"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 1,
+            "departure_time": "08:25",
+            "distance_km": 115.0,
+            "sequence_number": 9,
+            "station_code": "PSA",
+            "station_name": "PALASA"
+        },
+        {
+            "arrival_time": "08:43",
+            "day_of_journey": 1,
+            "departure_time": "08:44",
+            "distance_km": 129.0,
+            "sequence_number": 10,
+            "station_code": "MMS",
+            "station_name": "MANDASA ROAD"
+        },
+        {
+            "arrival_time": "08:56",
+            "day_of_journey": 1,
+            "departure_time": "08:57",
+            "distance_km": 147.0,
+            "sequence_number": 11,
+            "station_code": "SPT",
+            "station_name": "SOMPETA"
+        },
+        {
+            "arrival_time": "09:09",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 165.0,
+            "sequence_number": 12,
+            "station_code": "IPM",
+            "station_name": "ICHCHPURAM"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 1,
+            "departure_time": "12:36",
+            "distance_km": 364.0,
+            "sequence_number": 36,
+            "station_code": "SIL",
+            "station_name": "SAKHI GOPAL"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 380.0,
+            "sequence_number": 37,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        }
+    ],
+    "train_name": "GNPR PURI SPL",
+    "train_number": "18418",
+    "type": "MAIL EXPRESS"
+}

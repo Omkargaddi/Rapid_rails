@@ -1,0 +1,303 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13163.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "13163-SDAH-SHC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "21:58",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "NH",
+            "station_name": "NAIHATI JN"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 50.0,
+            "sequence_number": 3,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "22:53",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 92.0,
+            "sequence_number": 4,
+            "station_code": "ABKA",
+            "station_name": "AMBIKA KALNA"
+        },
+        {
+            "arrival_time": "23:13",
+            "day_of_journey": 1,
+            "departure_time": "23:16",
+            "distance_km": 116.0,
+            "sequence_number": 5,
+            "station_code": "NDAE",
+            "station_name": "NABADWIP DHAM"
+        },
+        {
+            "arrival_time": "23:57",
+            "day_of_journey": 2,
+            "departure_time": "00:02",
+            "distance_km": 155.0,
+            "sequence_number": 6,
+            "station_code": "KWAE",
+            "station_name": "KATWA"
+        },
+        {
+            "arrival_time": "00:16",
+            "day_of_journey": 2,
+            "departure_time": "00:18",
+            "distance_km": 172.0,
+            "sequence_number": 7,
+            "station_code": "SALE",
+            "station_name": "SALAR"
+        },
+        {
+            "arrival_time": "00:44",
+            "day_of_journey": 2,
+            "departure_time": "00:46",
+            "distance_km": 213.0,
+            "sequence_number": 8,
+            "station_code": "KGLE",
+            "station_name": "KHAGRAGHAT ROAD"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 228.0,
+            "sequence_number": 9,
+            "station_code": "AZ",
+            "station_name": "AZIMGANJ JN"
+        },
+        {
+            "arrival_time": "02:03",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 263.0,
+            "sequence_number": 10,
+            "station_code": "JRLE",
+            "station_name": "JANGIPUR ROAD"
+        },
+        {
+            "arrival_time": "02:49",
+            "day_of_journey": 2,
+            "departure_time": "02:51",
+            "distance_km": 283.0,
+            "sequence_number": 11,
+            "station_code": "NILE",
+            "station_name": "NIMITITA"
+        },
+        {
+            "arrival_time": "03:27",
+            "day_of_journey": 2,
+            "departure_time": "03:32",
+            "distance_km": 310.0,
+            "sequence_number": 12,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "04:25",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 345.0,
+            "sequence_number": 13,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "04:55",
+            "day_of_journey": 2,
+            "departure_time": "04:57",
+            "distance_km": 364.0,
+            "sequence_number": 14,
+            "station_code": "EKI",
+            "station_name": "EKLAKHI"
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 2,
+            "departure_time": "05:12",
+            "distance_km": 380.0,
+            "sequence_number": 15,
+            "station_code": "SM",
+            "station_name": "SAMSI"
+        },
+        {
+            "arrival_time": "05:23",
+            "day_of_journey": 2,
+            "departure_time": "05:25",
+            "distance_km": 390.0,
+            "sequence_number": 16,
+            "station_code": "BKRD",
+            "station_name": "BHALUKA ROAD F"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:37",
+            "distance_km": 400.0,
+            "sequence_number": 17,
+            "station_code": "HCR",
+            "station_name": "HARISCHANDRPUR"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": "05:52",
+            "distance_km": 406.0,
+            "sequence_number": 18,
+            "station_code": "KDPR",
+            "station_name": "KUMEDPUR"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 2,
+            "departure_time": "06:12",
+            "distance_km": 413.0,
+            "sequence_number": 19,
+            "station_code": "LAV",
+            "station_name": "LABHA"
+        },
+        {
+            "arrival_time": "07:45",
+            "day_of_journey": 2,
+            "departure_time": "08:00",
+            "distance_km": 436.0,
+            "sequence_number": 20,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "08:16",
+            "day_of_journey": 2,
+            "departure_time": "08:18",
+            "distance_km": 447.0,
+            "sequence_number": 21,
+            "station_code": "SMO",
+            "station_name": "SEMAPUR"
+        },
+        {
+            "arrival_time": "08:26",
+            "day_of_journey": 2,
+            "departure_time": "08:28",
+            "distance_km": 458.0,
+            "sequence_number": 22,
+            "station_code": "CRR",
+            "station_name": "KARAGOLA ROAD"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 2,
+            "departure_time": "08:50",
+            "distance_km": 475.0,
+            "sequence_number": 23,
+            "station_code": "KUE",
+            "station_name": "KURSELA"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 2,
+            "departure_time": "09:10",
+            "distance_km": 493.0,
+            "sequence_number": 24,
+            "station_code": "NNA",
+            "station_name": "NAUGACHIA"
+        },
+        {
+            "arrival_time": "09:23",
+            "day_of_journey": 2,
+            "departure_time": "09:25",
+            "distance_km": 508.0,
+            "sequence_number": 25,
+            "station_code": "THB",
+            "station_name": "THANA BIHPUR JN"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 2,
+            "departure_time": "09:40",
+            "distance_km": 516.0,
+            "sequence_number": 26,
+            "station_code": "NNR",
+            "station_name": "NARAYANPUR"
+        },
+        {
+            "arrival_time": "10:18",
+            "day_of_journey": 2,
+            "departure_time": "10:20",
+            "distance_km": 540.0,
+            "sequence_number": 27,
+            "station_code": "MSK",
+            "station_name": "MAHES KHUNT"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 2,
+            "departure_time": "11:20",
+            "distance_km": 551.0,
+            "sequence_number": 28,
+            "station_code": "MNE",
+            "station_name": "MANSI JN"
+        },
+        {
+            "arrival_time": "11:51",
+            "day_of_journey": 2,
+            "departure_time": "11:53",
+            "distance_km": 572.0,
+            "sequence_number": 29,
+            "station_code": "KFA",
+            "station_name": "KOPARIA"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 2,
+            "departure_time": "12:12",
+            "distance_km": 579.0,
+            "sequence_number": 30,
+            "station_code": "SBV",
+            "station_name": "S BHAKHTIYARPUR"
+        },
+        {
+            "arrival_time": "12:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 595.0,
+            "sequence_number": 31,
+            "station_code": "SHC",
+            "station_name": "SAHARSA JN"
+        }
+    ],
+    "train_name": "HATE BAZARE EXP",
+    "train_number": "13163",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,198 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12817.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12817-HTE-ANVT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HTE",
+            "station_name": "HATIA"
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "15:52",
+            "distance_km": 67.0,
+            "sequence_number": 3,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "16:09",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 79.0,
+            "sequence_number": 4,
+            "station_code": "JAA",
+            "station_name": "JHALIDA"
+        },
+        {
+            "arrival_time": "17:10",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 120.0,
+            "sequence_number": 5,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "18:01",
+            "day_of_journey": 1,
+            "departure_time": "18:03",
+            "distance_km": 135.0,
+            "sequence_number": 6,
+            "station_code": "CRP",
+            "station_name": "CHANDRAPURA"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 152.0,
+            "sequence_number": 7,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "19:24",
+            "day_of_journey": 1,
+            "departure_time": "19:26",
+            "distance_km": 245.0,
+            "sequence_number": 8,
+            "station_code": "KQR",
+            "station_name": "KODERMA"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 322.0,
+            "sequence_number": 9,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "21:44",
+            "day_of_journey": 1,
+            "departure_time": "21:46",
+            "distance_km": 343.0,
+            "sequence_number": 10,
+            "station_code": "GRRU",
+            "station_name": "GURARU"
+        },
+        {
+            "arrival_time": "21:58",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 359.0,
+            "sequence_number": 11,
+            "station_code": "RFJ",
+            "station_name": "RAFIGANJ"
+        },
+        {
+            "arrival_time": "22:28",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 390.0,
+            "sequence_number": 12,
+            "station_code": "AUBR",
+            "station_name": "ANUGRAHA N ROAD"
+        },
+        {
+            "arrival_time": "22:48",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 407.0,
+            "sequence_number": 13,
+            "station_code": "DOS",
+            "station_name": "DEHRI ON SONE"
+        },
+        {
+            "arrival_time": "23:04",
+            "day_of_journey": 1,
+            "departure_time": "23:06",
+            "distance_km": 425.0,
+            "sequence_number": 14,
+            "station_code": "SSM",
+            "station_name": "SASARAM"
+        },
+        {
+            "arrival_time": "23:42",
+            "day_of_journey": 1,
+            "departure_time": "23:44",
+            "distance_km": 472.0,
+            "sequence_number": 15,
+            "station_code": "BBU",
+            "station_name": "BHABUA ROAD"
+        },
+        {
+            "arrival_time": "02:03",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 525.0,
+            "sequence_number": 16,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 2,
+            "departure_time": "04:25",
+            "distance_km": 678.0,
+            "sequence_number": 17,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 2,
+            "departure_time": "06:40",
+            "distance_km": 873.0,
+            "sequence_number": 18,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "13:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1301.0,
+            "sequence_number": 19,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        }
+    ],
+    "train_name": "SWARNJAYANTI EX",
+    "train_number": "12817",
+    "type": "SUPERFAST"
+}

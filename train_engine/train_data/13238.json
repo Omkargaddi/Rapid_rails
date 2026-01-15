@@ -1,0 +1,143 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13238.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "13238-KOTA-PNBE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 72.0,
+            "sequence_number": 2,
+            "station_code": "IDG",
+            "station_name": "INDARGARH"
+        },
+        {
+            "arrival_time": "19:38",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 108.0,
+            "sequence_number": 3,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "20:08",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 155.0,
+            "sequence_number": 4,
+            "station_code": "NNW",
+            "station_name": "NARAYANPUR TATWARA"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 171.0,
+            "sequence_number": 5,
+            "station_code": "GGC",
+            "station_name": "GANGAPUR CITY"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 216.0,
+            "sequence_number": 6,
+            "station_code": "HAN",
+            "station_name": "HINDAUN CITY"
+        },
+        {
+            "arrival_time": "16:56",
+            "day_of_journey": 2,
+            "departure_time": "16:58",
+            "distance_km": 1158.0,
+            "sequence_number": 24,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "17:12",
+            "day_of_journey": 2,
+            "departure_time": "17:14",
+            "distance_km": 1175.0,
+            "sequence_number": 25,
+            "station_code": "DURE",
+            "station_name": "DUMRAON"
+        },
+        {
+            "arrival_time": "17:33",
+            "day_of_journey": 2,
+            "departure_time": "17:35",
+            "distance_km": 1206.0,
+            "sequence_number": 26,
+            "station_code": "BEA",
+            "station_name": "BIHIYA"
+        },
+        {
+            "arrival_time": "17:53",
+            "day_of_journey": 2,
+            "departure_time": "17:55",
+            "distance_km": 1227.0,
+            "sequence_number": 27,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "18:12",
+            "day_of_journey": 2,
+            "departure_time": "18:14",
+            "distance_km": 1249.0,
+            "sequence_number": 28,
+            "station_code": "BTA",
+            "station_name": "BIHTA"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 2,
+            "departure_time": "18:32",
+            "distance_km": 1266.0,
+            "sequence_number": 29,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1276.0,
+            "sequence_number": 30,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        }
+    ],
+    "train_name": "KOTA PNBE EXP",
+    "train_number": "13238",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,125 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15043.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "15043-LJN-KGM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        },
+        {
+            "arrival_time": "04:03",
+            "day_of_journey": 2,
+            "departure_time": "04:13",
+            "distance_km": 235.0,
+            "sequence_number": 2,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 237.0,
+            "sequence_number": 3,
+            "station_code": "BC",
+            "station_name": "BAREILLY CITY"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 242.0,
+            "sequence_number": 4,
+            "station_code": "IZN",
+            "station_name": "IZZATNAGAR JN"
+        },
+        {
+            "arrival_time": "05:28",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 254.0,
+            "sequence_number": 5,
+            "station_code": "BPR",
+            "station_name": "BHOJIPURA JN."
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 2,
+            "departure_time": "06:03",
+            "distance_km": 286.0,
+            "sequence_number": 6,
+            "station_code": "BHI",
+            "station_name": "BAHERI"
+        },
+        {
+            "arrival_time": "06:26",
+            "day_of_journey": 2,
+            "departure_time": "06:28",
+            "distance_km": 301.0,
+            "sequence_number": 7,
+            "station_code": "KHH",
+            "station_name": "KICHHA"
+        },
+        {
+            "arrival_time": "06:43",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 313.0,
+            "sequence_number": 8,
+            "station_code": "PBW",
+            "station_name": "PANTNAGAR"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 319.0,
+            "sequence_number": 9,
+            "station_code": "LKU",
+            "station_name": "LALKUA JN."
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 2,
+            "departure_time": "07:40",
+            "distance_km": 335.0,
+            "sequence_number": 10,
+            "station_code": "HDW",
+            "station_name": "HALDWANI"
+        },
+        {
+            "arrival_time": "08:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 342.0,
+            "sequence_number": 11,
+            "station_code": "KGM",
+            "station_name": "KATHGODAM"
+        }
+    ],
+    "train_name": "LJN KGM EXPRESS",
+    "train_number": "15043",
+    "type": "MAIL EXPRESS"
+}

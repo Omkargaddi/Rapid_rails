@@ -1,0 +1,107 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22418.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "22418-NDLS-BSB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "19:23",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 26.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 167.0,
+            "sequence_number": 3,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": "23:07",
+            "distance_km": 257.0,
+            "sequence_number": 4,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 492.0,
+            "sequence_number": 5,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "04:31",
+            "day_of_journey": 2,
+            "departure_time": "04:33",
+            "distance_km": 581.0,
+            "sequence_number": 6,
+            "station_code": "NHH",
+            "station_name": "NIHALGARH"
+        },
+        {
+            "arrival_time": "05:11",
+            "day_of_journey": 2,
+            "departure_time": "05:13",
+            "distance_km": 632.0,
+            "sequence_number": 7,
+            "station_code": "SLN",
+            "station_name": "SULTANPUR"
+        },
+        {
+            "arrival_time": "06:16",
+            "day_of_journey": 2,
+            "departure_time": "06:18",
+            "distance_km": 718.0,
+            "sequence_number": 8,
+            "station_code": "JOP",
+            "station_name": "JAUNPUR CITY"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 775.0,
+            "sequence_number": 9,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        }
+    ],
+    "train_name": "MAHAMANA EXP",
+    "train_number": "22418",
+    "type": "SUPERFAST"
+}

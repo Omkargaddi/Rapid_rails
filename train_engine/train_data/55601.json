@@ -1,0 +1,165 @@
+{
+    "classes_available": [
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_55601.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": true,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "55601-GHY-LMG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        },
+        {
+            "arrival_time": "17:22",
+            "day_of_journey": 1,
+            "departure_time": "17:23",
+            "distance_km": 14.0,
+            "sequence_number": 2,
+            "station_code": "PHI",
+            "station_name": "PANIKHAITI"
+        },
+        {
+            "arrival_time": "17:46",
+            "day_of_journey": 1,
+            "departure_time": "17:47",
+            "distance_km": 34.0,
+            "sequence_number": 3,
+            "station_code": "DGU",
+            "station_name": "DIGARU"
+        },
+        {
+            "arrival_time": "17:59",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 46.0,
+            "sequence_number": 4,
+            "station_code": "KKET",
+            "station_name": "KAMRUP KHETRI"
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 1,
+            "departure_time": "18:14",
+            "distance_km": 57.0,
+            "sequence_number": 5,
+            "station_code": "JID",
+            "station_name": "JAGI ROAD"
+        },
+        {
+            "arrival_time": "18:41",
+            "day_of_journey": 1,
+            "departure_time": "18:42",
+            "distance_km": 91.0,
+            "sequence_number": 6,
+            "station_code": "CPK",
+            "station_name": "CHAPARMUKH JN"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "18:59",
+            "distance_km": 109.0,
+            "sequence_number": 7,
+            "station_code": "KWM",
+            "station_name": "KAMPUR"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:11",
+            "distance_km": 119.0,
+            "sequence_number": 8,
+            "station_code": "JMK",
+            "station_name": "JAMUNAMUKH"
+        },
+        {
+            "arrival_time": "19:22",
+            "day_of_journey": 1,
+            "departure_time": "19:23",
+            "distance_km": 129.0,
+            "sequence_number": 9,
+            "station_code": "JGJN",
+            "station_name": "JUGIJAN"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:34",
+            "distance_km": 136.0,
+            "sequence_number": 10,
+            "station_code": "HJI",
+            "station_name": "HOJAI"
+        },
+        {
+            "arrival_time": "19:44",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 143.0,
+            "sequence_number": 11,
+            "station_code": "DHRY",
+            "station_name": "DHALPUKHURI"
+        },
+        {
+            "arrival_time": "19:53",
+            "day_of_journey": 1,
+            "departure_time": "19:54",
+            "distance_km": 150.0,
+            "sequence_number": 12,
+            "station_code": "LKA",
+            "station_name": "LANKA"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:01",
+            "distance_km": 156.0,
+            "sequence_number": 13,
+            "station_code": "HWX",
+            "station_name": "HABAIPUR"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 1,
+            "departure_time": "20:21",
+            "distance_km": 166.0,
+            "sequence_number": 14,
+            "station_code": "LKG",
+            "station_name": "LAMSAKHANG"
+        },
+        {
+            "arrival_time": "20:38",
+            "day_of_journey": 1,
+            "departure_time": "20:39",
+            "distance_km": 172.0,
+            "sequence_number": 15,
+            "station_code": "PKB",
+            "station_name": "PATHARKHOLA"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 181.0,
+            "sequence_number": 16,
+            "station_code": "LMG",
+            "station_name": "LUMDING JN"
+        }
+    ],
+    "train_name": "GHY-LMG PASSENGER",
+    "train_number": "55601",
+    "type": "PASSENGER"
+}

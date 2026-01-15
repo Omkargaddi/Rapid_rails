@@ -1,0 +1,223 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16855.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16855-PDY-MAQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PDY",
+            "station_name": "PONDICHERRY"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 1,
+            "departure_time": "17:35",
+            "distance_km": 38.0,
+            "sequence_number": 2,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 92.0,
+            "sequence_number": 3,
+            "station_code": "Point(2)",
+            "station_name": "VRIDDHACHALAM JN VRI Train Reversal"
+        },
+        {
+            "arrival_time": "19:44",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 144.0,
+            "sequence_number": 4,
+            "station_code": "CHSM",
+            "station_name": "CHINNA SALEM"
+        },
+        {
+            "arrival_time": "20:09",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 175.0,
+            "sequence_number": 5,
+            "station_code": "ATU",
+            "station_name": "ATTUR"
+        },
+        {
+            "arrival_time": "22:10",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 231.0,
+            "sequence_number": 6,
+            "station_code": "Point(3)",
+            "station_name": "SALEM JN SA Train Reversal"
+        },
+        {
+            "arrival_time": "23:20",
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 291.0,
+            "sequence_number": 7,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "00:08",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 341.0,
+            "sequence_number": 8,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "00:57",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 391.0,
+            "sequence_number": 9,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "01:19",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 397.0,
+            "sequence_number": 10,
+            "station_code": "PTJ",
+            "station_name": "PODANUR JN"
+        },
+        {
+            "arrival_time": "02:32",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 446.0,
+            "sequence_number": 11,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        },
+        {
+            "arrival_time": "03:25",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 490.0,
+            "sequence_number": 12,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "04:08",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 535.0,
+            "sequence_number": 13,
+            "station_code": "TIR",
+            "station_name": "TIRUR"
+        },
+        {
+            "arrival_time": "04:52",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 576.0,
+            "sequence_number": 14,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "05:29",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 622.0,
+            "sequence_number": 15,
+            "station_code": "BDJ",
+            "station_name": "VADAKARA"
+        },
+        {
+            "arrival_time": "05:39",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 635.0,
+            "sequence_number": 16,
+            "station_code": "MAHE",
+            "station_name": "MAHE"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 644.0,
+            "sequence_number": 17,
+            "station_code": "TLY",
+            "station_name": "THALASSERY"
+        },
+        {
+            "arrival_time": "06:17",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 665.0,
+            "sequence_number": 18,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "06:49",
+            "day_of_journey": 2,
+            "departure_time": "06:50",
+            "distance_km": 699.0,
+            "sequence_number": 19,
+            "station_code": "PAY",
+            "station_name": "PAYYANUR"
+        },
+        {
+            "arrival_time": "07:18",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 728.0,
+            "sequence_number": 20,
+            "station_code": "KZE",
+            "station_name": "KANHANGAD"
+        },
+        {
+            "arrival_time": "07:43",
+            "day_of_journey": 2,
+            "departure_time": "07:45",
+            "distance_km": 751.0,
+            "sequence_number": 21,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 797.0,
+            "sequence_number": 22,
+            "station_code": "MAQ",
+            "station_name": "MANGALORE CENTRAL"
+        }
+    ],
+    "train_name": "PDY MAQ EXPRESS",
+    "train_number": "16855",
+    "type": "MAIL EXPRESS"
+}

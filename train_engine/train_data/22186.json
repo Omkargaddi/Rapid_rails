@@ -1,0 +1,183 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22186.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "22186-PUNE-ADI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "20:48",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 64.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "21:38",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 92.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KJT",
+            "station_name": "KARJAT"
+        },
+        {
+            "arrival_time": "22:22",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 138.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 153.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BIRD",
+            "station_name": "BHIWANDI ROAD"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 180.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "00:43",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 252.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "DRD",
+            "station_name": "DAHANU ROAD"
+        },
+        {
+            "arrival_time": "01:18",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 301.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 327.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "02:43",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 366.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "03:29",
+            "day_of_journey": 2,
+            "departure_time": "03:34",
+            "distance_km": 395.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "04:19",
+            "day_of_journey": 2,
+            "departure_time": "04:21",
+            "distance_km": 454.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "05:21",
+            "day_of_journey": 2,
+            "departure_time": "05:26",
+            "distance_km": 525.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "06:06",
+            "day_of_journey": 2,
+            "departure_time": "06:08",
+            "distance_km": 559.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "06:23",
+            "day_of_journey": 2,
+            "departure_time": "06:25",
+            "distance_km": 577.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 623.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        }
+    ],
+    "train_name": "PUNE ADI SF EXP",
+    "train_number": "22186",
+    "type": "SUPERFAST "
+}

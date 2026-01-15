@@ -1,0 +1,127 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14206.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14206-DLI-AYC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "19:03",
+            "day_of_journey": 1,
+            "departure_time": "19:05",
+            "distance_km": 20.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": "19:42",
+            "distance_km": 57.0,
+            "sequence_number": 3,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 161.0,
+            "sequence_number": 4,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 188.0,
+            "sequence_number": 5,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "23:47",
+            "day_of_journey": 1,
+            "departure_time": "23:49",
+            "distance_km": 251.0,
+            "sequence_number": 6,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "00:54",
+            "day_of_journey": 2,
+            "departure_time": "00:56",
+            "distance_km": 322.0,
+            "sequence_number": 7,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 486.0,
+            "sequence_number": 8,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "04:04",
+            "day_of_journey": 2,
+            "departure_time": "04:06",
+            "distance_km": 515.0,
+            "sequence_number": 9,
+            "station_code": "BBK",
+            "station_name": "BARABANKI JN"
+        },
+        {
+            "arrival_time": "04:39",
+            "day_of_journey": 2,
+            "departure_time": "04:41",
+            "distance_km": 553.0,
+            "sequence_number": 10,
+            "station_code": "DYD",
+            "station_name": "DARYABAD"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 614.0,
+            "sequence_number": 11,
+            "station_code": "AYC",
+            "station_name": "AYODHYA CANTT"
+        }
+    ],
+    "train_name": "AYODHYA EXPRESS",
+    "train_number": "14206",
+    "type": "MAIL EXPRESS"
+}

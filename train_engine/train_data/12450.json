@@ -1,0 +1,171 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12450.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12450-CDG-MAO",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "02:17",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 1,
+            "departure_time": "03:10",
+            "distance_km": 45.0,
+            "sequence_number": 2,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 1,
+            "departure_time": "04:17",
+            "distance_km": 154.0,
+            "sequence_number": 3,
+            "station_code": "PNP",
+            "station_name": "PANIPAT JN"
+        },
+        {
+            "arrival_time": "05:55",
+            "day_of_journey": 1,
+            "departure_time": "06:10",
+            "distance_km": 243.0,
+            "sequence_number": 4,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "06:21",
+            "day_of_journey": 1,
+            "departure_time": "06:23",
+            "distance_km": 251.0,
+            "sequence_number": 5,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "11:10",
+            "day_of_journey": 1,
+            "departure_time": "11:20",
+            "distance_km": 708.0,
+            "sequence_number": 6,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 1,
+            "departure_time": "14:53",
+            "distance_km": 974.0,
+            "sequence_number": 7,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 1232.0,
+            "sequence_number": 8,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "20:06",
+            "day_of_journey": 1,
+            "departure_time": "20:11",
+            "distance_km": 1361.0,
+            "sequence_number": 9,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "22:55",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 1576.0,
+            "sequence_number": 10,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "00:32",
+            "day_of_journey": 2,
+            "departure_time": "00:35",
+            "distance_km": 1642.0,
+            "sequence_number": 11,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 1923.0,
+            "sequence_number": 12,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 2,
+            "departure_time": "08:52",
+            "distance_km": 2105.0,
+            "sequence_number": 13,
+            "station_code": "PERN",
+            "station_name": "PERNEM"
+        },
+        {
+            "arrival_time": "09:04",
+            "day_of_journey": 2,
+            "departure_time": "09:06",
+            "distance_km": 2116.0,
+            "sequence_number": 14,
+            "station_code": "THVM",
+            "station_name": "THIVIM"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": "09:32",
+            "distance_km": 2134.0,
+            "sequence_number": 15,
+            "station_code": "KRMI",
+            "station_name": "KARMALI"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 2162.0,
+            "sequence_number": 16,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        }
+    ],
+    "train_name": "GOA SMPRK KRANT",
+    "train_number": "12450",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,205 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19037.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19037-BDTS-BJU",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 7.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "ADH",
+            "station_name": "ANDHERI"
+        },
+        {
+            "arrival_time": "22:28",
+            "day_of_journey": 1,
+            "departure_time": "22:33",
+            "distance_km": 19.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "23:28",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 88.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BOR",
+            "station_name": "BOISAR"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:12",
+            "distance_km": 157.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 183.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "02:09",
+            "day_of_journey": 2,
+            "departure_time": "02:14",
+            "distance_km": 252.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "02:44",
+            "day_of_journey": 2,
+            "departure_time": "02:46",
+            "distance_km": 301.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "AKV",
+            "station_name": "ANKLESHWAR JN"
+        },
+        {
+            "arrival_time": "03:47",
+            "day_of_journey": 2,
+            "departure_time": "03:57",
+            "distance_km": 381.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "04:37",
+            "day_of_journey": 2,
+            "departure_time": "04:39",
+            "distance_km": 430.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "DRL",
+            "station_name": "DEROL"
+        },
+        {
+            "arrival_time": "05:06",
+            "day_of_journey": 2,
+            "departure_time": "05:08",
+            "distance_km": 453.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "GDA",
+            "station_name": "GODHRA JN"
+        },
+        {
+            "arrival_time": "05:56",
+            "day_of_journey": 2,
+            "departure_time": "05:58",
+            "distance_km": 525.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 3,
+            "departure_time": "18:17",
+            "distance_km": 2105.0,
+            "platform": null,
+            "sequence_number": 82,
+            "station_code": "CAA",
+            "station_name": "CHAKIA"
+        },
+        {
+            "arrival_time": "18:28",
+            "day_of_journey": 3,
+            "departure_time": "18:30",
+            "distance_km": 2113.0,
+            "platform": null,
+            "sequence_number": 83,
+            "station_code": "MAI",
+            "station_name": "MEHSI"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 3,
+            "departure_time": "19:00",
+            "distance_km": 2126.0,
+            "platform": null,
+            "sequence_number": 84,
+            "station_code": "MTR",
+            "station_name": "MOTIPUR"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 3,
+            "departure_time": "20:25",
+            "distance_km": 2153.0,
+            "platform": null,
+            "sequence_number": 85,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 3,
+            "departure_time": "22:00",
+            "distance_km": 2204.0,
+            "platform": null,
+            "sequence_number": 86,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2255.0,
+            "platform": null,
+            "sequence_number": 87,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        }
+    ],
+    "train_name": "AVADH EXP",
+    "train_number": "19037",
+    "type": "MAIL EXPRESS "
+}

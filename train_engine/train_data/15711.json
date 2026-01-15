@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15711.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "15711-HWH-KIR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "22:54",
+            "day_of_journey": 1,
+            "departure_time": "22:56",
+            "distance_km": 39.0,
+            "sequence_number": 2,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "23:38",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 105.0,
+            "sequence_number": 3,
+            "station_code": "NDAE",
+            "station_name": "NABADWIP DHAM"
+        },
+        {
+            "arrival_time": "00:18",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 144.0,
+            "sequence_number": 4,
+            "station_code": "KWAE",
+            "station_name": "KATWA"
+        },
+        {
+            "arrival_time": "01:45",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 217.0,
+            "sequence_number": 5,
+            "station_code": "AZ",
+            "station_name": "AZIMGANJ JN"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 334.0,
+            "sequence_number": 6,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "04:38",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 369.0,
+            "sequence_number": 7,
+            "station_code": "SM",
+            "station_name": "SAMSI"
+        },
+        {
+            "arrival_time": "05:01",
+            "day_of_journey": 2,
+            "departure_time": "05:03",
+            "distance_km": 389.0,
+            "sequence_number": 8,
+            "station_code": "HCR",
+            "station_name": "HARISCHANDRPUR"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:32",
+            "distance_km": 395.0,
+            "sequence_number": 9,
+            "station_code": "KDPR",
+            "station_name": "KUMEDPUR"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 402.0,
+            "sequence_number": 10,
+            "station_code": "LAV",
+            "station_name": "LABHA"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 425.0,
+            "sequence_number": 11,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        }
+    ],
+    "train_name": "HWH KIR EXPRESS",
+    "train_number": "15711",
+    "type": "MAIL EXPRESS"
+}

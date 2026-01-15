@@ -1,0 +1,234 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_21125.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "21125-RTM-BIX",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "17:53",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 47.0,
+            "sequence_number": 2,
+            "station_code": "BNG",
+            "station_name": "BARNAGAR"
+        },
+        {
+            "arrival_time": "18:21",
+            "day_of_journey": 1,
+            "departure_time": "18:23",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "FTD",
+            "station_name": "FATEHABAD CH.JN"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 119.0,
+            "sequence_number": 4,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        },
+        {
+            "arrival_time": "20:28",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 160.0,
+            "sequence_number": 5,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 201.0,
+            "sequence_number": 6,
+            "station_code": "Point(2)",
+            "station_name": "UJJAIN JN UJN Train Reversal"
+        },
+        {
+            "arrival_time": "23:18",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 241.0,
+            "sequence_number": 7,
+            "station_code": "MKC",
+            "station_name": "MAKSI JUNCTION"
+        },
+        {
+            "arrival_time": "00:06",
+            "day_of_journey": 2,
+            "departure_time": "00:08",
+            "distance_km": 297.0,
+            "sequence_number": 8,
+            "station_code": "SFW",
+            "station_name": "SARANGPUR"
+        },
+        {
+            "arrival_time": "00:32",
+            "day_of_journey": 2,
+            "departure_time": "00:34",
+            "distance_km": 328.0,
+            "sequence_number": 9,
+            "station_code": "PFR",
+            "station_name": "PACHOR ROAD"
+        },
+        {
+            "arrival_time": "01:08",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 358.0,
+            "sequence_number": 10,
+            "station_code": "BRRG",
+            "station_name": "BIYAVRA RAJGARH"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:37",
+            "distance_km": 388.0,
+            "sequence_number": 11,
+            "station_code": "CBK",
+            "station_name": "CHACHURA BINAGANI"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 2,
+            "departure_time": "02:22",
+            "distance_km": 435.0,
+            "sequence_number": 12,
+            "station_code": "RTA",
+            "station_name": "RUTHIYAI JUNCTION"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 455.0,
+            "sequence_number": 13,
+            "station_code": "GUNA",
+            "station_name": "GUNA"
+        },
+        {
+            "arrival_time": "03:32",
+            "day_of_journey": 2,
+            "departure_time": "03:34",
+            "distance_km": 487.0,
+            "sequence_number": 14,
+            "station_code": "MINA",
+            "station_name": "MIYANA"
+        },
+        {
+            "arrival_time": "03:56",
+            "day_of_journey": 2,
+            "departure_time": "03:58",
+            "distance_km": 505.0,
+            "sequence_number": 15,
+            "station_code": "BDWS",
+            "station_name": "BADARWAS"
+        },
+        {
+            "arrival_time": "04:13",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 533.0,
+            "sequence_number": 16,
+            "station_code": "KLRS",
+            "station_name": "KOLARAS"
+        },
+        {
+            "arrival_time": "04:33",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 557.0,
+            "sequence_number": 17,
+            "station_code": "SVPI",
+            "station_name": "SHIVPURI"
+        },
+        {
+            "arrival_time": "07:37",
+            "day_of_journey": 2,
+            "departure_time": "07:42",
+            "distance_km": 683.0,
+            "sequence_number": 18,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "07:59",
+            "day_of_journey": 2,
+            "departure_time": "08:01",
+            "distance_km": 701.0,
+            "sequence_number": 19,
+            "station_code": "SAC",
+            "station_name": "SANICHARA"
+        },
+        {
+            "arrival_time": "08:11",
+            "day_of_journey": 2,
+            "departure_time": "08:13",
+            "distance_km": 709.0,
+            "sequence_number": 20,
+            "station_code": "MLAR",
+            "station_name": "MALANPUR"
+        },
+        {
+            "arrival_time": "08:28",
+            "day_of_journey": 2,
+            "departure_time": "08:30",
+            "distance_km": 726.0,
+            "sequence_number": 21,
+            "station_code": "GOA",
+            "station_name": "GOHAD ROAD"
+        },
+        {
+            "arrival_time": "08:54",
+            "day_of_journey": 2,
+            "departure_time": "08:56",
+            "distance_km": 741.0,
+            "sequence_number": 22,
+            "station_code": "SONI",
+            "station_name": "SONI"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 765.0,
+            "sequence_number": 23,
+            "station_code": "BIX",
+            "station_name": "BHIND"
+        }
+    ],
+    "train_name": "RTM BHIND EXP",
+    "train_number": "21125",
+    "type": "MAIL EXPRESS"
+}

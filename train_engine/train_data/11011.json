@@ -1,0 +1,150 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11011.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11011-CSMT-DHI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 1,
+            "departure_time": "12:12",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 1,
+            "departure_time": "12:37",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "12:58",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 53.0,
+            "sequence_number": 4,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 136.0,
+            "sequence_number": 5,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "15:52",
+            "distance_km": 187.0,
+            "sequence_number": 6,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 218.0,
+            "sequence_number": 7,
+            "station_code": "NR",
+            "station_name": "NIPHAD"
+        },
+        {
+            "arrival_time": "16:19",
+            "day_of_journey": 1,
+            "departure_time": "16:20",
+            "distance_km": 235.0,
+            "sequence_number": 8,
+            "station_code": "LS",
+            "station_name": "LASALGAON"
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 260.0,
+            "sequence_number": 9,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "17:26",
+            "day_of_journey": 1,
+            "departure_time": "17:28",
+            "distance_km": 285.0,
+            "sequence_number": 10,
+            "station_code": "NGN",
+            "station_name": "NANDGAON"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 327.0,
+            "sequence_number": 11,
+            "station_code": "CSN",
+            "station_name": "CHALISGAON JN"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:16",
+            "distance_km": 342.0,
+            "sequence_number": 12,
+            "station_code": "JMD",
+            "station_name": "JAMDHA"
+        },
+        {
+            "arrival_time": "19:44",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 363.0,
+            "sequence_number": 13,
+            "station_code": "SHF",
+            "station_name": "SHIRUD"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 384.0,
+            "sequence_number": 14,
+            "station_code": "DHI",
+            "station_name": "DHULE"
+        }
+    ],
+    "train_name": "CSMT DHULE EXP",
+    "train_number": "11011",
+    "type": "MAIL EXPRESS"
+}

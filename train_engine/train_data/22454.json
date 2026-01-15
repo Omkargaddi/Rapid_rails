@@ -1,0 +1,116 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22454.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22454-MTC-LJN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MTC",
+            "station_name": "MEERUT CITY"
+        },
+        {
+            "arrival_time": "07:36",
+            "day_of_journey": 1,
+            "departure_time": "07:38",
+            "distance_km": 29.0,
+            "sequence_number": 2,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 103.0,
+            "sequence_number": 3,
+            "station_code": "AMRO",
+            "station_name": "AMROHA"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 1,
+            "departure_time": "09:45",
+            "distance_km": 133.0,
+            "sequence_number": 4,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "10:13",
+            "day_of_journey": 1,
+            "departure_time": "10:15",
+            "distance_km": 160.0,
+            "sequence_number": 5,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "11:04",
+            "day_of_journey": 1,
+            "departure_time": "11:09",
+            "distance_km": 224.0,
+            "sequence_number": 6,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "12:12",
+            "day_of_journey": 1,
+            "departure_time": "12:14",
+            "distance_km": 294.0,
+            "sequence_number": 7,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 1,
+            "departure_time": "13:02",
+            "distance_km": 357.0,
+            "sequence_number": 8,
+            "station_code": "HRI",
+            "station_name": "HARDOI"
+        },
+        {
+            "arrival_time": "13:29",
+            "day_of_journey": 1,
+            "departure_time": "13:31",
+            "distance_km": 390.0,
+            "sequence_number": 9,
+            "station_code": "BLM",
+            "station_name": "BALAMU JN"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 459.0,
+            "sequence_number": 10,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        }
+    ],
+    "train_name": "MTC LJN SF EXP",
+    "train_number": "22454",
+    "type": "SUPERFAST"
+}

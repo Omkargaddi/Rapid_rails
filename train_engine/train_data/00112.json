@@ -1,0 +1,46 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_00112.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "00112-SGTY-AJNI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SGTY",
+            "station_name": "SANKRAIL GOODS TERMINAL"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 2,
+            "departure_time": "11:10",
+            "distance_km": 704.0,
+            "sequence_number": 2,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1118.0,
+            "sequence_number": 3,
+            "station_code": "AJNI",
+            "station_name": "AJNI"
+        }
+    ],
+    "train_name": "SGTY-AJNI RAPID PARCEL",
+    "train_number": "00112",
+    "type": "PARCEL EXPRESS"
+}

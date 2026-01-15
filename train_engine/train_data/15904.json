@@ -1,0 +1,153 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15904.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "15904-CDG-DBRG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 45.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 126.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "05:33",
+            "day_of_journey": 2,
+            "departure_time": "05:43",
+            "distance_km": 319.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 409.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 2,
+            "departure_time": "11:10",
+            "distance_km": 644.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "13:45",
+            "day_of_journey": 2,
+            "departure_time": "13:55",
+            "distance_km": 761.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 2,
+            "departure_time": "15:13",
+            "distance_km": 850.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 2,
+            "departure_time": "16:55",
+            "distance_km": 915.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 2,
+            "departure_time": "17:55",
+            "distance_km": 965.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "DEOS",
+            "station_name": "DEORIA SADAR"
+        },
+        {
+            "arrival_time": "19:00",
+            "day_of_journey": 2,
+            "departure_time": "19:05",
+            "distance_km": 1034.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "SV",
+            "station_name": "SIWAN JN"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 2,
+            "departure_time": "20:30",
+            "distance_km": 1095.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 4,
+            "departure_time": null,
+            "distance_km": 2643.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "DBRG",
+            "station_name": "DIBRUGARH"
+        }
+    ],
+    "train_name": "CDG DBRG EXP",
+    "train_number": "15904",
+    "type": "MAIL EXPRESS "
+}

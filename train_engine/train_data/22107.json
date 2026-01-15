@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22107.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22107-CSMT-LUR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "21:11",
+            "day_of_journey": 1,
+            "departure_time": "21:13",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "21:33",
+            "day_of_journey": 1,
+            "departure_time": "21:35",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "21:52",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 53.0,
+            "sequence_number": 4,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "22:42",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 100.0,
+            "sequence_number": 5,
+            "station_code": "KJT",
+            "station_name": "KARJAT"
+        },
+        {
+            "arrival_time": "00:30",
+            "day_of_journey": 2,
+            "departure_time": "00:35",
+            "distance_km": 192.0,
+            "sequence_number": 6,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "01:52",
+            "distance_km": 267.0,
+            "sequence_number": 7,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        },
+        {
+            "arrival_time": "03:10",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 376.0,
+            "sequence_number": 8,
+            "station_code": "KWV",
+            "station_name": "KURDUVADI JN."
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:02",
+            "distance_km": 413.0,
+            "sequence_number": 9,
+            "station_code": "BTW",
+            "station_name": "BARSI TOWN"
+        },
+        {
+            "arrival_time": "04:37",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 450.0,
+            "sequence_number": 10,
+            "station_code": "DRSV",
+            "station_name": "DHARASHIV"
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 538.0,
+            "sequence_number": 11,
+            "station_code": "LUR",
+            "station_name": "LATUR"
+        }
+    ],
+    "train_name": "CSMT LATUR EXP",
+    "train_number": "22107",
+    "type": "SUPERFAST"
+}

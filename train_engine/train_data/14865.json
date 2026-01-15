@@ -1,0 +1,143 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14865.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "14865-BCY-JU",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BCY",
+            "station_name": "VARANASI CITY"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 4.0,
+            "sequence_number": 2,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "17:51",
+            "day_of_journey": 1,
+            "departure_time": "17:53",
+            "distance_km": 48.0,
+            "sequence_number": 3,
+            "station_code": "BOY",
+            "station_name": "BHADOHI"
+        },
+        {
+            "arrival_time": "18:22",
+            "day_of_journey": 1,
+            "departure_time": "18:24",
+            "distance_km": 79.0,
+            "sequence_number": 4,
+            "station_code": "JNH",
+            "station_name": "JANGHAI JN"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 132.0,
+            "sequence_number": 5,
+            "station_code": "MBDP",
+            "station_name": "MAA BELHA DEVI DHAM PRATAPGARH"
+        },
+        {
+            "arrival_time": "20:31",
+            "day_of_journey": 1,
+            "departure_time": "20:33",
+            "distance_km": 167.0,
+            "sequence_number": 6,
+            "station_code": "AME",
+            "station_name": "AMETHI"
+        },
+        {
+            "arrival_time": "20:49",
+            "day_of_journey": 1,
+            "departure_time": "20:51",
+            "distance_km": 180.0,
+            "sequence_number": 7,
+            "station_code": "GNG",
+            "station_name": "GAURIGANJ"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 227.0,
+            "sequence_number": 8,
+            "station_code": "RBL",
+            "station_name": "RAE BARELI JN"
+        },
+        {
+            "arrival_time": "00:00",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 305.0,
+            "sequence_number": 9,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 361.0,
+            "sequence_number": 10,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 379.0,
+            "sequence_number": 11,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:07",
+            "distance_km": 518.0,
+            "sequence_number": 12,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "17:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1185.0,
+            "sequence_number": 36,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        }
+    ],
+    "train_name": "MARUDHAR EXP",
+    "train_number": "14865",
+    "type": "MAIL EXPRESS"
+}

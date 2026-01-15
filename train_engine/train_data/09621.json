@@ -1,0 +1,174 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_09621.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "09621-AII-BDTS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:35",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "07:02",
+            "day_of_journey": 1,
+            "departure_time": "07:04",
+            "distance_km": 25.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 134.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 265.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 1,
+            "departure_time": "12:55",
+            "distance_km": 373.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "13:48",
+            "day_of_journey": 1,
+            "departure_time": "13:50",
+            "distance_km": 446.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "RMA",
+            "station_name": "RAMGANJ MANDI"
+        },
+        {
+            "arrival_time": "14:13",
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 474.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BWM",
+            "station_name": "BHAWANI MANDI"
+        },
+        {
+            "arrival_time": "15:28",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 558.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "VMA",
+            "station_name": "VIKRAMGARH ALOT"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 638.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 896.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "23:49",
+            "day_of_journey": 1,
+            "departure_time": "23:54",
+            "distance_km": 1025.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "00:53",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 1094.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:17",
+            "distance_km": 1120.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "03:25",
+            "day_of_journey": 2,
+            "departure_time": "03:28",
+            "distance_km": 1258.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1277.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        }
+    ],
+    "train_name": "AII BDTS SF SPL",
+    "train_number": "09621",
+    "type": "TRAIN ON DEMAND "
+}

@@ -1,0 +1,133 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19413.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "19413-ADI-KOAA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "21:49",
+            "day_of_journey": 1,
+            "departure_time": "21:51",
+            "distance_km": 46.0,
+            "sequence_number": 2,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 95.0,
+            "sequence_number": 4,
+            "station_code": "CYI",
+            "station_name": "CHHAYAPURI"
+        },
+        {
+            "arrival_time": "00:12",
+            "day_of_journey": 2,
+            "departure_time": "00:14",
+            "distance_km": 161.0,
+            "sequence_number": 5,
+            "station_code": "GDA",
+            "station_name": "GODHRA JN"
+        },
+        {
+            "arrival_time": "02:45",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 347.0,
+            "sequence_number": 6,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 3,
+            "departure_time": "08:23",
+            "distance_km": 1789.0,
+            "sequence_number": 24,
+            "station_code": "CRP",
+            "station_name": "CHANDRAPURA"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 3,
+            "departure_time": "08:55",
+            "distance_km": 1810.0,
+            "sequence_number": 25,
+            "station_code": "KTH",
+            "station_name": "KATRASGARH"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 3,
+            "departure_time": "10:25",
+            "distance_km": 1823.0,
+            "sequence_number": 26,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 3,
+            "departure_time": "11:45",
+            "distance_km": 1881.0,
+            "sequence_number": 27,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "12:21",
+            "day_of_journey": 3,
+            "departure_time": "12:23",
+            "distance_km": 1923.0,
+            "sequence_number": 28,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "15:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2085.0,
+            "sequence_number": 29,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        }
+    ],
+    "train_name": "ADI KOLKATA EXP",
+    "train_number": "19413",
+    "type": "MAIL EXPRESS"
+}

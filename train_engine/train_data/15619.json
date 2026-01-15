@@ -1,0 +1,233 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15619.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "15619-GAYA-KYQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "13:21",
+            "day_of_journey": 1,
+            "departure_time": "13:23",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "TIA",
+            "station_name": "TILAYA"
+        },
+        {
+            "arrival_time": "13:39",
+            "day_of_journey": 1,
+            "departure_time": "13:41",
+            "distance_km": 59.0,
+            "sequence_number": 3,
+            "station_code": "NWD",
+            "station_name": "NAWADAH"
+        },
+        {
+            "arrival_time": "13:57",
+            "day_of_journey": 1,
+            "departure_time": "13:59",
+            "distance_km": 77.0,
+            "sequence_number": 4,
+            "station_code": "WRS",
+            "station_name": "WARIS ALEGANJ"
+        },
+        {
+            "arrival_time": "14:26",
+            "day_of_journey": 1,
+            "departure_time": "14:28",
+            "distance_km": 103.0,
+            "sequence_number": 5,
+            "station_code": "SHK",
+            "station_name": "SHEIKPURA"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "15:55",
+            "distance_km": 129.0,
+            "sequence_number": 6,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "16:31",
+            "day_of_journey": 1,
+            "departure_time": "16:33",
+            "distance_km": 152.0,
+            "sequence_number": 7,
+            "station_code": "AHA",
+            "station_name": "ABHAIPUR"
+        },
+        {
+            "arrival_time": "17:07",
+            "day_of_journey": 1,
+            "departure_time": "17:12",
+            "distance_km": 174.0,
+            "sequence_number": 8,
+            "station_code": "JMP",
+            "station_name": "JAMALPUR JN"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 227.0,
+            "sequence_number": 9,
+            "station_code": "BGP",
+            "station_name": "BHAGALPUR"
+        },
+        {
+            "arrival_time": "19:08",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 258.0,
+            "sequence_number": 10,
+            "station_code": "CLG",
+            "station_name": "KAHALGAON"
+        },
+        {
+            "arrival_time": "20:10",
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 301.0,
+            "sequence_number": 11,
+            "station_code": "SBG",
+            "station_name": "SAHIBGANJ JN"
+        },
+        {
+            "arrival_time": "21:30",
+            "day_of_journey": 1,
+            "departure_time": "21:32",
+            "distance_km": 356.0,
+            "sequence_number": 12,
+            "station_code": "BHW",
+            "station_name": "BARHARWA JN"
+        },
+        {
+            "arrival_time": "21:57",
+            "day_of_journey": 1,
+            "departure_time": "21:59",
+            "distance_km": 371.0,
+            "sequence_number": 13,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 405.0,
+            "sequence_number": 14,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "00:28",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 493.0,
+            "sequence_number": 15,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 551.0,
+            "sequence_number": 16,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 638.0,
+            "sequence_number": 17,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 2,
+            "departure_time": "05:15",
+            "distance_km": 764.0,
+            "sequence_number": 18,
+            "station_code": "NCB",
+            "station_name": "NEW COOCH BEHAR"
+        },
+        {
+            "arrival_time": "05:32",
+            "day_of_journey": 2,
+            "departure_time": "05:37",
+            "distance_km": 783.0,
+            "sequence_number": 19,
+            "station_code": "NOQ",
+            "station_name": "NEW ALIPURDUAR"
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 2,
+            "departure_time": "06:32",
+            "distance_km": 861.0,
+            "sequence_number": 20,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 2,
+            "departure_time": "07:35",
+            "distance_km": 892.0,
+            "sequence_number": 21,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 2,
+            "departure_time": "08:12",
+            "distance_km": 944.0,
+            "sequence_number": 22,
+            "station_code": "GLPT",
+            "station_name": "GOALPARA TOWN"
+        },
+        {
+            "arrival_time": "12:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1068.0,
+            "sequence_number": 23,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        }
+    ],
+    "train_name": "GAYA KYQ EXP",
+    "train_number": "15619",
+    "type": "MAIL EXPRESS"
+}

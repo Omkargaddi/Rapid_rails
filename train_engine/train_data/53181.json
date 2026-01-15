@@ -1,0 +1,329 @@
+{
+    "classes_available": [
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_53181.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "53181-SDAH-LGL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        },
+        {
+            "arrival_time": "23:43",
+            "day_of_journey": 1,
+            "departure_time": "23:44",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "DDJ",
+            "station_name": "DUM DUM"
+        },
+        {
+            "arrival_time": "23:59",
+            "day_of_journey": 2,
+            "departure_time": "00:00",
+            "distance_km": 25.0,
+            "sequence_number": 3,
+            "station_code": "BP",
+            "station_name": "BARRACKPORE"
+        },
+        {
+            "arrival_time": "00:21",
+            "day_of_journey": 2,
+            "departure_time": "00:23",
+            "distance_km": 41.0,
+            "sequence_number": 4,
+            "station_code": "NH",
+            "station_name": "NAIHATI JN"
+        },
+        {
+            "arrival_time": "00:27",
+            "day_of_journey": 2,
+            "departure_time": "00:28",
+            "distance_km": 45.0,
+            "sequence_number": 5,
+            "station_code": "HLR",
+            "station_name": "HALISAHAR"
+        },
+        {
+            "arrival_time": "00:32",
+            "day_of_journey": 2,
+            "departure_time": "00:33",
+            "distance_km": 48.0,
+            "sequence_number": 6,
+            "station_code": "KPA",
+            "station_name": "KANCHRAPARA"
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 2,
+            "departure_time": "00:39",
+            "distance_km": 51.0,
+            "sequence_number": 7,
+            "station_code": "KYI",
+            "station_name": "KALYANI"
+        },
+        {
+            "arrival_time": "00:53",
+            "day_of_journey": 2,
+            "departure_time": "00:54",
+            "distance_km": 65.0,
+            "sequence_number": 8,
+            "station_code": "CDH",
+            "station_name": "CHAKDAHA"
+        },
+        {
+            "arrival_time": "01:12",
+            "day_of_journey": 2,
+            "departure_time": "01:14",
+            "distance_km": 76.0,
+            "sequence_number": 9,
+            "station_code": "RHA",
+            "station_name": "RANAGHAT JN"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:21",
+            "distance_km": 80.0,
+            "sequence_number": 10,
+            "station_code": "KLNP",
+            "station_name": "KALINARYNPUR JN"
+        },
+        {
+            "arrival_time": "01:26",
+            "day_of_journey": 2,
+            "departure_time": "01:27",
+            "distance_km": 84.0,
+            "sequence_number": 11,
+            "station_code": "BIJ",
+            "station_name": "BIRNAGAR"
+        },
+        {
+            "arrival_time": "01:32",
+            "day_of_journey": 2,
+            "departure_time": "01:33",
+            "distance_km": 87.0,
+            "sequence_number": 12,
+            "station_code": "THP",
+            "station_name": "TAHERPUR"
+        },
+        {
+            "arrival_time": "01:39",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 92.0,
+            "sequence_number": 13,
+            "station_code": "BDZ",
+            "station_name": "BADKULLA"
+        },
+        {
+            "arrival_time": "02:02",
+            "day_of_journey": 2,
+            "departure_time": "02:07",
+            "distance_km": 102.0,
+            "sequence_number": 14,
+            "station_code": "KNJ",
+            "station_name": "KRISHNGR CTY JN"
+        },
+        {
+            "arrival_time": "02:14",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 109.0,
+            "sequence_number": 15,
+            "station_code": "BPD",
+            "station_name": "BAHADURPUR"
+        },
+        {
+            "arrival_time": "02:21",
+            "day_of_journey": 2,
+            "departure_time": "02:22",
+            "distance_km": 115.0,
+            "sequence_number": 16,
+            "station_code": "DHU",
+            "station_name": "DHUBULIA"
+        },
+        {
+            "arrival_time": "02:28",
+            "day_of_journey": 2,
+            "departure_time": "02:29",
+            "distance_km": 120.0,
+            "sequence_number": 17,
+            "station_code": "MGM",
+            "station_name": "MURAGACHA"
+        },
+        {
+            "arrival_time": "02:38",
+            "day_of_journey": 2,
+            "departure_time": "02:39",
+            "distance_km": 130.0,
+            "sequence_number": 18,
+            "station_code": "BTY",
+            "station_name": "BETHUADAHARI"
+        },
+        {
+            "arrival_time": "02:44",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 135.0,
+            "sequence_number": 19,
+            "station_code": "SVH",
+            "station_name": "SONADANGA"
+        },
+        {
+            "arrival_time": "02:52",
+            "day_of_journey": 2,
+            "departure_time": "02:53",
+            "distance_km": 143.0,
+            "sequence_number": 20,
+            "station_code": "DEB",
+            "station_name": "DEBAGRAM"
+        },
+        {
+            "arrival_time": "02:58",
+            "day_of_journey": 2,
+            "departure_time": "02:59",
+            "distance_km": 147.0,
+            "sequence_number": 21,
+            "station_code": "PCX",
+            "station_name": "PAGLA CHANDI"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:06",
+            "distance_km": 153.0,
+            "sequence_number": 22,
+            "station_code": "PLY",
+            "station_name": "PLASSEY"
+        },
+        {
+            "arrival_time": "03:14",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 162.0,
+            "sequence_number": 23,
+            "station_code": "REJ",
+            "station_name": "REJINAGAR"
+        },
+        {
+            "arrival_time": "03:23",
+            "day_of_journey": 2,
+            "departure_time": "03:24",
+            "distance_km": 171.0,
+            "sequence_number": 24,
+            "station_code": "BEB",
+            "station_name": "BELDANGA"
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 2,
+            "departure_time": "03:31",
+            "distance_km": 177.0,
+            "sequence_number": 25,
+            "station_code": "BFT",
+            "station_name": "BHABTA"
+        },
+        {
+            "arrival_time": "03:36",
+            "day_of_journey": 2,
+            "departure_time": "03:37",
+            "distance_km": 180.0,
+            "sequence_number": 26,
+            "station_code": "SGV",
+            "station_name": "SARAGCHNI"
+        },
+        {
+            "arrival_time": "03:54",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 189.0,
+            "sequence_number": 27,
+            "station_code": "BPC",
+            "station_name": "BERHAMPORE CRT"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:01",
+            "distance_km": 193.0,
+            "sequence_number": 28,
+            "station_code": "CSZ",
+            "station_name": "COSSIMBAZAR"
+        },
+        {
+            "arrival_time": "04:08",
+            "day_of_journey": 2,
+            "departure_time": "04:09",
+            "distance_km": 200.0,
+            "sequence_number": 29,
+            "station_code": "MBB",
+            "station_name": "MURSHIDABAD"
+        },
+        {
+            "arrival_time": "04:16",
+            "day_of_journey": 2,
+            "departure_time": "04:17",
+            "distance_km": 207.0,
+            "sequence_number": 30,
+            "station_code": "JJG",
+            "station_name": "JIAGANJ"
+        },
+        {
+            "arrival_time": "04:27",
+            "day_of_journey": 2,
+            "departure_time": "04:28",
+            "distance_km": 219.0,
+            "sequence_number": 31,
+            "station_code": "BQG",
+            "station_name": "BHAGWANGOLA"
+        },
+        {
+            "arrival_time": "04:33",
+            "day_of_journey": 2,
+            "departure_time": "04:34",
+            "distance_km": 223.0,
+            "sequence_number": 32,
+            "station_code": "PRTL",
+            "station_name": "PIRTALA"
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 2,
+            "departure_time": "04:41",
+            "distance_km": 229.0,
+            "sequence_number": 33,
+            "station_code": "KRP",
+            "station_name": "KRISHNAPUR"
+        },
+        {
+            "arrival_time": "04:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 231.0,
+            "sequence_number": 34,
+            "station_code": "LGL",
+            "station_name": "LALGOLA"
+        }
+    ],
+    "train_name": "SDAH LGL PSGN",
+    "train_number": "53181",
+    "type": "PASSENGER"
+}

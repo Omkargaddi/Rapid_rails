@@ -1,0 +1,99 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12182.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12182-AII-JBP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 1,
+            "departure_time": "15:47",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:22",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 134.0,
+            "sequence_number": 4,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "17:27",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 141.0,
+            "sequence_number": 5,
+            "station_code": "DPA",
+            "station_name": "DURGAPURA"
+        },
+        {
+            "arrival_time": "18:11",
+            "day_of_journey": 1,
+            "departure_time": "18:13",
+            "distance_km": 200.0,
+            "sequence_number": 6,
+            "station_code": "BNLW",
+            "station_name": "BANASTHALI NIWAI"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 983.0,
+            "sequence_number": 24,
+            "station_code": "SHR",
+            "station_name": "SIHORA ROAD"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1021.0,
+            "sequence_number": 25,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        }
+    ],
+    "train_name": "DAYODAI EXP",
+    "train_number": "12182",
+    "type": "SUPERFAST"
+}

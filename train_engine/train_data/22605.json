@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22605.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22605-PRR-TEN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PRR",
+            "station_name": "PURULIA JN."
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 1,
+            "departure_time": "10:50",
+            "distance_km": 39.0,
+            "sequence_number": 2,
+            "station_code": "ADRA",
+            "station_name": "ADRA"
+        },
+        {
+            "arrival_time": "11:28",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 92.0,
+            "sequence_number": 3,
+            "station_code": "BQA",
+            "station_name": "BANKURA"
+        },
+        {
+            "arrival_time": "11:56",
+            "day_of_journey": 1,
+            "departure_time": "11:58",
+            "distance_km": 123.0,
+            "sequence_number": 4,
+            "station_code": "VSU",
+            "station_name": "BISHNUPUR"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 1,
+            "departure_time": "13:07",
+            "distance_km": 195.0,
+            "sequence_number": 5,
+            "station_code": "MDN",
+            "station_name": "MIDNAPORE"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 214.0,
+            "sequence_number": 6,
+            "station_code": "HIJ",
+            "station_name": "HIJLI"
+        },
+        {
+            "arrival_time": "14:24",
+            "day_of_journey": 1,
+            "departure_time": "14:26",
+            "distance_km": 245.0,
+            "sequence_number": 7,
+            "station_code": "BLDA",
+            "station_name": "BELDA"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": "14:52",
+            "distance_km": 278.0,
+            "sequence_number": 8,
+            "station_code": "JER",
+            "station_name": "JALESWAR"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 326.0,
+            "sequence_number": 9,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "17:06",
+            "day_of_journey": 1,
+            "departure_time": "17:08",
+            "distance_km": 428.0,
+            "sequence_number": 10,
+            "station_code": "JJKR",
+            "station_name": "JAJPUR K ROAD"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 500.0,
+            "sequence_number": 11,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 527.0,
+            "sequence_number": 12,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2529.0,
+            "sequence_number": 36,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        }
+    ],
+    "train_name": "PRR TEN SF EXP",
+    "train_number": "22605",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,207 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_10103.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "10103-CSMT-MAO",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "07:22",
+            "day_of_journey": 1,
+            "departure_time": "07:25",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "07:51",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 1,
+            "departure_time": "08:30",
+            "distance_km": 70.0,
+            "sequence_number": 4,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "10:14",
+            "day_of_journey": 1,
+            "departure_time": "10:16",
+            "distance_km": 178.0,
+            "sequence_number": 5,
+            "station_code": "MNI",
+            "station_name": "MANGAON"
+        },
+        {
+            "arrival_time": "11:18",
+            "day_of_journey": 1,
+            "departure_time": "11:20",
+            "distance_km": 246.0,
+            "sequence_number": 6,
+            "station_code": "KHED",
+            "station_name": "KHED"
+        },
+        {
+            "arrival_time": "11:46",
+            "day_of_journey": 1,
+            "departure_time": "11:48",
+            "distance_km": 275.0,
+            "sequence_number": 7,
+            "station_code": "CHI",
+            "station_name": "CHIPLUN"
+        },
+        {
+            "arrival_time": "12:22",
+            "day_of_journey": 1,
+            "departure_time": "12:24",
+            "distance_km": 318.0,
+            "sequence_number": 8,
+            "station_code": "SGR",
+            "station_name": "SANGAMESHWAR ROAD"
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 1,
+            "departure_time": "13:35",
+            "distance_km": 351.0,
+            "sequence_number": 9,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "14:03",
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 383.0,
+            "sequence_number": 10,
+            "station_code": "ADVI",
+            "station_name": "ADAVALI"
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 1,
+            "departure_time": "14:42",
+            "distance_km": 415.0,
+            "sequence_number": 11,
+            "station_code": "RAJP",
+            "station_name": "RAJAPUR ROAD"
+        },
+        {
+            "arrival_time": "14:56",
+            "day_of_journey": 1,
+            "departure_time": "14:58",
+            "distance_km": 432.0,
+            "sequence_number": 12,
+            "station_code": "VBW",
+            "station_name": "VAIBHAVWADI ROAD"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 1,
+            "departure_time": "15:32",
+            "distance_km": 463.0,
+            "sequence_number": 13,
+            "station_code": "KKW",
+            "station_name": "KANKAVLI"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "15:52",
+            "distance_km": 480.0,
+            "sequence_number": 14,
+            "station_code": "SNDD",
+            "station_name": "SINDHUDURG"
+        },
+        {
+            "arrival_time": "16:04",
+            "day_of_journey": 1,
+            "departure_time": "16:06",
+            "distance_km": 491.0,
+            "sequence_number": 15,
+            "station_code": "KUDL",
+            "station_name": "KUDAL"
+        },
+        {
+            "arrival_time": "16:28",
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 512.0,
+            "sequence_number": 16,
+            "station_code": "SWV",
+            "station_name": "SAWANTWADI ROAD"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 1,
+            "departure_time": "17:17",
+            "distance_km": 533.0,
+            "sequence_number": 17,
+            "station_code": "PERN",
+            "station_name": "PERNEM"
+        },
+        {
+            "arrival_time": "17:30",
+            "day_of_journey": 1,
+            "departure_time": "17:32",
+            "distance_km": 544.0,
+            "sequence_number": 18,
+            "station_code": "THVM",
+            "station_name": "THIVIM"
+        },
+        {
+            "arrival_time": "17:54",
+            "day_of_journey": 1,
+            "departure_time": "17:56",
+            "distance_km": 561.0,
+            "sequence_number": 19,
+            "station_code": "KRMI",
+            "station_name": "KARMALI"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 590.0,
+            "sequence_number": 20,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        }
+    ],
+    "train_name": "MANDOVI EXPRESS",
+    "train_number": "10103",
+    "type": "MAIL EXPRESS"
+}

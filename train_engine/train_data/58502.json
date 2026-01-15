@@ -1,0 +1,260 @@
+{
+    "classes_available": [
+        "EV",
+        "SL",
+        "2S",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_58502.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "58502-KRDL-VSKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KRDL",
+            "station_name": "KIRANDUL"
+        },
+        {
+            "arrival_time": "06:14",
+            "day_of_journey": 1,
+            "departure_time": "06:16",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "BCHL",
+            "station_name": "BACHELI"
+        },
+        {
+            "arrival_time": "06:32",
+            "day_of_journey": 1,
+            "departure_time": "06:33",
+            "distance_km": 19.0,
+            "sequence_number": 3,
+            "station_code": "BHNS",
+            "station_name": "BHANSI"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 1,
+            "departure_time": "06:51",
+            "distance_km": 31.0,
+            "sequence_number": 4,
+            "station_code": "KMLR",
+            "station_name": "KAMALUR"
+        },
+        {
+            "arrival_time": "07:08",
+            "day_of_journey": 1,
+            "departure_time": "07:09",
+            "distance_km": 43.0,
+            "sequence_number": 5,
+            "station_code": "DWZ",
+            "station_name": "DANTE WARA"
+        },
+        {
+            "arrival_time": "07:21",
+            "day_of_journey": 1,
+            "departure_time": "07:22",
+            "distance_km": 51.0,
+            "sequence_number": 6,
+            "station_code": "GIZ",
+            "station_name": "GIDAM"
+        },
+        {
+            "arrival_time": "07:36",
+            "day_of_journey": 1,
+            "departure_time": "07:37",
+            "distance_km": 62.0,
+            "sequence_number": 7,
+            "station_code": "DBF",
+            "station_name": "DABPAL"
+        },
+        {
+            "arrival_time": "07:49",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 71.0,
+            "sequence_number": 8,
+            "station_code": "KWGN",
+            "station_name": "KAWARGAON"
+        },
+        {
+            "arrival_time": "08:06",
+            "day_of_journey": 1,
+            "departure_time": "08:07",
+            "distance_km": 83.0,
+            "sequence_number": 9,
+            "station_code": "KKLU",
+            "station_name": "KAKLUR"
+        },
+        {
+            "arrival_time": "08:22",
+            "day_of_journey": 1,
+            "departure_time": "08:23",
+            "distance_km": 95.0,
+            "sequence_number": 10,
+            "station_code": "KMSD",
+            "station_name": "KUMAR SADRA"
+        },
+        {
+            "arrival_time": "08:37",
+            "day_of_journey": 1,
+            "departure_time": "08:38",
+            "distance_km": 104.0,
+            "sequence_number": 11,
+            "station_code": "SZY",
+            "station_name": "SILAK JHORI"
+        },
+        {
+            "arrival_time": "08:56",
+            "day_of_journey": 1,
+            "departure_time": "08:57",
+            "distance_km": 116.0,
+            "sequence_number": 12,
+            "station_code": "DMK",
+            "station_name": "DILMILI"
+        },
+        {
+            "arrival_time": "15:11",
+            "day_of_journey": 1,
+            "departure_time": "15:12",
+            "distance_km": 331.0,
+            "sequence_number": 36,
+            "station_code": "GPJ",
+            "station_name": "GORAPUR"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 341.0,
+            "sequence_number": 37,
+            "station_code": "ARK",
+            "station_name": "ARAKU"
+        },
+        {
+            "arrival_time": "16:03",
+            "day_of_journey": 1,
+            "departure_time": "16:04",
+            "distance_km": 352.0,
+            "sequence_number": 38,
+            "station_code": "SMLG",
+            "station_name": "SHIMILI GUDA"
+        },
+        {
+            "arrival_time": "16:23",
+            "day_of_journey": 1,
+            "departure_time": "16:24",
+            "distance_km": 361.0,
+            "sequence_number": 39,
+            "station_code": "KVLS",
+            "station_name": "KARAKAVALASA"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 373.0,
+            "sequence_number": 40,
+            "station_code": "BGHU",
+            "station_name": "BORRAGUHALLU"
+        },
+        {
+            "arrival_time": "17:04",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 382.0,
+            "sequence_number": 41,
+            "station_code": "CMDP",
+            "station_name": "CHIMIDIPALLI"
+        },
+        {
+            "arrival_time": "18:04",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 412.0,
+            "sequence_number": 42,
+            "station_code": "BDVR",
+            "station_name": "BODDAVARA"
+        },
+        {
+            "arrival_time": "18:23",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 420.0,
+            "sequence_number": 43,
+            "station_code": "SUP",
+            "station_name": "SHRUNGAVARPUKTA"
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": "18:48",
+            "distance_km": 437.0,
+            "sequence_number": 44,
+            "station_code": "MVW",
+            "station_name": "MALLIVIDU"
+        },
+        {
+            "arrival_time": "19:08",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 446.0,
+            "sequence_number": 45,
+            "station_code": "KTV",
+            "station_name": "KOTTAVALASA"
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 1,
+            "departure_time": "19:19",
+            "distance_km": 455.0,
+            "sequence_number": 46,
+            "station_code": "PDT",
+            "station_name": "PENDURTI"
+        },
+        {
+            "arrival_time": "19:31",
+            "day_of_journey": 1,
+            "departure_time": "19:33",
+            "distance_km": 464.0,
+            "sequence_number": 47,
+            "station_code": "SCM",
+            "station_name": "SIMHACHALAM"
+        },
+        {
+            "arrival_time": "19:39",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 467.0,
+            "sequence_number": 48,
+            "station_code": "MIPM",
+            "station_name": "MARRI PALEM HALT"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 472.0,
+            "sequence_number": 49,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        }
+    ],
+    "train_name": "KRDL VSKP PGRSP",
+    "train_number": "58502",
+    "type": "PASSENGER"
+}

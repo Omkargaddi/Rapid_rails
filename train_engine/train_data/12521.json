@@ -1,0 +1,153 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12521.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12521-BJU-ERS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 51.0,
+            "sequence_number": 2,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "00:35",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 103.0,
+            "sequence_number": 3,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "01:30",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 157.0,
+            "sequence_number": 4,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 162.0,
+            "sequence_number": 5,
+            "station_code": "SEE",
+            "station_name": "SONPUR JN"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 216.0,
+            "sequence_number": 6,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 276.0,
+            "sequence_number": 7,
+            "station_code": "SV",
+            "station_name": "SIWAN JN"
+        },
+        {
+            "arrival_time": "04:38",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 325.0,
+            "sequence_number": 8,
+            "station_code": "BTT",
+            "station_name": "BHATNI JN"
+        },
+        {
+            "arrival_time": "05:02",
+            "day_of_journey": 2,
+            "departure_time": "05:04",
+            "distance_km": 346.0,
+            "sequence_number": 9,
+            "station_code": "DEOS",
+            "station_name": "DEORIA SADAR"
+        },
+        {
+            "arrival_time": "06:23",
+            "day_of_journey": 2,
+            "departure_time": "06:33",
+            "distance_km": 396.0,
+            "sequence_number": 10,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "07:09",
+            "day_of_journey": 2,
+            "departure_time": "07:11",
+            "distance_km": 431.0,
+            "sequence_number": 11,
+            "station_code": "KLD",
+            "station_name": "KHALILABAD"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 2,
+            "departure_time": "07:37",
+            "distance_km": 461.0,
+            "sequence_number": 12,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 4,
+            "departure_time": "10:40",
+            "distance_km": 3439.0,
+            "sequence_number": 59,
+            "station_code": "ERN",
+            "station_name": "ERNAKULAM TOWN"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 4,
+            "departure_time": null,
+            "distance_km": 3442.0,
+            "sequence_number": 60,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        }
+    ],
+    "train_name": "RAPTI SAGAR EXP",
+    "train_number": "12521",
+    "type": "SUPERFAST"
+}

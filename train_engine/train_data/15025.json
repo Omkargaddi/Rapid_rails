@@ -1,0 +1,126 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15025.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "15025-MAU-ANVT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAU",
+            "station_name": "MAU JN"
+        },
+        {
+            "arrival_time": "11:31",
+            "day_of_journey": 1,
+            "departure_time": "11:33",
+            "distance_km": 22.0,
+            "sequence_number": 2,
+            "station_code": "MMA",
+            "station_name": "MUHAMMADABAD"
+        },
+        {
+            "arrival_time": "12:00",
+            "day_of_journey": 1,
+            "departure_time": "12:05",
+            "distance_km": 43.0,
+            "sequence_number": 3,
+            "station_code": "AMH",
+            "station_name": "AZAMGARH"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 100.0,
+            "sequence_number": 4,
+            "station_code": "SHG",
+            "station_name": "SHAHGANJ JN"
+        },
+        {
+            "arrival_time": "14:18",
+            "day_of_journey": 1,
+            "departure_time": "14:20",
+            "distance_km": 144.0,
+            "sequence_number": 5,
+            "station_code": "ABP",
+            "station_name": "AKBARPUR"
+        },
+        {
+            "arrival_time": "15:35",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 205.0,
+            "sequence_number": 6,
+            "station_code": "AYC",
+            "station_name": "AYODHYA CANTT"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 332.0,
+            "sequence_number": 7,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "20:35",
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 406.0,
+            "sequence_number": 8,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "00:30",
+            "day_of_journey": 2,
+            "departure_time": "00:32",
+            "distance_km": 715.0,
+            "sequence_number": 9,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "02:23",
+            "day_of_journey": 2,
+            "departure_time": "02:25",
+            "distance_km": 821.0,
+            "sequence_number": 10,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 834.0,
+            "sequence_number": 11,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        }
+    ],
+    "train_name": "MAU ANVT EXP",
+    "train_number": "15025",
+    "type": "MAIL EXPRESS"
+}

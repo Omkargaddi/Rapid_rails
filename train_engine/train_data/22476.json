@@ -1,0 +1,203 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22476.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22476-CBE-HSR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "16:05",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 55.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        },
+        {
+            "arrival_time": "17:02",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 98.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "18:22",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 185.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "19:47",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 274.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 407.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "MAJN",
+            "station_name": "MANGALORE JUNCTION"
+        },
+        {
+            "arrival_time": "23:36",
+            "day_of_journey": 1,
+            "departure_time": "23:38",
+            "distance_km": 473.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "UD",
+            "station_name": "UDUPI"
+        },
+        {
+            "arrival_time": "00:24",
+            "day_of_journey": 2,
+            "departure_time": "00:26",
+            "distance_km": 554.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BTJL",
+            "station_name": "BHATKAL"
+        },
+        {
+            "arrival_time": "01:46",
+            "day_of_journey": 2,
+            "departure_time": "01:48",
+            "distance_km": 608.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "KT",
+            "station_name": "KUMTA"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:02",
+            "distance_km": 663.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "KAWR",
+            "station_name": "KARWAR"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 722.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        },
+        {
+            "arrival_time": "04:46",
+            "day_of_journey": 2,
+            "departure_time": "04:48",
+            "distance_km": 768.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "THVM",
+            "station_name": "THIVIM"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 3,
+            "departure_time": "10:50",
+            "distance_km": 2482.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "BKN",
+            "station_name": "BIKANER JN"
+        },
+        {
+            "arrival_time": "11:42",
+            "day_of_journey": 3,
+            "departure_time": "11:44",
+            "distance_km": 2556.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "SDGH",
+            "station_name": "SRI DUNGARGARH"
+        },
+        {
+            "arrival_time": "12:45",
+            "day_of_journey": 3,
+            "departure_time": "12:50",
+            "distance_km": 2619.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "RTGH",
+            "station_name": "RATANGARH JN"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 3,
+            "departure_time": "13:35",
+            "distance_km": 2662.0,
+            "platform": null,
+            "sequence_number": 39,
+            "station_code": "CUR",
+            "station_name": "CHURU"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 3,
+            "departure_time": "14:25",
+            "distance_km": 2720.0,
+            "platform": null,
+            "sequence_number": 40,
+            "station_code": "SDLP",
+            "station_name": "SADULPUR JN"
+        },
+        {
+            "arrival_time": "16:05",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2790.0,
+            "platform": null,
+            "sequence_number": 41,
+            "station_code": "HSR",
+            "station_name": "HISAR"
+        }
+    ],
+    "train_name": "CBE HSR AC EXP",
+    "train_number": "22476",
+    "type": "SUPERFAST "
+}

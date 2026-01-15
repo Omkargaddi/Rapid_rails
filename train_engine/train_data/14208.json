@@ -1,0 +1,190 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14208.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14208-DLI-MBDP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:32",
+            "distance_km": 20.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "20:59",
+            "day_of_journey": 1,
+            "departure_time": "21:01",
+            "distance_km": 46.0,
+            "sequence_number": 3,
+            "station_code": "PKW",
+            "station_name": "PILKHUA"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 57.0,
+            "sequence_number": 4,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "22:18",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 130.0,
+            "sequence_number": 5,
+            "station_code": "AMRO",
+            "station_name": "AMROHA"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 161.0,
+            "sequence_number": 6,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "23:38",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 188.0,
+            "sequence_number": 7,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "00:29",
+            "day_of_journey": 2,
+            "departure_time": "00:34",
+            "distance_km": 251.0,
+            "sequence_number": 8,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "01:39",
+            "day_of_journey": 2,
+            "departure_time": "01:41",
+            "distance_km": 322.0,
+            "sequence_number": 9,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "02:27",
+            "day_of_journey": 2,
+            "departure_time": "02:29",
+            "distance_km": 385.0,
+            "sequence_number": 10,
+            "station_code": "HRI",
+            "station_name": "HARDOI"
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 486.0,
+            "sequence_number": 11,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "05:38",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 534.0,
+            "sequence_number": 12,
+            "station_code": "BCN",
+            "station_name": "BACHHRAWAN"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 2,
+            "departure_time": "06:15",
+            "distance_km": 564.0,
+            "sequence_number": 13,
+            "station_code": "RBL",
+            "station_name": "RAE BARELI JN"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 2,
+            "departure_time": "06:40",
+            "distance_km": 593.0,
+            "sequence_number": 14,
+            "station_code": "JAIS",
+            "station_name": "JAIS"
+        },
+        {
+            "arrival_time": "06:56",
+            "day_of_journey": 2,
+            "departure_time": "06:58",
+            "distance_km": 611.0,
+            "sequence_number": 15,
+            "station_code": "GNG",
+            "station_name": "GAURIGANJ"
+        },
+        {
+            "arrival_time": "07:11",
+            "day_of_journey": 2,
+            "departure_time": "07:13",
+            "distance_km": 624.0,
+            "sequence_number": 16,
+            "station_code": "AME",
+            "station_name": "AMETHI"
+        },
+        {
+            "arrival_time": "07:31",
+            "day_of_journey": 2,
+            "departure_time": "07:32",
+            "distance_km": 639.0,
+            "sequence_number": 17,
+            "station_code": "MCDA",
+            "station_name": "MAA CHANDIKA DEVI DHAM ANTU"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 659.0,
+            "sequence_number": 18,
+            "station_code": "MBDP",
+            "station_name": "MAA BELHA DEVI DHAM PRATAPGARH"
+        }
+    ],
+    "train_name": "PADMAVAT EXP",
+    "train_number": "14208",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13104.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13104-LGL-SDAH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "LGL",
+            "station_name": "LALGOLA"
+        },
+        {
+            "arrival_time": "06:02",
+            "day_of_journey": 1,
+            "departure_time": "06:03",
+            "distance_km": 12.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BQG",
+            "station_name": "BHAGWANGOLA"
+        },
+        {
+            "arrival_time": "06:12",
+            "day_of_journey": 1,
+            "departure_time": "06:13",
+            "distance_km": 24.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "JJG",
+            "station_name": "JIAGANJ"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 1,
+            "departure_time": "06:21",
+            "distance_km": 31.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "MBB",
+            "station_name": "MURSHIDABAD"
+        },
+        {
+            "arrival_time": "06:27",
+            "day_of_journey": 1,
+            "departure_time": "06:28",
+            "distance_km": 38.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "CSZ",
+            "station_name": "COSSIMBAZAR"
+        },
+        {
+            "arrival_time": "06:36",
+            "day_of_journey": 1,
+            "departure_time": "06:38",
+            "distance_km": 42.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BPC",
+            "station_name": "BERHAMPORE CRT"
+        },
+        {
+            "arrival_time": "06:51",
+            "day_of_journey": 1,
+            "departure_time": "06:52",
+            "distance_km": 60.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BEB",
+            "station_name": "BELDANGA"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 1,
+            "departure_time": "07:01",
+            "distance_km": 69.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "REJ",
+            "station_name": "REJINAGAR"
+        },
+        {
+            "arrival_time": "07:09",
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 78.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "PLY",
+            "station_name": "PLASSEY"
+        },
+        {
+            "arrival_time": "07:19",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 88.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "DEB",
+            "station_name": "DEBAGRAM"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 1,
+            "departure_time": "07:31",
+            "distance_km": 100.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "BTY",
+            "station_name": "BETHUADAHARI"
+        },
+        {
+            "arrival_time": "08:02",
+            "day_of_journey": 1,
+            "departure_time": "08:04",
+            "distance_km": 129.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "KNJ",
+            "station_name": "KRISHNGR CTY JN"
+        },
+        {
+            "arrival_time": "08:34",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 155.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "RHA",
+            "station_name": "RANAGHAT JN"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 231.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        }
+    ],
+    "train_name": "BHAGIRATHI EXP",
+    "train_number": "13104",
+    "type": "MAIL EXPRESS "
+}

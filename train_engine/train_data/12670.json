@@ -1,0 +1,234 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12670.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12670-CPR-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 65.0,
+            "sequence_number": 2,
+            "station_code": "BUI",
+            "station_name": "BALLIA"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 130.0,
+            "sequence_number": 3,
+            "station_code": "GCT",
+            "station_name": "GHAZIPUR CITY"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 205.0,
+            "sequence_number": 4,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "01:56",
+            "day_of_journey": 2,
+            "departure_time": "01:58",
+            "distance_km": 250.0,
+            "sequence_number": 5,
+            "station_code": "BOY",
+            "station_name": "BHADOHI"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 340.0,
+            "sequence_number": 6,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 518.0,
+            "sequence_number": 7,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "08:15",
+            "day_of_journey": 2,
+            "departure_time": "08:20",
+            "distance_km": 617.0,
+            "sequence_number": 8,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 2,
+            "departure_time": "10:10",
+            "distance_km": 707.0,
+            "sequence_number": 9,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 2,
+            "departure_time": "12:00",
+            "distance_km": 885.0,
+            "sequence_number": 10,
+            "station_code": "PPI",
+            "station_name": "PIPARIYA"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 2,
+            "departure_time": "13:35",
+            "distance_km": 952.0,
+            "sequence_number": 11,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "15:08",
+            "day_of_journey": 2,
+            "departure_time": "15:10",
+            "distance_km": 1059.0,
+            "sequence_number": 12,
+            "station_code": "BZU",
+            "station_name": "BETUL"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 2,
+            "departure_time": "18:20",
+            "distance_km": 1248.0,
+            "sequence_number": 13,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 2,
+            "departure_time": "19:20",
+            "distance_km": 1324.0,
+            "sequence_number": 14,
+            "station_code": "SEGM",
+            "station_name": "SEVAGRAM"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 2,
+            "departure_time": "21:07",
+            "distance_km": 1443.0,
+            "sequence_number": 15,
+            "station_code": "CD",
+            "station_name": "CHANDRAPUR"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 2,
+            "departure_time": "22:10",
+            "distance_km": 1457.0,
+            "sequence_number": 16,
+            "station_code": "BPQ",
+            "station_name": "BALHARSHAH"
+        },
+        {
+            "arrival_time": "22:59",
+            "day_of_journey": 2,
+            "departure_time": "23:00",
+            "distance_km": 1526.0,
+            "sequence_number": 17,
+            "station_code": "SKZR",
+            "station_name": "SIRPUR KAGHAZNAGAR"
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 3,
+            "departure_time": "01:25",
+            "distance_km": 1702.0,
+            "sequence_number": 18,
+            "station_code": "WL",
+            "station_name": "WARANGAL"
+        },
+        {
+            "arrival_time": "03:04",
+            "day_of_journey": 3,
+            "departure_time": "03:05",
+            "distance_km": 1811.0,
+            "sequence_number": 19,
+            "station_code": "KMT",
+            "station_name": "KHAMMAM"
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 3,
+            "departure_time": "05:20",
+            "distance_km": 1912.0,
+            "sequence_number": 20,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "07:23",
+            "day_of_journey": 3,
+            "departure_time": "07:25",
+            "distance_km": 2050.0,
+            "sequence_number": 21,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "09:43",
+            "day_of_journey": 3,
+            "departure_time": "09:45",
+            "distance_km": 2204.0,
+            "sequence_number": 22,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2342.0,
+            "sequence_number": 23,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "CPR-MAS GANGA KAVERI SF",
+    "train_number": "12670",
+    "type": "SUPERFAST"
+}

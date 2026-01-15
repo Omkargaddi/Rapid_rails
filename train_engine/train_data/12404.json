@@ -1,0 +1,315 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12404.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12404-LGH-SFG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LGH",
+            "station_name": "LALGARH JN"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 4.0,
+            "sequence_number": 2,
+            "station_code": "BKN",
+            "station_name": "BIKANER JN"
+        },
+        {
+            "arrival_time": "08:31",
+            "day_of_journey": 1,
+            "departure_time": "08:33",
+            "distance_km": 31.0,
+            "sequence_number": 3,
+            "station_code": "NPS",
+            "station_name": "NAPASAR"
+        },
+        {
+            "arrival_time": "08:52",
+            "day_of_journey": 1,
+            "departure_time": "08:54",
+            "distance_km": 53.0,
+            "sequence_number": 4,
+            "station_code": "SDF",
+            "station_name": "SUDSAR"
+        },
+        {
+            "arrival_time": "09:12",
+            "day_of_journey": 1,
+            "departure_time": "09:14",
+            "distance_km": 77.0,
+            "sequence_number": 5,
+            "station_code": "SDGH",
+            "station_name": "SRI DUNGARGARH"
+        },
+        {
+            "arrival_time": "09:49",
+            "day_of_journey": 1,
+            "departure_time": "09:51",
+            "distance_km": 124.0,
+            "sequence_number": 6,
+            "station_code": "RJR",
+            "station_name": "RAJALDESAR"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 141.0,
+            "sequence_number": 7,
+            "station_code": "RTGH",
+            "station_name": "RATANGARH JN"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:10",
+            "distance_km": 184.0,
+            "sequence_number": 8,
+            "station_code": "CUR",
+            "station_name": "CHURU"
+        },
+        {
+            "arrival_time": "11:47",
+            "day_of_journey": 1,
+            "departure_time": "11:49",
+            "distance_km": 227.0,
+            "sequence_number": 9,
+            "station_code": "FPS",
+            "station_name": "FATEHPUR-SHEKHAWATI"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 274.0,
+            "sequence_number": 10,
+            "station_code": "SIKR",
+            "station_name": "SIKAR JN"
+        },
+        {
+            "arrival_time": "13:10",
+            "day_of_journey": 1,
+            "departure_time": "13:13",
+            "distance_km": 324.0,
+            "sequence_number": 11,
+            "station_code": "RGS",
+            "station_name": "RINGAS JN"
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 382.0,
+            "sequence_number": 12,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "14:56",
+            "day_of_journey": 1,
+            "departure_time": "14:59",
+            "distance_km": 387.0,
+            "sequence_number": 13,
+            "station_code": "GADJ",
+            "station_name": "GANDHINAGAR JAIPUR"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 1,
+            "departure_time": "15:12",
+            "distance_km": 398.0,
+            "sequence_number": 14,
+            "station_code": "KWP",
+            "station_name": "KHATIPURA"
+        },
+        {
+            "arrival_time": "15:41",
+            "day_of_journey": 1,
+            "departure_time": "15:43",
+            "distance_km": 443.0,
+            "sequence_number": 15,
+            "station_code": "DO",
+            "station_name": "DAUSA JUNCTION"
+        },
+        {
+            "arrival_time": "16:05",
+            "day_of_journey": 1,
+            "departure_time": "16:07",
+            "distance_km": 472.0,
+            "sequence_number": 16,
+            "station_code": "BKI",
+            "station_name": "BANDIKUI JN"
+        },
+        {
+            "arrival_time": "16:28",
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 496.0,
+            "sequence_number": 17,
+            "station_code": "RHG",
+            "station_name": "RAJGARH"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 1,
+            "departure_time": "17:23",
+            "distance_km": 532.0,
+            "sequence_number": 18,
+            "station_code": "AWR",
+            "station_name": "ALWAR JUNCTION"
+        },
+        {
+            "arrival_time": "18:08",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 558.0,
+            "sequence_number": 19,
+            "station_code": "RAH",
+            "station_name": "RAMGARH"
+        },
+        {
+            "arrival_time": "18:19",
+            "day_of_journey": 1,
+            "departure_time": "18:21",
+            "distance_km": 578.0,
+            "sequence_number": 20,
+            "station_code": "GVH",
+            "station_name": "GOVIND GARH"
+        },
+        {
+            "arrival_time": "18:27",
+            "day_of_journey": 1,
+            "departure_time": "18:29",
+            "distance_km": 590.0,
+            "sequence_number": 21,
+            "station_code": "BINR",
+            "station_name": "BRIJ NAGAR"
+        },
+        {
+            "arrival_time": "18:49",
+            "day_of_journey": 1,
+            "departure_time": "18:51",
+            "distance_km": 614.0,
+            "sequence_number": 22,
+            "station_code": "DEEG",
+            "station_name": "DEEG"
+        },
+        {
+            "arrival_time": "19:06",
+            "day_of_journey": 1,
+            "departure_time": "19:08",
+            "distance_km": 630.0,
+            "sequence_number": 23,
+            "station_code": "GDO",
+            "station_name": "GOVERDHAN"
+        },
+        {
+            "arrival_time": "19:50",
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 655.0,
+            "sequence_number": 24,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 709.0,
+            "sequence_number": 25,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "21:51",
+            "day_of_journey": 1,
+            "departure_time": "21:53",
+            "distance_km": 755.0,
+            "sequence_number": 26,
+            "station_code": "FAB",
+            "station_name": "FATEHABAD"
+        },
+        {
+            "arrival_time": "22:28",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 795.0,
+            "sequence_number": 27,
+            "station_code": "HAB",
+            "station_name": "BAH"
+        },
+        {
+            "arrival_time": "23:33",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 845.0,
+            "sequence_number": 28,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "00:29",
+            "day_of_journey": 2,
+            "departure_time": "00:31",
+            "distance_km": 922.0,
+            "sequence_number": 29,
+            "station_code": "JJK",
+            "station_name": "JHINJHAK"
+        },
+        {
+            "arrival_time": "01:30",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 985.0,
+            "sequence_number": 30,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "02:40",
+            "day_of_journey": 2,
+            "departure_time": "02:42",
+            "distance_km": 1062.0,
+            "sequence_number": 31,
+            "station_code": "FTP",
+            "station_name": "FATEHPUR"
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1175.0,
+            "sequence_number": 32,
+            "station_code": "SFG",
+            "station_name": "SUBEDARGANJ"
+        }
+    ],
+    "train_name": "LGH PRYJ SF EXP",
+    "train_number": "12404",
+    "type": "SUPERFAST"
+}

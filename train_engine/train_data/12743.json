@@ -1,0 +1,106 @@
+{
+    "classes_available": [
+        "3E",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12743.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12743-GDR-BZA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "06:23",
+            "day_of_journey": 1,
+            "departure_time": "06:25",
+            "distance_km": 38.0,
+            "sequence_number": 2,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 89.0,
+            "sequence_number": 3,
+            "station_code": "KVZ",
+            "station_name": "KAVALI"
+        },
+        {
+            "arrival_time": "07:23",
+            "day_of_journey": 1,
+            "departure_time": "07:25",
+            "distance_km": 126.0,
+            "sequence_number": 4,
+            "station_code": "SKM",
+            "station_name": "SINGARAYAKONDA"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 154.0,
+            "sequence_number": 5,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 204.0,
+            "sequence_number": 6,
+            "station_code": "CLX",
+            "station_name": "CHIRALA"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 1,
+            "departure_time": "08:55",
+            "distance_km": 219.0,
+            "sequence_number": 7,
+            "station_code": "BPP",
+            "station_name": "BAPATLA"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 1,
+            "departure_time": "09:40",
+            "distance_km": 261.0,
+            "sequence_number": 8,
+            "station_code": "TEL",
+            "station_name": "TENALI JN"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 293.0,
+            "sequence_number": 9,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        }
+    ],
+    "train_name": "VIKRAMSIMHAPURI",
+    "train_number": "12743",
+    "type": "SUPERFAST"
+}

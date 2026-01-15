@@ -1,0 +1,184 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18422.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "18422-SNPU-PURI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "SNPU",
+            "station_name": "SONEPUR"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:12",
+            "distance_km": 11.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "NSGR",
+            "station_name": "NARASINGHGARH"
+        },
+        {
+            "arrival_time": "19:22",
+            "day_of_journey": 1,
+            "departure_time": "19:24",
+            "distance_km": 22.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "JRTB",
+            "station_name": "झारतरभा"
+        },
+        {
+            "arrival_time": "19:35",
+            "day_of_journey": 1,
+            "departure_time": "19:37",
+            "distance_km": 32.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BHPI",
+            "station_name": "BICHHUPALI"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 47.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BLGR",
+            "station_name": "BALANGIR"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 123.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BRGA",
+            "station_name": "BARGARH ROAD"
+        },
+        {
+            "arrival_time": "22:45",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 165.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SBP",
+            "station_name": "SAMBALPUR JN."
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:12",
+            "distance_km": 236.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "RAIR",
+            "station_name": "RAIKAKHOL"
+        },
+        {
+            "arrival_time": "01:08",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 283.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BONA",
+            "station_name": "BOINDA"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:02",
+            "distance_km": 321.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "ANGL",
+            "station_name": "ANGUL"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 340.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "Point(2)",
+            "station_name": "TALCHER TLHR Train Reversal"
+        },
+        {
+            "arrival_time": "03:35",
+            "day_of_journey": 2,
+            "departure_time": "03:37",
+            "distance_km": 394.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "DNKL",
+            "station_name": "DHENKANAL"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": "04:17",
+            "distance_km": 431.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "NQR",
+            "station_name": "NARAJ MARATHAPUR"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 456.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 475.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 519.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        }
+    ],
+    "train_name": "SONEPUR PURI EXP",
+    "train_number": "18422",
+    "type": "MAIL EXPRESS "
+}

@@ -1,0 +1,224 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12728.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12728-HYB-VSKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HYB",
+            "station_name": "HYDERABAD"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "17:44",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 23.0,
+            "sequence_number": 3,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        },
+        {
+            "arrival_time": "19:13",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 142.0,
+            "sequence_number": 4,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 153.0,
+            "sequence_number": 5,
+            "station_code": "WL",
+            "station_name": "WARANGAL"
+        },
+        {
+            "arrival_time": "20:19",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 215.0,
+            "sequence_number": 6,
+            "station_code": "MABD",
+            "station_name": "MAHBUBABAD"
+        },
+        {
+            "arrival_time": "20:49",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 262.0,
+            "sequence_number": 7,
+            "station_code": "KMT",
+            "station_name": "KHAMMAM"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 363.0,
+            "sequence_number": 8,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "23:44",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 422.0,
+            "sequence_number": 9,
+            "station_code": "EE",
+            "station_name": "ELURU"
+        },
+        {
+            "arrival_time": "00:24",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 470.0,
+            "sequence_number": 10,
+            "station_code": "TDD",
+            "station_name": "TADEPALLIGUDEM"
+        },
+        {
+            "arrival_time": "00:44",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 490.0,
+            "sequence_number": 11,
+            "station_code": "NDD",
+            "station_name": "NIDADAVOLU JN"
+        },
+        {
+            "arrival_time": "01:18",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 512.0,
+            "sequence_number": 12,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "01:44",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 536.0,
+            "sequence_number": 13,
+            "station_code": "APT",
+            "station_name": "ANAPARTI"
+        },
+        {
+            "arrival_time": "02:09",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 562.0,
+            "sequence_number": 14,
+            "station_code": "SLO",
+            "station_name": "SAMALKOT JN"
+        },
+        {
+            "arrival_time": "02:24",
+            "day_of_journey": 2,
+            "departure_time": "02:25",
+            "distance_km": 574.0,
+            "sequence_number": 15,
+            "station_code": "PAP",
+            "station_name": "PITHAPURAM"
+        },
+        {
+            "arrival_time": "02:43",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 599.0,
+            "sequence_number": 16,
+            "station_code": "ANV",
+            "station_name": "ANNAVARAM"
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 616.0,
+            "sequence_number": 17,
+            "station_code": "TUNI",
+            "station_name": "TUNI"
+        },
+        {
+            "arrival_time": "03:34",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 638.0,
+            "sequence_number": 18,
+            "station_code": "NRP",
+            "station_name": "NARSIPATNAM RD"
+        },
+        {
+            "arrival_time": "03:49",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 656.0,
+            "sequence_number": 19,
+            "station_code": "YLM",
+            "station_name": "ELAMANCHILI"
+        },
+        {
+            "arrival_time": "04:19",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 680.0,
+            "sequence_number": 20,
+            "station_code": "AKP",
+            "station_name": "ANAKAPALLE"
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 2,
+            "departure_time": "05:12",
+            "distance_km": 695.0,
+            "sequence_number": 21,
+            "station_code": "DVD",
+            "station_name": "DUVVADA"
+        },
+        {
+            "arrival_time": "05:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 713.0,
+            "sequence_number": 22,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        }
+    ],
+    "train_name": "GODAVARI SF EXP",
+    "train_number": "12728",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,125 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14120.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14120-DDN-KGM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DDN",
+            "station_name": "DEHRADOON"
+        },
+        {
+            "arrival_time": "00:49",
+            "day_of_journey": 2,
+            "departure_time": "00:59",
+            "distance_km": 52.0,
+            "sequence_number": 2,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "01:26",
+            "day_of_journey": 2,
+            "departure_time": "01:31",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "LRJ",
+            "station_name": "LAKSAR JN"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 120.0,
+            "sequence_number": 4,
+            "station_code": "NBD",
+            "station_name": "NAJIBABAD JN"
+        },
+        {
+            "arrival_time": "04:11",
+            "day_of_journey": 2,
+            "departure_time": "04:16",
+            "distance_km": 218.0,
+            "sequence_number": 5,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 246.0,
+            "sequence_number": 6,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 2,
+            "departure_time": "05:12",
+            "distance_km": 273.0,
+            "sequence_number": 7,
+            "station_code": "BLQR",
+            "station_name": "BILASPUR ROAD"
+        },
+        {
+            "arrival_time": "05:26",
+            "day_of_journey": 2,
+            "departure_time": "05:31",
+            "distance_km": 291.0,
+            "sequence_number": 8,
+            "station_code": "RUPC",
+            "station_name": "RUDRAPUR CITY"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 2,
+            "departure_time": "06:15",
+            "distance_km": 312.0,
+            "sequence_number": 9,
+            "station_code": "LKU",
+            "station_name": "LALKUA JN."
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": "06:55",
+            "distance_km": 328.0,
+            "sequence_number": 10,
+            "station_code": "HDW",
+            "station_name": "HALDWANI"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 335.0,
+            "sequence_number": 11,
+            "station_code": "KGM",
+            "station_name": "KATHGODAM"
+        }
+    ],
+    "train_name": "DDN KGM EXP",
+    "train_number": "14120",
+    "type": "MAIL EXPRESS"
+}

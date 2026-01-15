@@ -1,0 +1,104 @@
+{
+    "classes_available": [
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13027.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13027-HWH-AZ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "23:21",
+            "day_of_journey": 1,
+            "departure_time": "23:23",
+            "distance_km": 39.0,
+            "sequence_number": 2,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "00:13",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 107.0,
+            "sequence_number": 3,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "00:58",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 158.0,
+            "sequence_number": 4,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "01:52",
+            "distance_km": 218.0,
+            "sequence_number": 5,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 233.0,
+            "sequence_number": 6,
+            "station_code": "NHT",
+            "station_name": "NALHATI JN"
+        },
+        {
+            "arrival_time": "02:36",
+            "day_of_journey": 2,
+            "departure_time": "02:37",
+            "distance_km": 251.0,
+            "sequence_number": 7,
+            "station_code": "MGAE",
+            "station_name": "MORGRAM"
+        },
+        {
+            "arrival_time": "02:45",
+            "day_of_journey": 2,
+            "departure_time": "02:46",
+            "distance_km": 259.0,
+            "sequence_number": 8,
+            "station_code": "SDI",
+            "station_name": "SAGARDIGHI"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 277.0,
+            "sequence_number": 9,
+            "station_code": "AZ",
+            "station_name": "AZIMGANJ JN"
+        }
+    ],
+    "train_name": "KAVIGURU EXPRES",
+    "train_number": "13027",
+    "type": "MAIL EXPRESS"
+}

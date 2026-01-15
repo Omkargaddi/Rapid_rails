@@ -1,0 +1,260 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22981.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22981-KOTA-SGNR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "18:23",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 61.0,
+            "sequence_number": 2,
+            "station_code": "LKE",
+            "station_name": "LAKHERI"
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 1,
+            "departure_time": "18:37",
+            "distance_km": 72.0,
+            "sequence_number": 3,
+            "station_code": "IDG",
+            "station_name": "INDARGARH"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 108.0,
+            "sequence_number": 4,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:02",
+            "distance_km": 130.0,
+            "sequence_number": 5,
+            "station_code": "CKB",
+            "station_name": "CHAUTH KA BARWARA"
+        },
+        {
+            "arrival_time": "20:17",
+            "day_of_journey": 1,
+            "departure_time": "20:19",
+            "distance_km": 147.0,
+            "sequence_number": 6,
+            "station_code": "ISA",
+            "station_name": "ISARDA"
+        },
+        {
+            "arrival_time": "20:39",
+            "day_of_journey": 1,
+            "departure_time": "20:41",
+            "distance_km": 173.0,
+            "sequence_number": 7,
+            "station_code": "BNLW",
+            "station_name": "BANASTHALI NIWAI"
+        },
+        {
+            "arrival_time": "21:41",
+            "day_of_journey": 1,
+            "departure_time": "21:44",
+            "distance_km": 232.0,
+            "sequence_number": 8,
+            "station_code": "DPA",
+            "station_name": "DURGAPURA"
+        },
+        {
+            "arrival_time": "22:10",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 239.0,
+            "sequence_number": 9,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 1,
+            "departure_time": "23:12",
+            "distance_km": 294.0,
+            "sequence_number": 10,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "23:22",
+            "day_of_journey": 1,
+            "departure_time": "23:24",
+            "distance_km": 301.0,
+            "sequence_number": 11,
+            "station_code": "SBR",
+            "station_name": "SAMBHAR LAKE"
+        },
+        {
+            "arrival_time": "23:46",
+            "day_of_journey": 1,
+            "departure_time": "23:48",
+            "distance_km": 329.0,
+            "sequence_number": 12,
+            "station_code": "NAC",
+            "station_name": "NAWA CITY"
+        },
+        {
+            "arrival_time": "00:12",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 359.0,
+            "sequence_number": 13,
+            "station_code": "MKN",
+            "station_name": "MAKRANA JN"
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 2,
+            "departure_time": "00:48",
+            "distance_km": 403.0,
+            "sequence_number": 14,
+            "station_code": "DNA",
+            "station_name": "DEGANA JN"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 503.0,
+            "sequence_number": 15,
+            "station_code": "NGO",
+            "station_name": "NAGAUR"
+        },
+        {
+            "arrival_time": "02:58",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 554.0,
+            "sequence_number": 16,
+            "station_code": "NOK",
+            "station_name": "NOKHA"
+        },
+        {
+            "arrival_time": "03:22",
+            "day_of_journey": 2,
+            "departure_time": "03:24",
+            "distance_km": 587.0,
+            "sequence_number": 17,
+            "station_code": "DSO",
+            "station_name": "DESHNOK"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 619.0,
+            "sequence_number": 18,
+            "station_code": "BKN",
+            "station_name": "BIKANER JN"
+        },
+        {
+            "arrival_time": "04:25",
+            "day_of_journey": 2,
+            "departure_time": "04:27",
+            "distance_km": 623.0,
+            "sequence_number": 19,
+            "station_code": "LGH",
+            "station_name": "LALGARH JN"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 2,
+            "departure_time": "05:27",
+            "distance_km": 698.0,
+            "sequence_number": 20,
+            "station_code": "LKS",
+            "station_name": "LUNKARANSAR"
+        },
+        {
+            "arrival_time": "05:56",
+            "day_of_journey": 2,
+            "departure_time": "05:58",
+            "distance_km": 737.0,
+            "sequence_number": 21,
+            "station_code": "MHJ",
+            "station_name": "MAHAJAN"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 800.0,
+            "sequence_number": 22,
+            "station_code": "SOG",
+            "station_name": "SURATGARH JN"
+        },
+        {
+            "arrival_time": "07:23",
+            "day_of_journey": 2,
+            "departure_time": "07:25",
+            "distance_km": 825.0,
+            "sequence_number": 23,
+            "station_code": "PGK",
+            "station_name": "PILI BANGAN"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 2,
+            "departure_time": "08:35",
+            "distance_km": 850.0,
+            "sequence_number": 24,
+            "station_code": "Point(2)",
+            "station_name": "HANUMANGARH JN HMH Train Reversal"
+        },
+        {
+            "arrival_time": "09:07",
+            "day_of_journey": 2,
+            "departure_time": "09:09",
+            "distance_km": 888.0,
+            "sequence_number": 25,
+            "station_code": "SDS",
+            "station_name": "SADULSHAHR"
+        },
+        {
+            "arrival_time": "10:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 917.0,
+            "sequence_number": 26,
+            "station_code": "SGNR",
+            "station_name": "SHRI GANGANAGAR"
+        }
+    ],
+    "train_name": "KOTA SGNR EXP",
+    "train_number": "22981",
+    "type": "SUPERFAST"
+}

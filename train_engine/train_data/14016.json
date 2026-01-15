@@ -1,0 +1,163 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14016.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "14016-ANVT-RXL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        },
+        {
+            "arrival_time": "17:04",
+            "day_of_journey": 1,
+            "departure_time": "17:06",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "17:32",
+            "day_of_journey": 1,
+            "departure_time": "17:34",
+            "distance_km": 38.0,
+            "sequence_number": 3,
+            "station_code": "PKW",
+            "station_name": "PILKHUA"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "17:47",
+            "distance_km": 50.0,
+            "sequence_number": 4,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "18:42",
+            "day_of_journey": 1,
+            "departure_time": "18:44",
+            "distance_km": 123.0,
+            "sequence_number": 5,
+            "station_code": "AMRO",
+            "station_name": "AMROHA"
+        },
+        {
+            "arrival_time": "19:35",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 154.0,
+            "sequence_number": 6,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "20:41",
+            "day_of_journey": 1,
+            "departure_time": "20:46",
+            "distance_km": 197.0,
+            "sequence_number": 7,
+            "station_code": "CH",
+            "station_name": "CHANDAUSI JN"
+        },
+        {
+            "arrival_time": "21:17",
+            "day_of_journey": 1,
+            "departure_time": "21:19",
+            "distance_km": 240.0,
+            "sequence_number": 8,
+            "station_code": "AO",
+            "station_name": "AONLA"
+        },
+        {
+            "arrival_time": "23:21",
+            "day_of_journey": 1,
+            "departure_time": "23:23",
+            "distance_km": 330.0,
+            "sequence_number": 9,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "00:11",
+            "day_of_journey": 2,
+            "departure_time": "00:13",
+            "distance_km": 393.0,
+            "sequence_number": 10,
+            "station_code": "HRI",
+            "station_name": "HARDOI"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "01:51",
+            "distance_km": 489.0,
+            "sequence_number": 11,
+            "station_code": "AMG",
+            "station_name": "ALAMNAGAR"
+        },
+        {
+            "arrival_time": "02:15",
+            "day_of_journey": 2,
+            "departure_time": "02:25",
+            "distance_km": 495.0,
+            "sequence_number": 12,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "19:41",
+            "day_of_journey": 2,
+            "departure_time": "19:44",
+            "distance_km": 1175.0,
+            "sequence_number": 36,
+            "station_code": "BMKI",
+            "station_name": "BAPUDM MOTIHARI"
+        },
+        {
+            "arrival_time": "20:10",
+            "day_of_journey": 2,
+            "departure_time": "20:30",
+            "distance_km": 1197.0,
+            "sequence_number": 37,
+            "station_code": "Point(2)",
+            "station_name": "SAGAULI JN SGL Train Reversal"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1226.0,
+            "sequence_number": 38,
+            "station_code": "RXL",
+            "station_name": "RAXAUL JN"
+        }
+    ],
+    "train_name": "SADHBHAWNA EXP",
+    "train_number": "14016",
+    "type": "MAIL EXPRESS"
+}

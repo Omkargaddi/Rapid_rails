@@ -1,0 +1,96 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22105.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22105-CSMT-PUNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "05:51",
+            "day_of_journey": 1,
+            "departure_time": "05:53",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "06:14",
+            "day_of_journey": 1,
+            "departure_time": "06:16",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "06:33",
+            "day_of_journey": 1,
+            "departure_time": "06:35",
+            "distance_km": 53.0,
+            "sequence_number": 4,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "07:13",
+            "day_of_journey": 1,
+            "departure_time": "07:15",
+            "distance_km": 100.0,
+            "sequence_number": 5,
+            "station_code": "KJT",
+            "station_name": "KARJAT"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 128.0,
+            "sequence_number": 6,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "08:49",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 189.0,
+            "sequence_number": 7,
+            "station_code": "SVJR",
+            "station_name": "SHIVAJI NAGAR"
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 192.0,
+            "sequence_number": 8,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        }
+    ],
+    "train_name": "INDRAYANI EXP",
+    "train_number": "22105",
+    "type": "SUPERFAST"
+}

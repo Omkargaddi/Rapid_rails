@@ -1,0 +1,46 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_08450.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "08450-RMM-BLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RMM",
+            "station_name": "RAMESWARAM"
+        },
+        {
+            "arrival_time": "12:30",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 165.0,
+            "sequence_number": 2,
+            "station_code": "KON",
+            "station_name": "KUDAL NAGAR"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2078.0,
+            "sequence_number": 3,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        }
+    ],
+    "train_name": "RMM-BLS BNTYY SPECIAL",
+    "train_number": "08450",
+    "type": "TOURIST TRAIN"
+}

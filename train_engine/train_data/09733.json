@@ -1,0 +1,202 @@
+{
+    "classes_available": [
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_09733.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "09733-JP-BNW",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "07:07",
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 4.0,
+            "sequence_number": 2,
+            "station_code": "DKBJ",
+            "station_name": "DAHAR KA BALAJI"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 1,
+            "departure_time": "07:22",
+            "distance_km": 11.0,
+            "sequence_number": 3,
+            "station_code": "NDH",
+            "station_name": "NINDHAR BENAR"
+        },
+        {
+            "arrival_time": "07:37",
+            "day_of_journey": 1,
+            "departure_time": "07:39",
+            "distance_km": 29.0,
+            "sequence_number": 4,
+            "station_code": "COM",
+            "station_name": "CHOMUN SAMOD"
+        },
+        {
+            "arrival_time": "07:49",
+            "day_of_journey": 1,
+            "departure_time": "07:51",
+            "distance_km": 39.0,
+            "sequence_number": 5,
+            "station_code": "GND",
+            "station_name": "GOVINDGARH MALIKPUR"
+        },
+        {
+            "arrival_time": "08:15",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 57.0,
+            "sequence_number": 6,
+            "station_code": "RGS",
+            "station_name": "RINGAS JN"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 1,
+            "departure_time": "08:32",
+            "distance_km": 67.0,
+            "sequence_number": 7,
+            "station_code": "SMPR",
+            "station_name": "SHRI MADHOPUR"
+        },
+        {
+            "arrival_time": "08:46",
+            "day_of_journey": 1,
+            "departure_time": "08:48",
+            "distance_km": 84.0,
+            "sequence_number": 8,
+            "station_code": "KAWT",
+            "station_name": "KANWAT"
+        },
+        {
+            "arrival_time": "09:06",
+            "day_of_journey": 1,
+            "departure_time": "09:08",
+            "distance_km": 104.0,
+            "sequence_number": 9,
+            "station_code": "NMK",
+            "station_name": "NIM KA THANA"
+        },
+        {
+            "arrival_time": "09:18",
+            "day_of_journey": 1,
+            "departure_time": "09:20",
+            "distance_km": 113.0,
+            "sequence_number": 10,
+            "station_code": "MADA",
+            "station_name": "MAONDA"
+        },
+        {
+            "arrival_time": "09:39",
+            "day_of_journey": 1,
+            "departure_time": "09:41",
+            "distance_km": 129.0,
+            "sequence_number": 11,
+            "station_code": "DBLA",
+            "station_name": "DABLA"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 1,
+            "departure_time": "09:57",
+            "distance_km": 140.0,
+            "sequence_number": 12,
+            "station_code": "NIP",
+            "station_name": "NIZAMPUR"
+        },
+        {
+            "arrival_time": "10:12",
+            "day_of_journey": 1,
+            "departure_time": "10:14",
+            "distance_km": 154.0,
+            "sequence_number": 13,
+            "station_code": "NNL",
+            "station_name": "NARNAUL"
+        },
+        {
+            "arrival_time": "10:33",
+            "day_of_journey": 1,
+            "departure_time": "10:35",
+            "distance_km": 169.0,
+            "sequence_number": 14,
+            "station_code": "AEL",
+            "station_name": "ATELI"
+        },
+        {
+            "arrival_time": "10:48",
+            "day_of_journey": 1,
+            "departure_time": "10:50",
+            "distance_km": 183.0,
+            "sequence_number": 15,
+            "station_code": "KUND",
+            "station_name": "KUND"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:10",
+            "distance_km": 206.0,
+            "sequence_number": 16,
+            "station_code": "RE",
+            "station_name": "REWARI JN."
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 1,
+            "departure_time": "12:42",
+            "distance_km": 234.0,
+            "sequence_number": 17,
+            "station_code": "KSI",
+            "station_name": "KOSLI"
+        },
+        {
+            "arrival_time": "12:57",
+            "day_of_journey": 1,
+            "departure_time": "12:59",
+            "distance_km": 248.0,
+            "sequence_number": 18,
+            "station_code": "JRL",
+            "station_name": "JHARILI"
+        },
+        {
+            "arrival_time": "13:13",
+            "day_of_journey": 1,
+            "departure_time": "13:15",
+            "distance_km": 261.0,
+            "sequence_number": 19,
+            "station_code": "CKD",
+            "station_name": "CHARKHI DADRI"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 288.0,
+            "sequence_number": 20,
+            "station_code": "BNW",
+            "station_name": "BHIWANI JN."
+        }
+    ],
+    "train_name": "JP-BNW EXP SPL",
+    "train_number": "09733",
+    "type": "TRAIN ON DEMAND"
+}

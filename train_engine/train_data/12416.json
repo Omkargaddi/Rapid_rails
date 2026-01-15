@@ -1,0 +1,216 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12416.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12416-NDLS-INDB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "22:01",
+            "day_of_journey": 1,
+            "departure_time": "22:03",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 141.0,
+            "sequence_number": 3,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "00:03",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 174.0,
+            "sequence_number": 4,
+            "station_code": "BTE",
+            "station_name": "BHARATPUR JN"
+        },
+        {
+            "arrival_time": "00:30",
+            "day_of_journey": 2,
+            "departure_time": "00:32",
+            "distance_km": 216.0,
+            "sequence_number": 5,
+            "station_code": "BXN",
+            "station_name": "BAYANA JN"
+        },
+        {
+            "arrival_time": "00:58",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 259.0,
+            "sequence_number": 6,
+            "station_code": "SMVJ",
+            "station_name": "SHRI MAHAVEERJI"
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 293.0,
+            "sequence_number": 7,
+            "station_code": "GGC",
+            "station_name": "GANGAPUR CITY"
+        },
+        {
+            "arrival_time": "02:03",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 357.0,
+            "sequence_number": 8,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 465.0,
+            "sequence_number": 9,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "04:13",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 537.0,
+            "sequence_number": 10,
+            "station_code": "RMA",
+            "station_name": "RAMGANJ MANDI"
+        },
+        {
+            "arrival_time": "04:33",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 565.0,
+            "sequence_number": 11,
+            "station_code": "BWM",
+            "station_name": "BHAWANI MANDI"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:52",
+            "distance_km": 588.0,
+            "sequence_number": 12,
+            "station_code": "GOH",
+            "station_name": "GAROT"
+        },
+        {
+            "arrival_time": "05:03",
+            "day_of_journey": 2,
+            "departure_time": "05:05",
+            "distance_km": 598.0,
+            "sequence_number": 13,
+            "station_code": "SGZ",
+            "station_name": "SHAMGARH"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 612.0,
+            "sequence_number": 14,
+            "station_code": "SVA",
+            "station_name": "SUWASRA"
+        },
+        {
+            "arrival_time": "05:38",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 627.0,
+            "sequence_number": 15,
+            "station_code": "CMU",
+            "station_name": "CHAU MAHLA"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 2,
+            "departure_time": "06:05",
+            "distance_km": 650.0,
+            "sequence_number": 16,
+            "station_code": "VMA",
+            "station_name": "VIKRAMGARH ALOT"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 673.0,
+            "sequence_number": 17,
+            "station_code": "MEP",
+            "station_name": "MAHIDPUR ROAD"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 2,
+            "departure_time": "07:25",
+            "distance_km": 690.0,
+            "sequence_number": 18,
+            "station_code": "NAD",
+            "station_name": "NAGDA JN"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": "08:25",
+            "distance_km": 745.0,
+            "sequence_number": 19,
+            "station_code": "UJN",
+            "station_name": "UJJAIN JN"
+        },
+        {
+            "arrival_time": "09:01",
+            "day_of_journey": 2,
+            "departure_time": "09:03",
+            "distance_km": 785.0,
+            "sequence_number": 20,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "10:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 827.0,
+            "sequence_number": 21,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        }
+    ],
+    "train_name": "NDLS INDB EXP",
+    "train_number": "12416",
+    "type": "SUPERFAST"
+}

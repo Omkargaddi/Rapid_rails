@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13160.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "13160-JBN-KOAA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JBN",
+            "station_name": "JOGBANI"
+        },
+        {
+            "arrival_time": "14:58",
+            "day_of_journey": 1,
+            "departure_time": "15:03",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "FBG",
+            "station_name": "FORBESGANJ JN"
+        },
+        {
+            "arrival_time": "15:26",
+            "day_of_journey": 1,
+            "departure_time": "15:31",
+            "distance_km": 42.0,
+            "sequence_number": 3,
+            "station_code": "ARQ",
+            "station_name": "ARARIYA COURT JN."
+        },
+        {
+            "arrival_time": "16:05",
+            "day_of_journey": 1,
+            "departure_time": "16:07",
+            "distance_km": 80.0,
+            "sequence_number": 4,
+            "station_code": "PRNA",
+            "station_name": "PURNIA JN"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 108.0,
+            "sequence_number": 5,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "17:48",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 131.0,
+            "sequence_number": 6,
+            "station_code": "LAV",
+            "station_name": "LABHA"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:02",
+            "distance_km": 138.0,
+            "sequence_number": 7,
+            "station_code": "KDPR",
+            "station_name": "KUMEDPUR"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 1,
+            "departure_time": "18:17",
+            "distance_km": 144.0,
+            "sequence_number": 8,
+            "station_code": "HCR",
+            "station_name": "HARISCHANDRPUR"
+        },
+        {
+            "arrival_time": "19:00",
+            "day_of_journey": 1,
+            "departure_time": "19:02",
+            "distance_km": 164.0,
+            "sequence_number": 9,
+            "station_code": "SM",
+            "station_name": "SAMSI"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 199.0,
+            "sequence_number": 10,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "20:42",
+            "day_of_journey": 1,
+            "departure_time": "20:44",
+            "distance_km": 233.0,
+            "sequence_number": 11,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "21:24",
+            "day_of_journey": 1,
+            "departure_time": "21:26",
+            "distance_km": 266.0,
+            "sequence_number": 12,
+            "station_code": "PKR",
+            "station_name": "PAKAUR"
+        },
+        {
+            "arrival_time": "22:09",
+            "day_of_journey": 1,
+            "departure_time": "22:14",
+            "distance_km": 321.0,
+            "sequence_number": 13,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "22:55",
+            "day_of_journey": 1,
+            "departure_time": "22:57",
+            "distance_km": 382.0,
+            "sequence_number": 14,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "23:51",
+            "day_of_journey": 1,
+            "departure_time": "23:53",
+            "distance_km": 433.0,
+            "sequence_number": 15,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "01:27",
+            "day_of_journey": 2,
+            "departure_time": "01:29",
+            "distance_km": 510.0,
+            "sequence_number": 16,
+            "station_code": "NH",
+            "station_name": "NAIHATI JN"
+        },
+        {
+            "arrival_time": "02:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 544.0,
+            "sequence_number": 17,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        }
+    ],
+    "train_name": "JBN KOAA EXP",
+    "train_number": "13160",
+    "type": "MAIL EXPRESS"
+}

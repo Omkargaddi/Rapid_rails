@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22117.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "22117-PUNE-AMI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 72.0,
+            "sequence_number": 2,
+            "station_code": "DDCC",
+            "station_name": "DAUND CHORD LINE"
+        },
+        {
+            "arrival_time": "00:27",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 154.0,
+            "sequence_number": 3,
+            "station_code": "ANG",
+            "station_name": "AHILYANAGAR"
+        },
+        {
+            "arrival_time": "02:12",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 265.0,
+            "sequence_number": 4,
+            "station_code": "KPG",
+            "station_name": "KOPARGAON"
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 307.0,
+            "sequence_number": 5,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 466.0,
+            "sequence_number": 6,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 491.0,
+            "sequence_number": 7,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "06:44",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 541.0,
+            "sequence_number": 8,
+            "station_code": "MKU",
+            "station_name": "MALKAPUR"
+        },
+        {
+            "arrival_time": "08:33",
+            "day_of_journey": 2,
+            "departure_time": "08:35",
+            "distance_km": 631.0,
+            "sequence_number": 9,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "09:58",
+            "day_of_journey": 2,
+            "departure_time": "10:00",
+            "distance_km": 710.0,
+            "sequence_number": 10,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 719.0,
+            "sequence_number": 11,
+            "station_code": "AMI",
+            "station_name": "AMRAVATI"
+        }
+    ],
+    "train_name": "PUNE AMI AC EXP",
+    "train_number": "22117",
+    "type": "SUPERFAST"
+}

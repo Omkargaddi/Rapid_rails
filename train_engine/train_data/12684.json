@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12684.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12684-SMVB-ERS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SMVB",
+            "station_name": "SMVT BENGALURU"
+        },
+        {
+            "arrival_time": "19:13",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "19:53",
+            "day_of_journey": 1,
+            "departure_time": "19:54",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "21:14",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 141.0,
+            "sequence_number": 4,
+            "station_code": "TPT",
+            "station_name": "TIRUPATTUR JN"
+        },
+        {
+            "arrival_time": "22:37",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 255.0,
+            "sequence_number": 5,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 314.0,
+            "sequence_number": 6,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "00:28",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 364.0,
+            "sequence_number": 7,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "01:44",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 408.0,
+            "sequence_number": 8,
+            "station_code": "PTJ",
+            "station_name": "PODANUR JN"
+        },
+        {
+            "arrival_time": "02:47",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 456.0,
+            "sequence_number": 9,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        },
+        {
+            "arrival_time": "03:14",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 488.0,
+            "sequence_number": 10,
+            "station_code": "OTP",
+            "station_name": "OTTAPPALAM"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 2,
+            "departure_time": "03:58",
+            "distance_km": 533.0,
+            "sequence_number": 11,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 587.0,
+            "sequence_number": 12,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 607.0,
+            "sequence_number": 13,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        }
+    ],
+    "train_name": "ERNAKULAM SFEXP",
+    "train_number": "12684",
+    "type": "SUPERFAST"
+}

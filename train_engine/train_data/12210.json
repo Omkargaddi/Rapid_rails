@@ -1,0 +1,111 @@
+{
+    "classes_available": [
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12210.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12210-KGM-CNB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KGM",
+            "station_name": "KATHGODAM"
+        },
+        {
+            "arrival_time": "18:27",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "HDW",
+            "station_name": "HALDWANI"
+        },
+        {
+            "arrival_time": "19:04",
+            "day_of_journey": 1,
+            "departure_time": "19:06",
+            "distance_km": 23.0,
+            "sequence_number": 3,
+            "station_code": "LKU",
+            "station_name": "LALKUA JN."
+        },
+        {
+            "arrival_time": "19:37",
+            "day_of_journey": 1,
+            "departure_time": "19:39",
+            "distance_km": 44.0,
+            "sequence_number": 4,
+            "station_code": "RUPC",
+            "station_name": "RUDRAPUR CITY"
+        },
+        {
+            "arrival_time": "19:52",
+            "day_of_journey": 1,
+            "departure_time": "19:54",
+            "distance_km": 62.0,
+            "sequence_number": 5,
+            "station_code": "BLQR",
+            "station_name": "BILASPUR ROAD"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 89.0,
+            "sequence_number": 6,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "22:47",
+            "day_of_journey": 1,
+            "departure_time": "22:52",
+            "distance_km": 152.0,
+            "sequence_number": 7,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "00:04",
+            "day_of_journey": 2,
+            "departure_time": "00:06",
+            "distance_km": 223.0,
+            "sequence_number": 8,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "02:40",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 387.0,
+            "sequence_number": 9,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 461.0,
+            "sequence_number": 10,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        }
+    ],
+    "train_name": "CNB GARIBRATH",
+    "train_number": "12210",
+    "type": "GARIB RATH"
+}

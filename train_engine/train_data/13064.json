@@ -1,0 +1,143 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13064.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13064-BLGT-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BLGT",
+            "station_name": "BALURGHAT"
+        },
+        {
+            "arrival_time": "21:11",
+            "day_of_journey": 1,
+            "departure_time": "21:13",
+            "distance_km": 32.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "GRMP",
+            "station_name": "GANGA RAMPUR"
+        },
+        {
+            "arrival_time": "21:25",
+            "day_of_journey": 1,
+            "departure_time": "21:27",
+            "distance_km": 45.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BNDP",
+            "station_name": "BUNIADPUR"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:52",
+            "distance_km": 73.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "GZO",
+            "station_name": "GAZOLE"
+        },
+        {
+            "arrival_time": "22:10",
+            "day_of_journey": 1,
+            "departure_time": "22:12",
+            "distance_km": 87.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "EKI",
+            "station_name": "EKLAKHI"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 106.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "23:32",
+            "day_of_journey": 1,
+            "departure_time": "23:34",
+            "distance_km": 141.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "01:11",
+            "day_of_journey": 2,
+            "departure_time": "01:16",
+            "distance_km": 223.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "AZ",
+            "station_name": "AZIMGANJ JN"
+        },
+        {
+            "arrival_time": "02:15",
+            "day_of_journey": 2,
+            "departure_time": "02:17",
+            "distance_km": 296.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "KWAE",
+            "station_name": "KATWA"
+        },
+        {
+            "arrival_time": "02:45",
+            "day_of_journey": 2,
+            "departure_time": "02:47",
+            "distance_km": 335.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "NDAE",
+            "station_name": "NABADWIP DHAM"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 2,
+            "departure_time": "03:57",
+            "distance_km": 401.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 440.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "BLGT HWH EXP",
+    "train_number": "13064",
+    "type": "MAIL EXPRESS "
+}

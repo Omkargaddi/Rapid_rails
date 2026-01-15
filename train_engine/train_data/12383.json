@@ -1,0 +1,114 @@
+{
+    "classes_available": [
+        "3A",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12383.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12383-SDAH-ASN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:07",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 1,
+            "departure_time": "17:29",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "BP",
+            "station_name": "BARRACKPORE"
+        },
+        {
+            "arrival_time": "17:46",
+            "day_of_journey": 1,
+            "departure_time": "17:47",
+            "distance_km": 41.0,
+            "sequence_number": 3,
+            "station_code": "NH",
+            "station_name": "NAIHATI JN"
+        },
+        {
+            "arrival_time": "18:11",
+            "day_of_journey": 1,
+            "departure_time": "18:12",
+            "distance_km": 50.0,
+            "sequence_number": 4,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "19:07",
+            "day_of_journey": 1,
+            "departure_time": "19:09",
+            "distance_km": 118.0,
+            "sequence_number": 5,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "19:50",
+            "day_of_journey": 1,
+            "departure_time": "19:51",
+            "distance_km": 165.0,
+            "sequence_number": 6,
+            "station_code": "PAN",
+            "station_name": "PANAGARH"
+        },
+        {
+            "arrival_time": "20:03",
+            "day_of_journey": 1,
+            "departure_time": "20:04",
+            "distance_km": 180.0,
+            "sequence_number": 7,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "20:17",
+            "day_of_journey": 1,
+            "departure_time": "20:18",
+            "distance_km": 196.0,
+            "sequence_number": 8,
+            "station_code": "UDL",
+            "station_name": "ANDAL JN."
+        },
+        {
+            "arrival_time": "20:26",
+            "day_of_journey": 1,
+            "departure_time": "20:27",
+            "distance_km": 204.0,
+            "sequence_number": 9,
+            "station_code": "RNG",
+            "station_name": "RANIGANJ"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 222.0,
+            "sequence_number": 10,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        }
+    ],
+    "train_name": "ASN INTERCITY",
+    "train_number": "12383",
+    "type": "SUPERFAST"
+}

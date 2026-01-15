@@ -1,0 +1,203 @@
+{
+    "classes_available": [
+        "3A",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17639.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "17639-KCG-AK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KCG",
+            "station_name": "KACHEGUDA"
+        },
+        {
+            "arrival_time": "07:19",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "STPD",
+            "station_name": "SITAFAL MANDI"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 9.0,
+            "sequence_number": 3,
+            "station_code": "MJF",
+            "station_name": "MALKAJGIRI"
+        },
+        {
+            "arrival_time": "07:44",
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 19.0,
+            "sequence_number": 4,
+            "station_code": "BMO",
+            "station_name": "BOLARUM"
+        },
+        {
+            "arrival_time": "08:04",
+            "day_of_journey": 1,
+            "departure_time": "08:05",
+            "distance_km": 32.0,
+            "sequence_number": 5,
+            "station_code": "MED",
+            "station_name": "MEDCHAL"
+        },
+        {
+            "arrival_time": "08:44",
+            "day_of_journey": 1,
+            "departure_time": "08:45",
+            "distance_km": 70.0,
+            "sequence_number": 6,
+            "station_code": "WDR",
+            "station_name": "WADIARAM"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 1,
+            "departure_time": "08:56",
+            "distance_km": 77.0,
+            "sequence_number": 7,
+            "station_code": "MZL",
+            "station_name": "MIRZAPALLI"
+        },
+        {
+            "arrival_time": "09:09",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 87.0,
+            "sequence_number": 8,
+            "station_code": "AKE",
+            "station_name": "AKANAPET"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 1,
+            "departure_time": "09:40",
+            "distance_km": 113.0,
+            "sequence_number": 9,
+            "station_code": "KMC",
+            "station_name": "KAMAREDDI"
+        },
+        {
+            "arrival_time": "10:28",
+            "day_of_journey": 1,
+            "departure_time": "10:30",
+            "distance_km": 165.0,
+            "sequence_number": 10,
+            "station_code": "NZB",
+            "station_name": "NIZAMABAD JN."
+        },
+        {
+            "arrival_time": "11:03",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 195.0,
+            "sequence_number": 11,
+            "station_code": "BSX",
+            "station_name": "BASAR"
+        },
+        {
+            "arrival_time": "11:19",
+            "day_of_journey": 1,
+            "departure_time": "11:20",
+            "distance_km": 204.0,
+            "sequence_number": 12,
+            "station_code": "DAB",
+            "station_name": "DHARMABAD"
+        },
+        {
+            "arrival_time": "11:49",
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 234.0,
+            "sequence_number": 13,
+            "station_code": "UMRI",
+            "station_name": "UMRI"
+        },
+        {
+            "arrival_time": "12:33",
+            "day_of_journey": 1,
+            "departure_time": "12:35",
+            "distance_km": 254.0,
+            "sequence_number": 14,
+            "station_code": "MUE",
+            "station_name": "MUDKHED"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 1,
+            "departure_time": "13:05",
+            "distance_km": 276.0,
+            "sequence_number": 15,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        },
+        {
+            "arrival_time": "13:55",
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 306.0,
+            "sequence_number": 16,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "14:39",
+            "day_of_journey": 1,
+            "departure_time": "14:40",
+            "distance_km": 329.0,
+            "sequence_number": 17,
+            "station_code": "BMF",
+            "station_name": "BASMAT"
+        },
+        {
+            "arrival_time": "15:39",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 387.0,
+            "sequence_number": 18,
+            "station_code": "HNL",
+            "station_name": "HINGOLI DECCAN"
+        },
+        {
+            "arrival_time": "16:29",
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 434.0,
+            "sequence_number": 19,
+            "station_code": "WHM",
+            "station_name": "WASHIM"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 516.0,
+            "sequence_number": 20,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        }
+    ],
+    "train_name": "KCG AK EXPRESS",
+    "train_number": "17639",
+    "type": "MAIL EXPRESS"
+}

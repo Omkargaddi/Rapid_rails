@@ -1,0 +1,171 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18616.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18616-HTE-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HTE",
+            "station_name": "HATIA"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        },
+        {
+            "arrival_time": "21:57",
+            "day_of_journey": 1,
+            "departure_time": "21:58",
+            "distance_km": 11.0,
+            "sequence_number": 3,
+            "station_code": "NKM",
+            "station_name": "NAMKOM"
+        },
+        {
+            "arrival_time": "22:06",
+            "day_of_journey": 1,
+            "departure_time": "22:07",
+            "distance_km": 18.0,
+            "sequence_number": 4,
+            "station_code": "TIS",
+            "station_name": "TATISILWAI"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 67.0,
+            "sequence_number": 5,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:41",
+            "distance_km": 80.0,
+            "sequence_number": 6,
+            "station_code": "TRAN",
+            "station_name": "TORANG"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 1,
+            "departure_time": "23:51",
+            "distance_km": 90.0,
+            "sequence_number": 7,
+            "station_code": "SSIA",
+            "station_name": "SUISA"
+        },
+        {
+            "arrival_time": "00:04",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 98.0,
+            "sequence_number": 8,
+            "station_code": "TUL",
+            "station_name": "TIRALDIH"
+        },
+        {
+            "arrival_time": "01:03",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 135.0,
+            "sequence_number": 9,
+            "station_code": "CNI",
+            "station_name": "CHANDIL JN."
+        },
+        {
+            "arrival_time": "01:26",
+            "day_of_journey": 2,
+            "departure_time": "01:27",
+            "distance_km": 150.0,
+            "sequence_number": 10,
+            "station_code": "KND",
+            "station_name": "KANDRA"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 171.0,
+            "sequence_number": 11,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "02:57",
+            "day_of_journey": 2,
+            "departure_time": "02:58",
+            "distance_km": 207.0,
+            "sequence_number": 12,
+            "station_code": "GTS",
+            "station_name": "GHATSILA"
+        },
+        {
+            "arrival_time": "03:42",
+            "day_of_journey": 2,
+            "departure_time": "03:44",
+            "distance_km": 267.0,
+            "sequence_number": 13,
+            "station_code": "JGM",
+            "station_name": "JHARGRAM"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 305.0,
+            "sequence_number": 14,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 2,
+            "departure_time": "06:02",
+            "distance_km": 414.0,
+            "sequence_number": 15,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 421.0,
+            "sequence_number": 16,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "KRIYA YOGA EXP",
+    "train_number": "18616",
+    "type": "MAIL EXPRESS"
+}

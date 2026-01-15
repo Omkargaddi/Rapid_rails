@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22881.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22881-PUNE-BBS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 1,
+            "departure_time": "14:25",
+            "distance_km": 263.0,
+            "sequence_number": 2,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "15:57",
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 376.0,
+            "sequence_number": 3,
+            "station_code": "KLBG",
+            "station_name": "KALABURAGI"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 412.0,
+            "sequence_number": 4,
+            "station_code": "WADI",
+            "station_name": "WADI JN."
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 1,
+            "departure_time": "17:36",
+            "distance_km": 450.0,
+            "sequence_number": 5,
+            "station_code": "SEM",
+            "station_name": "SEDAM"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 598.0,
+            "sequence_number": 6,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "23:01",
+            "day_of_journey": 1,
+            "departure_time": "23:02",
+            "distance_km": 707.0,
+            "sequence_number": 7,
+            "station_code": "NLDA",
+            "station_name": "NALGONDA"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 878.0,
+            "sequence_number": 8,
+            "station_code": "GNT",
+            "station_name": "GUNTUR JN"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 911.0,
+            "sequence_number": 9,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 2,
+            "departure_time": "09:12",
+            "distance_km": 1243.0,
+            "sequence_number": 10,
+            "station_code": "DVD",
+            "station_name": "DUVVADA"
+        },
+        {
+            "arrival_time": "09:40",
+            "day_of_journey": 2,
+            "departure_time": "10:00",
+            "distance_km": 1261.0,
+            "sequence_number": 11,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        },
+        {
+            "arrival_time": "10:55",
+            "day_of_journey": 2,
+            "departure_time": "11:00",
+            "distance_km": 1322.0,
+            "sequence_number": 12,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "14:01",
+            "day_of_journey": 2,
+            "departure_time": "14:03",
+            "distance_km": 1538.0,
+            "sequence_number": 13,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "16:10",
+            "day_of_journey": 2,
+            "departure_time": "16:15",
+            "distance_km": 1685.0,
+            "sequence_number": 14,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1703.0,
+            "sequence_number": 15,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        }
+    ],
+    "train_name": "PUNE BBS SF EXP",
+    "train_number": "22881",
+    "type": "SUPERFAST"
+}

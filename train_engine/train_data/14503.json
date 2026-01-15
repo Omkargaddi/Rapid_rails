@@ -1,0 +1,106 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14503.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "14503-KLK-SVDK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KLK",
+            "station_name": "KALKA"
+        },
+        {
+            "arrival_time": "20:06",
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "20:45",
+            "day_of_journey": 1,
+            "departure_time": "20:47",
+            "distance_km": 36.0,
+            "sequence_number": 3,
+            "station_code": "SASN",
+            "station_name": "SAHIBZADA AJIT SINGH NAGAR"
+        },
+        {
+            "arrival_time": "22:42",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 136.0,
+            "sequence_number": 4,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "23:33",
+            "day_of_journey": 1,
+            "departure_time": "23:38",
+            "distance_km": 188.0,
+            "sequence_number": 5,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 2,
+            "departure_time": "01:28",
+            "distance_km": 301.0,
+            "sequence_number": 6,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 2,
+            "departure_time": "03:25",
+            "distance_km": 401.0,
+            "sequence_number": 7,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "04:19",
+            "day_of_journey": 2,
+            "departure_time": "04:21",
+            "distance_km": 454.0,
+            "sequence_number": 8,
+            "station_code": "MCTM",
+            "station_name": "MARTYR CAPTAIN TUSHAR MAHAJAN"
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 478.0,
+            "sequence_number": 9,
+            "station_code": "SVDK",
+            "station_name": "SHRI MATA VAISHNO DEVI KATRA"
+        }
+    ],
+    "train_name": "KLK SVDK EXP",
+    "train_number": "14503",
+    "type": "MAIL EXPRESS"
+}

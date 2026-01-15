@@ -1,0 +1,144 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12901.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12901-DDR-ADI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DDR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "21:59",
+            "day_of_journey": 1,
+            "departure_time": "22:04",
+            "distance_km": 24.0,
+            "sequence_number": 2,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 81.0,
+            "sequence_number": 3,
+            "station_code": "PLG",
+            "station_name": "PALGHAR"
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 188.0,
+            "sequence_number": 4,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "00:33",
+            "day_of_journey": 2,
+            "departure_time": "00:35",
+            "distance_km": 227.0,
+            "sequence_number": 5,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "01:14",
+            "day_of_journey": 2,
+            "departure_time": "01:19",
+            "distance_km": 257.0,
+            "sequence_number": 6,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "02:17",
+            "day_of_journey": 2,
+            "departure_time": "02:19",
+            "distance_km": 316.0,
+            "sequence_number": 7,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "03:14",
+            "day_of_journey": 2,
+            "departure_time": "03:19",
+            "distance_km": 386.0,
+            "sequence_number": 8,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "03:54",
+            "day_of_journey": 2,
+            "departure_time": "03:56",
+            "distance_km": 420.0,
+            "sequence_number": 9,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "04:08",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 439.0,
+            "sequence_number": 10,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:32",
+            "distance_km": 456.0,
+            "sequence_number": 11,
+            "station_code": "MHD",
+            "station_name": "MAHEMADAVAD KHEDA ROAD"
+        },
+        {
+            "arrival_time": "05:07",
+            "day_of_journey": 2,
+            "departure_time": "05:09",
+            "distance_km": 481.0,
+            "sequence_number": 12,
+            "station_code": "MAN",
+            "station_name": "MANINAGAR"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 484.0,
+            "sequence_number": 13,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        }
+    ],
+    "train_name": "GUJRAT MAIL",
+    "train_number": "12901",
+    "type": "SUPERFAST"
+}

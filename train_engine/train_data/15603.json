@@ -1,0 +1,151 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15603.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15603-GHY-LEDO",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        },
+        {
+            "arrival_time": "00:39",
+            "day_of_journey": 2,
+            "departure_time": "00:41",
+            "distance_km": 57.0,
+            "sequence_number": 2,
+            "station_code": "JID",
+            "station_name": "JAGI ROAD"
+        },
+        {
+            "arrival_time": "01:08",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 91.0,
+            "sequence_number": 3,
+            "station_code": "CPK",
+            "station_name": "CHAPARMUKH JN"
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 136.0,
+            "sequence_number": 4,
+            "station_code": "HJI",
+            "station_name": "HOJAI"
+        },
+        {
+            "arrival_time": "01:59",
+            "day_of_journey": 2,
+            "departure_time": "02:01",
+            "distance_km": 150.0,
+            "sequence_number": 5,
+            "station_code": "LKA",
+            "station_name": "LANKA"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 181.0,
+            "sequence_number": 6,
+            "station_code": "LMG",
+            "station_name": "LUMDING JN"
+        },
+        {
+            "arrival_time": "10:15",
+            "day_of_journey": 2,
+            "departure_time": "10:17",
+            "distance_km": 490.0,
+            "sequence_number": 24,
+            "station_code": "NHK",
+            "station_name": "NAHARKATIYA"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 2,
+            "departure_time": "10:32",
+            "distance_km": 498.0,
+            "sequence_number": 25,
+            "station_code": "DJG",
+            "station_name": "DULIAJAN"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 2,
+            "departure_time": "11:10",
+            "distance_km": 515.0,
+            "sequence_number": 26,
+            "station_code": "NTSK",
+            "station_name": "NEW TINSUKIA"
+        },
+        {
+            "arrival_time": "11:21",
+            "day_of_journey": 2,
+            "departure_time": "11:23",
+            "distance_km": 517.0,
+            "sequence_number": 27,
+            "station_code": "TSK",
+            "station_name": "TINSUKIA JN."
+        },
+        {
+            "arrival_time": "11:39",
+            "day_of_journey": 2,
+            "departure_time": "11:41",
+            "distance_km": 525.0,
+            "sequence_number": 28,
+            "station_code": "MJN",
+            "station_name": "MAKUM JN"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 2,
+            "departure_time": "12:12",
+            "distance_km": 550.0,
+            "sequence_number": 29,
+            "station_code": "DBY",
+            "station_name": "DIGBOI"
+        },
+        {
+            "arrival_time": "12:30",
+            "day_of_journey": 2,
+            "departure_time": "12:32",
+            "distance_km": 564.0,
+            "sequence_number": 30,
+            "station_code": "MRG",
+            "station_name": "MARGHERITA"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 571.0,
+            "sequence_number": 31,
+            "station_code": "LEDO",
+            "station_name": "LEDO"
+        }
+    ],
+    "train_name": "GHY LEDO IC EXP",
+    "train_number": "15603",
+    "type": "MAIL EXPRESS"
+}

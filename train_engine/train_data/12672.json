@@ -1,0 +1,108 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12672.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12672-MTP-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MTP",
+            "station_name": "METUPALAIYAM"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 91.0,
+            "sequence_number": 3,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "00:00",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 141.0,
+            "sequence_number": 4,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "00:57",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 200.0,
+            "sequence_number": 5,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "04:08",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 409.0,
+            "sequence_number": 6,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "04:53",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 470.0,
+            "sequence_number": 7,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "05:43",
+            "day_of_journey": 2,
+            "departure_time": "05:45",
+            "distance_km": 533.0,
+            "sequence_number": 8,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 539.0,
+            "sequence_number": 9,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "NILAGIRI SF EXP",
+    "train_number": "12672",
+    "type": "SUPERFAST"
+}

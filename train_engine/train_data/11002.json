@@ -1,0 +1,295 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11002.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11002-BPQ-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BPQ",
+            "station_name": "BALHARSHAH"
+        },
+        {
+            "arrival_time": "09:29",
+            "day_of_journey": 1,
+            "departure_time": "09:31",
+            "distance_km": 14.0,
+            "sequence_number": 2,
+            "station_code": "CD",
+            "station_name": "CHANDRAPUR"
+        },
+        {
+            "arrival_time": "09:51",
+            "day_of_journey": 1,
+            "departure_time": "09:52",
+            "distance_km": 39.0,
+            "sequence_number": 3,
+            "station_code": "BUX",
+            "station_name": "BHANDAK"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 1,
+            "departure_time": "10:22",
+            "distance_km": 60.0,
+            "sequence_number": 4,
+            "station_code": "WANI",
+            "station_name": "WANI"
+        },
+        {
+            "arrival_time": "11:59",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 125.0,
+            "sequence_number": 5,
+            "station_code": "PMKT",
+            "station_name": "PIMPALKHUTI"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 1,
+            "departure_time": "12:40",
+            "distance_km": 146.0,
+            "sequence_number": 6,
+            "station_code": "ADB",
+            "station_name": "ADILABAD"
+        },
+        {
+            "arrival_time": "13:29",
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 191.0,
+            "sequence_number": 7,
+            "station_code": "KNVT",
+            "station_name": "KINWAT"
+        },
+        {
+            "arrival_time": "13:44",
+            "day_of_journey": 1,
+            "departure_time": "13:45",
+            "distance_km": 206.0,
+            "sequence_number": 8,
+            "station_code": "BHBK",
+            "station_name": "BODHADI BUJRUG"
+        },
+        {
+            "arrival_time": "14:19",
+            "day_of_journey": 1,
+            "departure_time": "14:20",
+            "distance_km": 236.0,
+            "sequence_number": 9,
+            "station_code": "SHSK",
+            "station_name": "SAHARSRAKUND"
+        },
+        {
+            "arrival_time": "14:34",
+            "day_of_journey": 1,
+            "departure_time": "14:35",
+            "distance_km": 251.0,
+            "sequence_number": 10,
+            "station_code": "HEM",
+            "station_name": "HIMAYATNAGAR"
+        },
+        {
+            "arrival_time": "15:19",
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 295.0,
+            "sequence_number": 11,
+            "station_code": "BOKR",
+            "station_name": "BHOKAR"
+        },
+        {
+            "arrival_time": "15:48",
+            "day_of_journey": 1,
+            "departure_time": "15:50",
+            "distance_km": 318.0,
+            "sequence_number": 12,
+            "station_code": "MUE",
+            "station_name": "MUDKHED"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 341.0,
+            "sequence_number": 13,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 371.0,
+            "sequence_number": 14,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "17:53",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 400.0,
+            "sequence_number": 15,
+            "station_code": "PBN",
+            "station_name": "PARBHANI JN"
+        },
+        {
+            "arrival_time": "18:19",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 427.0,
+            "sequence_number": 16,
+            "station_code": "MVO",
+            "station_name": "MANWATH ROAD"
+        },
+        {
+            "arrival_time": "18:34",
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 443.0,
+            "sequence_number": 17,
+            "station_code": "SELU",
+            "station_name": "SELU"
+        },
+        {
+            "arrival_time": "19:09",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 469.0,
+            "sequence_number": 18,
+            "station_code": "PTU",
+            "station_name": "PARTUR"
+        },
+        {
+            "arrival_time": "20:08",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 514.0,
+            "sequence_number": 19,
+            "station_code": "J",
+            "station_name": "JALNA"
+        },
+        {
+            "arrival_time": "21:25",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 577.0,
+            "sequence_number": 20,
+            "station_code": "CPSN",
+            "station_name": "CHHATRAPATI SAMBHAJINAGAR"
+        },
+        {
+            "arrival_time": "22:24",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 610.0,
+            "sequence_number": 21,
+            "station_code": "LSR",
+            "station_name": "LASUR"
+        },
+        {
+            "arrival_time": "22:54",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 638.0,
+            "sequence_number": 22,
+            "station_code": "RGO",
+            "station_name": "ROTEGAON"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 690.0,
+            "sequence_number": 23,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "00:44",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 715.0,
+            "sequence_number": 24,
+            "station_code": "LS",
+            "station_name": "LASALGAON"
+        },
+        {
+            "arrival_time": "01:22",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 763.0,
+            "sequence_number": 25,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "02:27",
+            "day_of_journey": 2,
+            "departure_time": "02:32",
+            "distance_km": 814.0,
+            "sequence_number": 26,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "04:12",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 897.0,
+            "sequence_number": 27,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "04:33",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 917.0,
+            "sequence_number": 28,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "04:57",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 941.0,
+            "sequence_number": 29,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 950.0,
+            "sequence_number": 30,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "NANDIGRAM EXP",
+    "train_number": "11002",
+    "type": "MAIL EXPRESS"
+}

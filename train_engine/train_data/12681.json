@@ -1,0 +1,96 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12681.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12681-MAS-CBE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        },
+        {
+            "arrival_time": "23:23",
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 69.0,
+            "sequence_number": 2,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "00:13",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 130.0,
+            "sequence_number": 3,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 339.0,
+            "sequence_number": 4,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 398.0,
+            "sequence_number": 5,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "04:53",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 448.0,
+            "sequence_number": 6,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "05:44",
+            "day_of_journey": 2,
+            "departure_time": "05:45",
+            "distance_km": 496.0,
+            "sequence_number": 7,
+            "station_code": "CBF",
+            "station_name": "COIMBATORE NORTH JN."
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 499.0,
+            "sequence_number": 8,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        }
+    ],
+    "train_name": "MAS CBE SF EXP",
+    "train_number": "12681",
+    "type": "SUPERFAST"
+}

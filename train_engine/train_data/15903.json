@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15903.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15903-DBRG-CDG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DBRG",
+            "station_name": "DIBRUGARH"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 1,
+            "departure_time": "10:00",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "NTSK",
+            "station_name": "NEW TINSUKIA"
+        },
+        {
+            "arrival_time": "11:28",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 144.0,
+            "sequence_number": 3,
+            "station_code": "SLGR",
+            "station_name": "SIMALUGURI JN"
+        },
+        {
+            "arrival_time": "12:30",
+            "day_of_journey": 1,
+            "departure_time": "12:40",
+            "distance_km": 198.0,
+            "sequence_number": 4,
+            "station_code": "MXN",
+            "station_name": "MARIANI JN"
+        },
+        {
+            "arrival_time": "13:28",
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 236.0,
+            "sequence_number": 5,
+            "station_code": "FKG",
+            "station_name": "FURKATING JN."
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 1,
+            "departure_time": "14:40",
+            "distance_km": 306.0,
+            "sequence_number": 6,
+            "station_code": "DMV",
+            "station_name": "DIMAPUR"
+        },
+        {
+            "arrival_time": "15:12",
+            "day_of_journey": 1,
+            "departure_time": "15:14",
+            "distance_km": 344.0,
+            "sequence_number": 7,
+            "station_code": "DPU",
+            "station_name": "DIPHU"
+        },
+        {
+            "arrival_time": "15:55",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 375.0,
+            "sequence_number": 8,
+            "station_code": "LMG",
+            "station_name": "LUMDING JN"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 556.0,
+            "sequence_number": 9,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 604.0,
+            "sequence_number": 10,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "22:45",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 713.0,
+            "sequence_number": 11,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "23:52",
+            "day_of_journey": 1,
+            "departure_time": "23:54",
+            "distance_km": 744.0,
+            "sequence_number": 12,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2643.0,
+            "sequence_number": 36,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        }
+    ],
+    "train_name": "DBRG CDG EXP",
+    "train_number": "15903",
+    "type": "MAIL EXPRESS"
+}

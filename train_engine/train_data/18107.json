@@ -1,0 +1,197 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "LDS",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18107.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18107-ROU-JDB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "18:16",
+            "day_of_journey": 1,
+            "departure_time": "18:18",
+            "distance_km": 30.0,
+            "sequence_number": 2,
+            "station_code": "GP",
+            "station_name": "RAJ GANGPUR"
+        },
+        {
+            "arrival_time": "18:46",
+            "day_of_journey": 1,
+            "departure_time": "18:47",
+            "distance_km": 65.0,
+            "sequence_number": 3,
+            "station_code": "BMB",
+            "station_name": "BAMRA"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 102.0,
+            "sequence_number": 4,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 151.0,
+            "sequence_number": 5,
+            "station_code": "SBP",
+            "station_name": "SAMBALPUR JN."
+        },
+        {
+            "arrival_time": "21:32",
+            "day_of_journey": 1,
+            "departure_time": "21:34",
+            "distance_km": 193.0,
+            "sequence_number": 6,
+            "station_code": "BRGA",
+            "station_name": "BARGARH ROAD"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:52",
+            "distance_km": 212.0,
+            "sequence_number": 7,
+            "station_code": "BRPL",
+            "station_name": "BARPALI"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 269.0,
+            "sequence_number": 8,
+            "station_code": "BLGR",
+            "station_name": "BALANGIR"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 333.0,
+            "sequence_number": 9,
+            "station_code": "TIG",
+            "station_name": "TITLAGARH"
+        },
+        {
+            "arrival_time": "23:55",
+            "day_of_journey": 1,
+            "departure_time": "23:57",
+            "distance_km": 345.0,
+            "sequence_number": 10,
+            "station_code": "KSNG",
+            "station_name": "KESINGA"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:17",
+            "distance_km": 418.0,
+            "sequence_number": 11,
+            "station_code": "MNGD",
+            "station_name": "MUNIGUDA"
+        },
+        {
+            "arrival_time": "02:35",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 472.0,
+            "sequence_number": 12,
+            "station_code": "RGDA",
+            "station_name": "RAYAGADA"
+        },
+        {
+            "arrival_time": "04:43",
+            "day_of_journey": 2,
+            "departure_time": "04:45",
+            "distance_km": 562.0,
+            "sequence_number": 13,
+            "station_code": "TKRI",
+            "station_name": "TIKIRI"
+        },
+        {
+            "arrival_time": "05:08",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 584.0,
+            "sequence_number": 14,
+            "station_code": "LKMR",
+            "station_name": "LAKSHMIPUR ROAD"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 626.0,
+            "sequence_number": 15,
+            "station_code": "DMNJ",
+            "station_name": "DAMAN JODI"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 645.0,
+            "sequence_number": 16,
+            "station_code": "Point(2)",
+            "station_name": "KORAPUT JN. KRPU Train Reversal"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 2,
+            "departure_time": "08:00",
+            "distance_km": 687.0,
+            "sequence_number": 17,
+            "station_code": "JYP",
+            "station_name": "JEYPORE"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 719.0,
+            "sequence_number": 18,
+            "station_code": "KPRR",
+            "station_name": "KOTAPAR ROAD"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 751.0,
+            "sequence_number": 19,
+            "station_code": "JDB",
+            "station_name": "JAGDALPUR"
+        }
+    ],
+    "train_name": "INTERCITY EXP",
+    "train_number": "18107",
+    "type": "MAIL EXPRESS"
+}

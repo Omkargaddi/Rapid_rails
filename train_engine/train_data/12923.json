@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12923.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12923-DADN-NGP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DADN",
+            "station_name": "DR. AMBEDKAR NAGAR"
+        },
+        {
+            "arrival_time": "21:25",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 21.0,
+            "sequence_number": 2,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 1,
+            "departure_time": "22:02",
+            "distance_km": 63.0,
+            "sequence_number": 3,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "22:52",
+            "distance_km": 99.0,
+            "sequence_number": 4,
+            "station_code": "MKC",
+            "station_name": "MAKSI JUNCTION"
+        },
+        {
+            "arrival_time": "23:44",
+            "day_of_journey": 1,
+            "departure_time": "23:46",
+            "distance_km": 161.0,
+            "sequence_number": 5,
+            "station_code": "SJP",
+            "station_name": "SHUJALPUR"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 250.0,
+            "sequence_number": 6,
+            "station_code": "RKMP",
+            "station_name": "RANI KAMALAPATI"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 2,
+            "departure_time": "03:20",
+            "distance_km": 336.0,
+            "sequence_number": 7,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "04:58",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 442.0,
+            "sequence_number": 8,
+            "station_code": "BZU",
+            "station_name": "BETUL"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 465.0,
+            "sequence_number": 9,
+            "station_code": "AMLA",
+            "station_name": "AMLA JN"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:36",
+            "distance_km": 488.0,
+            "sequence_number": 10,
+            "station_code": "MTY",
+            "station_name": "MULTAI"
+        },
+        {
+            "arrival_time": "06:11",
+            "day_of_journey": 2,
+            "departure_time": "06:12",
+            "distance_km": 529.0,
+            "sequence_number": 11,
+            "station_code": "PAR",
+            "station_name": "PANDHURNA"
+        },
+        {
+            "arrival_time": "06:27",
+            "day_of_journey": 2,
+            "departure_time": "06:28",
+            "distance_km": 547.0,
+            "sequence_number": 12,
+            "station_code": "NRKR",
+            "station_name": "NARKHER"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 631.0,
+            "sequence_number": 13,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        }
+    ],
+    "train_name": "DADN TRISHATABDI",
+    "train_number": "12923",
+    "type": "SUPERFAST"
+}

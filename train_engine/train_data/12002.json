@@ -1,0 +1,132 @@
+{
+    "classes_available": [
+        "EC",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12002.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12002-NDLS-RKMP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "07:19",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 141.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 194.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "08:39",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 246.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "DHO",
+            "station_name": "DHAULPUR"
+        },
+        {
+            "arrival_time": "08:57",
+            "day_of_journey": 1,
+            "departure_time": "08:58",
+            "distance_km": 274.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MRA",
+            "station_name": "MORENA"
+        },
+        {
+            "arrival_time": "09:23",
+            "day_of_journey": 1,
+            "departure_time": "09:28",
+            "distance_km": 312.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 1,
+            "departure_time": "10:50",
+            "distance_km": 411.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "11:42",
+            "day_of_journey": 1,
+            "departure_time": "11:43",
+            "distance_km": 499.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "LAR",
+            "station_name": "LALITPUR"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 1,
+            "departure_time": "12:42",
+            "distance_km": 562.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "14:12",
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 701.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 707.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "RKMP",
+            "station_name": "RANI KAMALAPATI"
+        }
+    ],
+    "train_name": "SHATABDI EXPRES",
+    "train_number": "12002",
+    "type": "SHATABDI "
+}

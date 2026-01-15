@@ -1,0 +1,99 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12394.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12394-NDLS-RJPB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "22:22",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 441.0,
+            "sequence_number": 2,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 725.0,
+            "sequence_number": 3,
+            "station_code": "MZP",
+            "station_name": "MIRZAPUR"
+        },
+        {
+            "arrival_time": "03:18",
+            "day_of_journey": 2,
+            "departure_time": "03:25",
+            "distance_km": 788.0,
+            "sequence_number": 4,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "05:13",
+            "day_of_journey": 2,
+            "departure_time": "05:15",
+            "distance_km": 947.0,
+            "sequence_number": 5,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 986.0,
+            "sequence_number": 6,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 996.0,
+            "sequence_number": 7,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 998.0,
+            "sequence_number": 8,
+            "station_code": "RJPB",
+            "station_name": "RAJENDRA NAGAR"
+        }
+    ],
+    "train_name": "SAMPOORAN K EXP",
+    "train_number": "12394",
+    "type": "SUPERFAST"
+}

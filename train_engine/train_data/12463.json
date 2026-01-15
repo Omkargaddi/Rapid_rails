@@ -1,0 +1,97 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12463.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12463-DEE-JU",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:42",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "DEC",
+            "station_name": "DELHI CANTT"
+        },
+        {
+            "arrival_time": "23:31",
+            "day_of_journey": 1,
+            "departure_time": "23:34",
+            "distance_km": 152.0,
+            "sequence_number": 3,
+            "station_code": "AWR",
+            "station_name": "ALWAR JUNCTION"
+        },
+        {
+            "arrival_time": "01:30",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 302.0,
+            "sequence_number": 4,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "03:42",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 422.0,
+            "sequence_number": 5,
+            "station_code": "MKN",
+            "station_name": "MAKRANA JN"
+        },
+        {
+            "arrival_time": "04:17",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 466.0,
+            "sequence_number": 6,
+            "station_code": "DNA",
+            "station_name": "DEGANA JN"
+        },
+        {
+            "arrival_time": "04:55",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 511.0,
+            "sequence_number": 7,
+            "station_code": "MTD",
+            "station_name": "MERTA ROAD JN"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 615.0,
+            "sequence_number": 8,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        }
+    ],
+    "train_name": "RAJ S KRNTI EXP",
+    "train_number": "12463",
+    "type": "SUPERFAST"
+}

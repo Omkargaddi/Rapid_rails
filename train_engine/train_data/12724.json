@@ -1,0 +1,184 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12724.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12724-NDLS-HYB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "17:26",
+            "day_of_journey": 1,
+            "departure_time": "17:31",
+            "distance_km": 141.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "18:05",
+            "day_of_journey": 1,
+            "departure_time": "18:07",
+            "distance_km": 194.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 312.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 1,
+            "departure_time": "21:53",
+            "distance_km": 411.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 701.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 2,
+            "departure_time": "07:15",
+            "distance_km": 1092.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "09:36",
+            "day_of_journey": 2,
+            "departure_time": "09:38",
+            "distance_km": 1287.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "CD",
+            "station_name": "CHANDRAPUR"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 2,
+            "departure_time": "10:45",
+            "distance_km": 1301.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BPQ",
+            "station_name": "BALHARSHAH"
+        },
+        {
+            "arrival_time": "11:38",
+            "day_of_journey": 2,
+            "departure_time": "11:39",
+            "distance_km": 1371.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "SKZR",
+            "station_name": "SIRPUR KAGHAZNAGAR"
+        },
+        {
+            "arrival_time": "12:04",
+            "day_of_journey": 2,
+            "departure_time": "12:05",
+            "distance_km": 1409.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "BPA",
+            "station_name": "BELAMPALLI"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 2,
+            "departure_time": "12:21",
+            "distance_km": 1429.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "MCI",
+            "station_name": "MANCHERAL"
+        },
+        {
+            "arrival_time": "12:31",
+            "day_of_journey": 2,
+            "departure_time": "12:32",
+            "distance_km": 1443.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "RDM",
+            "station_name": "RAMGUNDAM"
+        },
+        {
+            "arrival_time": "13:54",
+            "day_of_journey": 2,
+            "departure_time": "13:55",
+            "distance_km": 1541.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "15:55",
+            "day_of_journey": 2,
+            "departure_time": "16:00",
+            "distance_km": 1671.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "17:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1682.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "HYB",
+            "station_name": "HYDERABAD"
+        }
+    ],
+    "train_name": "TELANGANA EXP",
+    "train_number": "12724",
+    "type": "SUPERFAST "
+}

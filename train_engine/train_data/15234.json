@@ -1,0 +1,127 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15234.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "15234-DBG-KOAA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 88.0,
+            "sequence_number": 3,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 179.0,
+            "sequence_number": 4,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "20:35",
+            "day_of_journey": 1,
+            "departure_time": "20:37",
+            "distance_km": 198.0,
+            "sequence_number": 5,
+            "station_code": "STL",
+            "station_name": "SIMULTALA"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 223.0,
+            "sequence_number": 6,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "22:53",
+            "day_of_journey": 1,
+            "departure_time": "22:58",
+            "distance_km": 334.0,
+            "sequence_number": 7,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "23:32",
+            "day_of_journey": 1,
+            "departure_time": "23:34",
+            "distance_km": 376.0,
+            "sequence_number": 8,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "00:59",
+            "day_of_journey": 2,
+            "departure_time": "01:01",
+            "distance_km": 438.0,
+            "sequence_number": 9,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "02:33",
+            "day_of_journey": 2,
+            "departure_time": "02:34",
+            "distance_km": 529.0,
+            "sequence_number": 10,
+            "station_code": "DAKE",
+            "station_name": "DAKHINESWAR"
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 538.0,
+            "sequence_number": 11,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        }
+    ],
+    "train_name": "DBG KOAA EXPRES",
+    "train_number": "15234",
+    "type": "MAIL EXPRESS"
+}

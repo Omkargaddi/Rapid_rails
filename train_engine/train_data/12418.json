@@ -1,0 +1,80 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12418.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12418-NDLS-SFG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "22:42",
+            "day_of_journey": 1,
+            "departure_time": "22:44",
+            "distance_km": 26.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "23:55",
+            "day_of_journey": 1,
+            "departure_time": "23:57",
+            "distance_km": 132.0,
+            "sequence_number": 3,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 441.0,
+            "sequence_number": 4,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:52",
+            "distance_km": 518.0,
+            "sequence_number": 5,
+            "station_code": "FTP",
+            "station_name": "FATEHPUR"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 631.0,
+            "sequence_number": 6,
+            "station_code": "SFG",
+            "station_name": "SUBEDARGANJ"
+        }
+    ],
+    "train_name": "PRAYAGRAJ EXP",
+    "train_number": "12418",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,93 @@
+{
+    "classes_available": [
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22883.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22883-PURI-YPR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": "16:20",
+            "distance_km": 44.0,
+            "sequence_number": 2,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "17:36",
+            "day_of_journey": 1,
+            "departure_time": "17:38",
+            "distance_km": 169.0,
+            "sequence_number": 3,
+            "station_code": "CAP",
+            "station_name": "CHATRAPUR"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:02",
+            "distance_km": 191.0,
+            "sequence_number": 4,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "18:37",
+            "day_of_journey": 1,
+            "departure_time": "18:39",
+            "distance_km": 233.0,
+            "sequence_number": 5,
+            "station_code": "SPT",
+            "station_name": "SOMPETA"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:22",
+            "distance_km": 265.0,
+            "sequence_number": 6,
+            "station_code": "PSA",
+            "station_name": "PALASA"
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 338.0,
+            "sequence_number": 7,
+            "station_code": "CHE",
+            "station_name": "SRIKAKULAM ROAD"
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1500.0,
+            "sequence_number": 25,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        }
+    ],
+    "train_name": "YPR GARIB RATH",
+    "train_number": "22883",
+    "type": "GARIB RATH"
+}

@@ -1,0 +1,123 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22113.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22113-LTT-TVCN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "17:02",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 54.0,
+            "sequence_number": 3,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 229.0,
+            "sequence_number": 4,
+            "station_code": "KHED",
+            "station_name": "KHED"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 259.0,
+            "sequence_number": 5,
+            "station_code": "CHI",
+            "station_name": "CHIPLUN"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 335.0,
+            "sequence_number": 6,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "16:43",
+            "day_of_journey": 2,
+            "departure_time": "16:44",
+            "distance_km": 1387.0,
+            "sequence_number": 24,
+            "station_code": "TRVL",
+            "station_name": "TIRUVALLA"
+        },
+        {
+            "arrival_time": "16:54",
+            "day_of_journey": 2,
+            "departure_time": "16:56",
+            "distance_km": 1396.0,
+            "sequence_number": 25,
+            "station_code": "CNGR",
+            "station_name": "CHENGANNUR"
+        },
+        {
+            "arrival_time": "17:08",
+            "day_of_journey": 2,
+            "departure_time": "17:10",
+            "distance_km": 1417.0,
+            "sequence_number": 26,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "18:12",
+            "day_of_journey": 2,
+            "departure_time": "18:15",
+            "distance_km": 1457.0,
+            "sequence_number": 27,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1516.0,
+            "sequence_number": 28,
+            "station_code": "TVCN",
+            "station_name": "THIRUVANANTHAPURAM NORTH"
+        }
+    ],
+    "train_name": "LTT KCVL SF EXP",
+    "train_number": "22113",
+    "type": "SUPERFAST"
+}

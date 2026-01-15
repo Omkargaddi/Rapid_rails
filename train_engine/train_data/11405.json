@@ -1,0 +1,214 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11405.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "11405-PUNE-AMI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "23:09",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 28.0,
+            "sequence_number": 2,
+            "station_code": "URI",
+            "station_name": "URULI"
+        },
+        {
+            "arrival_time": "23:29",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 54.0,
+            "sequence_number": 3,
+            "station_code": "KDG",
+            "station_name": "KEDGAON"
+        },
+        {
+            "arrival_time": "00:03",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 75.0,
+            "sequence_number": 4,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 115.0,
+            "sequence_number": 5,
+            "station_code": "JNTR",
+            "station_name": "JINTI ROAD"
+        },
+        {
+            "arrival_time": "01:08",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 150.0,
+            "sequence_number": 6,
+            "station_code": "JEUR",
+            "station_name": "JEUR"
+        },
+        {
+            "arrival_time": "01:33",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 184.0,
+            "sequence_number": 7,
+            "station_code": "KWV",
+            "station_name": "KURDUVADI JN."
+        },
+        {
+            "arrival_time": "02:23",
+            "day_of_journey": 2,
+            "departure_time": "02:25",
+            "distance_km": 221.0,
+            "sequence_number": 8,
+            "station_code": "BTW",
+            "station_name": "BARSI TOWN"
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 258.0,
+            "sequence_number": 9,
+            "station_code": "DRSV",
+            "station_name": "DHARASHIV"
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 347.0,
+            "sequence_number": 10,
+            "station_code": "LUR",
+            "station_name": "LATUR"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 380.0,
+            "sequence_number": 11,
+            "station_code": "LTRR",
+            "station_name": "LATUR ROAD"
+        },
+        {
+            "arrival_time": "07:40",
+            "day_of_journey": 2,
+            "departure_time": "07:50",
+            "distance_km": 443.0,
+            "sequence_number": 12,
+            "station_code": "Point(2)",
+            "station_name": "PARLI VAIJNATH PRLI Train Reversal"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 2,
+            "departure_time": "09:40",
+            "distance_km": 506.0,
+            "sequence_number": 13,
+            "station_code": "PBN",
+            "station_name": "PARBHANI JN"
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 2,
+            "departure_time": "10:40",
+            "distance_km": 535.0,
+            "sequence_number": 14,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "11:09",
+            "day_of_journey": 2,
+            "departure_time": "11:10",
+            "distance_km": 557.0,
+            "sequence_number": 15,
+            "station_code": "BMF",
+            "station_name": "BASMAT"
+        },
+        {
+            "arrival_time": "12:09",
+            "day_of_journey": 2,
+            "departure_time": "12:10",
+            "distance_km": 615.0,
+            "sequence_number": 16,
+            "station_code": "HNL",
+            "station_name": "HINGOLI DECCAN"
+        },
+        {
+            "arrival_time": "13:14",
+            "day_of_journey": 2,
+            "departure_time": "13:15",
+            "distance_km": 663.0,
+            "sequence_number": 17,
+            "station_code": "WHM",
+            "station_name": "WASHIM"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 2,
+            "departure_time": "14:55",
+            "distance_km": 744.0,
+            "sequence_number": 18,
+            "station_code": "Point(3)",
+            "station_name": "AKOLA JN. AK Train Reversal"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 2,
+            "departure_time": "15:32",
+            "distance_km": 782.0,
+            "sequence_number": 19,
+            "station_code": "MZR",
+            "station_name": "MURTAJAPUR JN."
+        },
+        {
+            "arrival_time": "16:47",
+            "day_of_journey": 2,
+            "departure_time": "16:50",
+            "distance_km": 823.0,
+            "sequence_number": 20,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "17:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 832.0,
+            "sequence_number": 21,
+            "station_code": "AMI",
+            "station_name": "AMRAVATI"
+        }
+    ],
+    "train_name": "PUNE AMI EXP",
+    "train_number": "11405",
+    "type": "MAIL EXPRESS"
+}

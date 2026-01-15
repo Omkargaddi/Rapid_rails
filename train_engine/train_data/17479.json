@@ -1,0 +1,150 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17479.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "17479-PURI-TPTY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 44.0,
+            "sequence_number": 2,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 70.0,
+            "sequence_number": 3,
+            "station_code": "NKP",
+            "station_name": "NIRAKARPUR"
+        },
+        {
+            "arrival_time": "20:13",
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 87.0,
+            "sequence_number": 4,
+            "station_code": "KAPG",
+            "station_name": "KALUPARA GHAT"
+        },
+        {
+            "arrival_time": "20:36",
+            "day_of_journey": 1,
+            "departure_time": "20:38",
+            "distance_km": 115.0,
+            "sequence_number": 5,
+            "station_code": "BALU",
+            "station_name": "BALUGAN"
+        },
+        {
+            "arrival_time": "20:51",
+            "day_of_journey": 1,
+            "departure_time": "21:02",
+            "distance_km": 132.0,
+            "sequence_number": 6,
+            "station_code": "KIT",
+            "station_name": "KHALLIKOT"
+        },
+        {
+            "arrival_time": "21:26",
+            "day_of_journey": 1,
+            "departure_time": "21:28",
+            "distance_km": 169.0,
+            "sequence_number": 7,
+            "station_code": "CAP",
+            "station_name": "CHATRAPUR"
+        },
+        {
+            "arrival_time": "21:43",
+            "day_of_journey": 1,
+            "departure_time": "21:48",
+            "distance_km": 191.0,
+            "sequence_number": 8,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 215.0,
+            "sequence_number": 9,
+            "station_code": "IPM",
+            "station_name": "ICHCHPURAM"
+        },
+        {
+            "arrival_time": "22:22",
+            "day_of_journey": 1,
+            "departure_time": "22:24",
+            "distance_km": 233.0,
+            "sequence_number": 10,
+            "station_code": "SPT",
+            "station_name": "SOMPETA"
+        },
+        {
+            "arrival_time": "22:56",
+            "day_of_journey": 1,
+            "departure_time": "22:58",
+            "distance_km": 252.0,
+            "sequence_number": 11,
+            "station_code": "MMS",
+            "station_name": "MANDASA ROAD"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 265.0,
+            "sequence_number": 12,
+            "station_code": "PSA",
+            "station_name": "PALASA"
+        },
+        {
+            "arrival_time": "18:53",
+            "day_of_journey": 2,
+            "departure_time": "18:55",
+            "distance_km": 1221.0,
+            "sequence_number": 59,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "20:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1231.0,
+            "sequence_number": 60,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        }
+    ],
+    "train_name": "PURI TPTY EXP",
+    "train_number": "17479",
+    "type": "MAIL EXPRESS"
+}

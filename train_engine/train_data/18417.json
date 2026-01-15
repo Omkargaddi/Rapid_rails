@@ -1,0 +1,150 @@
+{
+    "classes_available": [
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18417.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18417-PURI-GNPR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        },
+        {
+            "arrival_time": "12:19",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 16.0,
+            "sequence_number": 2,
+            "station_code": "SIL",
+            "station_name": "SAKHI GOPAL"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 1,
+            "departure_time": "12:26",
+            "distance_km": 22.0,
+            "sequence_number": 3,
+            "station_code": "BRST",
+            "station_name": "BIRPURUSOTHAMPR"
+        },
+        {
+            "arrival_time": "12:36",
+            "day_of_journey": 1,
+            "departure_time": "12:37",
+            "distance_km": 28.0,
+            "sequence_number": 4,
+            "station_code": "DEG",
+            "station_name": "DELANG"
+        },
+        {
+            "arrival_time": "12:56",
+            "day_of_journey": 1,
+            "departure_time": "12:57",
+            "distance_km": 33.0,
+            "sequence_number": 5,
+            "station_code": "KASR",
+            "station_name": "KANAS ROAD"
+        },
+        {
+            "arrival_time": "13:01",
+            "day_of_journey": 1,
+            "departure_time": "13:02",
+            "distance_km": 36.0,
+            "sequence_number": 6,
+            "station_code": "MWQ",
+            "station_name": "MOTARI HALT"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 44.0,
+            "sequence_number": 7,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "13:49",
+            "day_of_journey": 1,
+            "departure_time": "13:50",
+            "distance_km": 53.0,
+            "sequence_number": 8,
+            "station_code": "KPXR",
+            "station_name": "KAIPADA ROAD"
+        },
+        {
+            "arrival_time": "13:58",
+            "day_of_journey": 1,
+            "departure_time": "13:59",
+            "distance_km": 62.0,
+            "sequence_number": 9,
+            "station_code": "TAP",
+            "station_name": "TAPANG"
+        },
+        {
+            "arrival_time": "14:05",
+            "day_of_journey": 1,
+            "departure_time": "14:06",
+            "distance_km": 70.0,
+            "sequence_number": 10,
+            "station_code": "NKP",
+            "station_name": "NIRAKARPUR"
+        },
+        {
+            "arrival_time": "14:12",
+            "day_of_journey": 1,
+            "departure_time": "14:13",
+            "distance_km": 77.0,
+            "sequence_number": 11,
+            "station_code": "BSDP",
+            "station_name": "BHUSANDPUR"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 1,
+            "departure_time": "14:21",
+            "distance_km": 87.0,
+            "sequence_number": 12,
+            "station_code": "KAPG",
+            "station_name": "KALUPARA GHAT"
+        },
+        {
+            "arrival_time": "19:51",
+            "day_of_journey": 1,
+            "departure_time": "19:52",
+            "distance_km": 368.0,
+            "sequence_number": 36,
+            "station_code": "BSDR",
+            "station_name": "BANSADHARA PH"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 380.0,
+            "sequence_number": 37,
+            "station_code": "GNPR",
+            "station_name": "GUNUPUR"
+        }
+    ],
+    "train_name": "PURI GNPR EXPRE",
+    "train_number": "18417",
+    "type": "MAIL EXPRESS"
+}

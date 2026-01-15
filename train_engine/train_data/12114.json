@@ -1,0 +1,147 @@
+{
+    "classes_available": [
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12114.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12114-NGP-PUNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "18:07",
+            "day_of_journey": 1,
+            "departure_time": "18:09",
+            "distance_km": 3.0,
+            "sequence_number": 2,
+            "station_code": "AJNI",
+            "station_name": "AJNI"
+        },
+        {
+            "arrival_time": "19:03",
+            "day_of_journey": 1,
+            "departure_time": "19:05",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "WR",
+            "station_name": "WARDHA JN"
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 1,
+            "departure_time": "19:46",
+            "distance_km": 128.0,
+            "sequence_number": 4,
+            "station_code": "DMN",
+            "station_name": "DHAMANGAON"
+        },
+        {
+            "arrival_time": "20:52",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 174.0,
+            "sequence_number": 5,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 253.0,
+            "sequence_number": 6,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "22:23",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 290.0,
+            "sequence_number": 7,
+            "station_code": "SEG",
+            "station_name": "SHEGAON"
+        },
+        {
+            "arrival_time": "22:44",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 315.0,
+            "sequence_number": 8,
+            "station_code": "NN",
+            "station_name": "NANDURA"
+        },
+        {
+            "arrival_time": "23:04",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 342.0,
+            "sequence_number": 9,
+            "station_code": "MKU",
+            "station_name": "MALKAPUR"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 393.0,
+            "sequence_number": 10,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 577.0,
+            "sequence_number": 11,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "05:12",
+            "day_of_journey": 2,
+            "departure_time": "05:15",
+            "distance_km": 730.0,
+            "sequence_number": 12,
+            "station_code": "ANG",
+            "station_name": "AHILYANAGAR"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 2,
+            "departure_time": "07:32",
+            "distance_km": 811.0,
+            "sequence_number": 13,
+            "station_code": "DDCC",
+            "station_name": "DAUND CHORD LINE"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 884.0,
+            "sequence_number": 14,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        }
+    ],
+    "train_name": "PUNE GARIBRATH",
+    "train_number": "12114",
+    "type": "GARIB RATH"
+}

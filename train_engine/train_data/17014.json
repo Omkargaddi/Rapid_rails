@@ -1,0 +1,195 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17014.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "17014-KZJ-HDP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "18:49",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 48.0,
+            "sequence_number": 2,
+            "station_code": "ZN",
+            "station_name": "JANGAON"
+        },
+        {
+            "arrival_time": "19:19",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 85.0,
+            "sequence_number": 3,
+            "station_code": "BG",
+            "station_name": "BHONGIR"
+        },
+        {
+            "arrival_time": "19:49",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 119.0,
+            "sequence_number": 4,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 131.0,
+            "sequence_number": 5,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "20:59",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 135.0,
+            "sequence_number": 6,
+            "station_code": "BMT",
+            "station_name": "BEGAMPET"
+        },
+        {
+            "arrival_time": "21:29",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 154.0,
+            "sequence_number": 7,
+            "station_code": "LPI",
+            "station_name": "LINGAMPALLI"
+        },
+        {
+            "arrival_time": "21:58",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 203.0,
+            "sequence_number": 8,
+            "station_code": "VKB",
+            "station_name": "VIKARABAD JN"
+        },
+        {
+            "arrival_time": "23:04",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 262.0,
+            "sequence_number": 9,
+            "station_code": "ZB",
+            "station_name": "ZAHIRABAD"
+        },
+        {
+            "arrival_time": "23:33",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 294.0,
+            "sequence_number": 10,
+            "station_code": "BIDR",
+            "station_name": "BIDAR"
+        },
+        {
+            "arrival_time": "00:14",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 331.0,
+            "sequence_number": 11,
+            "station_code": "BHLK",
+            "station_name": "BHALKI"
+        },
+        {
+            "arrival_time": "00:54",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 374.0,
+            "sequence_number": 12,
+            "station_code": "UDGR",
+            "station_name": "UDGIR"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 408.0,
+            "sequence_number": 13,
+            "station_code": "LTRR",
+            "station_name": "LATUR ROAD"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 440.0,
+            "sequence_number": 14,
+            "station_code": "LUR",
+            "station_name": "LATUR"
+        },
+        {
+            "arrival_time": "05:07",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 529.0,
+            "sequence_number": 15,
+            "station_code": "DRSV",
+            "station_name": "DHARASHIV"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 2,
+            "departure_time": "06:05",
+            "distance_km": 566.0,
+            "sequence_number": 16,
+            "station_code": "BTW",
+            "station_name": "BARSI TOWN"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 603.0,
+            "sequence_number": 17,
+            "station_code": "KWV",
+            "station_name": "KURDUVADI JN."
+        },
+        {
+            "arrival_time": "09:20",
+            "day_of_journey": 2,
+            "departure_time": "09:25",
+            "distance_km": 712.0,
+            "sequence_number": 18,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 781.0,
+            "sequence_number": 19,
+            "station_code": "HDP",
+            "station_name": "HADAPSAR"
+        }
+    ],
+    "train_name": "KZJ HDP EXPRESS",
+    "train_number": "17014",
+    "type": "MAIL EXPRESS"
+}

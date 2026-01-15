@@ -1,0 +1,158 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "CC",
+        "EC",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16322.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16322-CBE-NCJ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "08:07",
+            "day_of_journey": 1,
+            "departure_time": "08:08",
+            "distance_km": 3.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "CBF",
+            "station_name": "COIMBATORE NORTH JN."
+        },
+        {
+            "arrival_time": "08:14",
+            "day_of_journey": 1,
+            "departure_time": "08:15",
+            "distance_km": 9.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "PLMD",
+            "station_name": "PILAMEDU"
+        },
+        {
+            "arrival_time": "08:19",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 14.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SHI",
+            "station_name": "SINGANALLUR"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 1,
+            "departure_time": "08:26",
+            "distance_km": 18.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "IGU",
+            "station_name": "IRUGUR"
+        },
+        {
+            "arrival_time": "08:32",
+            "day_of_journey": 1,
+            "departure_time": "08:33",
+            "distance_km": 24.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "SUU",
+            "station_name": "SULUR ROAD"
+        },
+        {
+            "arrival_time": "08:41",
+            "day_of_journey": 1,
+            "departure_time": "08:42",
+            "distance_km": 33.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SNO",
+            "station_name": "SOMANUR"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 1,
+            "departure_time": "09:00",
+            "distance_km": 50.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "09:14",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 64.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "UKL",
+            "station_name": "UTTUKULI"
+        },
+        {
+            "arrival_time": "09:29",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 82.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "IGR",
+            "station_name": "INGUR"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 1,
+            "departure_time": "10:00",
+            "distance_km": 101.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "10:19",
+            "day_of_journey": 1,
+            "departure_time": "10:20",
+            "distance_km": 119.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "PAS",
+            "station_name": "PASUR"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 536.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "NCJ",
+            "station_name": "NAGERCOIL JUNCTION"
+        }
+    ],
+    "train_name": "CBE-NCJ EXP",
+    "train_number": "16322",
+    "type": "MAIL EXPRESS "
+}

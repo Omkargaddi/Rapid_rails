@@ -1,0 +1,140 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12717.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12717-VSKP-BZA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        },
+        {
+            "arrival_time": "13:20",
+            "day_of_journey": 1,
+            "departure_time": "13:22",
+            "distance_km": 18.0,
+            "sequence_number": 2,
+            "station_code": "DVD",
+            "station_name": "DUVVADA"
+        },
+        {
+            "arrival_time": "13:39",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "AKP",
+            "station_name": "ANAKAPALLE"
+        },
+        {
+            "arrival_time": "14:23",
+            "day_of_journey": 1,
+            "departure_time": "14:25",
+            "distance_km": 97.0,
+            "sequence_number": 4,
+            "station_code": "TUNI",
+            "station_name": "TUNI"
+        },
+        {
+            "arrival_time": "14:39",
+            "day_of_journey": 1,
+            "departure_time": "14:40",
+            "distance_km": 114.0,
+            "sequence_number": 5,
+            "station_code": "ANV",
+            "station_name": "ANNAVARAM"
+        },
+        {
+            "arrival_time": "15:04",
+            "day_of_journey": 1,
+            "departure_time": "15:05",
+            "distance_km": 151.0,
+            "sequence_number": 6,
+            "station_code": "SLO",
+            "station_name": "SAMALKOT JN"
+        },
+        {
+            "arrival_time": "15:29",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 177.0,
+            "sequence_number": 7,
+            "station_code": "APT",
+            "station_name": "ANAPARTI"
+        },
+        {
+            "arrival_time": "15:53",
+            "day_of_journey": 1,
+            "departure_time": "15:55",
+            "distance_km": 201.0,
+            "sequence_number": 8,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "16:29",
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 223.0,
+            "sequence_number": 9,
+            "station_code": "NDD",
+            "station_name": "NIDADAVOLU JN"
+        },
+        {
+            "arrival_time": "16:49",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 243.0,
+            "sequence_number": 10,
+            "station_code": "TDD",
+            "station_name": "TADEPALLIGUDEM"
+        },
+        {
+            "arrival_time": "17:29",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 291.0,
+            "sequence_number": 11,
+            "station_code": "EE",
+            "station_name": "ELURU"
+        },
+        {
+            "arrival_time": "17:49",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 309.0,
+            "sequence_number": 12,
+            "station_code": "NZD",
+            "station_name": "NUZVID"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 350.0,
+            "sequence_number": 13,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        }
+    ],
+    "train_name": "RATNANCHAL SF EX",
+    "train_number": "12717",
+    "type": "SUPERFAST"
+}

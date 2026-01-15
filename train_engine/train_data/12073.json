@@ -1,0 +1,132 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12073.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12073-HWH-BBS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:25",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": "15:05",
+            "distance_km": 116.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "15:31",
+            "day_of_journey": 1,
+            "departure_time": "15:32",
+            "distance_km": 157.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BLDA",
+            "station_name": "BELDA"
+        },
+        {
+            "arrival_time": "15:51",
+            "day_of_journey": 1,
+            "departure_time": "15:53",
+            "distance_km": 190.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "JER",
+            "station_name": "JALESWAR"
+        },
+        {
+            "arrival_time": "16:31",
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 237.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "16:58",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 270.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "SORO",
+            "station_name": "SORO"
+        },
+        {
+            "arrival_time": "17:30",
+            "day_of_journey": 1,
+            "departure_time": "17:32",
+            "distance_km": 296.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BHC",
+            "station_name": "BHADRAKH"
+        },
+        {
+            "arrival_time": "18:03",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 339.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "JJKR",
+            "station_name": "JAJPUR K ROAD"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 347.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "JKPR",
+            "station_name": "JAKHAPURA"
+        },
+        {
+            "arrival_time": "19:03",
+            "day_of_journey": 1,
+            "departure_time": "19:05",
+            "distance_km": 411.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 439.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        }
+    ],
+    "train_name": "BBS JANSHATABDI",
+    "train_number": "12073",
+    "type": "JAN SHATABDI "
+}

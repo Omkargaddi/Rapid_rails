@@ -1,0 +1,157 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12070.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12070-G-RIG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "15:23",
+            "day_of_journey": 1,
+            "departure_time": "15:25",
+            "distance_km": 73.0,
+            "sequence_number": 2,
+            "station_code": "DGG",
+            "station_name": "DONGARGARH"
+        },
+        {
+            "arrival_time": "15:43",
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 104.0,
+            "sequence_number": 3,
+            "station_code": "RJN",
+            "station_name": "RAJNANDGAON"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 135.0,
+            "sequence_number": 4,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 172.0,
+            "sequence_number": 5,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 209.0,
+            "sequence_number": 6,
+            "station_code": "TLD",
+            "station_name": "TILDA"
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 1,
+            "departure_time": "18:37",
+            "distance_km": 235.0,
+            "sequence_number": 7,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "19:35",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 287.0,
+            "sequence_number": 8,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "20:07",
+            "day_of_journey": 1,
+            "departure_time": "20:09",
+            "distance_km": 314.0,
+            "sequence_number": 9,
+            "station_code": "AKT",
+            "station_name": "AKALTARA"
+        },
+        {
+            "arrival_time": "20:22",
+            "day_of_journey": 1,
+            "departure_time": "20:24",
+            "distance_km": 329.0,
+            "sequence_number": 10,
+            "station_code": "NIA",
+            "station_name": "JANJGIR NAILA"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 340.0,
+            "sequence_number": 11,
+            "station_code": "CPH",
+            "station_name": "CHAMPA"
+        },
+        {
+            "arrival_time": "20:56",
+            "day_of_journey": 1,
+            "departure_time": "20:58",
+            "distance_km": 356.0,
+            "sequence_number": 12,
+            "station_code": "BUA",
+            "station_name": "BARADWAR"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:12",
+            "distance_km": 370.0,
+            "sequence_number": 13,
+            "station_code": "SKT",
+            "station_name": "SAKTI"
+        },
+        {
+            "arrival_time": "21:25",
+            "day_of_journey": 1,
+            "departure_time": "21:27",
+            "distance_km": 386.0,
+            "sequence_number": 14,
+            "station_code": "KHS",
+            "station_name": "KHARSIA"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 420.0,
+            "sequence_number": 15,
+            "station_code": "RIG",
+            "station_name": "RAIGARH"
+        }
+    ],
+    "train_name": "JANSHATABDI EXP",
+    "train_number": "12070",
+    "type": "JAN SHATABDI"
+}

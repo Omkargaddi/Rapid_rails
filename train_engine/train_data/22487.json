@@ -1,0 +1,85 @@
+{
+    "classes_available": [
+        "EC",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22487.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22487-DLI-ASR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "17:27",
+            "day_of_journey": 1,
+            "departure_time": "17:29",
+            "distance_km": 197.0,
+            "sequence_number": 2,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "18:36",
+            "day_of_journey": 1,
+            "departure_time": "18:38",
+            "distance_km": 311.0,
+            "sequence_number": 3,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "19:06",
+            "day_of_journey": 1,
+            "departure_time": "19:08",
+            "distance_km": 347.0,
+            "sequence_number": 4,
+            "station_code": "PGW",
+            "station_name": "PHAGWARA JN"
+        },
+        {
+            "arrival_time": "19:24",
+            "day_of_journey": 1,
+            "departure_time": "19:26",
+            "distance_km": 363.0,
+            "sequence_number": 5,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 404.0,
+            "sequence_number": 6,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "20:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 446.0,
+            "sequence_number": 7,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        }
+    ],
+    "train_name": "VANDE BHARAT EXP",
+    "train_number": "22487",
+    "type": "VANDE BHARAT"
+}

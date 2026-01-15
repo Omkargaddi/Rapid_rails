@@ -1,0 +1,234 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12495.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12495-BKN-KOAA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BKN",
+            "station_name": "BIKANER JN"
+        },
+        {
+            "arrival_time": "06:44",
+            "day_of_journey": 1,
+            "departure_time": "06:46",
+            "distance_km": 65.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "NOK",
+            "station_name": "NOKHA"
+        },
+        {
+            "arrival_time": "07:17",
+            "day_of_journey": 1,
+            "departure_time": "07:22",
+            "distance_km": 117.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "NGO",
+            "station_name": "NAGAUR"
+        },
+        {
+            "arrival_time": "08:39",
+            "day_of_journey": 1,
+            "departure_time": "08:42",
+            "distance_km": 219.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "DNA",
+            "station_name": "DEGANA JN"
+        },
+        {
+            "arrival_time": "09:12",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 263.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MKN",
+            "station_name": "MAKRANA JN"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 1,
+            "departure_time": "11:35",
+            "distance_km": 382.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "13:03",
+            "day_of_journey": 1,
+            "departure_time": "13:05",
+            "distance_km": 473.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BKI",
+            "station_name": "BANDIKUI JN"
+        },
+        {
+            "arrival_time": "14:05",
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 570.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BTE",
+            "station_name": "BHARATPUR JN"
+        },
+        {
+            "arrival_time": "14:36",
+            "day_of_journey": 1,
+            "departure_time": "14:38",
+            "distance_km": 597.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "AH",
+            "station_name": "ACHHNERA JN"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 623.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "AF",
+            "station_name": "AGRA FORT"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 645.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 877.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 1071.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 2,
+            "departure_time": "02:25",
+            "distance_km": 1224.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 1428.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "06:24",
+            "day_of_journey": 2,
+            "departure_time": "06:26",
+            "distance_km": 1504.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "KQR",
+            "station_name": "KODERMA"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 2,
+            "departure_time": "08:45",
+            "distance_km": 1627.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "09:44",
+            "day_of_journey": 2,
+            "departure_time": "09:49",
+            "distance_km": 1684.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "10:17",
+            "day_of_journey": 2,
+            "departure_time": "10:19",
+            "distance_km": 1726.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "11:13",
+            "day_of_journey": 2,
+            "departure_time": "11:15",
+            "distance_km": 1789.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1889.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        }
+    ],
+    "train_name": "PRATAP EXPRESS",
+    "train_number": "12495",
+    "type": "SUPERFAST "
+}

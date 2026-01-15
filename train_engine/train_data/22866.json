@@ -1,0 +1,197 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22866.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22866-PURI-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        },
+        {
+            "arrival_time": "06:45",
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 44.0,
+            "sequence_number": 2,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 63.0,
+            "sequence_number": 3,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 90.0,
+            "sequence_number": 4,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 1,
+            "departure_time": "08:47",
+            "distance_km": 148.0,
+            "sequence_number": 5,
+            "station_code": "DNKL",
+            "station_name": "DHENKANAL"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 1,
+            "departure_time": "09:32",
+            "distance_km": 196.0,
+            "sequence_number": 6,
+            "station_code": "TLHD",
+            "station_name": "TALCHER ROAD"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 1,
+            "departure_time": "09:57",
+            "distance_km": 208.0,
+            "sequence_number": 7,
+            "station_code": "ANGL",
+            "station_name": "ANGUL"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 1,
+            "departure_time": "12:35",
+            "distance_km": 364.0,
+            "sequence_number": 8,
+            "station_code": "SBP",
+            "station_name": "SAMBALPUR JN."
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 1,
+            "departure_time": "13:35",
+            "distance_km": 411.0,
+            "sequence_number": 9,
+            "station_code": "JSGR",
+            "station_name": "JHARSUGUDA ROAD"
+        },
+        {
+            "arrival_time": "14:03",
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 422.0,
+            "sequence_number": 10,
+            "station_code": "BRJN",
+            "station_name": "BRAJRAJNAGAR"
+        },
+        {
+            "arrival_time": "14:53",
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 482.0,
+            "sequence_number": 11,
+            "station_code": "RIG",
+            "station_name": "RAIGARH"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 615.0,
+            "sequence_number": 12,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 731.0,
+            "sequence_number": 13,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "00:00",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 1034.0,
+            "sequence_number": 14,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "01:03",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 1112.0,
+            "sequence_number": 15,
+            "station_code": "WR",
+            "station_name": "WARDHA JN"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 1427.0,
+            "sequence_number": 16,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 2,
+            "departure_time": "08:12",
+            "distance_km": 1611.0,
+            "sequence_number": 17,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "12:17",
+            "day_of_journey": 2,
+            "departure_time": "12:20",
+            "distance_km": 1838.0,
+            "sequence_number": 18,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1854.0,
+            "sequence_number": 19,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "PURI LTT S F",
+    "train_number": "22866",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14714.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "14714-DEE-SIKR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        },
+        {
+            "arrival_time": "06:53",
+            "day_of_journey": 1,
+            "departure_time": "06:55",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "DEC",
+            "station_name": "DELHI CANTT"
+        },
+        {
+            "arrival_time": "07:11",
+            "day_of_journey": 1,
+            "departure_time": "07:13",
+            "distance_km": 27.0,
+            "sequence_number": 3,
+            "station_code": "GGN",
+            "station_name": "GURGAON"
+        },
+        {
+            "arrival_time": "08:03",
+            "day_of_journey": 1,
+            "departure_time": "08:05",
+            "distance_km": 78.0,
+            "sequence_number": 4,
+            "station_code": "RE",
+            "station_name": "REWARI JN."
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 1,
+            "departure_time": "08:32",
+            "distance_km": 102.0,
+            "sequence_number": 5,
+            "station_code": "DZB",
+            "station_name": "DAHINA ZAINABAD"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 1,
+            "departure_time": "08:55",
+            "distance_km": 128.0,
+            "sequence_number": 6,
+            "station_code": "MHRG",
+            "station_name": "MAHENDRAGARH"
+        },
+        {
+            "arrival_time": "10:10",
+            "day_of_journey": 1,
+            "departure_time": "10:35",
+            "distance_km": 169.0,
+            "sequence_number": 7,
+            "station_code": "LHU",
+            "station_name": "LOHARU"
+        },
+        {
+            "arrival_time": "10:52",
+            "day_of_journey": 1,
+            "departure_time": "10:54",
+            "distance_km": 187.0,
+            "sequence_number": 8,
+            "station_code": "SRGH",
+            "station_name": "SURAJGARH"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": "11:07",
+            "distance_km": 198.0,
+            "sequence_number": 9,
+            "station_code": "CRWA",
+            "station_name": "CHIRAWA"
+        },
+        {
+            "arrival_time": "11:36",
+            "day_of_journey": 1,
+            "departure_time": "11:38",
+            "distance_km": 227.0,
+            "sequence_number": 10,
+            "station_code": "JJN",
+            "station_name": "JHUNJHUNU"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 253.0,
+            "sequence_number": 11,
+            "station_code": "DOB",
+            "station_name": "DUNDLOD MUKANDGARH"
+        },
+        {
+            "arrival_time": "12:11",
+            "day_of_journey": 1,
+            "departure_time": "12:13",
+            "distance_km": 264.0,
+            "sequence_number": 12,
+            "station_code": "NWH",
+            "station_name": "NAWALGARH"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 291.0,
+            "sequence_number": 13,
+            "station_code": "SIKR",
+            "station_name": "SIKAR JN"
+        }
+    ],
+    "train_name": "DEE SIKR EXP",
+    "train_number": "14714",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,260 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19202.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "19202-AYC-BVC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AYC",
+            "station_name": "AYODHYA CANTT"
+        },
+        {
+            "arrival_time": "00:06",
+            "day_of_journey": 2,
+            "departure_time": "00:08",
+            "distance_km": 99.0,
+            "sequence_number": 2,
+            "station_code": "BBK",
+            "station_name": "BARABANKI JN"
+        },
+        {
+            "arrival_time": "01:30",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 127.0,
+            "sequence_number": 3,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "03:25",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 201.0,
+            "sequence_number": 4,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "06:45",
+            "day_of_journey": 2,
+            "departure_time": "06:50",
+            "distance_km": 432.0,
+            "sequence_number": 5,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 2,
+            "departure_time": "07:40",
+            "distance_km": 457.0,
+            "sequence_number": 6,
+            "station_code": "IDH",
+            "station_name": "IDGAH JN"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 2,
+            "departure_time": "09:30",
+            "distance_km": 508.0,
+            "sequence_number": 7,
+            "station_code": "BTE",
+            "station_name": "BHARATPUR JN"
+        },
+        {
+            "arrival_time": "11:40",
+            "day_of_journey": 2,
+            "departure_time": "11:42",
+            "distance_km": 605.0,
+            "sequence_number": 8,
+            "station_code": "BKI",
+            "station_name": "BANDIKUI JN"
+        },
+        {
+            "arrival_time": "12:44",
+            "day_of_journey": 2,
+            "departure_time": "12:47",
+            "distance_km": 690.0,
+            "sequence_number": 9,
+            "station_code": "GADJ",
+            "station_name": "GANDHINAGAR JAIPUR"
+        },
+        {
+            "arrival_time": "13:10",
+            "day_of_journey": 2,
+            "departure_time": "13:20",
+            "distance_km": 695.0,
+            "sequence_number": 10,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "14:38",
+            "day_of_journey": 2,
+            "departure_time": "14:40",
+            "distance_km": 805.0,
+            "sequence_number": 11,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 2,
+            "departure_time": "15:35",
+            "distance_km": 830.0,
+            "sequence_number": 12,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "16:18",
+            "day_of_journey": 2,
+            "departure_time": "16:20",
+            "distance_km": 882.0,
+            "sequence_number": 13,
+            "station_code": "BER",
+            "station_name": "BEAWAR"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 2,
+            "departure_time": "17:40",
+            "distance_km": 969.0,
+            "sequence_number": 14,
+            "station_code": "MJ",
+            "station_name": "MARWAR JN"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 2,
+            "departure_time": "18:22",
+            "distance_km": 1036.0,
+            "sequence_number": 15,
+            "station_code": "FA",
+            "station_name": "FALNA"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 2,
+            "departure_time": "20:40",
+            "distance_km": 1134.0,
+            "sequence_number": 16,
+            "station_code": "ABR",
+            "station_name": "ABU ROAD"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 2,
+            "departure_time": "21:57",
+            "distance_km": 1187.0,
+            "sequence_number": 17,
+            "station_code": "PNU",
+            "station_name": "PALANPUR JN"
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 2,
+            "departure_time": "22:45",
+            "distance_km": 1252.0,
+            "sequence_number": 18,
+            "station_code": "MSH",
+            "station_name": "MAHESANA JN"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 3,
+            "departure_time": "00:03",
+            "distance_km": 1317.0,
+            "sequence_number": 19,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "01:24",
+            "day_of_journey": 3,
+            "departure_time": "01:25",
+            "distance_km": 1383.0,
+            "sequence_number": 20,
+            "station_code": "SRGT",
+            "station_name": "SURENDRANAGAR G"
+        },
+        {
+            "arrival_time": "01:44",
+            "day_of_journey": 3,
+            "departure_time": "01:45",
+            "distance_km": 1409.0,
+            "sequence_number": 21,
+            "station_code": "LM",
+            "station_name": "LIMBDI"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 3,
+            "departure_time": "02:35",
+            "distance_km": 1458.0,
+            "sequence_number": 22,
+            "station_code": "BTD",
+            "station_name": "BOTAD JN"
+        },
+        {
+            "arrival_time": "03:10",
+            "day_of_journey": 3,
+            "departure_time": "03:11",
+            "distance_km": 1501.0,
+            "sequence_number": 23,
+            "station_code": "DLJ",
+            "station_name": "DHOLA JN"
+        },
+        {
+            "arrival_time": "03:34",
+            "day_of_journey": 3,
+            "departure_time": "03:35",
+            "distance_km": 1529.0,
+            "sequence_number": 24,
+            "station_code": "SOJN",
+            "station_name": "SIHOR GUJARAT"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 3,
+            "departure_time": "03:56",
+            "distance_km": 1547.0,
+            "sequence_number": 25,
+            "station_code": "BVP",
+            "station_name": "BHAVANAGAR PARA"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1550.0,
+            "sequence_number": 26,
+            "station_code": "BVC",
+            "station_name": "BHAVNAGAR TERMINUS"
+        }
+    ],
+    "train_name": "AYC BVC EXPRESS",
+    "train_number": "19202",
+    "type": "MAIL EXPRESS"
+}

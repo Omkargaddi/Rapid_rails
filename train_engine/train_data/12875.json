@@ -1,0 +1,216 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12875.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12875-PURI-ANVT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        },
+        {
+            "arrival_time": "11:19",
+            "day_of_journey": 1,
+            "departure_time": "11:21",
+            "distance_km": 16.0,
+            "sequence_number": 2,
+            "station_code": "SIL",
+            "station_name": "SAKHI GOPAL"
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 44.0,
+            "sequence_number": 3,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 63.0,
+            "sequence_number": 4,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 1,
+            "departure_time": "12:55",
+            "distance_km": 90.0,
+            "sequence_number": 5,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "13:44",
+            "day_of_journey": 1,
+            "departure_time": "13:46",
+            "distance_km": 162.0,
+            "sequence_number": 6,
+            "station_code": "JJKR",
+            "station_name": "JAJPUR K ROAD"
+        },
+        {
+            "arrival_time": "14:38",
+            "day_of_journey": 1,
+            "departure_time": "14:40",
+            "distance_km": 206.0,
+            "sequence_number": 7,
+            "station_code": "BHC",
+            "station_name": "BHADRAKH"
+        },
+        {
+            "arrival_time": "15:03",
+            "day_of_journey": 1,
+            "departure_time": "15:05",
+            "distance_km": 231.0,
+            "sequence_number": 8,
+            "station_code": "SORO",
+            "station_name": "SORO"
+        },
+        {
+            "arrival_time": "15:23",
+            "day_of_journey": 1,
+            "departure_time": "15:28",
+            "distance_km": 265.0,
+            "sequence_number": 9,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 312.0,
+            "sequence_number": 10,
+            "station_code": "JER",
+            "station_name": "JALESWAR"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 377.0,
+            "sequence_number": 11,
+            "station_code": "HIJ",
+            "station_name": "HIJLI"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:42",
+            "distance_km": 414.0,
+            "sequence_number": 12,
+            "station_code": "JGM",
+            "station_name": "JHARGRAM"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 2,
+            "departure_time": "14:45",
+            "distance_km": 1448.0,
+            "sequence_number": 36,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "15:15",
+            "day_of_journey": 2,
+            "departure_time": "15:20",
+            "distance_km": 1465.0,
+            "sequence_number": 37,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 2,
+            "departure_time": "16:50",
+            "distance_km": 1604.0,
+            "sequence_number": 38,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 2,
+            "departure_time": "17:37",
+            "distance_km": 1680.0,
+            "sequence_number": 39,
+            "station_code": "FZD",
+            "station_name": "FIROZABAD"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 2,
+            "departure_time": "18:12",
+            "distance_km": 1696.0,
+            "sequence_number": 40,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "18:43",
+            "day_of_journey": 2,
+            "departure_time": "18:45",
+            "distance_km": 1744.0,
+            "sequence_number": 41,
+            "station_code": "HRS",
+            "station_name": "HATHRAS JN"
+        },
+        {
+            "arrival_time": "19:08",
+            "day_of_journey": 2,
+            "departure_time": "19:10",
+            "distance_km": 1774.0,
+            "sequence_number": 42,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 2,
+            "departure_time": "20:45",
+            "distance_km": 1880.0,
+            "sequence_number": 43,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1893.0,
+            "sequence_number": 44,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        }
+    ],
+    "train_name": "NEELACHAL SF EX",
+    "train_number": "12875",
+    "type": "SUPERFAST"
+}

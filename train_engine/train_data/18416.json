@@ -1,0 +1,141 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18416.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18416-PURI-BBN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        },
+        {
+            "arrival_time": "06:34",
+            "day_of_journey": 1,
+            "departure_time": "06:35",
+            "distance_km": 16.0,
+            "sequence_number": 2,
+            "station_code": "SIL",
+            "station_name": "SAKHI GOPAL"
+        },
+        {
+            "arrival_time": "06:48",
+            "day_of_journey": 1,
+            "departure_time": "06:49",
+            "distance_km": 28.0,
+            "sequence_number": 3,
+            "station_code": "DEG",
+            "station_name": "DELANG"
+        },
+        {
+            "arrival_time": "07:05",
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 44.0,
+            "sequence_number": 4,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 63.0,
+            "sequence_number": 5,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 1,
+            "departure_time": "08:15",
+            "distance_km": 90.0,
+            "sequence_number": 6,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "13:11",
+            "day_of_journey": 1,
+            "departure_time": "13:12",
+            "distance_km": 333.0,
+            "sequence_number": 24,
+            "station_code": "BSPX",
+            "station_name": "BANSPANI"
+        },
+        {
+            "arrival_time": "13:26",
+            "day_of_journey": 1,
+            "departure_time": "13:27",
+            "distance_km": 341.0,
+            "sequence_number": 25,
+            "station_code": "MMVR",
+            "station_name": "MURGA MAHADEV ROAD"
+        },
+        {
+            "arrival_time": "13:38",
+            "day_of_journey": 1,
+            "departure_time": "13:39",
+            "distance_km": 344.0,
+            "sequence_number": 26,
+            "station_code": "DJHR",
+            "station_name": "DEOJHAR"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 367.0,
+            "sequence_number": 27,
+            "station_code": "DPS",
+            "station_name": "DANGOAPOSI"
+        },
+        {
+            "arrival_time": "15:18",
+            "day_of_journey": 1,
+            "departure_time": "15:19",
+            "distance_km": 376.0,
+            "sequence_number": 28,
+            "station_code": "NOMD",
+            "station_name": "NOAMUNDI"
+        },
+        {
+            "arrival_time": "15:37",
+            "day_of_journey": 1,
+            "departure_time": "15:38",
+            "distance_km": 389.0,
+            "sequence_number": 29,
+            "station_code": "BJMD",
+            "station_name": "BARA JAMDA"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 399.0,
+            "sequence_number": 30,
+            "station_code": "BBN",
+            "station_name": "BARBIL"
+        }
+    ],
+    "train_name": "PURI BBN EXP",
+    "train_number": "18416",
+    "type": "MAIL EXPRESS"
+}

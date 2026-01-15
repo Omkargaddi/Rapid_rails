@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12906.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12906-SHM-PBR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SHM",
+            "station_name": "SHALIMAR"
+        },
+        {
+            "arrival_time": "20:28",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 114.0,
+            "sequence_number": 3,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 248.0,
+            "sequence_number": 4,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 310.0,
+            "sequence_number": 5,
+            "station_code": "CKP",
+            "station_name": "CHAKARADHARPUR"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:38",
+            "distance_km": 411.0,
+            "sequence_number": 6,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "05:55",
+            "day_of_journey": 3,
+            "departure_time": "06:05",
+            "distance_km": 2092.0,
+            "sequence_number": 24,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "07:26",
+            "day_of_journey": 3,
+            "departure_time": "07:28",
+            "distance_km": 2157.0,
+            "sequence_number": 25,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "08:41",
+            "day_of_journey": 3,
+            "departure_time": "08:43",
+            "distance_km": 2222.0,
+            "sequence_number": 26,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 3,
+            "departure_time": "10:40",
+            "distance_km": 2338.0,
+            "sequence_number": 27,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "11:47",
+            "day_of_journey": 3,
+            "departure_time": "11:49",
+            "distance_km": 2411.0,
+            "sequence_number": 28,
+            "station_code": "HAPA",
+            "station_name": "HAPA"
+        },
+        {
+            "arrival_time": "12:01",
+            "day_of_journey": 3,
+            "departure_time": "12:06",
+            "distance_km": 2419.0,
+            "sequence_number": 29,
+            "station_code": "JAM",
+            "station_name": "JAMNAGAR"
+        },
+        {
+            "arrival_time": "13:19",
+            "day_of_journey": 3,
+            "departure_time": "13:20",
+            "distance_km": 2470.0,
+            "sequence_number": 30,
+            "station_code": "LPJ",
+            "station_name": "LALPUR JAM"
+        },
+        {
+            "arrival_time": "13:52",
+            "day_of_journey": 3,
+            "departure_time": "13:53",
+            "distance_km": 2506.0,
+            "sequence_number": 31,
+            "station_code": "BNVD",
+            "station_name": "BHANVAD"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2558.0,
+            "sequence_number": 32,
+            "station_code": "PBR",
+            "station_name": "PORBANDAR"
+        }
+    ],
+    "train_name": "SHM PBR SUF EXP",
+    "train_number": "12906",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,196 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17610.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "17610-PAU-PNBE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "14:37",
+            "day_of_journey": 1,
+            "departure_time": "14:42",
+            "distance_km": 30.0,
+            "sequence_number": 2,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        },
+        {
+            "arrival_time": "16:10",
+            "day_of_journey": 1,
+            "departure_time": "16:11",
+            "distance_km": 121.0,
+            "sequence_number": 3,
+            "station_code": "HEM",
+            "station_name": "HIMAYATNAGAR"
+        },
+        {
+            "arrival_time": "16:25",
+            "day_of_journey": 1,
+            "departure_time": "16:26",
+            "distance_km": 136.0,
+            "sequence_number": 4,
+            "station_code": "SHSK",
+            "station_name": "SAHARSRAKUND"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "16:51",
+            "distance_km": 181.0,
+            "sequence_number": 5,
+            "station_code": "KNVT",
+            "station_name": "KINWAT"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 226.0,
+            "sequence_number": 6,
+            "station_code": "ADB",
+            "station_name": "ADILABAD"
+        },
+        {
+            "arrival_time": "20:27",
+            "day_of_journey": 1,
+            "departure_time": "20:29",
+            "distance_km": 312.0,
+            "sequence_number": 7,
+            "station_code": "WANI",
+            "station_name": "WANI"
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 1,
+            "departure_time": "21:22",
+            "distance_km": 326.0,
+            "sequence_number": 8,
+            "station_code": "MJRI",
+            "station_name": "MAJRI JN"
+        },
+        {
+            "arrival_time": "21:34",
+            "day_of_journey": 1,
+            "departure_time": "21:35",
+            "distance_km": 338.0,
+            "sequence_number": 9,
+            "station_code": "WRR",
+            "station_name": "WARORA"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 486.0,
+            "sequence_number": 10,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 782.0,
+            "sequence_number": 11,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 2,
+            "departure_time": "08:35",
+            "distance_km": 1027.0,
+            "sequence_number": 12,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": "09:55",
+            "distance_km": 1118.0,
+            "sequence_number": 13,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 2,
+            "departure_time": "11:40",
+            "distance_km": 1216.0,
+            "sequence_number": 14,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "15:43",
+            "day_of_journey": 2,
+            "departure_time": "15:45",
+            "distance_km": 1385.0,
+            "sequence_number": 15,
+            "station_code": "PCOI",
+            "station_name": "PRAYAGRAJ CHHEOKI"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 2,
+            "departure_time": "19:40",
+            "distance_km": 1529.0,
+            "sequence_number": 16,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "20:49",
+            "day_of_journey": 2,
+            "departure_time": "20:51",
+            "distance_km": 1619.0,
+            "sequence_number": 17,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "21:58",
+            "day_of_journey": 2,
+            "departure_time": "22:00",
+            "distance_km": 1688.0,
+            "sequence_number": 18,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "23:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1737.0,
+            "sequence_number": 19,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        }
+    ],
+    "train_name": "PAU PNBE EXP",
+    "train_number": "17610",
+    "type": "MAIL EXPRESS"
+}

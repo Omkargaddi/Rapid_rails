@@ -1,0 +1,197 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15018.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15018-GKP-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 1,
+            "departure_time": "06:20",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "CC",
+            "station_name": "CHAURI CHAURA"
+        },
+        {
+            "arrival_time": "06:43",
+            "day_of_journey": 1,
+            "departure_time": "06:48",
+            "distance_km": 50.0,
+            "sequence_number": 3,
+            "station_code": "DEOS",
+            "station_name": "DEORIA SADAR"
+        },
+        {
+            "arrival_time": "07:08",
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 71.0,
+            "sequence_number": 4,
+            "station_code": "BTT",
+            "station_name": "BHATNI JN"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 1,
+            "departure_time": "07:27",
+            "distance_km": 81.0,
+            "sequence_number": 5,
+            "station_code": "SRU",
+            "station_name": "SALEMPUR JN"
+        },
+        {
+            "arrival_time": "07:39",
+            "day_of_journey": 1,
+            "departure_time": "07:41",
+            "distance_km": 91.0,
+            "sequence_number": 6,
+            "station_code": "LRD",
+            "station_name": "LAR ROAD"
+        },
+        {
+            "arrival_time": "08:43",
+            "day_of_journey": 2,
+            "departure_time": "08:45",
+            "distance_km": 1250.0,
+            "sequence_number": 58,
+            "station_code": "RV",
+            "station_name": "RAVER"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 2,
+            "departure_time": "09:30",
+            "distance_km": 1284.0,
+            "sequence_number": 59,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "09:53",
+            "day_of_journey": 2,
+            "departure_time": "09:55",
+            "distance_km": 1309.0,
+            "sequence_number": 60,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 2,
+            "departure_time": "10:27",
+            "distance_km": 1356.0,
+            "sequence_number": 61,
+            "station_code": "PC",
+            "station_name": "PACHORA JN"
+        },
+        {
+            "arrival_time": "11:03",
+            "day_of_journey": 2,
+            "departure_time": "11:05",
+            "distance_km": 1401.0,
+            "sequence_number": 62,
+            "station_code": "CSN",
+            "station_name": "CHALISGAON JN"
+        },
+        {
+            "arrival_time": "11:34",
+            "day_of_journey": 2,
+            "departure_time": "11:35",
+            "distance_km": 1443.0,
+            "sequence_number": 63,
+            "station_code": "NGN",
+            "station_name": "NANDGAON"
+        },
+        {
+            "arrival_time": "12:08",
+            "day_of_journey": 2,
+            "departure_time": "12:10",
+            "distance_km": 1468.0,
+            "sequence_number": 64,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "12:28",
+            "day_of_journey": 2,
+            "departure_time": "12:30",
+            "distance_km": 1493.0,
+            "sequence_number": 65,
+            "station_code": "LS",
+            "station_name": "LASALGAON"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 2,
+            "departure_time": "13:20",
+            "distance_km": 1542.0,
+            "sequence_number": 66,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "14:32",
+            "day_of_journey": 2,
+            "departure_time": "14:37",
+            "distance_km": 1592.0,
+            "sequence_number": 67,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "16:17",
+            "day_of_journey": 2,
+            "departure_time": "16:20",
+            "distance_km": 1675.0,
+            "sequence_number": 68,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "16:42",
+            "day_of_journey": 2,
+            "departure_time": "16:45",
+            "distance_km": 1696.0,
+            "sequence_number": 69,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "17:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1712.0,
+            "sequence_number": 70,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "GKP LTT EXP",
+    "train_number": "15018",
+    "type": "MAIL EXPRESS"
+}

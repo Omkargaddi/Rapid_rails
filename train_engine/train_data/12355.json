@@ -1,0 +1,225 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12355.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12355-PNBE-JAT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "07:31",
+            "day_of_journey": 1,
+            "departure_time": "07:33",
+            "distance_km": 10.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 49.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "08:39",
+            "day_of_journey": 1,
+            "departure_time": "08:41",
+            "distance_km": 118.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 1,
+            "departure_time": "10:35",
+            "distance_km": 208.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 226.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "12:18",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 270.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BOY",
+            "station_name": "BHADOHI"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 1,
+            "departure_time": "13:45",
+            "distance_km": 354.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "MBDP",
+            "station_name": "MAA BELHA DEVI DHAM PRATAPGARH"
+        },
+        {
+            "arrival_time": "14:16",
+            "day_of_journey": 1,
+            "departure_time": "14:18",
+            "distance_km": 389.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "AME",
+            "station_name": "AMETHI"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 1,
+            "departure_time": "14:44",
+            "distance_km": 420.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "JAIS",
+            "station_name": "JAIS"
+        },
+        {
+            "arrival_time": "15:08",
+            "day_of_journey": 1,
+            "departure_time": "15:10",
+            "distance_km": 449.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "RBL",
+            "station_name": "RAE BARELI JN"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 527.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "21:13",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 762.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 852.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:13",
+            "distance_km": 1045.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "03:28",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 1126.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 1240.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "06:31",
+            "day_of_journey": 2,
+            "departure_time": "06:36",
+            "distance_km": 1292.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": "08:25",
+            "distance_km": 1405.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1504.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        }
+    ],
+    "train_name": "ARCHNA EXP",
+    "train_number": "12355",
+    "type": "SUPERFAST "
+}

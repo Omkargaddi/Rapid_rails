@@ -1,0 +1,64 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_52103.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "52103-NRLN-MAE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NRLN",
+            "station_name": "NERAL (NG)"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 1,
+            "departure_time": "09:36",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "JTT",
+            "station_name": "JUMMA PATTI"
+        },
+        {
+            "arrival_time": "10:21",
+            "day_of_journey": 1,
+            "departure_time": "10:22",
+            "distance_km": 11.0,
+            "sequence_number": 3,
+            "station_code": "WTP",
+            "station_name": "WATER PIPE"
+        },
+        {
+            "arrival_time": "11:11",
+            "day_of_journey": 1,
+            "departure_time": "11:12",
+            "distance_km": 17.0,
+            "sequence_number": 4,
+            "station_code": "ANLG",
+            "station_name": "AMAN LODGE"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 20.0,
+            "sequence_number": 5,
+            "station_code": "MAE",
+            "station_name": "MATHERAN"
+        }
+    ],
+    "train_name": "NRLN-MAE PASS",
+    "train_number": "52103",
+    "type": "PASSENGER"
+}

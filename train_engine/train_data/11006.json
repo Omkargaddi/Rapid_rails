@@ -1,0 +1,183 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11006.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11006-PDY-DR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "PDY",
+            "station_name": "PONDICHERRY"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 38.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "22:41",
+            "day_of_journey": 1,
+            "departure_time": "22:42",
+            "distance_km": 71.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "TRK",
+            "station_name": "TIRUKKOVILUR"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 1,
+            "departure_time": "23:12",
+            "distance_km": 105.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "TNM",
+            "station_name": "TIRUVANNAMALAI"
+        },
+        {
+            "arrival_time": "23:39",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 136.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "PRL",
+            "station_name": "POLUR"
+        },
+        {
+            "arrival_time": "23:53",
+            "day_of_journey": 1,
+            "departure_time": "23:54",
+            "distance_km": 153.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "ARV",
+            "station_name": "ARNI ROAD"
+        },
+        {
+            "arrival_time": "00:28",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 188.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "VLR",
+            "station_name": "VELLORE CANTONMENT"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 198.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "02:48",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 282.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "03:54",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 351.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "04:24",
+            "day_of_journey": 2,
+            "departure_time": "04:25",
+            "distance_km": 399.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "WFD",
+            "station_name": "WHITEFIELD"
+        },
+        {
+            "arrival_time": "04:34",
+            "day_of_journey": 2,
+            "departure_time": "04:36",
+            "distance_km": 408.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "22:57",
+            "day_of_journey": 2,
+            "departure_time": "23:00",
+            "distance_km": 1305.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "STR",
+            "station_name": "SATARA"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 3,
+            "departure_time": "02:10",
+            "distance_km": 1450.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "04:27",
+            "day_of_journey": 3,
+            "departure_time": "04:30",
+            "distance_km": 1588.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1633.0,
+            "platform": null,
+            "sequence_number": 39,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        }
+    ],
+    "train_name": "CHALUKYA EXP",
+    "train_number": "11006",
+    "type": "MAIL EXPRESS "
+}

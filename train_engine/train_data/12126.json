@@ -1,0 +1,88 @@
+{
+    "classes_available": [
+        "EV",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12126.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12126-PUNE-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "08:28",
+            "day_of_journey": 1,
+            "departure_time": "08:30",
+            "distance_km": 64.0,
+            "sequence_number": 2,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 92.0,
+            "sequence_number": 3,
+            "station_code": "KJT",
+            "station_name": "KARJAT"
+        },
+        {
+            "arrival_time": "09:43",
+            "day_of_journey": 1,
+            "departure_time": "09:45",
+            "distance_km": 120.0,
+            "sequence_number": 4,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "10:28",
+            "day_of_journey": 1,
+            "departure_time": "10:30",
+            "distance_km": 157.0,
+            "sequence_number": 5,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "10:58",
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 181.0,
+            "sequence_number": 6,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 190.0,
+            "sequence_number": 7,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "PRAGATI EXPRESS",
+    "train_number": "12126",
+    "type": "SUPERFAST"
+}

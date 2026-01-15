@@ -1,0 +1,205 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17318.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17318-DR-UBL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "20:38",
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 24.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 61.0,
+            "sequence_number": 3,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 1,
+            "departure_time": "23:02",
+            "distance_km": 118.0,
+            "sequence_number": 4,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 181.0,
+            "sequence_number": 5,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "02:32",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 327.0,
+            "sequence_number": 6,
+            "station_code": "STR",
+            "station_name": "SATARA"
+        },
+        {
+            "arrival_time": "03:32",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 385.0,
+            "sequence_number": 7,
+            "station_code": "KRD",
+            "station_name": "KARAD"
+        },
+        {
+            "arrival_time": "04:08",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 420.0,
+            "sequence_number": 8,
+            "station_code": "KOV",
+            "station_name": "KIRLOSKARVADI"
+        },
+        {
+            "arrival_time": "04:47",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 453.0,
+            "sequence_number": 9,
+            "station_code": "SLI",
+            "station_name": "SANGLI"
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 2,
+            "departure_time": "05:05",
+            "distance_km": 461.0,
+            "sequence_number": 10,
+            "station_code": "MRJ",
+            "station_name": "MIRAJ JN."
+        },
+        {
+            "arrival_time": "05:34",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 494.0,
+            "sequence_number": 11,
+            "station_code": "KUD",
+            "station_name": "KUDACHI"
+        },
+        {
+            "arrival_time": "05:59",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 511.0,
+            "sequence_number": 12,
+            "station_code": "RBG",
+            "station_name": "RAYBAG"
+        },
+        {
+            "arrival_time": "06:13",
+            "day_of_journey": 2,
+            "departure_time": "06:14",
+            "distance_km": 525.0,
+            "sequence_number": 13,
+            "station_code": "CKR",
+            "station_name": "CHIKODI ROAD"
+        },
+        {
+            "arrival_time": "06:26",
+            "day_of_journey": 2,
+            "departure_time": "06:28",
+            "distance_km": 540.0,
+            "sequence_number": 14,
+            "station_code": "GPB",
+            "station_name": "GHATPRABHA"
+        },
+        {
+            "arrival_time": "07:05",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 598.0,
+            "sequence_number": 15,
+            "station_code": "BGM",
+            "station_name": "BELAGAVI"
+        },
+        {
+            "arrival_time": "07:34",
+            "day_of_journey": 2,
+            "departure_time": "07:35",
+            "distance_km": 623.0,
+            "sequence_number": 16,
+            "station_code": "KNP",
+            "station_name": "KHANAPUR"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 2,
+            "departure_time": "08:00",
+            "distance_km": 649.0,
+            "sequence_number": 17,
+            "station_code": "LD",
+            "station_name": "LONDA JN"
+        },
+        {
+            "arrival_time": "08:39",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 682.0,
+            "sequence_number": 18,
+            "station_code": "LWR",
+            "station_name": "ALNAVAR JN"
+        },
+        {
+            "arrival_time": "09:43",
+            "day_of_journey": 2,
+            "departure_time": "09:45",
+            "distance_km": 719.0,
+            "sequence_number": 19,
+            "station_code": "DWR",
+            "station_name": "DHARWAR"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 739.0,
+            "sequence_number": 20,
+            "station_code": "UBL",
+            "station_name": "SSS HUBBALLI JN"
+        }
+    ],
+    "train_name": "DR HUBBALLI EXP",
+    "train_number": "17318",
+    "type": "MAIL EXPRESS"
+}

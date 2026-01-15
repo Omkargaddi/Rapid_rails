@@ -1,0 +1,206 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12250.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12250-JSM-SSB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JSM",
+            "station_name": "JAISALMER"
+        },
+        {
+            "arrival_time": "18:08",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 103.0,
+            "sequence_number": 2,
+            "station_code": "AQG",
+            "station_name": "ASHAPURA GOMAT"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 1,
+            "departure_time": "18:21",
+            "distance_km": 110.0,
+            "sequence_number": 3,
+            "station_code": "RDRA",
+            "station_name": "RAMDEVRA"
+        },
+        {
+            "arrival_time": "19:05",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 157.0,
+            "sequence_number": 4,
+            "station_code": "PLCJ",
+            "station_name": "PHALODI"
+        },
+        {
+            "arrival_time": "19:41",
+            "day_of_journey": 1,
+            "departure_time": "19:43",
+            "distance_km": 185.0,
+            "sequence_number": 5,
+            "station_code": "MWT",
+            "station_name": "MARWAR LOHAWAT"
+        },
+        {
+            "arrival_time": "20:14",
+            "day_of_journey": 1,
+            "departure_time": "20:16",
+            "distance_km": 229.0,
+            "sequence_number": 6,
+            "station_code": "OSN",
+            "station_name": "OSIYAN"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 294.0,
+            "sequence_number": 7,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        },
+        {
+            "arrival_time": "23:42",
+            "day_of_journey": 1,
+            "departure_time": "23:47",
+            "distance_km": 398.0,
+            "sequence_number": 8,
+            "station_code": "MTD",
+            "station_name": "MERTA ROAD JN"
+        },
+        {
+            "arrival_time": "00:18",
+            "day_of_journey": 2,
+            "departure_time": "00:21",
+            "distance_km": 443.0,
+            "sequence_number": 9,
+            "station_code": "DNA",
+            "station_name": "DEGANA JN"
+        },
+        {
+            "arrival_time": "00:51",
+            "day_of_journey": 2,
+            "departure_time": "00:54",
+            "distance_km": 487.0,
+            "sequence_number": 10,
+            "station_code": "MKN",
+            "station_name": "MAKRANA JN"
+        },
+        {
+            "arrival_time": "01:16",
+            "day_of_journey": 2,
+            "departure_time": "01:18",
+            "distance_km": 500.0,
+            "sequence_number": 11,
+            "station_code": "KMNC",
+            "station_name": "KUCHAMAN CITY"
+        },
+        {
+            "arrival_time": "01:32",
+            "day_of_journey": 2,
+            "departure_time": "01:34",
+            "distance_km": 516.0,
+            "sequence_number": 12,
+            "station_code": "NAC",
+            "station_name": "NAWA CITY"
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 2,
+            "departure_time": "02:27",
+            "distance_km": 551.0,
+            "sequence_number": 13,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 606.0,
+            "sequence_number": 14,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "04:24",
+            "day_of_journey": 2,
+            "departure_time": "04:26",
+            "distance_km": 667.0,
+            "sequence_number": 15,
+            "station_code": "DO",
+            "station_name": "DAUSA JUNCTION"
+        },
+        {
+            "arrival_time": "05:29",
+            "day_of_journey": 2,
+            "departure_time": "05:32",
+            "distance_km": 757.0,
+            "sequence_number": 16,
+            "station_code": "AWR",
+            "station_name": "ALWAR JUNCTION"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 831.0,
+            "sequence_number": 17,
+            "station_code": "RE",
+            "station_name": "REWARI JN."
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 2,
+            "departure_time": "08:20",
+            "distance_km": 882.0,
+            "sequence_number": 18,
+            "station_code": "GGN",
+            "station_name": "GURGAON"
+        },
+        {
+            "arrival_time": "08:36",
+            "day_of_journey": 2,
+            "departure_time": "08:38",
+            "distance_km": 899.0,
+            "sequence_number": 19,
+            "station_code": "DEC",
+            "station_name": "DELHI CANTT"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 911.0,
+            "sequence_number": 20,
+            "station_code": "SSB",
+            "station_name": "SHAKURBASTI"
+        }
+    ],
+    "train_name": "SWARN NAGARI EX",
+    "train_number": "12250",
+    "type": "SUPERFAST"
+}

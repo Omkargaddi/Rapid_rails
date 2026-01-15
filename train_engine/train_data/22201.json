@@ -1,0 +1,62 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22201.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "22201-SDAH-PURI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        },
+        {
+            "arrival_time": "22:10",
+            "day_of_journey": 1,
+            "departure_time": "22:15",
+            "distance_km": 143.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 488.0,
+            "sequence_number": 3,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 551.0,
+            "sequence_number": 4,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        }
+    ],
+    "train_name": "DURONTO EXPRESS",
+    "train_number": "22201",
+    "type": "DURONTO EXPRESS"
+}

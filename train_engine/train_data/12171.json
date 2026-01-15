@@ -1,0 +1,140 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12171.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12171-LTT-HW",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "08:32",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "10:57",
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 171.0,
+            "sequence_number": 3,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "14:10",
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 428.0,
+            "sequence_number": 4,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "16:13",
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 551.0,
+            "sequence_number": 5,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 825.0,
+            "sequence_number": 6,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 1115.0,
+            "sequence_number": 7,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:42",
+            "distance_km": 1332.0,
+            "sequence_number": 8,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": "06:55",
+            "distance_km": 1519.0,
+            "sequence_number": 9,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 2,
+            "departure_time": "08:12",
+            "distance_km": 1593.0,
+            "sequence_number": 10,
+            "station_code": "MTC",
+            "station_name": "MEERUT CITY"
+        },
+        {
+            "arrival_time": "10:23",
+            "day_of_journey": 2,
+            "departure_time": "10:25",
+            "distance_km": 1700.0,
+            "sequence_number": 11,
+            "station_code": "TPZ",
+            "station_name": "TAPRI"
+        },
+        {
+            "arrival_time": "11:22",
+            "day_of_journey": 2,
+            "departure_time": "11:27",
+            "distance_km": 1732.0,
+            "sequence_number": 12,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1773.0,
+            "sequence_number": 13,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        }
+    ],
+    "train_name": "LTT HW AC EXP",
+    "train_number": "12171",
+    "type": "SUPERFAST"
+}

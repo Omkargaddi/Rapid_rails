@@ -1,0 +1,235 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16210.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "16210-MYS-AII",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 1,
+            "departure_time": "21:06",
+            "distance_km": 45.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "21:43",
+            "day_of_journey": 1,
+            "departure_time": "21:44",
+            "distance_km": 94.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "RMGM",
+            "station_name": "RAMANAGARAM"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:50",
+            "distance_km": 138.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 2,
+            "departure_time": "00:03",
+            "distance_km": 144.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        },
+        {
+            "arrival_time": "00:47",
+            "day_of_journey": 2,
+            "departure_time": "00:49",
+            "distance_km": 209.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "TK",
+            "station_name": "TUMKUR"
+        },
+        {
+            "arrival_time": "01:33",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 279.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "TTR",
+            "station_name": "TIPTUR"
+        },
+        {
+            "arrival_time": "01:55",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 304.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "ASK",
+            "station_name": "ARSIKERE JN"
+        },
+        {
+            "arrival_time": "02:35",
+            "day_of_journey": 2,
+            "departure_time": "02:37",
+            "distance_km": 349.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "RRB",
+            "station_name": "BIRUR JN"
+        },
+        {
+            "arrival_time": "03:47",
+            "day_of_journey": 2,
+            "departure_time": "03:49",
+            "distance_km": 464.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "DVG",
+            "station_name": "DAVANGERE"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:02",
+            "distance_km": 477.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "HRR",
+            "station_name": "HARIHAR"
+        },
+        {
+            "arrival_time": "04:18",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 500.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "RNR",
+            "station_name": "RANIBENNUR"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 3,
+            "departure_time": "07:17",
+            "distance_km": 1877.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "UJA",
+            "station_name": "UNJHA"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 3,
+            "departure_time": "08:32",
+            "distance_km": 1922.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "PNU",
+            "station_name": "PALANPUR JN"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 3,
+            "departure_time": "09:20",
+            "distance_km": 1974.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "ABR",
+            "station_name": "ABU ROAD"
+        },
+        {
+            "arrival_time": "09:53",
+            "day_of_journey": 3,
+            "departure_time": "09:55",
+            "distance_km": 2018.0,
+            "platform": null,
+            "sequence_number": 39,
+            "station_code": "PDWA",
+            "station_name": "PINDWARA"
+        },
+        {
+            "arrival_time": "10:35",
+            "day_of_journey": 3,
+            "departure_time": "10:37",
+            "distance_km": 2073.0,
+            "platform": null,
+            "sequence_number": 40,
+            "station_code": "FA",
+            "station_name": "FALNA"
+        },
+        {
+            "arrival_time": "11:40",
+            "day_of_journey": 3,
+            "departure_time": "11:45",
+            "distance_km": 2140.0,
+            "platform": null,
+            "sequence_number": 41,
+            "station_code": "MJ",
+            "station_name": "MARWAR JN"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 3,
+            "departure_time": "12:07",
+            "distance_km": 2160.0,
+            "platform": null,
+            "sequence_number": 42,
+            "station_code": "SOD",
+            "station_name": "SOJAT ROAD"
+        },
+        {
+            "arrival_time": "12:55",
+            "day_of_journey": 3,
+            "departure_time": "13:00",
+            "distance_km": 2227.0,
+            "platform": null,
+            "sequence_number": 43,
+            "station_code": "BER",
+            "station_name": "BEAWAR"
+        },
+        {
+            "arrival_time": "14:25",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2279.0,
+            "platform": null,
+            "sequence_number": 44,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        }
+    ],
+    "train_name": "AJMER EXPRESS",
+    "train_number": "16210",
+    "type": "MAIL EXPRESS "
+}

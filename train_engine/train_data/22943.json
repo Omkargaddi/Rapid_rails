@@ -1,0 +1,197 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22943.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22943-DD-INDB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        },
+        {
+            "arrival_time": "15:23",
+            "day_of_journey": 1,
+            "departure_time": "15:33",
+            "distance_km": 75.0,
+            "sequence_number": 2,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "15:53",
+            "day_of_journey": 1,
+            "departure_time": "15:55",
+            "distance_km": 91.0,
+            "sequence_number": 3,
+            "station_code": "CCH",
+            "station_name": "CHINCHVAD"
+        },
+        {
+            "arrival_time": "16:42",
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 139.0,
+            "sequence_number": 4,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "17:37",
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 167.0,
+            "sequence_number": 5,
+            "station_code": "KJT",
+            "station_name": "KARJAT"
+        },
+        {
+            "arrival_time": "18:22",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 213.0,
+            "sequence_number": 6,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 228.0,
+            "sequence_number": 7,
+            "station_code": "BIRD",
+            "station_name": "BHIWANDI ROAD"
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 255.0,
+            "sequence_number": 8,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "22:42",
+            "day_of_journey": 1,
+            "departure_time": "22:47",
+            "distance_km": 470.0,
+            "sequence_number": 9,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 600.0,
+            "sequence_number": 10,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "01:51",
+            "day_of_journey": 2,
+            "departure_time": "01:53",
+            "distance_km": 672.0,
+            "sequence_number": 11,
+            "station_code": "GDA",
+            "station_name": "GODHRA JN"
+        },
+        {
+            "arrival_time": "02:43",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 744.0,
+            "sequence_number": 12,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:11",
+            "distance_km": 777.0,
+            "sequence_number": 13,
+            "station_code": "MGN",
+            "station_name": "MEGHNAGAR"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 857.0,
+            "sequence_number": 14,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "05:04",
+            "day_of_journey": 2,
+            "departure_time": "05:06",
+            "distance_km": 885.0,
+            "sequence_number": 15,
+            "station_code": "KUH",
+            "station_name": "KHACHROD"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 899.0,
+            "sequence_number": 16,
+            "station_code": "NAD",
+            "station_name": "NAGDA JN"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 954.0,
+            "sequence_number": 17,
+            "station_code": "UJN",
+            "station_name": "UJJAIN JN"
+        },
+        {
+            "arrival_time": "07:16",
+            "day_of_journey": 2,
+            "departure_time": "07:18",
+            "distance_km": 994.0,
+            "sequence_number": 18,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1036.0,
+            "sequence_number": 19,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        }
+    ],
+    "train_name": "DAUND INDORE EX",
+    "train_number": "22943",
+    "type": "SUPERFAST"
+}

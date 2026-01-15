@@ -1,0 +1,159 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16127.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16127-MS-GUV",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MS",
+            "station_name": "CHENNAI EGMORE"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": "11:07",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        },
+        {
+            "arrival_time": "11:33",
+            "day_of_journey": 1,
+            "departure_time": "11:35",
+            "distance_km": 56.0,
+            "sequence_number": 3,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 91.0,
+            "sequence_number": 4,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "12:23",
+            "day_of_journey": 1,
+            "departure_time": "12:25",
+            "distance_km": 121.0,
+            "sequence_number": 5,
+            "station_code": "TMV",
+            "station_name": "TINDIVANAM"
+        },
+        {
+            "arrival_time": "13:23",
+            "day_of_journey": 1,
+            "departure_time": "13:25",
+            "distance_km": 158.0,
+            "sequence_number": 6,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 1003.0,
+            "sequence_number": 41,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "04:58",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 1005.0,
+            "sequence_number": 42,
+            "station_code": "ERN",
+            "station_name": "ERNAKULAM TOWN"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": "05:22",
+            "distance_km": 1022.0,
+            "sequence_number": 43,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "05:32",
+            "day_of_journey": 2,
+            "departure_time": "05:33",
+            "distance_km": 1031.0,
+            "sequence_number": 44,
+            "station_code": "AFK",
+            "station_name": "ANGAMALI"
+        },
+        {
+            "arrival_time": "05:47",
+            "day_of_journey": 2,
+            "departure_time": "05:48",
+            "distance_km": 1047.0,
+            "sequence_number": 45,
+            "station_code": "CKI",
+            "station_name": "CHALAKUDI"
+        },
+        {
+            "arrival_time": "05:57",
+            "day_of_journey": 2,
+            "departure_time": "05:58",
+            "distance_km": 1053.0,
+            "sequence_number": 46,
+            "station_code": "IJK",
+            "station_name": "IRINJALAKUDA"
+        },
+        {
+            "arrival_time": "06:57",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 1077.0,
+            "sequence_number": 47,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "07:03",
+            "day_of_journey": 2,
+            "departure_time": "07:04",
+            "distance_km": 1079.0,
+            "sequence_number": 48,
+            "station_code": "PNQ",
+            "station_name": "PUNKUNNAM"
+        },
+        {
+            "arrival_time": "07:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1099.0,
+            "sequence_number": 49,
+            "station_code": "GUV",
+            "station_name": "GURUVAYUR"
+        }
+    ],
+    "train_name": "MS GURUVAYUR EXP",
+    "train_number": "16127",
+    "type": "MAIL EXPRESS"
+}

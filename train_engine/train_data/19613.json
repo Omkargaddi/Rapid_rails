@@ -1,0 +1,274 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19613.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "19613-AII-ASR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 1,
+            "departure_time": "18:17",
+            "distance_km": 25.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 79.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "19:50",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 134.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "20:11",
+            "day_of_journey": 1,
+            "departure_time": "20:14",
+            "distance_km": 140.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "GADJ",
+            "station_name": "GANDHINAGAR JAIPUR"
+        },
+        {
+            "arrival_time": "20:21",
+            "day_of_journey": 1,
+            "departure_time": "20:23",
+            "distance_km": 145.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "GTJT",
+            "station_name": "GETOR JAGATPURA"
+        },
+        {
+            "arrival_time": "20:57",
+            "day_of_journey": 1,
+            "departure_time": "20:59",
+            "distance_km": 195.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "DO",
+            "station_name": "DAUSA JUNCTION"
+        },
+        {
+            "arrival_time": "21:21",
+            "day_of_journey": 1,
+            "departure_time": "21:23",
+            "distance_km": 225.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BKI",
+            "station_name": "BANDIKUI JN"
+        },
+        {
+            "arrival_time": "21:36",
+            "day_of_journey": 1,
+            "departure_time": "21:38",
+            "distance_km": 237.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BU",
+            "station_name": "BASWA"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:52",
+            "distance_km": 249.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "RHG",
+            "station_name": "RAJGARH"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:23",
+            "distance_km": 285.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "AWR",
+            "station_name": "ALWAR JUNCTION"
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 312.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "KRH",
+            "station_name": "KHAIRTHAL"
+        },
+        {
+            "arrival_time": "23:52",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 359.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "RE",
+            "station_name": "REWARI JN."
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 414.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "CKD",
+            "station_name": "CHARKHI DADRI"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 441.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "BNW",
+            "station_name": "BHIWANI JN."
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 502.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "HSR",
+            "station_name": "HISAR"
+        },
+        {
+            "arrival_time": "04:19",
+            "day_of_journey": 2,
+            "departure_time": "04:21",
+            "distance_km": 584.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "JHL",
+            "station_name": "JAKHAL JN"
+        },
+        {
+            "arrival_time": "05:04",
+            "day_of_journey": 2,
+            "departure_time": "05:06",
+            "distance_km": 634.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "SAG",
+            "station_name": "SANGRUR"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 2,
+            "departure_time": "05:45",
+            "distance_km": 650.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "DUI",
+            "station_name": "DHURI JN"
+        },
+        {
+            "arrival_time": "06:01",
+            "day_of_journey": 2,
+            "departure_time": "06:03",
+            "distance_km": 667.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "MET",
+            "station_name": "MALERKOTLA"
+        },
+        {
+            "arrival_time": "07:40",
+            "day_of_journey": 2,
+            "departure_time": "07:50",
+            "distance_km": 712.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": "08:22",
+            "distance_km": 747.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "PGW",
+            "station_name": "PHAGWARA JN"
+        },
+        {
+            "arrival_time": "08:57",
+            "day_of_journey": 2,
+            "departure_time": "09:05",
+            "distance_km": 769.0,
+            "platform": null,
+            "sequence_number": 23,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "09:36",
+            "day_of_journey": 2,
+            "departure_time": "09:38",
+            "distance_km": 805.0,
+            "platform": null,
+            "sequence_number": 24,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 847.0,
+            "platform": null,
+            "sequence_number": 25,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        }
+    ],
+    "train_name": "AII ASR EXP",
+    "train_number": "19613",
+    "type": "MAIL EXPRESS "
+}

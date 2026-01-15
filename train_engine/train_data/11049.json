@@ -1,0 +1,186 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11049.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "11049-ADI-KOP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "20:56",
+            "day_of_journey": 1,
+            "departure_time": "20:58",
+            "distance_km": 46.0,
+            "sequence_number": 2,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "21:13",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "21:57",
+            "day_of_journey": 1,
+            "departure_time": "22:02",
+            "distance_km": 98.0,
+            "sequence_number": 4,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "22:53",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 169.0,
+            "sequence_number": 5,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "23:53",
+            "day_of_journey": 1,
+            "departure_time": "23:58",
+            "distance_km": 228.0,
+            "sequence_number": 6,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "00:18",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 257.0,
+            "sequence_number": 7,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 322.0,
+            "sequence_number": 8,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 2,
+            "departure_time": "03:20",
+            "distance_km": 443.0,
+            "sequence_number": 9,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "03:48",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 470.0,
+            "sequence_number": 10,
+            "station_code": "BIRD",
+            "station_name": "BHIWANDI ROAD"
+        },
+        {
+            "arrival_time": "04:22",
+            "day_of_journey": 2,
+            "departure_time": "04:25",
+            "distance_km": 485.0,
+            "sequence_number": 11,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "06:08",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 559.0,
+            "sequence_number": 12,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 2,
+            "departure_time": "07:35",
+            "distance_km": 623.0,
+            "sequence_number": 13,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "10:17",
+            "day_of_journey": 2,
+            "departure_time": "10:20",
+            "distance_km": 768.0,
+            "sequence_number": 14,
+            "station_code": "STR",
+            "station_name": "SATARA"
+        },
+        {
+            "arrival_time": "12:22",
+            "day_of_journey": 2,
+            "departure_time": "12:25",
+            "distance_km": 895.0,
+            "sequence_number": 15,
+            "station_code": "SLI",
+            "station_name": "SANGLI"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 2,
+            "departure_time": "13:10",
+            "distance_km": 902.0,
+            "sequence_number": 16,
+            "station_code": "MRJ",
+            "station_name": "MIRAJ JN."
+        },
+        {
+            "arrival_time": "13:44",
+            "day_of_journey": 2,
+            "departure_time": "13:45",
+            "distance_km": 929.0,
+            "sequence_number": 17,
+            "station_code": "HTK",
+            "station_name": "HATKANANGALE"
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 949.0,
+            "sequence_number": 18,
+            "station_code": "KOP",
+            "station_name": "KOLHAPUR"
+        }
+    ],
+    "train_name": "ADI KOP EXP",
+    "train_number": "11049",
+    "type": "MAIL EXPRESS"
+}

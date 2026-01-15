@@ -1,0 +1,224 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18621.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18621-PNBE-HTE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "14:58",
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 2.0,
+            "sequence_number": 2,
+            "station_code": "RJPB",
+            "station_name": "RAJENDRA NAGAR"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 1,
+            "departure_time": "15:12",
+            "distance_km": 10.0,
+            "sequence_number": 3,
+            "station_code": "PNC",
+            "station_name": "PATNA SAHEB"
+        },
+        {
+            "arrival_time": "15:22",
+            "day_of_journey": 1,
+            "departure_time": "15:24",
+            "distance_km": 22.0,
+            "sequence_number": 4,
+            "station_code": "FUT",
+            "station_name": "FATUHA"
+        },
+        {
+            "arrival_time": "15:32",
+            "day_of_journey": 1,
+            "departure_time": "15:34",
+            "distance_km": 30.0,
+            "sequence_number": 5,
+            "station_code": "KOO",
+            "station_name": "KHUSROPUR"
+        },
+        {
+            "arrival_time": "15:46",
+            "day_of_journey": 1,
+            "departure_time": "15:48",
+            "distance_km": 45.0,
+            "sequence_number": 6,
+            "station_code": "BKP",
+            "station_name": "BAKHTIYARPUR JN"
+        },
+        {
+            "arrival_time": "15:56",
+            "day_of_journey": 1,
+            "departure_time": "15:58",
+            "distance_km": 54.0,
+            "sequence_number": 7,
+            "station_code": "ATL",
+            "station_name": "ATHMAL GOLA"
+        },
+        {
+            "arrival_time": "16:06",
+            "day_of_journey": 1,
+            "departure_time": "16:08",
+            "distance_km": 63.0,
+            "sequence_number": 8,
+            "station_code": "BARH",
+            "station_name": "BARH"
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 1,
+            "departure_time": "16:16",
+            "distance_km": 71.0,
+            "sequence_number": 9,
+            "station_code": "LEB",
+            "station_name": "LEMUABAD"
+        },
+        {
+            "arrival_time": "16:21",
+            "day_of_journey": 1,
+            "departure_time": "16:22",
+            "distance_km": 74.0,
+            "sequence_number": 10,
+            "station_code": "PHK",
+            "station_name": "PUNARAKH"
+        },
+        {
+            "arrival_time": "16:26",
+            "day_of_journey": 1,
+            "departure_time": "16:27",
+            "distance_km": 76.0,
+            "sequence_number": 11,
+            "station_code": "MMKB",
+            "station_name": "MEMRA MEMRAKHABAD HALT"
+        },
+        {
+            "arrival_time": "16:43",
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 89.0,
+            "sequence_number": 12,
+            "station_code": "MKA",
+            "station_name": "MOKAMA"
+        },
+        {
+            "arrival_time": "22:34",
+            "day_of_journey": 1,
+            "departure_time": "22:36",
+            "distance_km": 323.0,
+            "sequence_number": 36,
+            "station_code": "ULT",
+            "station_name": "KULTI"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 1,
+            "departure_time": "22:42",
+            "distance_km": 326.0,
+            "sequence_number": 37,
+            "station_code": "BRR",
+            "station_name": "BARAKAR"
+        },
+        {
+            "arrival_time": "22:45",
+            "day_of_journey": 1,
+            "departure_time": "22:47",
+            "distance_km": 329.0,
+            "sequence_number": 38,
+            "station_code": "KMME",
+            "station_name": "KUMARDUBI"
+        },
+        {
+            "arrival_time": "00:07",
+            "day_of_journey": 2,
+            "departure_time": "00:17",
+            "distance_km": 368.0,
+            "sequence_number": 39,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "00:42",
+            "day_of_journey": 2,
+            "departure_time": "00:44",
+            "distance_km": 381.0,
+            "sequence_number": 40,
+            "station_code": "KTH",
+            "station_name": "KATRASGARH"
+        },
+        {
+            "arrival_time": "01:18",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 402.0,
+            "sequence_number": 41,
+            "station_code": "CRP",
+            "station_name": "CHANDRAPURA"
+        },
+        {
+            "arrival_time": "01:45",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 417.0,
+            "sequence_number": 42,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 470.0,
+            "sequence_number": 43,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 533.0,
+            "sequence_number": 44,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 540.0,
+            "sequence_number": 45,
+            "station_code": "HTE",
+            "station_name": "HATIA"
+        }
+    ],
+    "train_name": "PATLIPUTRA EXP",
+    "train_number": "18621",
+    "type": "MAIL EXPRESS"
+}

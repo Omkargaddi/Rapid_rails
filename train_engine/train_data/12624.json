@@ -1,0 +1,245 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12624.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12624-TVC-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        },
+        {
+            "arrival_time": "15:37",
+            "day_of_journey": 1,
+            "departure_time": "15:38",
+            "distance_km": 41.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "VAK",
+            "station_name": "VARKALA"
+        },
+        {
+            "arrival_time": "16:02",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 64.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "16:36",
+            "day_of_journey": 1,
+            "departure_time": "16:38",
+            "distance_km": 105.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "16:47",
+            "day_of_journey": 1,
+            "departure_time": "16:48",
+            "distance_km": 113.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MVLK",
+            "station_name": "MAVELIKARA"
+        },
+        {
+            "arrival_time": "16:59",
+            "day_of_journey": 1,
+            "departure_time": "17:01",
+            "distance_km": 126.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "CNGR",
+            "station_name": "CHENGANNUR"
+        },
+        {
+            "arrival_time": "17:10",
+            "day_of_journey": 1,
+            "departure_time": "17:11",
+            "distance_km": 135.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "TRVL",
+            "station_name": "TIRUVALLA"
+        },
+        {
+            "arrival_time": "17:19",
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 143.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "CGY",
+            "station_name": "CHANGANASSERI"
+        },
+        {
+            "arrival_time": "17:47",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 160.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "KTYM",
+            "station_name": "KOTTAYAM"
+        },
+        {
+            "arrival_time": "18:44",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 210.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "TRTR",
+            "station_name": "TRIPUNITTURA"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 220.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "ERN",
+            "station_name": "ERNAKULAM TOWN"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": "19:42",
+            "distance_km": 237.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "19:52",
+            "day_of_journey": 1,
+            "departure_time": "19:53",
+            "distance_km": 246.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "AFK",
+            "station_name": "ANGAMALI"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 1,
+            "departure_time": "20:43",
+            "distance_km": 291.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "22:17",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 369.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        },
+        {
+            "arrival_time": "23:42",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 423.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "01:25",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 524.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "02:32",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 583.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 792.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "06:33",
+            "day_of_journey": 2,
+            "departure_time": "06:35",
+            "distance_km": 900.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "AVD",
+            "station_name": "AVADI"
+        },
+        {
+            "arrival_time": "07:03",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 915.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "07:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 922.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "TVC MAS SF MAIL",
+    "train_number": "12624",
+    "type": "SUPERFAST "
+}

@@ -1,0 +1,205 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16565.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16565-YPR-MAQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:22",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "BAND",
+            "station_name": "BANASWADI"
+        },
+        {
+            "arrival_time": "00:43",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 23.0,
+            "sequence_number": 3,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 79.0,
+            "sequence_number": 4,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "01:49",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 110.0,
+            "sequence_number": 5,
+            "station_code": "KPN",
+            "station_name": "KUPPAM"
+        },
+        {
+            "arrival_time": "05:07",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 270.0,
+            "sequence_number": 6,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 329.0,
+            "sequence_number": 7,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "07:03",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 380.0,
+            "sequence_number": 8,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "08:17",
+            "day_of_journey": 2,
+            "departure_time": "08:20",
+            "distance_km": 430.0,
+            "sequence_number": 9,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "09:32",
+            "day_of_journey": 2,
+            "departure_time": "09:35",
+            "distance_km": 485.0,
+            "sequence_number": 10,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 2,
+            "departure_time": "10:25",
+            "distance_km": 528.0,
+            "sequence_number": 11,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "11:08",
+            "day_of_journey": 2,
+            "departure_time": "11:10",
+            "distance_km": 573.0,
+            "sequence_number": 12,
+            "station_code": "TIR",
+            "station_name": "TIRUR"
+        },
+        {
+            "arrival_time": "11:50",
+            "day_of_journey": 2,
+            "departure_time": "11:55",
+            "distance_km": 614.0,
+            "sequence_number": 13,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "12:33",
+            "day_of_journey": 2,
+            "departure_time": "12:35",
+            "distance_km": 661.0,
+            "sequence_number": 14,
+            "station_code": "BDJ",
+            "station_name": "VADAKARA"
+        },
+        {
+            "arrival_time": "12:53",
+            "day_of_journey": 2,
+            "departure_time": "12:55",
+            "distance_km": 683.0,
+            "sequence_number": 15,
+            "station_code": "TLY",
+            "station_name": "THALASSERY"
+        },
+        {
+            "arrival_time": "13:22",
+            "day_of_journey": 2,
+            "departure_time": "13:25",
+            "distance_km": 704.0,
+            "sequence_number": 16,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "13:54",
+            "day_of_journey": 2,
+            "departure_time": "13:55",
+            "distance_km": 737.0,
+            "sequence_number": 17,
+            "station_code": "PAY",
+            "station_name": "PAYYANUR"
+        },
+        {
+            "arrival_time": "14:23",
+            "day_of_journey": 2,
+            "departure_time": "14:25",
+            "distance_km": 767.0,
+            "sequence_number": 18,
+            "station_code": "KZE",
+            "station_name": "KANHANGAD"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 2,
+            "departure_time": "14:45",
+            "distance_km": 790.0,
+            "sequence_number": 19,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 835.0,
+            "sequence_number": 20,
+            "station_code": "MAQ",
+            "station_name": "MANGALORE CENTRAL"
+        }
+    ],
+    "train_name": "YPR MAQ EXP",
+    "train_number": "16565",
+    "type": "MAIL EXPRESS"
+}

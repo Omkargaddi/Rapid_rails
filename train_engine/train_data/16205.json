@@ -1,0 +1,158 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16205.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16205-TLGP-MYS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TLGP",
+            "station_name": "TALGUPPA"
+        },
+        {
+            "arrival_time": "15:07",
+            "day_of_journey": 1,
+            "departure_time": "15:09",
+            "distance_km": 15.0,
+            "sequence_number": 2,
+            "station_code": "SRF",
+            "station_name": "SAGAR JAMBAGARU"
+        },
+        {
+            "arrival_time": "15:37",
+            "day_of_journey": 1,
+            "departure_time": "15:38",
+            "distance_km": 42.0,
+            "sequence_number": 3,
+            "station_code": "ANF",
+            "station_name": "ANANDAPURAM"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": "16:01",
+            "distance_km": 57.0,
+            "sequence_number": 4,
+            "station_code": "ARU",
+            "station_name": "ARASALU"
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 1,
+            "departure_time": "16:16",
+            "distance_km": 72.0,
+            "sequence_number": 5,
+            "station_code": "KMSI",
+            "station_name": "KUMSI"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 98.0,
+            "sequence_number": 6,
+            "station_code": "SMET",
+            "station_name": "SHIMOGA TOWN"
+        },
+        {
+            "arrival_time": "17:08",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 116.0,
+            "sequence_number": 7,
+            "station_code": "BDVT",
+            "station_name": "BHADRAVATI"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 1,
+            "departure_time": "17:29",
+            "distance_km": 136.0,
+            "sequence_number": 8,
+            "station_code": "TKE",
+            "station_name": "TARIKERE JN"
+        },
+        {
+            "arrival_time": "17:53",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 161.0,
+            "sequence_number": 9,
+            "station_code": "RRB",
+            "station_name": "BIRUR JN"
+        },
+        {
+            "arrival_time": "18:04",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 167.0,
+            "sequence_number": 10,
+            "station_code": "DRU",
+            "station_name": "KADUR"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 206.0,
+            "sequence_number": 11,
+            "station_code": "ASK",
+            "station_name": "ARSIKERE JN"
+        },
+        {
+            "arrival_time": "19:38",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 252.0,
+            "sequence_number": 12,
+            "station_code": "HAS",
+            "station_name": "HASSAN"
+        },
+        {
+            "arrival_time": "20:14",
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 284.0,
+            "sequence_number": 13,
+            "station_code": "HLN",
+            "station_name": "HOLE NARSIPUR"
+        },
+        {
+            "arrival_time": "21:08",
+            "day_of_journey": 1,
+            "departure_time": "21:10",
+            "distance_km": 338.0,
+            "sequence_number": 14,
+            "station_code": "KRNR",
+            "station_name": "KRISHNARAJNAGAR"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 372.0,
+            "sequence_number": 15,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        }
+    ],
+    "train_name": "MYSURU EXP",
+    "train_number": "16205",
+    "type": "MAIL EXPRESS"
+}

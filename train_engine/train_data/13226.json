@@ -1,0 +1,231 @@
+{
+    "classes_available": [
+        "3E",
+        "CC",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13226.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13226-ARA-JYG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "05:42",
+            "day_of_journey": 1,
+            "departure_time": "05:44",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "KUA",
+            "station_name": "KULHARIA"
+        },
+        {
+            "arrival_time": "05:54",
+            "day_of_journey": 1,
+            "departure_time": "05:56",
+            "distance_km": 22.0,
+            "sequence_number": 3,
+            "station_code": "BTA",
+            "station_name": "BIHTA"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 1,
+            "departure_time": "06:45",
+            "distance_km": 39.0,
+            "sequence_number": 4,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "07:05",
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 45.0,
+            "sequence_number": 5,
+            "station_code": "PPTA",
+            "station_name": "PATLIPUTRA"
+        },
+        {
+            "arrival_time": "07:48",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 60.0,
+            "sequence_number": 6,
+            "station_code": "SEE",
+            "station_name": "SONPUR JN"
+        },
+        {
+            "arrival_time": "08:02",
+            "day_of_journey": 1,
+            "departure_time": "08:07",
+            "distance_km": 66.0,
+            "sequence_number": 7,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "08:23",
+            "day_of_journey": 1,
+            "departure_time": "08:25",
+            "distance_km": 85.0,
+            "sequence_number": 8,
+            "station_code": "BNR",
+            "station_name": "BHAGWANPUR"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 1,
+            "departure_time": "09:20",
+            "distance_km": 120.0,
+            "sequence_number": 9,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "09:46",
+            "day_of_journey": 1,
+            "departure_time": "09:48",
+            "distance_km": 145.0,
+            "sequence_number": 10,
+            "station_code": "DOL",
+            "station_name": "DHOLI"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": "10:02",
+            "distance_km": 158.0,
+            "sequence_number": 11,
+            "station_code": "KRBP",
+            "station_name": "KHUDIRAM BOSE PUSA"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 1,
+            "departure_time": "10:55",
+            "distance_km": 171.0,
+            "sequence_number": 12,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "11:13",
+            "day_of_journey": 1,
+            "departure_time": "11:15",
+            "distance_km": 181.0,
+            "sequence_number": 13,
+            "station_code": "KSP",
+            "station_name": "KISHANPUR"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 1,
+            "departure_time": "11:27",
+            "distance_km": 188.0,
+            "sequence_number": 14,
+            "station_code": "RBZ",
+            "station_name": "RAMBHADDARPUR"
+        },
+        {
+            "arrival_time": "11:38",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 193.0,
+            "sequence_number": 15,
+            "station_code": "HYT",
+            "station_name": "HAYAGHAT"
+        },
+        {
+            "arrival_time": "11:59",
+            "day_of_journey": 1,
+            "departure_time": "12:01",
+            "distance_km": 204.0,
+            "sequence_number": 16,
+            "station_code": "LSI",
+            "station_name": "LAHERIA SARAI"
+        },
+        {
+            "arrival_time": "12:22",
+            "day_of_journey": 1,
+            "departure_time": "12:27",
+            "distance_km": 209.0,
+            "sequence_number": 17,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 1,
+            "departure_time": "12:52",
+            "distance_km": 228.0,
+            "sequence_number": 18,
+            "station_code": "SKI",
+            "station_name": "SAKRI JN"
+        },
+        {
+            "arrival_time": "13:12",
+            "day_of_journey": 1,
+            "departure_time": "13:14",
+            "distance_km": 236.0,
+            "sequence_number": 19,
+            "station_code": "PDW",
+            "station_name": "PANDAUL"
+        },
+        {
+            "arrival_time": "13:31",
+            "day_of_journey": 1,
+            "departure_time": "13:34",
+            "distance_km": 245.0,
+            "sequence_number": 20,
+            "station_code": "MBI",
+            "station_name": "MADHUBANI"
+        },
+        {
+            "arrival_time": "13:46",
+            "day_of_journey": 1,
+            "departure_time": "13:48",
+            "distance_km": 255.0,
+            "sequence_number": 21,
+            "station_code": "RJA",
+            "station_name": "RAJNAGAR"
+        },
+        {
+            "arrival_time": "14:09",
+            "day_of_journey": 1,
+            "departure_time": "14:11",
+            "distance_km": 264.0,
+            "sequence_number": 22,
+            "station_code": "KJI",
+            "station_name": "KHAJAULI"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 277.0,
+            "sequence_number": 23,
+            "station_code": "JYG",
+            "station_name": "JAYNAGAR"
+        }
+    ],
+    "train_name": "INTERCITY EXP",
+    "train_number": "13226",
+    "type": "MAIL EXPRESS"
+}

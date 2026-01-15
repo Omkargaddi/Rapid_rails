@@ -1,0 +1,98 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12303.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12303-HWH-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 1,
+            "departure_time": "08:57",
+            "distance_km": 95.0,
+            "sequence_number": 2,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "09:47",
+            "day_of_journey": 1,
+            "departure_time": "09:49",
+            "distance_km": 157.0,
+            "sequence_number": 3,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "10:21",
+            "day_of_journey": 1,
+            "departure_time": "10:26",
+            "distance_km": 199.0,
+            "sequence_number": 4,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "10:48",
+            "day_of_journey": 1,
+            "departure_time": "10:50",
+            "distance_km": 224.0,
+            "sequence_number": 5,
+            "station_code": "CRJ",
+            "station_name": "CHITTARANJAN"
+        },
+        {
+            "arrival_time": "11:03",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 239.0,
+            "sequence_number": 6,
+            "station_code": "JMT",
+            "station_name": "JAMTARA"
+        },
+        {
+            "arrival_time": "03:38",
+            "day_of_journey": 2,
+            "departure_time": "03:40",
+            "distance_km": 1395.0,
+            "sequence_number": 24,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1527.0,
+            "sequence_number": 25,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "POORVA EXPRESS",
+    "train_number": "12303",
+    "type": "SUPERFAST"
+}

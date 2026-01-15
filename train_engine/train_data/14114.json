@@ -1,0 +1,233 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14114.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14114-DDN-SFG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DDN",
+            "station_name": "DEHRADOON"
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 52.0,
+            "sequence_number": 2,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "15:33",
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "LRJ",
+            "station_name": "LAKSAR JN"
+        },
+        {
+            "arrival_time": "15:54",
+            "day_of_journey": 1,
+            "departure_time": "15:56",
+            "distance_km": 102.0,
+            "sequence_number": 4,
+            "station_code": "CNK",
+            "station_name": "CHANDOK"
+        },
+        {
+            "arrival_time": "16:12",
+            "day_of_journey": 1,
+            "departure_time": "16:14",
+            "distance_km": 120.0,
+            "sequence_number": 5,
+            "station_code": "NBD",
+            "station_name": "NAJIBABAD JN"
+        },
+        {
+            "arrival_time": "16:40",
+            "day_of_journey": 1,
+            "departure_time": "16:42",
+            "distance_km": 142.0,
+            "sequence_number": 6,
+            "station_code": "NGG",
+            "station_name": "NAGINA"
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 1,
+            "departure_time": "17:07",
+            "distance_km": 159.0,
+            "sequence_number": 7,
+            "station_code": "DPR",
+            "station_name": "DHAMPUR"
+        },
+        {
+            "arrival_time": "17:21",
+            "day_of_journey": 1,
+            "departure_time": "17:23",
+            "distance_km": 173.0,
+            "sequence_number": 8,
+            "station_code": "SEO",
+            "station_name": "SEOHARA"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:42",
+            "distance_km": 189.0,
+            "sequence_number": 9,
+            "station_code": "KNT",
+            "station_name": "KANTH"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 1,
+            "departure_time": "18:28",
+            "distance_km": 218.0,
+            "sequence_number": 10,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 243.0,
+            "sequence_number": 11,
+            "station_code": "RJK",
+            "station_name": "RAJA KA SAHASPR"
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 262.0,
+            "sequence_number": 12,
+            "station_code": "CH",
+            "station_name": "CHANDAUSI JN"
+        },
+        {
+            "arrival_time": "20:33",
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 279.0,
+            "sequence_number": 13,
+            "station_code": "BJ",
+            "station_name": "BAHJOI"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:02",
+            "distance_km": 306.0,
+            "sequence_number": 14,
+            "station_code": "BBA",
+            "station_name": "BABRALA"
+        },
+        {
+            "arrival_time": "21:12",
+            "day_of_journey": 1,
+            "departure_time": "21:14",
+            "distance_km": 312.0,
+            "sequence_number": 15,
+            "station_code": "RG",
+            "station_name": "RAJGHAT NARORA"
+        },
+        {
+            "arrival_time": "21:22",
+            "day_of_journey": 1,
+            "departure_time": "21:24",
+            "distance_km": 318.0,
+            "sequence_number": 16,
+            "station_code": "DIB",
+            "station_name": "DIBAI"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 361.0,
+            "sequence_number": 17,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 2,
+            "departure_time": "00:03",
+            "distance_km": 439.0,
+            "sequence_number": 18,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 2,
+            "departure_time": "01:07",
+            "distance_km": 531.0,
+            "sequence_number": 19,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "01:48",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 607.0,
+            "sequence_number": 20,
+            "station_code": "JJK",
+            "station_name": "JHINJHAK"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 670.0,
+            "sequence_number": 21,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:02",
+            "distance_km": 748.0,
+            "sequence_number": 22,
+            "station_code": "FTP",
+            "station_name": "FATEHPUR"
+        },
+        {
+            "arrival_time": "05:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 861.0,
+            "sequence_number": 23,
+            "station_code": "SFG",
+            "station_name": "SUBEDARGANJ"
+        }
+    ],
+    "train_name": "DDN SFG EXP",
+    "train_number": "14114",
+    "type": "MAIL EXPRESS"
+}

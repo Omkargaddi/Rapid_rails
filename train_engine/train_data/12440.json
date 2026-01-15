@@ -1,0 +1,286 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12440.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12440-SGNR-NED",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SGNR",
+            "station_name": "SHRI GANGANAGAR"
+        },
+        {
+            "arrival_time": "13:47",
+            "day_of_journey": 1,
+            "departure_time": "13:49",
+            "distance_km": 29.0,
+            "sequence_number": 2,
+            "station_code": "SDS",
+            "station_name": "SADULSHAHR"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 1,
+            "departure_time": "14:25",
+            "distance_km": 67.0,
+            "sequence_number": 3,
+            "station_code": "HMH",
+            "station_name": "HANUMANGARH JN"
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 94.0,
+            "sequence_number": 4,
+            "station_code": "SGRA",
+            "station_name": "SANGARIA"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 1,
+            "departure_time": "15:25",
+            "distance_km": 124.0,
+            "sequence_number": 5,
+            "station_code": "MBY",
+            "station_name": "MANDI DABWALI"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 160.0,
+            "sequence_number": 6,
+            "station_code": "BTI",
+            "station_name": "BATHINDA"
+        },
+        {
+            "arrival_time": "17:18",
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 192.0,
+            "sequence_number": 7,
+            "station_code": "PUL",
+            "station_name": "RAMPURA PHUL"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "17:46",
+            "distance_km": 225.0,
+            "sequence_number": 8,
+            "station_code": "BNN",
+            "station_name": "BARNALA"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 256.0,
+            "sequence_number": 9,
+            "station_code": "DUI",
+            "station_name": "DHURI JN"
+        },
+        {
+            "arrival_time": "18:38",
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 271.0,
+            "sequence_number": 10,
+            "station_code": "SAG",
+            "station_name": "SANGRUR"
+        },
+        {
+            "arrival_time": "18:52",
+            "day_of_journey": 1,
+            "departure_time": "18:54",
+            "distance_km": 284.0,
+            "sequence_number": 11,
+            "station_code": "SFMU",
+            "station_name": "SUNAM UDHAM SINGH WALA"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": "19:42",
+            "distance_km": 322.0,
+            "sequence_number": 12,
+            "station_code": "JHL",
+            "station_name": "JAKHAL JN"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:32",
+            "distance_km": 394.0,
+            "sequence_number": 13,
+            "station_code": "JIND",
+            "station_name": "JIND JN"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:12",
+            "distance_km": 451.0,
+            "sequence_number": 14,
+            "station_code": "ROK",
+            "station_name": "ROHTAK JN"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 522.0,
+            "sequence_number": 15,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "00:41",
+            "day_of_journey": 2,
+            "departure_time": "00:43",
+            "distance_km": 662.0,
+            "sequence_number": 16,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 716.0,
+            "sequence_number": 17,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "02:58",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 834.0,
+            "sequence_number": 18,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:38",
+            "distance_km": 933.0,
+            "sequence_number": 19,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 2,
+            "departure_time": "06:35",
+            "distance_km": 1084.0,
+            "sequence_number": 20,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 2,
+            "departure_time": "08:35",
+            "distance_km": 1222.0,
+            "sequence_number": 21,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 2,
+            "departure_time": "10:25",
+            "distance_km": 1314.0,
+            "sequence_number": 22,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 2,
+            "departure_time": "13:10",
+            "distance_km": 1496.0,
+            "sequence_number": 23,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "15:18",
+            "day_of_journey": 2,
+            "departure_time": "15:20",
+            "distance_km": 1663.0,
+            "sequence_number": 24,
+            "station_code": "MKU",
+            "station_name": "MALKAPUR"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 2,
+            "departure_time": "17:00",
+            "distance_km": 1753.0,
+            "sequence_number": 25,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "18:09",
+            "day_of_journey": 2,
+            "departure_time": "18:10",
+            "distance_km": 1834.0,
+            "sequence_number": 26,
+            "station_code": "WHM",
+            "station_name": "WASHIM"
+        },
+        {
+            "arrival_time": "18:49",
+            "day_of_journey": 2,
+            "departure_time": "18:50",
+            "distance_km": 1882.0,
+            "sequence_number": 27,
+            "station_code": "HNL",
+            "station_name": "HINGOLI DECCAN"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 2,
+            "departure_time": "20:40",
+            "distance_km": 1962.0,
+            "sequence_number": 28,
+            "station_code": "Point(2)",
+            "station_name": "PURNA JN PAU Train Reversal"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1992.0,
+            "sequence_number": 29,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        }
+    ],
+    "train_name": "SGNR NED EXP",
+    "train_number": "12440",
+    "type": "SUPERFAST"
+}

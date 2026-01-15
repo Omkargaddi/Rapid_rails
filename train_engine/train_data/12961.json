@@ -1,0 +1,225 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12961.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12961-MMCT-INDB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "MMCT",
+            "station_name": "MUMBAI CENTRAL"
+        },
+        {
+            "arrival_time": "21:21",
+            "day_of_journey": 1,
+            "departure_time": "21:24",
+            "distance_km": 30.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "22:48",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 168.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "23:08",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 194.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "23:33",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 233.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "00:22",
+            "day_of_journey": 2,
+            "departure_time": "00:27",
+            "distance_km": 262.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "00:58",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 312.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "AKV",
+            "station_name": "ANKLESHWAR JN"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:12",
+            "distance_km": 321.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "02:02",
+            "day_of_journey": 2,
+            "departure_time": "02:12",
+            "distance_km": 392.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "03:11",
+            "day_of_journey": 2,
+            "departure_time": "03:13",
+            "distance_km": 464.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "GDA",
+            "station_name": "GODHRA JN"
+        },
+        {
+            "arrival_time": "04:01",
+            "day_of_journey": 2,
+            "departure_time": "04:03",
+            "distance_km": 536.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "04:26",
+            "day_of_journey": 2,
+            "departure_time": "04:28",
+            "distance_km": 569.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "MGN",
+            "station_name": "MEGHNAGAR"
+        },
+        {
+            "arrival_time": "04:38",
+            "day_of_journey": 2,
+            "departure_time": "04:39",
+            "distance_km": 577.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "THDR",
+            "station_name": "THANDLA RD"
+        },
+        {
+            "arrival_time": "05:09",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 604.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "BMI",
+            "station_name": "BAMNIA"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": "05:55",
+            "distance_km": 649.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "06:19",
+            "day_of_journey": 2,
+            "departure_time": "06:21",
+            "distance_km": 677.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "KUH",
+            "station_name": "KHACHROD"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 2,
+            "departure_time": "06:40",
+            "distance_km": 691.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "NAD",
+            "station_name": "NAGDA JN"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 2,
+            "departure_time": "07:35",
+            "distance_km": 746.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "UJN",
+            "station_name": "UJJAIN JN"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 2,
+            "departure_time": "08:12",
+            "distance_km": 786.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 828.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        }
+    ],
+    "train_name": "AVANTIKA EXP",
+    "train_number": "12961",
+    "type": "SUPERFAST "
+}

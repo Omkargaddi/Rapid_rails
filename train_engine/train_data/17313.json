@@ -1,0 +1,126 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17313.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "17313-UBL-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "UBL",
+            "station_name": "SSS HUBBALLI JN"
+        },
+        {
+            "arrival_time": "22:24",
+            "day_of_journey": 1,
+            "departure_time": "22:26",
+            "distance_km": 58.0,
+            "sequence_number": 2,
+            "station_code": "GDG",
+            "station_name": "GADAG JN"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 1,
+            "departure_time": "23:12",
+            "distance_km": 115.0,
+            "sequence_number": 3,
+            "station_code": "KBL",
+            "station_name": "KOPPAL"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 143.0,
+            "sequence_number": 4,
+            "station_code": "HPT",
+            "station_name": "HOSAPETE JUNCTION"
+        },
+        {
+            "arrival_time": "01:30",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 209.0,
+            "sequence_number": 5,
+            "station_code": "BAY",
+            "station_name": "BALLARI JN."
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 256.0,
+            "sequence_number": 6,
+            "station_code": "GTL",
+            "station_name": "GUNTAKAL JN"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 440.0,
+            "sequence_number": 7,
+            "station_code": "HX",
+            "station_name": "CUDDAPAH"
+        },
+        {
+            "arrival_time": "08:15",
+            "day_of_journey": 2,
+            "departure_time": "08:20",
+            "distance_km": 565.0,
+            "sequence_number": 8,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "09:33",
+            "day_of_journey": 2,
+            "departure_time": "09:35",
+            "distance_km": 631.0,
+            "sequence_number": 9,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "10:28",
+            "day_of_journey": 2,
+            "departure_time": "10:30",
+            "distance_km": 694.0,
+            "sequence_number": 10,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "11:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 700.0,
+            "sequence_number": 11,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "UBL MAS EXP",
+    "train_number": "17313",
+    "type": "MAIL EXPRESS"
+}

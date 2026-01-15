@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12884.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12884-PRR-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PRR",
+            "station_name": "PURULIA JN."
+        },
+        {
+            "arrival_time": "15:53",
+            "day_of_journey": 1,
+            "departure_time": "15:54",
+            "distance_km": 26.0,
+            "sequence_number": 2,
+            "station_code": "ANR",
+            "station_name": "ANARA"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 39.0,
+            "sequence_number": 3,
+            "station_code": "ADRA",
+            "station_name": "ADRA"
+        },
+        {
+            "arrival_time": "16:52",
+            "day_of_journey": 1,
+            "departure_time": "16:53",
+            "distance_km": 78.0,
+            "sequence_number": 4,
+            "station_code": "CJN",
+            "station_name": "CHHATNA"
+        },
+        {
+            "arrival_time": "17:04",
+            "day_of_journey": 1,
+            "departure_time": "17:06",
+            "distance_km": 92.0,
+            "sequence_number": 5,
+            "station_code": "BQA",
+            "station_name": "BANKURA"
+        },
+        {
+            "arrival_time": "17:29",
+            "day_of_journey": 1,
+            "departure_time": "17:31",
+            "distance_km": 123.0,
+            "sequence_number": 6,
+            "station_code": "VSU",
+            "station_name": "BISHNUPUR"
+        },
+        {
+            "arrival_time": "17:51",
+            "day_of_journey": 1,
+            "departure_time": "17:52",
+            "distance_km": 148.0,
+            "sequence_number": 7,
+            "station_code": "GBA",
+            "station_name": "GARBETA"
+        },
+        {
+            "arrival_time": "18:04",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 160.0,
+            "sequence_number": 8,
+            "station_code": "CDGR",
+            "station_name": "CHANDRAKONA ROAD"
+        },
+        {
+            "arrival_time": "18:16",
+            "day_of_journey": 1,
+            "departure_time": "18:17",
+            "distance_km": 171.0,
+            "sequence_number": 9,
+            "station_code": "SLB",
+            "station_name": "SALBONI"
+        },
+        {
+            "arrival_time": "18:48",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 195.0,
+            "sequence_number": 10,
+            "station_code": "MDN",
+            "station_name": "MIDNAPORE"
+        },
+        {
+            "arrival_time": "19:11",
+            "day_of_journey": 1,
+            "departure_time": "19:13",
+            "distance_km": 208.0,
+            "sequence_number": 11,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:32",
+            "distance_km": 316.0,
+            "sequence_number": 12,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 324.0,
+            "sequence_number": 13,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "RUPASHI BANGLA",
+    "train_number": "12884",
+    "type": "SUPERFAST"
+}

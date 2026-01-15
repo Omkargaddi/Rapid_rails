@@ -1,0 +1,95 @@
+{
+    "classes_available": [
+        "EC",
+        "EV",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12042.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12042-NJP-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 87.0,
+            "sequence_number": 2,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 1,
+            "departure_time": "07:16",
+            "distance_km": 145.0,
+            "sequence_number": 3,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 233.0,
+            "sequence_number": 4,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "09:12",
+            "day_of_journey": 1,
+            "departure_time": "09:13",
+            "distance_km": 267.0,
+            "sequence_number": 5,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "11:02",
+            "day_of_journey": 1,
+            "departure_time": "11:04",
+            "distance_km": 415.0,
+            "sequence_number": 6,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:07",
+            "distance_km": 467.0,
+            "sequence_number": 7,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "13:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 562.0,
+            "sequence_number": 8,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "SHATABDI EXP",
+    "train_number": "12042",
+    "type": "SHATABDI"
+}

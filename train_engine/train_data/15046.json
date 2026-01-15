@@ -1,0 +1,170 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15046.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15046-OKHA-GKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "OKHA",
+            "station_name": "OKHA"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 2,
+            "departure_time": "00:06",
+            "distance_km": 29.0,
+            "sequence_number": 2,
+            "station_code": "DWK",
+            "station_name": "DWARKA"
+        },
+        {
+            "arrival_time": "01:04",
+            "day_of_journey": 2,
+            "departure_time": "01:06",
+            "distance_km": 113.0,
+            "sequence_number": 3,
+            "station_code": "KMBL",
+            "station_name": "KHAMBHALIYA"
+        },
+        {
+            "arrival_time": "01:49",
+            "day_of_journey": 2,
+            "departure_time": "01:54",
+            "distance_km": 167.0,
+            "sequence_number": 4,
+            "station_code": "JAM",
+            "station_name": "JAMNAGAR"
+        },
+        {
+            "arrival_time": "02:09",
+            "day_of_journey": 2,
+            "departure_time": "02:11",
+            "distance_km": 176.0,
+            "sequence_number": 5,
+            "station_code": "HAPA",
+            "station_name": "HAPA"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 249.0,
+            "sequence_number": 6,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "04:38",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 291.0,
+            "sequence_number": 7,
+            "station_code": "WKR",
+            "station_name": "WANKANER JN"
+        },
+        {
+            "arrival_time": "05:42",
+            "day_of_journey": 2,
+            "departure_time": "05:44",
+            "distance_km": 365.0,
+            "sequence_number": 8,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": "06:52",
+            "distance_km": 430.0,
+            "sequence_number": 9,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "07:32",
+            "day_of_journey": 2,
+            "departure_time": "07:34",
+            "distance_km": 484.0,
+            "sequence_number": 10,
+            "station_code": "CLDY",
+            "station_name": "CHANDLODIYA"
+        },
+        {
+            "arrival_time": "08:05",
+            "day_of_journey": 2,
+            "departure_time": "08:15",
+            "distance_km": 495.0,
+            "sequence_number": 11,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "09:31",
+            "day_of_journey": 2,
+            "departure_time": "09:33",
+            "distance_km": 559.0,
+            "sequence_number": 12,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 3,
+            "departure_time": "14:50",
+            "distance_km": 2048.0,
+            "sequence_number": 36,
+            "station_code": "BBK",
+            "station_name": "BARABANKI JN"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 3,
+            "departure_time": "16:05",
+            "distance_km": 2137.0,
+            "sequence_number": 37,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 3,
+            "departure_time": "17:18",
+            "distance_km": 2226.0,
+            "sequence_number": 38,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2291.0,
+            "sequence_number": 39,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        }
+    ],
+    "train_name": "OKHA GKP EXP",
+    "train_number": "15046",
+    "type": "MAIL EXPRESS"
+}

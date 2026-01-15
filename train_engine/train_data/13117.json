@@ -1,0 +1,123 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13117.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "13117-KOAA-LGL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        },
+        {
+            "arrival_time": "16:51",
+            "day_of_journey": 1,
+            "departure_time": "16:53",
+            "distance_km": 34.0,
+            "sequence_number": 2,
+            "station_code": "NH",
+            "station_name": "NAIHATI JN"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:42",
+            "distance_km": 69.0,
+            "sequence_number": 3,
+            "station_code": "RHA",
+            "station_name": "RANAGHAT JN"
+        },
+        {
+            "arrival_time": "18:08",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 95.0,
+            "sequence_number": 4,
+            "station_code": "KNJ",
+            "station_name": "KRISHNGR CTY JN"
+        },
+        {
+            "arrival_time": "18:31",
+            "day_of_journey": 1,
+            "departure_time": "18:32",
+            "distance_km": 123.0,
+            "sequence_number": 5,
+            "station_code": "BTY",
+            "station_name": "BETHUADAHARI"
+        },
+        {
+            "arrival_time": "18:48",
+            "day_of_journey": 1,
+            "departure_time": "18:49",
+            "distance_km": 146.0,
+            "sequence_number": 6,
+            "station_code": "PLY",
+            "station_name": "PLASSEY"
+        },
+        {
+            "arrival_time": "19:03",
+            "day_of_journey": 1,
+            "departure_time": "19:04",
+            "distance_km": 164.0,
+            "sequence_number": 7,
+            "station_code": "BEB",
+            "station_name": "BELDANGA"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:27",
+            "distance_km": 182.0,
+            "sequence_number": 8,
+            "station_code": "BPC",
+            "station_name": "BERHAMPORE CRT"
+        },
+        {
+            "arrival_time": "19:38",
+            "day_of_journey": 1,
+            "departure_time": "19:39",
+            "distance_km": 193.0,
+            "sequence_number": 9,
+            "station_code": "MBB",
+            "station_name": "MURSHIDABAD"
+        },
+        {
+            "arrival_time": "19:46",
+            "day_of_journey": 1,
+            "departure_time": "19:47",
+            "distance_km": 200.0,
+            "sequence_number": 10,
+            "station_code": "JJG",
+            "station_name": "JIAGANJ"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 224.0,
+            "sequence_number": 11,
+            "station_code": "LGL",
+            "station_name": "LALGOLA"
+        }
+    ],
+    "train_name": "KOAA LGL EXPRES",
+    "train_number": "13117",
+    "type": "MAIL EXPRESS"
+}

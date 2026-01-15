@@ -1,0 +1,68 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12426.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12426-JAT-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "22:31",
+            "day_of_journey": 1,
+            "departure_time": "22:33",
+            "distance_km": 76.0,
+            "sequence_number": 2,
+            "station_code": "KTHU",
+            "station_name": "KATHUA"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": "23:07",
+            "distance_km": 100.0,
+            "sequence_number": 3,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 265.0,
+            "sequence_number": 4,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "05:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 577.0,
+            "sequence_number": 5,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "JAMMU RAJDHANI",
+    "train_number": "12426",
+    "type": "RAJDHANI"
+}

@@ -1,0 +1,223 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13510.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "13510-GD-ASN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 28.0,
+            "sequence_number": 2,
+            "station_code": "MUR",
+            "station_name": "MANKAPUR JN"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 67.0,
+            "sequence_number": 3,
+            "station_code": "Point(2)",
+            "station_name": "AYODHYA DHAM JN AY Train Reversal"
+        },
+        {
+            "arrival_time": "17:59",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 99.0,
+            "sequence_number": 4,
+            "station_code": "GGJ",
+            "station_name": "GOSHAINGANJ"
+        },
+        {
+            "arrival_time": "18:26",
+            "day_of_journey": 1,
+            "departure_time": "18:28",
+            "distance_km": 121.0,
+            "sequence_number": 5,
+            "station_code": "ABP",
+            "station_name": "AKBARPUR"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 165.0,
+            "sequence_number": 6,
+            "station_code": "Point(3)",
+            "station_name": "SHAHGANJ JN SHG Train Reversal"
+        },
+        {
+            "arrival_time": "21:16",
+            "day_of_journey": 1,
+            "departure_time": "21:18",
+            "distance_km": 187.0,
+            "sequence_number": 7,
+            "station_code": "KRND",
+            "station_name": "KHORASON ROAD"
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 222.0,
+            "sequence_number": 8,
+            "station_code": "AMH",
+            "station_name": "AZAMGARH"
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 243.0,
+            "sequence_number": 9,
+            "station_code": "MMA",
+            "station_name": "MUHAMMADABAD"
+        },
+        {
+            "arrival_time": "22:35",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 265.0,
+            "sequence_number": 10,
+            "station_code": "MAU",
+            "station_name": "MAU JN"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 334.0,
+            "sequence_number": 11,
+            "station_code": "BUI",
+            "station_name": "BALLIA"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 399.0,
+            "sequence_number": 12,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "02:43",
+            "day_of_journey": 2,
+            "departure_time": "02:48",
+            "distance_km": 458.0,
+            "sequence_number": 13,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 512.0,
+            "sequence_number": 14,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 563.0,
+            "sequence_number": 15,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "05:55",
+            "day_of_journey": 2,
+            "departure_time": "06:05",
+            "distance_km": 614.0,
+            "sequence_number": 16,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "07:36",
+            "day_of_journey": 2,
+            "departure_time": "07:38",
+            "distance_km": 651.0,
+            "sequence_number": 17,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 705.0,
+            "sequence_number": 18,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "09:07",
+            "day_of_journey": 2,
+            "departure_time": "09:09",
+            "distance_km": 749.0,
+            "sequence_number": 19,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "09:34",
+            "day_of_journey": 2,
+            "departure_time": "09:36",
+            "distance_km": 778.0,
+            "sequence_number": 20,
+            "station_code": "MDP",
+            "station_name": "MADHUPUR JN."
+        },
+        {
+            "arrival_time": "10:14",
+            "day_of_journey": 2,
+            "departure_time": "10:16",
+            "distance_km": 835.0,
+            "sequence_number": 21,
+            "station_code": "CRJ",
+            "station_name": "CHITTARANJAN"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 860.0,
+            "sequence_number": 22,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        }
+    ],
+    "train_name": "GONDA-ASN EXPRESS",
+    "train_number": "13510",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,144 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22351.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22351-SHC-SMVB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SHC",
+            "station_name": "SAHARSA JN"
+        },
+        {
+            "arrival_time": "13:53",
+            "day_of_journey": 1,
+            "departure_time": "13:55",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "SBV",
+            "station_name": "S BHAKHTIYARPUR"
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 45.0,
+            "sequence_number": 3,
+            "station_code": "MNE",
+            "station_name": "MANSI JN"
+        },
+        {
+            "arrival_time": "15:01",
+            "day_of_journey": 1,
+            "departure_time": "15:03",
+            "distance_km": 53.0,
+            "sequence_number": 4,
+            "station_code": "KGG",
+            "station_name": "KHAGARIA JN."
+        },
+        {
+            "arrival_time": "15:33",
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 94.0,
+            "sequence_number": 5,
+            "station_code": "BGS",
+            "station_name": "BEGUSARAI"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 109.0,
+            "sequence_number": 6,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "17:11",
+            "day_of_journey": 1,
+            "departure_time": "17:13",
+            "distance_km": 159.0,
+            "sequence_number": 7,
+            "station_code": "SPP",
+            "station_name": "SHAHPUR PATOREE"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 197.0,
+            "sequence_number": 8,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "18:08",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 203.0,
+            "sequence_number": 9,
+            "station_code": "SEE",
+            "station_name": "SONPUR JN"
+        },
+        {
+            "arrival_time": "19:55",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 217.0,
+            "sequence_number": 10,
+            "station_code": "PPTA",
+            "station_name": "PATLIPUTRA"
+        },
+        {
+            "arrival_time": "20:28",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 223.0,
+            "sequence_number": 11,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "23:43",
+            "day_of_journey": 1,
+            "departure_time": "23:50",
+            "distance_km": 421.0,
+            "sequence_number": 12,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2899.0,
+            "sequence_number": 36,
+            "station_code": "SMVB",
+            "station_name": "SMVT BENGALURU"
+        }
+    ],
+    "train_name": "SHC SMVB EXP",
+    "train_number": "22351",
+    "type": "SUPERFAST"
+}

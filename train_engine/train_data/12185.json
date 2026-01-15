@@ -1,0 +1,170 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12185.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12185-RKMP-REWA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RKMP",
+            "station_name": "RANI KAMALAPATI"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "22:52",
+            "distance_km": 59.0,
+            "sequence_number": 3,
+            "station_code": "BHS",
+            "station_name": "VIDISHA"
+        },
+        {
+            "arrival_time": "23:18",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 99.0,
+            "sequence_number": 4,
+            "station_code": "BAQ",
+            "station_name": "GANJ BASODA"
+        },
+        {
+            "arrival_time": "23:43",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 127.0,
+            "sequence_number": 5,
+            "station_code": "MABA",
+            "station_name": "MANDI BAMORA"
+        },
+        {
+            "arrival_time": "00:25",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 144.0,
+            "sequence_number": 6,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "00:53",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 166.0,
+            "sequence_number": 7,
+            "station_code": "KYE",
+            "station_name": "KHURAI"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 219.0,
+            "sequence_number": 8,
+            "station_code": "SGO",
+            "station_name": "SAUGOR"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 270.0,
+            "sequence_number": 9,
+            "station_code": "PHA",
+            "station_name": "PATHARIA"
+        },
+        {
+            "arrival_time": "02:43",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 297.0,
+            "sequence_number": 10,
+            "station_code": "DMO",
+            "station_name": "DAMOH"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 405.0,
+            "sequence_number": 11,
+            "station_code": "KMZ",
+            "station_name": "KATNI MURWARA"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 443.0,
+            "sequence_number": 12,
+            "station_code": "UDR",
+            "station_name": "AMDARA"
+        },
+        {
+            "arrival_time": "05:38",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 470.0,
+            "sequence_number": 13,
+            "station_code": "MYR",
+            "station_name": "MAIHAR"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 484.0,
+            "sequence_number": 14,
+            "station_code": "UHR",
+            "station_name": "UNCHHERA"
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 2,
+            "departure_time": "06:35",
+            "distance_km": 505.0,
+            "sequence_number": 15,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "07:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 554.0,
+            "sequence_number": 16,
+            "station_code": "REWA",
+            "station_name": "REWA"
+        }
+    ],
+    "train_name": "REWANCHAL EXP",
+    "train_number": "12185",
+    "type": "SUPERFAST"
+}

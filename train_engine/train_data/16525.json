@@ -1,0 +1,255 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16525.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16525-CAPE-SBC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "CAPE",
+            "station_name": "KANNIYAKUMARI"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 1,
+            "departure_time": "10:30",
+            "distance_km": 16.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "NCJ",
+            "station_name": "NAGERCOIL JUNCTION"
+        },
+        {
+            "arrival_time": "10:49",
+            "day_of_journey": 1,
+            "departure_time": "10:50",
+            "distance_km": 34.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "ERL",
+            "station_name": "ERANIEL"
+        },
+        {
+            "arrival_time": "11:04",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 49.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "KZT",
+            "station_name": "KULITTHURAI"
+        },
+        {
+            "arrival_time": "11:14",
+            "day_of_journey": 1,
+            "departure_time": "11:15",
+            "distance_km": 57.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "PASA",
+            "station_name": "PARASSALA"
+        },
+        {
+            "arrival_time": "11:29",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 69.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "NYY",
+            "station_name": "NEYYATTINKARA"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 1,
+            "departure_time": "12:40",
+            "distance_km": 87.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        },
+        {
+            "arrival_time": "12:55",
+            "day_of_journey": 1,
+            "departure_time": "12:56",
+            "distance_km": 100.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "KZK",
+            "station_name": "KAZHAKUTTAM"
+        },
+        {
+            "arrival_time": "13:07",
+            "day_of_journey": 1,
+            "departure_time": "13:08",
+            "distance_km": 115.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "CRY",
+            "station_name": "CHIRAYINKEEZH"
+        },
+        {
+            "arrival_time": "13:12",
+            "day_of_journey": 1,
+            "departure_time": "13:13",
+            "distance_km": 118.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "KVU",
+            "station_name": "KADAKAVUR"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 1,
+            "departure_time": "13:26",
+            "distance_km": 128.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "VAK",
+            "station_name": "VARKALA"
+        },
+        {
+            "arrival_time": "13:36",
+            "day_of_journey": 1,
+            "departure_time": "13:37",
+            "distance_km": 139.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "PVU",
+            "station_name": "PARAVUR"
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 610.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "01:37",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 669.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 783.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "TPT",
+            "station_name": "TIRUPATTUR JN"
+        },
+        {
+            "arrival_time": "03:54",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 829.0,
+            "platform": null,
+            "sequence_number": 39,
+            "station_code": "KPN",
+            "station_name": "KUPPAM"
+        },
+        {
+            "arrival_time": "04:19",
+            "day_of_journey": 2,
+            "departure_time": "04:21",
+            "distance_km": 861.0,
+            "platform": null,
+            "sequence_number": 40,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "04:41",
+            "day_of_journey": 2,
+            "departure_time": "04:42",
+            "distance_km": 888.0,
+            "platform": null,
+            "sequence_number": 41,
+            "station_code": "MLO",
+            "station_name": "MALUR"
+        },
+        {
+            "arrival_time": "04:56",
+            "day_of_journey": 2,
+            "departure_time": "04:57",
+            "distance_km": 908.0,
+            "platform": null,
+            "sequence_number": 42,
+            "station_code": "WFD",
+            "station_name": "WHITEFIELD"
+        },
+        {
+            "arrival_time": "05:07",
+            "day_of_journey": 2,
+            "departure_time": "05:09",
+            "distance_km": 917.0,
+            "platform": null,
+            "sequence_number": 43,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "05:19",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 924.0,
+            "platform": null,
+            "sequence_number": 44,
+            "station_code": "BNCE",
+            "station_name": "BANGALORE EAST"
+        },
+        {
+            "arrival_time": "05:27",
+            "day_of_journey": 2,
+            "departure_time": "05:28",
+            "distance_km": 927.0,
+            "platform": null,
+            "sequence_number": 45,
+            "station_code": "BNC",
+            "station_name": "BANGALORE CANT"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 931.0,
+            "platform": null,
+            "sequence_number": 46,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        }
+    ],
+    "train_name": "CAPE SBC EXPRES",
+    "train_number": "16525",
+    "type": "MAIL EXPRESS "
+}

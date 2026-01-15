@@ -1,0 +1,169 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12629.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12629-YPR-NZM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        },
+        {
+            "arrival_time": "15:49",
+            "day_of_journey": 1,
+            "departure_time": "15:50",
+            "distance_km": 65.0,
+            "sequence_number": 2,
+            "station_code": "TK",
+            "station_name": "TUMKUR"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 161.0,
+            "sequence_number": 3,
+            "station_code": "ASK",
+            "station_name": "ARSIKERE JN"
+        },
+        {
+            "arrival_time": "18:56",
+            "day_of_journey": 1,
+            "departure_time": "18:58",
+            "distance_km": 320.0,
+            "sequence_number": 4,
+            "station_code": "DVG",
+            "station_name": "DAVANGERE"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": "19:42",
+            "distance_km": 389.0,
+            "sequence_number": 5,
+            "station_code": "HVR",
+            "station_name": "HAVERI"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 464.0,
+            "sequence_number": 6,
+            "station_code": "UBL",
+            "station_name": "SSS HUBBALLI JN"
+        },
+        {
+            "arrival_time": "21:48",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 484.0,
+            "sequence_number": 7,
+            "station_code": "DWR",
+            "station_name": "DHARWAR"
+        },
+        {
+            "arrival_time": "00:15",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 605.0,
+            "sequence_number": 8,
+            "station_code": "BGM",
+            "station_name": "BELAGAVI"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 742.0,
+            "sequence_number": 9,
+            "station_code": "MRJ",
+            "station_name": "MIRAJ JN."
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 2,
+            "departure_time": "09:00",
+            "distance_km": 1022.0,
+            "sequence_number": 10,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 2,
+            "departure_time": "15:25",
+            "distance_km": 1328.0,
+            "sequence_number": 11,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 2,
+            "departure_time": "17:50",
+            "distance_km": 1512.0,
+            "sequence_number": 12,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "00:00",
+            "day_of_journey": 3,
+            "departure_time": "00:10",
+            "distance_km": 1910.0,
+            "sequence_number": 13,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 3,
+            "departure_time": "00:47",
+            "distance_km": 1963.0,
+            "sequence_number": 14,
+            "station_code": "BHS",
+            "station_name": "VIDISHA"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 3,
+            "departure_time": "04:23",
+            "distance_km": 2199.0,
+            "sequence_number": 15,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "11:40",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2603.0,
+            "sequence_number": 16,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        }
+    ],
+    "train_name": "SAMPARK KRANTI",
+    "train_number": "12629",
+    "type": "SUPERFAST"
+}

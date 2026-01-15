@@ -1,0 +1,175 @@
+{
+    "classes_available": [
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22913.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22913-BDTS-SHC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 157.0,
+            "sequence_number": 2,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "19:22",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 183.0,
+            "sequence_number": 3,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 242.0,
+            "sequence_number": 4,
+            "station_code": "BHET",
+            "station_name": "BHESTAN"
+        },
+        {
+            "arrival_time": "22:45",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 402.0,
+            "sequence_number": 5,
+            "station_code": "NDB",
+            "station_name": "NANDURBAR"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 577.0,
+            "sequence_number": 6,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 2,
+            "departure_time": "06:15",
+            "distance_km": 883.0,
+            "sequence_number": 7,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "09:20",
+            "day_of_journey": 2,
+            "departure_time": "09:30",
+            "distance_km": 1128.0,
+            "sequence_number": 8,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 2,
+            "departure_time": "10:50",
+            "distance_km": 1218.0,
+            "sequence_number": 9,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 2,
+            "departure_time": "12:25",
+            "distance_km": 1317.0,
+            "sequence_number": 10,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 2,
+            "departure_time": "16:10",
+            "distance_km": 1486.0,
+            "sequence_number": 11,
+            "station_code": "PCOI",
+            "station_name": "PRAYAGRAJ CHHEOKI"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 2,
+            "departure_time": "19:40",
+            "distance_km": 1630.0,
+            "sequence_number": 12,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "22:38",
+            "day_of_journey": 2,
+            "departure_time": "22:45",
+            "distance_km": 1838.0,
+            "sequence_number": 13,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 3,
+            "departure_time": "01:05",
+            "distance_km": 1946.0,
+            "sequence_number": 14,
+            "station_code": "NBJU",
+            "station_name": "NEW BARAUNI JN."
+        },
+        {
+            "arrival_time": "01:21",
+            "day_of_journey": 3,
+            "departure_time": "01:23",
+            "distance_km": 1959.0,
+            "sequence_number": 15,
+            "station_code": "BGS",
+            "station_name": "BEGUSARAI"
+        },
+        {
+            "arrival_time": "02:08",
+            "day_of_journey": 3,
+            "departure_time": "02:10",
+            "distance_km": 2000.0,
+            "sequence_number": 16,
+            "station_code": "KGG",
+            "station_name": "KHAGARIA JN."
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2053.0,
+            "sequence_number": 17,
+            "station_code": "SHC",
+            "station_name": "SAHARSA JN"
+        }
+    ],
+    "train_name": "SHC HAMSAFAR EX",
+    "train_number": "22913",
+    "type": "SUPERFAST"
+}

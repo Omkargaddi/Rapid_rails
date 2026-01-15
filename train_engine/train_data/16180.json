@@ -1,0 +1,134 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16180.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16180-MQ-MS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MQ",
+            "station_name": "MANNARGUDI"
+        },
+        {
+            "arrival_time": "23:06",
+            "day_of_journey": 1,
+            "departure_time": "23:08",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "NMJ",
+            "station_name": "NIDAMANGALAM JN."
+        },
+        {
+            "arrival_time": "23:19",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 22.0,
+            "sequence_number": 3,
+            "station_code": "KDE",
+            "station_name": "KORADACHERI"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 38.0,
+            "sequence_number": 4,
+            "station_code": "TVR",
+            "station_name": "THIRUVARUR JN"
+        },
+        {
+            "arrival_time": "00:18",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 76.0,
+            "sequence_number": 5,
+            "station_code": "MV",
+            "station_name": "MAYILADUTURAI JN"
+        },
+        {
+            "arrival_time": "00:57",
+            "day_of_journey": 2,
+            "departure_time": "00:59",
+            "distance_km": 113.0,
+            "sequence_number": 6,
+            "station_code": "CDM",
+            "station_name": "CHIDAMBARAM"
+        },
+        {
+            "arrival_time": "02:58",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 198.0,
+            "sequence_number": 7,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "03:54",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 266.0,
+            "sequence_number": 8,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "04:28",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 301.0,
+            "sequence_number": 9,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "04:58",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 332.0,
+            "sequence_number": 10,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 350.0,
+            "sequence_number": 11,
+            "station_code": "MBM",
+            "station_name": "MAMBALAM"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 357.0,
+            "sequence_number": 12,
+            "station_code": "MS",
+            "station_name": "CHENNAI EGMORE"
+        }
+    ],
+    "train_name": "MQ MS EXPRESS",
+    "train_number": "16180",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,122 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22414.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22414-NZM-MAO",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:16",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 1,
+            "departure_time": "10:55",
+            "distance_km": 457.0,
+            "sequence_number": 2,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "14:02",
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 724.0,
+            "sequence_number": 3,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "17:27",
+            "day_of_journey": 1,
+            "departure_time": "17:37",
+            "distance_km": 981.0,
+            "sequence_number": 4,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "19:14",
+            "day_of_journey": 1,
+            "departure_time": "19:17",
+            "distance_km": 1111.0,
+            "sequence_number": 5,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 1326.0,
+            "sequence_number": 6,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "22:57",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 1392.0,
+            "sequence_number": 7,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 1673.0,
+            "sequence_number": 8,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:52",
+            "distance_km": 1812.0,
+            "sequence_number": 9,
+            "station_code": "KUDL",
+            "station_name": "KUDAL"
+        },
+        {
+            "arrival_time": "05:38",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 1866.0,
+            "sequence_number": 10,
+            "station_code": "THVM",
+            "station_name": "THIVIM"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1912.0,
+            "sequence_number": 11,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        }
+    ],
+    "train_name": "NZM MAO RAJDANI",
+    "train_number": "22414",
+    "type": "RAJDHANI"
+}

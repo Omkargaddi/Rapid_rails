@@ -1,0 +1,230 @@
+{
+    "classes_available": [
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17405.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17405-TPTY-ADB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "KHT",
+            "station_name": "SRI KALAHASTI"
+        },
+        {
+            "arrival_time": "06:49",
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 57.0,
+            "sequence_number": 4,
+            "station_code": "VKI",
+            "station_name": "VENKATAGIRI"
+        },
+        {
+            "arrival_time": "07:19",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 93.0,
+            "sequence_number": 5,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "07:49",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 124.0,
+            "sequence_number": 6,
+            "station_code": "VDE",
+            "station_name": "VEDAYAPALEM"
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 726.0,
+            "sequence_number": 41,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        },
+        {
+            "arrival_time": "21:19",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 744.0,
+            "sequence_number": 42,
+            "station_code": "BMO",
+            "station_name": "BOLARUM"
+        },
+        {
+            "arrival_time": "21:34",
+            "day_of_journey": 1,
+            "departure_time": "21:35",
+            "distance_km": 758.0,
+            "sequence_number": 43,
+            "station_code": "MED",
+            "station_name": "MEDCHAL"
+        },
+        {
+            "arrival_time": "22:14",
+            "day_of_journey": 1,
+            "departure_time": "22:15",
+            "distance_km": 802.0,
+            "sequence_number": 44,
+            "station_code": "MZL",
+            "station_name": "MIRZAPALLI"
+        },
+        {
+            "arrival_time": "22:29",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 812.0,
+            "sequence_number": 45,
+            "station_code": "AKE",
+            "station_name": "AKANAPET"
+        },
+        {
+            "arrival_time": "22:53",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 838.0,
+            "sequence_number": 46,
+            "station_code": "KMC",
+            "station_name": "KAMAREDDI"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 1,
+            "departure_time": "23:50",
+            "distance_km": 890.0,
+            "sequence_number": 47,
+            "station_code": "NZB",
+            "station_name": "NIZAMABAD JN."
+        },
+        {
+            "arrival_time": "00:24",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 920.0,
+            "sequence_number": 48,
+            "station_code": "BSX",
+            "station_name": "BASAR"
+        },
+        {
+            "arrival_time": "00:39",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 929.0,
+            "sequence_number": 49,
+            "station_code": "DAB",
+            "station_name": "DHARMABAD"
+        },
+        {
+            "arrival_time": "01:39",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 959.0,
+            "sequence_number": 50,
+            "station_code": "UMRI",
+            "station_name": "UMRI"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 2,
+            "departure_time": "02:40",
+            "distance_km": 979.0,
+            "sequence_number": 51,
+            "station_code": "MUE",
+            "station_name": "MUDKHED"
+        },
+        {
+            "arrival_time": "03:04",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 1002.0,
+            "sequence_number": 52,
+            "station_code": "BOKR",
+            "station_name": "BHOKAR"
+        },
+        {
+            "arrival_time": "03:54",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 1047.0,
+            "sequence_number": 53,
+            "station_code": "HEM",
+            "station_name": "HIMAYATNAGAR"
+        },
+        {
+            "arrival_time": "04:09",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 1062.0,
+            "sequence_number": 54,
+            "station_code": "SHSK",
+            "station_name": "SAHARSRAKUND"
+        },
+        {
+            "arrival_time": "04:49",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 1092.0,
+            "sequence_number": 55,
+            "station_code": "BHBK",
+            "station_name": "BODHADI BUJRUG"
+        },
+        {
+            "arrival_time": "05:09",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 1106.0,
+            "sequence_number": 56,
+            "station_code": "KNVT",
+            "station_name": "KINWAT"
+        },
+        {
+            "arrival_time": "06:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1152.0,
+            "sequence_number": 57,
+            "station_code": "ADB",
+            "station_name": "ADILABAD"
+        }
+    ],
+    "train_name": "KRISHNA EXPRESS",
+    "train_number": "17405",
+    "type": "MAIL EXPRESS"
+}

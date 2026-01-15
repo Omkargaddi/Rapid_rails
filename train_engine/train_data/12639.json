@@ -1,0 +1,152 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12639.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12639-MAS-SBC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        },
+        {
+            "arrival_time": "08:33",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 69.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 90.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "SHU",
+            "station_name": "SHOLINGHUR"
+        },
+        {
+            "arrival_time": "09:06",
+            "day_of_journey": 1,
+            "departure_time": "09:08",
+            "distance_km": 105.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "WJR",
+            "station_name": "WALAJAH ROAD"
+        },
+        {
+            "arrival_time": "09:33",
+            "day_of_journey": 1,
+            "departure_time": "09:35",
+            "distance_km": 130.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "10:10",
+            "day_of_journey": 1,
+            "departure_time": "10:12",
+            "distance_km": 182.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "AB",
+            "station_name": "AMBUR"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 1,
+            "departure_time": "10:27",
+            "distance_km": 198.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "VN",
+            "station_name": "VANIYAMBADI"
+        },
+        {
+            "arrival_time": "10:53",
+            "day_of_journey": 1,
+            "departure_time": "10:55",
+            "distance_km": 214.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "11:32",
+            "day_of_journey": 1,
+            "departure_time": "11:33",
+            "distance_km": 252.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "KPN",
+            "station_name": "KUPPAM"
+        },
+        {
+            "arrival_time": "12:04",
+            "day_of_journey": 1,
+            "departure_time": "12:05",
+            "distance_km": 283.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "12:48",
+            "day_of_journey": 1,
+            "departure_time": "12:50",
+            "distance_km": 340.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "13:09",
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 349.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BNC",
+            "station_name": "BANGALORE CANT"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 354.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        }
+    ],
+    "train_name": "BRINDAVAN SF EXP",
+    "train_number": "12639",
+    "type": "SUPERFAST "
+}

@@ -1,0 +1,204 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12320.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12320-GWL-KOAA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "15:43",
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 38.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "MRA",
+            "station_name": "MORENA"
+        },
+        {
+            "arrival_time": "16:22",
+            "day_of_journey": 1,
+            "departure_time": "16:24",
+            "distance_km": 66.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "DHO",
+            "station_name": "DHAULPUR"
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 118.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 172.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 214.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "HTC",
+            "station_name": "HATHRAS CITY"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 277.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "KSJ",
+            "station_name": "KASGANJ"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 385.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "FBD",
+            "station_name": "FARRUKHABAD"
+        },
+        {
+            "arrival_time": "22:59",
+            "day_of_journey": 1,
+            "departure_time": "23:01",
+            "distance_km": 443.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "KJN",
+            "station_name": "KANNAUJ"
+        },
+        {
+            "arrival_time": "00:25",
+            "day_of_journey": 2,
+            "departure_time": "00:27",
+            "distance_km": 521.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "CPA",
+            "station_name": "KANPUR ANWRGANJ"
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 523.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 718.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 871.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 1075.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "11:37",
+            "day_of_journey": 2,
+            "departure_time": "11:42",
+            "distance_km": 1274.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "12:43",
+            "day_of_journey": 2,
+            "departure_time": "12:53",
+            "distance_km": 1331.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 2,
+            "departure_time": "13:27",
+            "distance_km": 1373.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "16:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1536.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        }
+    ],
+    "train_name": "GWL KOAA SF EXP",
+    "train_number": "12320",
+    "type": "SUPERFAST "
+}

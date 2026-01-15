@@ -1,0 +1,133 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18312.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "18312-BOUH-SBP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BOUH",
+            "station_name": "BOUDH"
+        },
+        {
+            "arrival_time": "12:58",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 16.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "JRMA",
+            "station_name": "JHARAMUNDA"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 1,
+            "departure_time": "13:17",
+            "distance_km": 37.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "PNPI",
+            "station_name": "PURUNAPANI"
+        },
+        {
+            "arrival_time": "13:27",
+            "day_of_journey": 1,
+            "departure_time": "13:32",
+            "distance_km": 46.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SNPU",
+            "station_name": "SONEPUR"
+        },
+        {
+            "arrival_time": "13:41",
+            "day_of_journey": 1,
+            "departure_time": "13:43",
+            "distance_km": 57.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "NSGR",
+            "station_name": "NARASINGHGARH"
+        },
+        {
+            "arrival_time": "13:53",
+            "day_of_journey": 1,
+            "departure_time": "13:55",
+            "distance_km": 68.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "JRTB",
+            "station_name": "झारतरभा"
+        },
+        {
+            "arrival_time": "14:05",
+            "day_of_journey": 1,
+            "departure_time": "14:07",
+            "distance_km": 78.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BHPI",
+            "station_name": "BICHHUPALI"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 93.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BLGR",
+            "station_name": "BALANGIR"
+        },
+        {
+            "arrival_time": "15:58",
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 150.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BRPL",
+            "station_name": "BARPALI"
+        },
+        {
+            "arrival_time": "16:23",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 169.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BRGA",
+            "station_name": "BARGARH ROAD"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 211.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "SBP",
+            "station_name": "SAMBALPUR JN."
+        }
+    ],
+    "train_name": "BOUDH SBP EXP",
+    "train_number": "18312",
+    "type": "MAIL EXPRESS "
+}

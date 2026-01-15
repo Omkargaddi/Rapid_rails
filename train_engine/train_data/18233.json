@@ -1,0 +1,288 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18233.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18233-INDB-BSP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        },
+        {
+            "arrival_time": "16:33",
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "17:01",
+            "day_of_journey": 1,
+            "departure_time": "17:02",
+            "distance_km": 77.0,
+            "sequence_number": 3,
+            "station_code": "VRG",
+            "station_name": "VIKRAMNAGAR"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 82.0,
+            "sequence_number": 4,
+            "station_code": "UJN",
+            "station_name": "UJJAIN JN"
+        },
+        {
+            "arrival_time": "18:21",
+            "day_of_journey": 1,
+            "departure_time": "18:22",
+            "distance_km": 113.0,
+            "sequence_number": 5,
+            "station_code": "TAN",
+            "station_name": "TARANA ROAD"
+        },
+        {
+            "arrival_time": "18:38",
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 123.0,
+            "sequence_number": 6,
+            "station_code": "MKC",
+            "station_name": "MAKSI JUNCTION"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 1,
+            "departure_time": "18:57",
+            "distance_km": 142.0,
+            "sequence_number": 7,
+            "station_code": "BCH",
+            "station_name": "BERCHHA"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:11",
+            "distance_km": 154.0,
+            "sequence_number": 8,
+            "station_code": "KSH",
+            "station_name": "KALI SINDH"
+        },
+        {
+            "arrival_time": "19:27",
+            "day_of_journey": 1,
+            "departure_time": "19:28",
+            "distance_km": 172.0,
+            "sequence_number": 9,
+            "station_code": "AKD",
+            "station_name": "AKODIA"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": "19:42",
+            "distance_km": 185.0,
+            "sequence_number": 10,
+            "station_code": "SJP",
+            "station_name": "SHUJALPUR"
+        },
+        {
+            "arrival_time": "19:54",
+            "day_of_journey": 1,
+            "departure_time": "19:56",
+            "distance_km": 198.0,
+            "sequence_number": 11,
+            "station_code": "KPP",
+            "station_name": "KALAPIPAL"
+        },
+        {
+            "arrival_time": "20:18",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 227.0,
+            "sequence_number": 12,
+            "station_code": "SEH",
+            "station_name": "SEHORE"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": "06:55",
+            "distance_km": 694.0,
+            "sequence_number": 36,
+            "station_code": "KTES",
+            "station_name": "KATNI SOUTH"
+        },
+        {
+            "arrival_time": "08:13",
+            "day_of_journey": 2,
+            "departure_time": "08:15",
+            "distance_km": 735.0,
+            "sequence_number": 37,
+            "station_code": "CHD",
+            "station_name": "CHANDIA ROAD"
+        },
+        {
+            "arrival_time": "08:31",
+            "day_of_journey": 2,
+            "departure_time": "08:33",
+            "distance_km": 754.0,
+            "sequence_number": 38,
+            "station_code": "UMR",
+            "station_name": "UMARIA"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 2,
+            "departure_time": "08:50",
+            "distance_km": 777.0,
+            "sequence_number": 39,
+            "station_code": "NRZB",
+            "station_name": "NOWROZABAD"
+        },
+        {
+            "arrival_time": "08:58",
+            "day_of_journey": 2,
+            "departure_time": "09:00",
+            "distance_km": 784.0,
+            "sequence_number": 40,
+            "station_code": "BRS",
+            "station_name": "BIRSINGHPUR"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 2,
+            "departure_time": "09:45",
+            "distance_km": 821.0,
+            "sequence_number": 41,
+            "station_code": "SDL",
+            "station_name": "SHAHDOL"
+        },
+        {
+            "arrival_time": "10:01",
+            "day_of_journey": 2,
+            "departure_time": "10:03",
+            "distance_km": 841.0,
+            "sequence_number": 42,
+            "station_code": "BUH",
+            "station_name": "BURHAR"
+        },
+        {
+            "arrival_time": "10:12",
+            "day_of_journey": 2,
+            "departure_time": "10:14",
+            "distance_km": 849.0,
+            "sequence_number": 43,
+            "station_code": "AAL",
+            "station_name": "AMLAI"
+        },
+        {
+            "arrival_time": "10:31",
+            "day_of_journey": 2,
+            "departure_time": "10:36",
+            "distance_km": 862.0,
+            "sequence_number": 44,
+            "station_code": "APR",
+            "station_name": "ANUPPUR JN"
+        },
+        {
+            "arrival_time": "10:48",
+            "day_of_journey": 2,
+            "departure_time": "10:50",
+            "distance_km": 876.0,
+            "sequence_number": 45,
+            "station_code": "JTI",
+            "station_name": "JAITHARI"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 2,
+            "departure_time": "11:25",
+            "distance_km": 912.0,
+            "sequence_number": 46,
+            "station_code": "PND",
+            "station_name": "PENDRA ROAD"
+        },
+        {
+            "arrival_time": "12:06",
+            "day_of_journey": 2,
+            "departure_time": "12:07",
+            "distance_km": 947.0,
+            "sequence_number": 47,
+            "station_code": "KGS",
+            "station_name": "KHONGSARA"
+        },
+        {
+            "arrival_time": "12:22",
+            "day_of_journey": 2,
+            "departure_time": "12:24",
+            "distance_km": 966.0,
+            "sequence_number": 48,
+            "station_code": "BIG",
+            "station_name": "BELGAHNA"
+        },
+        {
+            "arrival_time": "12:37",
+            "day_of_journey": 2,
+            "departure_time": "12:39",
+            "distance_km": 981.0,
+            "sequence_number": 49,
+            "station_code": "KGB",
+            "station_name": "KARGI ROAD"
+        },
+        {
+            "arrival_time": "12:51",
+            "day_of_journey": 2,
+            "departure_time": "12:53",
+            "distance_km": 997.0,
+            "sequence_number": 50,
+            "station_code": "GTK",
+            "station_name": "GHUTKU"
+        },
+        {
+            "arrival_time": "13:03",
+            "day_of_journey": 2,
+            "departure_time": "13:05",
+            "distance_km": 1005.0,
+            "sequence_number": 51,
+            "station_code": "USL",
+            "station_name": "USLAPUR"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1013.0,
+            "sequence_number": 52,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        }
+    ],
+    "train_name": "INDB BSP EXP",
+    "train_number": "18233",
+    "type": "MAIL EXPRESS"
+}

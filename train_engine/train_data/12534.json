@@ -1,0 +1,171 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12534.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12534-CSMT-LJN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "09:12",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 53.0,
+            "sequence_number": 2,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "10:52",
+            "day_of_journey": 1,
+            "departure_time": "10:57",
+            "distance_km": 136.0,
+            "sequence_number": 3,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "11:37",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 187.0,
+            "sequence_number": 4,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "12:33",
+            "day_of_journey": 1,
+            "departure_time": "12:35",
+            "distance_km": 260.0,
+            "sequence_number": 5,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": "15:05",
+            "distance_km": 444.0,
+            "sequence_number": 6,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "17:02",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 568.0,
+            "sequence_number": 7,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 750.0,
+            "sequence_number": 8,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 836.0,
+            "sequence_number": 9,
+            "station_code": "RKMP",
+            "station_name": "RANI KAMALAPATI"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 842.0,
+            "sequence_number": 10,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "23:46",
+            "day_of_journey": 1,
+            "departure_time": "23:48",
+            "distance_km": 1043.0,
+            "sequence_number": 11,
+            "station_code": "LAR",
+            "station_name": "LALITPUR"
+        },
+        {
+            "arrival_time": "00:55",
+            "day_of_journey": 2,
+            "departure_time": "01:03",
+            "distance_km": 1131.0,
+            "sequence_number": 12,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 1245.0,
+            "sequence_number": 13,
+            "station_code": "ORAI",
+            "station_name": "ORAI"
+        },
+        {
+            "arrival_time": "04:55",
+            "day_of_journey": 2,
+            "departure_time": "05:05",
+            "distance_km": 1351.0,
+            "sequence_number": 14,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "05:31",
+            "day_of_journey": 2,
+            "departure_time": "05:33",
+            "distance_km": 1368.0,
+            "sequence_number": 15,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1425.0,
+            "sequence_number": 16,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        }
+    ],
+    "train_name": "PUSHPAK EXPRESS",
+    "train_number": "12534",
+    "type": "SUPERFAST"
+}

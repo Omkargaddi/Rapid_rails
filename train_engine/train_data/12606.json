@@ -1,0 +1,150 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12606.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12606-KKDI-MS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KKDI",
+            "station_name": "KARAIKKUDI JN"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "PDKT",
+            "station_name": "PUDUKKOTTAI"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 1,
+            "departure_time": "06:55",
+            "distance_km": 89.0,
+            "sequence_number": 3,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "07:16",
+            "day_of_journey": 1,
+            "departure_time": "07:18",
+            "distance_km": 101.0,
+            "sequence_number": 4,
+            "station_code": "SRGM",
+            "station_name": "SRIRANGAM"
+        },
+        {
+            "arrival_time": "07:33",
+            "day_of_journey": 1,
+            "departure_time": "07:34",
+            "distance_km": 116.0,
+            "sequence_number": 5,
+            "station_code": "LLI",
+            "station_name": "LALGUDI"
+        },
+        {
+            "arrival_time": "08:07",
+            "day_of_journey": 1,
+            "departure_time": "08:08",
+            "distance_km": 159.0,
+            "sequence_number": 6,
+            "station_code": "ALU",
+            "station_name": "ARIYALUR"
+        },
+        {
+            "arrival_time": "08:33",
+            "day_of_journey": 1,
+            "departure_time": "08:34",
+            "distance_km": 194.0,
+            "sequence_number": 7,
+            "station_code": "PNDM",
+            "station_name": "PENNADAM"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 212.0,
+            "sequence_number": 8,
+            "station_code": "VRI",
+            "station_name": "VRIDDHACHALAM JN"
+        },
+        {
+            "arrival_time": "09:27",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 267.0,
+            "sequence_number": 9,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "10:24",
+            "day_of_journey": 1,
+            "departure_time": "10:25",
+            "distance_km": 334.0,
+            "sequence_number": 10,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "10:58",
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 370.0,
+            "sequence_number": 11,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "11:28",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 400.0,
+            "sequence_number": 12,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        },
+        {
+            "arrival_time": "11:48",
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 418.0,
+            "sequence_number": 13,
+            "station_code": "MBM",
+            "station_name": "MAMBALAM"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 425.0,
+            "sequence_number": 14,
+            "station_code": "MS",
+            "station_name": "CHENNAI EGMORE"
+        }
+    ],
+    "train_name": "PALLAVAN SF EXP",
+    "train_number": "12606",
+    "type": "SUPERFAST"
+}

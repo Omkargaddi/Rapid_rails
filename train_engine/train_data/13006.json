@@ -1,0 +1,165 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13006.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13006-ASR-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        },
+        {
+            "arrival_time": "18:53",
+            "day_of_journey": 1,
+            "departure_time": "18:55",
+            "distance_km": 42.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "19:13",
+            "day_of_journey": 1,
+            "departure_time": "19:14",
+            "distance_km": 64.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KRE",
+            "station_name": "KARTARPUR"
+        },
+        {
+            "arrival_time": "19:32",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 79.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "19:49",
+            "day_of_journey": 1,
+            "departure_time": "19:51",
+            "distance_km": 83.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "20:03",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 100.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "PGW",
+            "station_name": "PHAGWARA JN"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 135.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 196.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "SIR",
+            "station_name": "SIRHIND JN"
+        },
+        {
+            "arrival_time": "22:22",
+            "day_of_journey": 1,
+            "departure_time": "22:24",
+            "distance_km": 221.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "RPJ",
+            "station_name": "RAJPURA JN"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 249.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 300.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 330.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 3,
+            "departure_time": "05:37",
+            "distance_km": 1811.0,
+            "platform": null,
+            "sequence_number": 59,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1906.0,
+            "platform": null,
+            "sequence_number": 60,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "ASR HWH MAIL",
+    "train_number": "13006",
+    "type": "MAIL EXPRESS "
+}

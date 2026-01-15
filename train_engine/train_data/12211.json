@@ -1,0 +1,171 @@
+{
+    "classes_available": [
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12211.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12211-MFP-ANVT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "16:11",
+            "day_of_journey": 1,
+            "departure_time": "16:13",
+            "distance_km": 48.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "CAA",
+            "station_name": "CHAKIA"
+        },
+        {
+            "arrival_time": "16:38",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 79.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BMKI",
+            "station_name": "BAPUDM MOTIHARI"
+        },
+        {
+            "arrival_time": "17:08",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 101.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SGL",
+            "station_name": "SAGAULI JN"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 123.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BTH",
+            "station_name": "BETTIAH"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 159.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "NKE",
+            "station_name": "NARKATIAGANJ JN"
+        },
+        {
+            "arrival_time": "19:04",
+            "day_of_journey": 1,
+            "departure_time": "19:07",
+            "distance_km": 201.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BUG",
+            "station_name": "BAGAHA"
+        },
+        {
+            "arrival_time": "22:12",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 310.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "23:51",
+            "day_of_journey": 1,
+            "departure_time": "23:54",
+            "distance_km": 374.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "01:40",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 464.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": "04:25",
+            "distance_km": 580.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "06:51",
+            "day_of_journey": 2,
+            "departure_time": "06:53",
+            "distance_km": 744.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 2,
+            "departure_time": "07:55",
+            "distance_km": 815.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 2,
+            "departure_time": "09:13",
+            "distance_km": 906.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1059.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        }
+    ],
+    "train_name": "ANVT GARIB RATH",
+    "train_number": "12211",
+    "type": "GARIB RATH "
+}

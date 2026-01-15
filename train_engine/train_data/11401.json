@@ -1,0 +1,331 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11401.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11401-PUNE-SOU",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 72.0,
+            "sequence_number": 2,
+            "station_code": "DDCC",
+            "station_name": "DAUND CHORD LINE"
+        },
+        {
+            "arrival_time": "23:17",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 154.0,
+            "sequence_number": 3,
+            "station_code": "ANG",
+            "station_name": "AHILYANAGAR"
+        },
+        {
+            "arrival_time": "00:17",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 221.0,
+            "sequence_number": 4,
+            "station_code": "BAP",
+            "station_name": "BELAPUR"
+        },
+        {
+            "arrival_time": "01:12",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 265.0,
+            "sequence_number": 5,
+            "station_code": "KPG",
+            "station_name": "KOPARGAON"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 2,
+            "departure_time": "02:25",
+            "distance_km": 307.0,
+            "sequence_number": 6,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 491.0,
+            "sequence_number": 7,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "05:22",
+            "day_of_journey": 2,
+            "departure_time": "05:23",
+            "distance_km": 525.0,
+            "sequence_number": 8,
+            "station_code": "RV",
+            "station_name": "RAVER"
+        },
+        {
+            "arrival_time": "05:38",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 545.0,
+            "sequence_number": 9,
+            "station_code": "BAU",
+            "station_name": "BURHANPUR"
+        },
+        {
+            "arrival_time": "07:07",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 614.0,
+            "sequence_number": 10,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 2,
+            "departure_time": "08:02",
+            "distance_km": 690.0,
+            "sequence_number": 11,
+            "station_code": "KKN",
+            "station_name": "KHIRKIYA"
+        },
+        {
+            "arrival_time": "10:15",
+            "day_of_journey": 2,
+            "departure_time": "10:25",
+            "distance_km": 796.0,
+            "sequence_number": 12,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 2,
+            "departure_time": "13:45",
+            "distance_km": 1042.0,
+            "sequence_number": 13,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 2,
+            "departure_time": "14:55",
+            "distance_km": 1132.0,
+            "sequence_number": 14,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "15:38",
+            "day_of_journey": 2,
+            "departure_time": "15:40",
+            "distance_km": 1195.0,
+            "sequence_number": 15,
+            "station_code": "MYR",
+            "station_name": "MAIHAR"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 2,
+            "departure_time": "16:35",
+            "distance_km": 1230.0,
+            "sequence_number": 16,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 2,
+            "departure_time": "19:47",
+            "distance_km": 1400.0,
+            "sequence_number": 17,
+            "station_code": "PCOI",
+            "station_name": "PRAYAGRAJ CHHEOKI"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 2,
+            "departure_time": "20:57",
+            "distance_km": 1481.0,
+            "sequence_number": 18,
+            "station_code": "MZP",
+            "station_name": "MIRZAPUR"
+        },
+        {
+            "arrival_time": "22:58",
+            "day_of_journey": 2,
+            "departure_time": "23:05",
+            "distance_km": 1544.0,
+            "sequence_number": 19,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 3,
+            "departure_time": "00:12",
+            "distance_km": 1634.0,
+            "sequence_number": 20,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 3,
+            "departure_time": "01:04",
+            "distance_km": 1703.0,
+            "sequence_number": 21,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "02:15",
+            "day_of_journey": 3,
+            "departure_time": "02:45",
+            "distance_km": 1742.0,
+            "sequence_number": 22,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 3,
+            "departure_time": "03:10",
+            "distance_km": 1748.0,
+            "sequence_number": 23,
+            "station_code": "PPTA",
+            "station_name": "PATLIPUTRA"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 3,
+            "departure_time": "03:42",
+            "distance_km": 1763.0,
+            "sequence_number": 24,
+            "station_code": "SEE",
+            "station_name": "SONPUR JN"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 3,
+            "departure_time": "04:00",
+            "distance_km": 1768.0,
+            "sequence_number": 25,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "05:16",
+            "day_of_journey": 3,
+            "departure_time": "05:18",
+            "distance_km": 1806.0,
+            "sequence_number": 26,
+            "station_code": "SPP",
+            "station_name": "SHAHPUR PATOREE"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 3,
+            "departure_time": "07:20",
+            "distance_km": 1856.0,
+            "sequence_number": 27,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "07:45",
+            "day_of_journey": 3,
+            "departure_time": "07:47",
+            "distance_km": 1872.0,
+            "sequence_number": 28,
+            "station_code": "BGS",
+            "station_name": "BEGUSARAI"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 3,
+            "departure_time": "09:02",
+            "distance_km": 1912.0,
+            "sequence_number": 29,
+            "station_code": "KGG",
+            "station_name": "KHAGARIA JN."
+        },
+        {
+            "arrival_time": "09:58",
+            "day_of_journey": 3,
+            "departure_time": "10:00",
+            "distance_km": 1921.0,
+            "sequence_number": 30,
+            "station_code": "MNE",
+            "station_name": "MANSI JN"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 3,
+            "departure_time": "10:52",
+            "distance_km": 1949.0,
+            "sequence_number": 31,
+            "station_code": "SBV",
+            "station_name": "S BHAKHTIYARPUR"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 3,
+            "departure_time": "11:40",
+            "distance_km": 1965.0,
+            "sequence_number": 32,
+            "station_code": "SHC",
+            "station_name": "SAHARSA JN"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 3,
+            "departure_time": "12:17",
+            "distance_km": 1982.0,
+            "sequence_number": 33,
+            "station_code": "GEB",
+            "station_name": "GARH BARUARI"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1993.0,
+            "sequence_number": 34,
+            "station_code": "SOU",
+            "station_name": "SUPAUL"
+        }
+    ],
+    "train_name": "PUNE-SOU EXPRESS",
+    "train_number": "11401",
+    "type": "MAIL EXPRESS"
+}

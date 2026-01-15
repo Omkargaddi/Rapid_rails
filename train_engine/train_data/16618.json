@@ -1,0 +1,151 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16618.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "16618-CBE-RMM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 50.0,
+            "sequence_number": 2,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 101.0,
+            "sequence_number": 3,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "22:33",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 166.0,
+            "sequence_number": 4,
+            "station_code": "KRR",
+            "station_name": "KARUR JN."
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 242.0,
+            "sequence_number": 5,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "00:58",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 294.0,
+            "sequence_number": 6,
+            "station_code": "PDKT",
+            "station_name": "PUDUKKOTTAI"
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 331.0,
+            "sequence_number": 7,
+            "station_code": "KKDI",
+            "station_name": "KARAIKKUDI JN"
+        },
+        {
+            "arrival_time": "01:52",
+            "day_of_journey": 2,
+            "departure_time": "01:53",
+            "distance_km": 336.0,
+            "sequence_number": 8,
+            "station_code": "DKO",
+            "station_name": "DEVAKOTTAI ROAD"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 2,
+            "departure_time": "02:22",
+            "distance_km": 372.0,
+            "sequence_number": 9,
+            "station_code": "SVGA",
+            "station_name": "SIVAGANGA"
+        },
+        {
+            "arrival_time": "02:45",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 392.0,
+            "sequence_number": 10,
+            "station_code": "MNM",
+            "station_name": "MANAMADURAI JN"
+        },
+        {
+            "arrival_time": "03:10",
+            "day_of_journey": 2,
+            "departure_time": "03:12",
+            "distance_km": 416.0,
+            "sequence_number": 11,
+            "station_code": "PMK",
+            "station_name": "PARAMAKKUDI"
+        },
+        {
+            "arrival_time": "03:38",
+            "day_of_journey": 2,
+            "departure_time": "03:40",
+            "distance_km": 452.0,
+            "sequence_number": 12,
+            "station_code": "RMD",
+            "station_name": "RAMANATHAPURAM"
+        },
+        {
+            "arrival_time": "04:08",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 488.0,
+            "sequence_number": 13,
+            "station_code": "MMM",
+            "station_name": "MANDAPAM"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 506.0,
+            "sequence_number": 14,
+            "station_code": "RMM",
+            "station_name": "RAMESWARAM"
+        }
+    ],
+    "train_name": "CBE RMM EXPRESS",
+    "train_number": "16618",
+    "type": "MAIL EXPRESS"
+}

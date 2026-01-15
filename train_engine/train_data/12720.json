@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12720.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12720-HYB-JP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HYB",
+            "station_name": "HYDERABAD"
+        },
+        {
+            "arrival_time": "20:47",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "22:18",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 119.0,
+            "sequence_number": 3,
+            "station_code": "KMC",
+            "station_name": "KAMAREDDI"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 170.0,
+            "sequence_number": 4,
+            "station_code": "NZB",
+            "station_name": "NIZAMABAD JN."
+        },
+        {
+            "arrival_time": "00:48",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 259.0,
+            "sequence_number": 5,
+            "station_code": "MUE",
+            "station_name": "MUDKHED"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 281.0,
+            "sequence_number": 6,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 3,
+            "departure_time": "01:25",
+            "distance_km": 1643.0,
+            "sequence_number": 24,
+            "station_code": "BJNR",
+            "station_name": "BIJAINAGAR"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 3,
+            "departure_time": "03:05",
+            "distance_km": 1708.0,
+            "sequence_number": 25,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "03:32",
+            "day_of_journey": 3,
+            "departure_time": "03:34",
+            "distance_km": 1733.0,
+            "sequence_number": 26,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "04:12",
+            "day_of_journey": 3,
+            "departure_time": "04:14",
+            "distance_km": 1788.0,
+            "sequence_number": 27,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1842.0,
+            "sequence_number": 28,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        }
+    ],
+    "train_name": "HYB JP SF EXP",
+    "train_number": "12720",
+    "type": "SUPERFAST"
+}

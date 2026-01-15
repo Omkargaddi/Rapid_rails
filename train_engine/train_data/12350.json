@@ -1,0 +1,193 @@
+{
+    "classes_available": [
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12350.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12350-NDLS-GODA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 441.0,
+            "sequence_number": 2,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 2,
+            "departure_time": "07:55",
+            "distance_km": 635.0,
+            "sequence_number": 3,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "10:43",
+            "day_of_journey": 2,
+            "departure_time": "10:50",
+            "distance_km": 788.0,
+            "sequence_number": 4,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 2,
+            "departure_time": "12:00",
+            "distance_km": 889.0,
+            "sequence_number": 5,
+            "station_code": "SSM",
+            "station_name": "SASARAM"
+        },
+        {
+            "arrival_time": "12:13",
+            "day_of_journey": 2,
+            "departure_time": "12:15",
+            "distance_km": 907.0,
+            "sequence_number": 6,
+            "station_code": "DOS",
+            "station_name": "DEHRI ON SONE"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 2,
+            "departure_time": "13:40",
+            "distance_km": 992.0,
+            "sequence_number": 7,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "14:38",
+            "day_of_journey": 2,
+            "departure_time": "14:40",
+            "distance_km": 1051.0,
+            "sequence_number": 8,
+            "station_code": "NWD",
+            "station_name": "NAWADAH"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 2,
+            "departure_time": "16:50",
+            "distance_km": 1121.0,
+            "sequence_number": 9,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "17:11",
+            "day_of_journey": 2,
+            "departure_time": "17:13",
+            "distance_km": 1144.0,
+            "sequence_number": 10,
+            "station_code": "AHA",
+            "station_name": "ABHAIPUR"
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 2,
+            "departure_time": "18:18",
+            "distance_km": 1166.0,
+            "sequence_number": 11,
+            "station_code": "JMP",
+            "station_name": "JAMALPUR JN"
+        },
+        {
+            "arrival_time": "18:51",
+            "day_of_journey": 2,
+            "departure_time": "18:53",
+            "distance_km": 1194.0,
+            "sequence_number": 12,
+            "station_code": "SGG",
+            "station_name": "SULTANGANJ"
+        },
+        {
+            "arrival_time": "19:50",
+            "day_of_journey": 2,
+            "departure_time": "20:00",
+            "distance_km": 1219.0,
+            "sequence_number": 13,
+            "station_code": "BGP",
+            "station_name": "BHAGALPUR"
+        },
+        {
+            "arrival_time": "20:27",
+            "day_of_journey": 2,
+            "departure_time": "20:29",
+            "distance_km": 1244.0,
+            "sequence_number": 14,
+            "station_code": "DWLE",
+            "station_name": "DHAUNI"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 2,
+            "departure_time": "20:45",
+            "distance_km": 1255.0,
+            "sequence_number": 15,
+            "station_code": "BHLE",
+            "station_name": "BARAHAT"
+        },
+        {
+            "arrival_time": "21:01",
+            "day_of_journey": 2,
+            "departure_time": "21:03",
+            "distance_km": 1268.0,
+            "sequence_number": 16,
+            "station_code": "MDLE",
+            "station_name": "MANDAR HILL"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 2,
+            "departure_time": "22:00",
+            "distance_km": 1291.0,
+            "sequence_number": 17,
+            "station_code": "HSDA",
+            "station_name": "HANSDIHA"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 2,
+            "departure_time": "22:17",
+            "distance_km": 1307.0,
+            "sequence_number": 18,
+            "station_code": "PYHT",
+            "station_name": "PRAYAHAT HALT"
+        },
+        {
+            "arrival_time": "22:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1323.0,
+            "sequence_number": 19,
+            "station_code": "GODA",
+            "station_name": "GODDA"
+        }
+    ],
+    "train_name": "GODA HUMSAFAR",
+    "train_number": "12350",
+    "type": "SUPERFAST"
+}

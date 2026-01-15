@@ -1,0 +1,104 @@
+{
+    "classes_available": [
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_09412.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "09412-VRL-SBIB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "VRL",
+            "station_name": "VERAVAL"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 1,
+            "departure_time": "23:52",
+            "distance_km": 82.0,
+            "sequence_number": 2,
+            "station_code": "JND",
+            "station_name": "JUNAGADH JN"
+        },
+        {
+            "arrival_time": "02:45",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 185.0,
+            "sequence_number": 3,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "03:35",
+            "day_of_journey": 2,
+            "departure_time": "03:37",
+            "distance_km": 226.0,
+            "sequence_number": 4,
+            "station_code": "WKR",
+            "station_name": "WANKANER JN"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:32",
+            "distance_km": 301.0,
+            "sequence_number": 5,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": "05:52",
+            "distance_km": 365.0,
+            "sequence_number": 6,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": "06:42",
+            "distance_km": 420.0,
+            "sequence_number": 7,
+            "station_code": "CBCC",
+            "station_name": "CHANDLODIYA B CABIN"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 429.0,
+            "sequence_number": 8,
+            "station_code": "KHDB",
+            "station_name": "KHODIYAR"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 439.0,
+            "sequence_number": 9,
+            "station_code": "SBIB",
+            "station_name": "SABARMATI BG"
+        }
+    ],
+    "train_name": "VRL-SBIB SPECIAL",
+    "train_number": "09412",
+    "type": "TRAIN ON DEMAND"
+}

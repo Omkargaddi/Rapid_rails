@@ -1,0 +1,126 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15034.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15034-LJN-PPTA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        },
+        {
+            "arrival_time": "05:28",
+            "day_of_journey": 1,
+            "departure_time": "05:31",
+            "distance_km": 12.0,
+            "sequence_number": 2,
+            "station_code": "BNZ",
+            "station_name": "BADSHAHNAGAR"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 1,
+            "departure_time": "07:33",
+            "distance_km": 125.0,
+            "sequence_number": 3,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "08:34",
+            "day_of_journey": 1,
+            "departure_time": "08:36",
+            "distance_km": 214.0,
+            "sequence_number": 4,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 279.0,
+            "sequence_number": 5,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "11:04",
+            "day_of_journey": 1,
+            "departure_time": "11:06",
+            "distance_km": 329.0,
+            "sequence_number": 6,
+            "station_code": "DEOS",
+            "station_name": "DEORIA SADAR"
+        },
+        {
+            "arrival_time": "12:00",
+            "day_of_journey": 1,
+            "departure_time": "12:05",
+            "distance_km": 398.0,
+            "sequence_number": 7,
+            "station_code": "SV",
+            "station_name": "SIWAN JN"
+        },
+        {
+            "arrival_time": "12:30",
+            "day_of_journey": 1,
+            "departure_time": "12:32",
+            "distance_km": 431.0,
+            "sequence_number": 8,
+            "station_code": "EKMA",
+            "station_name": "EKMA"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 459.0,
+            "sequence_number": 9,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "13:46",
+            "day_of_journey": 1,
+            "departure_time": "13:48",
+            "distance_km": 489.0,
+            "sequence_number": 10,
+            "station_code": "DGA",
+            "station_name": "DIGHWARA"
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 523.0,
+            "sequence_number": 11,
+            "station_code": "PPTA",
+            "station_name": "PATLIPUTRA"
+        }
+    ],
+    "train_name": "LJN PPTA EXP",
+    "train_number": "15034",
+    "type": "MAIL EXPRESS"
+}

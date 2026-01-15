@@ -1,0 +1,71 @@
+{
+    "classes_available": [
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12583.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12583-LJN-ANVT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:55",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        },
+        {
+            "arrival_time": "08:17",
+            "day_of_journey": 1,
+            "departure_time": "08:19",
+            "distance_km": 235.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "09:34",
+            "day_of_journey": 1,
+            "departure_time": "09:39",
+            "distance_km": 326.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "12:12",
+            "day_of_journey": 1,
+            "departure_time": "12:14",
+            "distance_km": 467.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "12:55",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 479.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        }
+    ],
+    "train_name": "ANVT DOUBLE DKR",
+    "train_number": "12583",
+    "type": "SUPERFAST "
+}

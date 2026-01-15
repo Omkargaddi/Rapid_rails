@@ -1,0 +1,172 @@
+{
+    "classes_available": [
+        "3A",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14213.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14213-BSB-BRK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "14:18",
+            "day_of_journey": 1,
+            "departure_time": "14:19",
+            "distance_km": 19.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BTP",
+            "station_name": "BABATPUR"
+        },
+        {
+            "arrival_time": "14:56",
+            "day_of_journey": 1,
+            "departure_time": "14:58",
+            "distance_km": 57.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "JNU",
+            "station_name": "JAUNPUR JN"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 1,
+            "departure_time": "15:21",
+            "distance_km": 80.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "KS",
+            "station_name": "KHETA SARAI"
+        },
+        {
+            "arrival_time": "15:36",
+            "day_of_journey": 1,
+            "departure_time": "15:38",
+            "distance_km": 91.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "SHG",
+            "station_name": "SHAHGANJ JN"
+        },
+        {
+            "arrival_time": "15:54",
+            "day_of_journey": 1,
+            "departure_time": "15:55",
+            "distance_km": 102.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BWI",
+            "station_name": "BILWAI"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 1,
+            "departure_time": "16:09",
+            "distance_km": 116.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "MLPR",
+            "station_name": "MALIPUR"
+        },
+        {
+            "arrival_time": "16:26",
+            "day_of_journey": 1,
+            "departure_time": "16:28",
+            "distance_km": 135.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "ABP",
+            "station_name": "AKBARPUR"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "16:51",
+            "distance_km": 157.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "GGJ",
+            "station_name": "GOSHAINGANJ"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 189.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "AY",
+            "station_name": "AYODHYA DHAM JN"
+        },
+        {
+            "arrival_time": "19:00",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 227.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "MUR",
+            "station_name": "MANKAPUR JN"
+        },
+        {
+            "arrival_time": "20:27",
+            "day_of_journey": 1,
+            "departure_time": "20:32",
+            "distance_km": 255.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": "20:52",
+            "distance_km": 272.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "BGAN",
+            "station_name": "BANGAIN"
+        },
+        {
+            "arrival_time": "21:08",
+            "day_of_journey": 1,
+            "departure_time": "21:10",
+            "distance_km": 290.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "PDR",
+            "station_name": "PAYAGPUR"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 316.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "BRK",
+            "station_name": "BAHRAICH"
+        }
+    ],
+    "train_name": "BRK INTERCITY",
+    "train_number": "14213",
+    "type": "MAIL EXPRESS "
+}

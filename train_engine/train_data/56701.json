@@ -1,0 +1,75 @@
+{
+    "classes_available": [
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_56701.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "56701-MDU-BDNK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "08:34",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 12.0,
+            "sequence_number": 2,
+            "station_code": "VAJ",
+            "station_name": "VADAPALANJI HALT"
+        },
+        {
+            "arrival_time": "08:54",
+            "day_of_journey": 1,
+            "departure_time": "08:55",
+            "distance_km": 31.0,
+            "sequence_number": 3,
+            "station_code": "USLP",
+            "station_name": "USILAMPATTI"
+        },
+        {
+            "arrival_time": "09:14",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 52.0,
+            "sequence_number": 4,
+            "station_code": "ADPT",
+            "station_name": "ANDIPATTI"
+        },
+        {
+            "arrival_time": "09:28",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 69.0,
+            "sequence_number": 5,
+            "station_code": "TENI",
+            "station_name": "TENI"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 84.0,
+            "sequence_number": 6,
+            "station_code": "BDNK",
+            "station_name": "BODINAYAKKANUR"
+        }
+    ],
+    "train_name": "MDU-BDNK PASS",
+    "train_number": "56701",
+    "type": "PASSENGER"
+}

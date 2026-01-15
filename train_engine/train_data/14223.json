@@ -1,0 +1,243 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14223.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14223-RGD-BSB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "RGD",
+            "station_name": "RAJGIR"
+        },
+        {
+            "arrival_time": "21:43",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 11.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "NLD",
+            "station_name": "NALANDA"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 15.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "POE",
+            "station_name": "PAWAPURI ROAD"
+        },
+        {
+            "arrival_time": "22:01",
+            "day_of_journey": 1,
+            "departure_time": "22:03",
+            "distance_km": 21.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BEHS",
+            "station_name": "BIHAR SHARIF"
+        },
+        {
+            "arrival_time": "22:18",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 40.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "HRT",
+            "station_name": "HARNAUT"
+        },
+        {
+            "arrival_time": "22:33",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 51.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BKP",
+            "station_name": "BAKHTIYARPUR JN"
+        },
+        {
+            "arrival_time": "23:28",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 96.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 2,
+            "departure_time": "00:07",
+            "distance_km": 126.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "TEA",
+            "station_name": "TAREGNA"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:22",
+            "distance_km": 141.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "JHD",
+            "station_name": "JEHANABAD"
+        },
+        {
+            "arrival_time": "00:48",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 168.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BELA",
+            "station_name": "BELA"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 188.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 2,
+            "departure_time": "02:27",
+            "distance_km": 209.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "GRRU",
+            "station_name": "GURARU"
+        },
+        {
+            "arrival_time": "02:39",
+            "day_of_journey": 2,
+            "departure_time": "02:41",
+            "distance_km": 225.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "RFJ",
+            "station_name": "RAFIGANJ"
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 256.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "AUBR",
+            "station_name": "ANUGRAHA N ROAD"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:22",
+            "distance_km": 273.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "DOS",
+            "station_name": "DEHRI ON SONE"
+        },
+        {
+            "arrival_time": "03:36",
+            "day_of_journey": 2,
+            "departure_time": "03:38",
+            "distance_km": 291.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "SSM",
+            "station_name": "SASARAM"
+        },
+        {
+            "arrival_time": "03:56",
+            "day_of_journey": 2,
+            "departure_time": "03:58",
+            "distance_km": 316.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "KTQ",
+            "station_name": "KUDRA"
+        },
+        {
+            "arrival_time": "04:14",
+            "day_of_journey": 2,
+            "departure_time": "04:16",
+            "distance_km": 338.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "BBU",
+            "station_name": "BHABUA ROAD"
+        },
+        {
+            "arrival_time": "04:24",
+            "day_of_journey": 2,
+            "departure_time": "04:26",
+            "distance_km": 347.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "DGO",
+            "station_name": "DURGAUTI"
+        },
+        {
+            "arrival_time": "04:36",
+            "day_of_journey": 2,
+            "departure_time": "04:38",
+            "distance_km": 359.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "KMS",
+            "station_name": "KARAMNASA"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 392.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 410.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        }
+    ],
+    "train_name": "BUDH PURNIMA EXP",
+    "train_number": "14223",
+    "type": "MAIL EXPRESS "
+}

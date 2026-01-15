@@ -1,0 +1,165 @@
+{
+    "classes_available": [
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_01422.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "01422-KLBG-DD",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KLBG",
+            "station_name": "KALABURAGI"
+        },
+        {
+            "arrival_time": "16:44",
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 27.0,
+            "sequence_number": 2,
+            "station_code": "GUR",
+            "station_name": "GANAGAPUR ROAD"
+        },
+        {
+            "arrival_time": "17:09",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 50.0,
+            "sequence_number": 3,
+            "station_code": "DUD",
+            "station_name": "DUDHANI"
+        },
+        {
+            "arrival_time": "17:24",
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 63.0,
+            "sequence_number": 4,
+            "station_code": "BOT",
+            "station_name": "BOROTI"
+        },
+        {
+            "arrival_time": "17:44",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 78.0,
+            "sequence_number": 5,
+            "station_code": "AKOR",
+            "station_name": "AKALKOT ROAD"
+        },
+        {
+            "arrival_time": "18:09",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 98.0,
+            "sequence_number": 6,
+            "station_code": "HG",
+            "station_name": "HOTGI"
+        },
+        {
+            "arrival_time": "18:17",
+            "day_of_journey": 1,
+            "departure_time": "18:18",
+            "distance_km": 106.0,
+            "sequence_number": 7,
+            "station_code": "TKWD",
+            "station_name": "TIKEKARWADI"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 113.0,
+            "sequence_number": 8,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "19:09",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 146.0,
+            "sequence_number": 9,
+            "station_code": "MO",
+            "station_name": "MOHOL"
+        },
+        {
+            "arrival_time": "19:29",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 176.0,
+            "sequence_number": 10,
+            "station_code": "MA",
+            "station_name": "MADHA"
+        },
+        {
+            "arrival_time": "19:47",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 192.0,
+            "sequence_number": 11,
+            "station_code": "KWV",
+            "station_name": "KURDUVADI JN."
+        },
+        {
+            "arrival_time": "20:09",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 210.0,
+            "sequence_number": 12,
+            "station_code": "KEM",
+            "station_name": "KEM"
+        },
+        {
+            "arrival_time": "20:29",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 226.0,
+            "sequence_number": 13,
+            "station_code": "JEUR",
+            "station_name": "JEUR"
+        },
+        {
+            "arrival_time": "20:54",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 252.0,
+            "sequence_number": 14,
+            "station_code": "KEU",
+            "station_name": "KETTUR"
+        },
+        {
+            "arrival_time": "21:24",
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 273.0,
+            "sequence_number": 15,
+            "station_code": "BGVN",
+            "station_name": "BHIGWAN"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 301.0,
+            "sequence_number": 16,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        }
+    ],
+    "train_name": "KLBG-DD SPL",
+    "train_number": "01422",
+    "type": "TRAIN ON DEMAND"
+}

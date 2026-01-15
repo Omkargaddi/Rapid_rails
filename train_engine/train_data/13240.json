@@ -1,0 +1,251 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13240.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13240-KOTA-PNBE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 72.0,
+            "sequence_number": 2,
+            "station_code": "IDG",
+            "station_name": "INDARGARH"
+        },
+        {
+            "arrival_time": "19:38",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 108.0,
+            "sequence_number": 3,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 171.0,
+            "sequence_number": 4,
+            "station_code": "GGC",
+            "station_name": "GANGAPUR CITY"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 216.0,
+            "sequence_number": 5,
+            "station_code": "HAN",
+            "station_name": "HINDAUN CITY"
+        },
+        {
+            "arrival_time": "21:23",
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 249.0,
+            "sequence_number": 6,
+            "station_code": "BXN",
+            "station_name": "BAYANA JN"
+        },
+        {
+            "arrival_time": "21:58",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 290.0,
+            "sequence_number": 7,
+            "station_code": "BTE",
+            "station_name": "BHARATPUR JN"
+        },
+        {
+            "arrival_time": "22:45",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 324.0,
+            "sequence_number": 8,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 377.0,
+            "sequence_number": 9,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 2,
+            "departure_time": "02:27",
+            "distance_km": 514.0,
+            "sequence_number": 10,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:42",
+            "distance_km": 609.0,
+            "sequence_number": 11,
+            "station_code": "RURA",
+            "station_name": "RURA"
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 2,
+            "departure_time": "04:45",
+            "distance_km": 653.0,
+            "sequence_number": 12,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "05:16",
+            "day_of_journey": 2,
+            "departure_time": "05:18",
+            "distance_km": 671.0,
+            "sequence_number": 13,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 727.0,
+            "sequence_number": 14,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "08:56",
+            "day_of_journey": 2,
+            "departure_time": "08:58",
+            "distance_km": 816.0,
+            "sequence_number": 15,
+            "station_code": "NHH",
+            "station_name": "NIHALGARH"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 2,
+            "departure_time": "10:45",
+            "distance_km": 867.0,
+            "sequence_number": 16,
+            "station_code": "SLN",
+            "station_name": "SULTANPUR"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 2,
+            "departure_time": "14:40",
+            "distance_km": 1010.0,
+            "sequence_number": 17,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "15:35",
+            "day_of_journey": 2,
+            "departure_time": "15:40",
+            "distance_km": 1028.0,
+            "sequence_number": 18,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 2,
+            "departure_time": "16:17",
+            "distance_km": 1068.0,
+            "sequence_number": 19,
+            "station_code": "ZNA",
+            "station_name": "ZAMANIA"
+        },
+        {
+            "arrival_time": "16:33",
+            "day_of_journey": 2,
+            "departure_time": "16:35",
+            "distance_km": 1090.0,
+            "sequence_number": 20,
+            "station_code": "BWH",
+            "station_name": "BHADAURA"
+        },
+        {
+            "arrival_time": "16:56",
+            "day_of_journey": 2,
+            "departure_time": "16:58",
+            "distance_km": 1118.0,
+            "sequence_number": 21,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "17:53",
+            "day_of_journey": 2,
+            "departure_time": "17:55",
+            "distance_km": 1187.0,
+            "sequence_number": 22,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "18:12",
+            "day_of_journey": 2,
+            "departure_time": "18:14",
+            "distance_km": 1209.0,
+            "sequence_number": 23,
+            "station_code": "BTA",
+            "station_name": "BIHTA"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 2,
+            "departure_time": "18:32",
+            "distance_km": 1226.0,
+            "sequence_number": 24,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1236.0,
+            "sequence_number": 25,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        }
+    ],
+    "train_name": "KOTA PNBE EXP",
+    "train_number": "13240",
+    "type": "MAIL EXPRESS"
+}

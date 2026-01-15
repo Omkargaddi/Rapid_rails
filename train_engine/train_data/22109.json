@@ -1,0 +1,169 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22109.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22109-LTT-BPQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "22:22",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 37.0,
+            "sequence_number": 3,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "00:00",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 120.0,
+            "sequence_number": 4,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "00:47",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 171.0,
+            "sequence_number": 5,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 428.0,
+            "sequence_number": 6,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": "05:22",
+            "distance_km": 478.0,
+            "sequence_number": 7,
+            "station_code": "MKU",
+            "station_name": "MALKAPUR"
+        },
+        {
+            "arrival_time": "06:45",
+            "day_of_journey": 2,
+            "departure_time": "06:50",
+            "distance_km": 568.0,
+            "sequence_number": 8,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "07:52",
+            "day_of_journey": 2,
+            "departure_time": "07:55",
+            "distance_km": 647.0,
+            "sequence_number": 9,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "08:39",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 693.0,
+            "sequence_number": 10,
+            "station_code": "DMN",
+            "station_name": "DHAMANGAON"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 2,
+            "departure_time": "08:56",
+            "distance_km": 713.0,
+            "sequence_number": 11,
+            "station_code": "PLO",
+            "station_name": "PULGAON JN"
+        },
+        {
+            "arrival_time": "09:18",
+            "day_of_journey": 2,
+            "departure_time": "09:20",
+            "distance_km": 742.0,
+            "sequence_number": 12,
+            "station_code": "WR",
+            "station_name": "WARDHA JN"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": "09:51",
+            "distance_km": 775.0,
+            "sequence_number": 13,
+            "station_code": "HGT",
+            "station_name": "HINGANGHAT"
+        },
+        {
+            "arrival_time": "10:19",
+            "day_of_journey": 2,
+            "departure_time": "10:20",
+            "distance_km": 814.0,
+            "sequence_number": 14,
+            "station_code": "WRR",
+            "station_name": "WARORA"
+        },
+        {
+            "arrival_time": "10:56",
+            "day_of_journey": 2,
+            "departure_time": "10:58",
+            "distance_km": 861.0,
+            "sequence_number": 15,
+            "station_code": "CD",
+            "station_name": "CHANDRAPUR"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 875.0,
+            "sequence_number": 16,
+            "station_code": "BPQ",
+            "station_name": "BALHARSHAH"
+        }
+    ],
+    "train_name": "LTT BPQ EXPRESS",
+    "train_number": "22109",
+    "type": "SUPERFAST"
+}

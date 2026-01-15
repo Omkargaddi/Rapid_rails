@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11034.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "11034-DBG-PUNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "16:43",
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 4.0,
+            "sequence_number": 2,
+            "station_code": "LSI",
+            "station_name": "LAHERIA SARAI"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 37.0,
+            "sequence_number": 3,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 89.0,
+            "sequence_number": 4,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "20:05",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 143.0,
+            "sequence_number": 5,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "20:18",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 149.0,
+            "sequence_number": 6,
+            "station_code": "SEE",
+            "station_name": "SONPUR JN"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 2,
+            "departure_time": "22:20",
+            "distance_km": 1450.0,
+            "sequence_number": 24,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 3,
+            "departure_time": "00:55",
+            "distance_km": 1634.0,
+            "sequence_number": 25,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "01:57",
+            "day_of_journey": 3,
+            "departure_time": "02:00",
+            "distance_km": 1676.0,
+            "sequence_number": 26,
+            "station_code": "KPG",
+            "station_name": "KOPARGAON"
+        },
+        {
+            "arrival_time": "02:42",
+            "day_of_journey": 3,
+            "departure_time": "02:45",
+            "distance_km": 1720.0,
+            "sequence_number": 27,
+            "station_code": "BAP",
+            "station_name": "BELAPUR"
+        },
+        {
+            "arrival_time": "03:57",
+            "day_of_journey": 3,
+            "departure_time": "04:00",
+            "distance_km": 1787.0,
+            "sequence_number": 28,
+            "station_code": "ANG",
+            "station_name": "AHILYANAGAR"
+        },
+        {
+            "arrival_time": "05:33",
+            "day_of_journey": 3,
+            "departure_time": "05:35",
+            "distance_km": 1868.0,
+            "sequence_number": 29,
+            "station_code": "DDCC",
+            "station_name": "DAUND CHORD LINE"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1941.0,
+            "sequence_number": 30,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        }
+    ],
+    "train_name": "DBG PUNE EXP",
+    "train_number": "11034",
+    "type": "MAIL EXPRESS"
+}

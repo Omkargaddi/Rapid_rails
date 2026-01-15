@@ -1,0 +1,144 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12840.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12840-MAS-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        },
+        {
+            "arrival_time": "20:48",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 137.0,
+            "sequence_number": 2,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 176.0,
+            "sequence_number": 3,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "22:58",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 292.0,
+            "sequence_number": 4,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "23:38",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 341.0,
+            "sequence_number": 5,
+            "station_code": "CLX",
+            "station_name": "CHIRALA"
+        },
+        {
+            "arrival_time": "23:53",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 356.0,
+            "sequence_number": 6,
+            "station_code": "BPP",
+            "station_name": "BAPATLA"
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 398.0,
+            "sequence_number": 7,
+            "station_code": "TEL",
+            "station_name": "TENALI JN"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 430.0,
+            "sequence_number": 8,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "02:19",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 489.0,
+            "sequence_number": 9,
+            "station_code": "EE",
+            "station_name": "ELURU"
+        },
+        {
+            "arrival_time": "02:59",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 537.0,
+            "sequence_number": 10,
+            "station_code": "TDD",
+            "station_name": "TADEPALLIGUDEM"
+        },
+        {
+            "arrival_time": "03:34",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 557.0,
+            "sequence_number": 11,
+            "station_code": "NDD",
+            "station_name": "NIDADAVOLU JN"
+        },
+        {
+            "arrival_time": "04:08",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 579.0,
+            "sequence_number": 12,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "23:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1661.0,
+            "sequence_number": 36,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "MAS HWH SF MAIL",
+    "train_number": "12840",
+    "type": "SUPERFAST"
+}

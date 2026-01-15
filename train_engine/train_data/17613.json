@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17613.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17613-PNVL-NED",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 28.0,
+            "sequence_number": 2,
+            "station_code": "KJT",
+            "station_name": "KARJAT"
+        },
+        {
+            "arrival_time": "17:41",
+            "day_of_journey": 1,
+            "departure_time": "17:43",
+            "distance_km": 56.0,
+            "sequence_number": 3,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "18:09",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 86.0,
+            "sequence_number": 4,
+            "station_code": "TGN",
+            "station_name": "TALEGAON"
+        },
+        {
+            "arrival_time": "18:29",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 104.0,
+            "sequence_number": 5,
+            "station_code": "CCH",
+            "station_name": "CHINCHVAD"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 120.0,
+            "sequence_number": 6,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "20:45",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 195.0,
+            "sequence_number": 7,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 304.0,
+            "sequence_number": 8,
+            "station_code": "KWV",
+            "station_name": "KURDUVADI JN."
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 341.0,
+            "sequence_number": 9,
+            "station_code": "BTW",
+            "station_name": "BARSI TOWN"
+        },
+        {
+            "arrival_time": "00:17",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 378.0,
+            "sequence_number": 10,
+            "station_code": "DRSV",
+            "station_name": "DHARASHIV"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 467.0,
+            "sequence_number": 11,
+            "station_code": "LUR",
+            "station_name": "LATUR"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 500.0,
+            "sequence_number": 12,
+            "station_code": "LTRR",
+            "station_name": "LATUR ROAD"
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 563.0,
+            "sequence_number": 13,
+            "station_code": "Point(2)",
+            "station_name": "PARLI VAIJNATH PRLI Train Reversal"
+        },
+        {
+            "arrival_time": "06:15",
+            "day_of_journey": 2,
+            "departure_time": "06:16",
+            "distance_km": 592.0,
+            "sequence_number": 14,
+            "station_code": "GNH",
+            "station_name": "GANGAKHER"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": "06:52",
+            "distance_km": 626.0,
+            "sequence_number": 15,
+            "station_code": "PBN",
+            "station_name": "PARBHANI JN"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 655.0,
+            "sequence_number": 16,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 685.0,
+            "sequence_number": 17,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        }
+    ],
+    "train_name": "PNVL NED EXPRESS",
+    "train_number": "17613",
+    "type": "MAIL EXPRESS"
+}

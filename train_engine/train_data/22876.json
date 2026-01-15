@@ -1,0 +1,113 @@
+{
+    "classes_available": [
+        "CC",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22876.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22876-GNT-VSKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GNT",
+            "station_name": "GUNTUR JN"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 33.0,
+            "sequence_number": 2,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "17:44",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 92.0,
+            "sequence_number": 3,
+            "station_code": "EE",
+            "station_name": "ELURU"
+        },
+        {
+            "arrival_time": "18:24",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 140.0,
+            "sequence_number": 4,
+            "station_code": "TDD",
+            "station_name": "TADEPALLIGUDEM"
+        },
+        {
+            "arrival_time": "19:08",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 182.0,
+            "sequence_number": 5,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "19:53",
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 233.0,
+            "sequence_number": 6,
+            "station_code": "SLO",
+            "station_name": "SAMALKOT JN"
+        },
+        {
+            "arrival_time": "20:44",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 286.0,
+            "sequence_number": 7,
+            "station_code": "TUNI",
+            "station_name": "TUNI"
+        },
+        {
+            "arrival_time": "21:34",
+            "day_of_journey": 1,
+            "departure_time": "21:35",
+            "distance_km": 350.0,
+            "sequence_number": 8,
+            "station_code": "AKP",
+            "station_name": "ANAKAPALLE"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:22",
+            "distance_km": 365.0,
+            "sequence_number": 9,
+            "station_code": "DVD",
+            "station_name": "DUVVADA"
+        },
+        {
+            "arrival_time": "22:55",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 383.0,
+            "sequence_number": 10,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        }
+    ],
+    "train_name": "VSKP UDAY DD EXP",
+    "train_number": "22876",
+    "type": "SUPERFAST"
+}

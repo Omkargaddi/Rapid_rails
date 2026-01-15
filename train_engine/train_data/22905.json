@@ -1,0 +1,323 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22905.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22905-OKHA-SHM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "OKHA",
+            "station_name": "OKHA"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 1,
+            "departure_time": "09:13",
+            "distance_km": 29.0,
+            "sequence_number": 2,
+            "station_code": "DWK",
+            "station_name": "DWARKA"
+        },
+        {
+            "arrival_time": "10:13",
+            "day_of_journey": 1,
+            "departure_time": "10:15",
+            "distance_km": 113.0,
+            "sequence_number": 3,
+            "station_code": "KMBL",
+            "station_name": "KHAMBHALIYA"
+        },
+        {
+            "arrival_time": "11:32",
+            "day_of_journey": 1,
+            "departure_time": "11:37",
+            "distance_km": 167.0,
+            "sequence_number": 4,
+            "station_code": "JAM",
+            "station_name": "JAMNAGAR"
+        },
+        {
+            "arrival_time": "11:51",
+            "day_of_journey": 1,
+            "departure_time": "11:53",
+            "distance_km": 176.0,
+            "sequence_number": 5,
+            "station_code": "HAPA",
+            "station_name": "HAPA"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 1,
+            "departure_time": "13:25",
+            "distance_km": 249.0,
+            "sequence_number": 6,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 1,
+            "departure_time": "14:02",
+            "distance_km": 291.0,
+            "sequence_number": 7,
+            "station_code": "WKR",
+            "station_name": "WANKANER JN"
+        },
+        {
+            "arrival_time": "15:02",
+            "day_of_journey": 1,
+            "departure_time": "15:04",
+            "distance_km": 365.0,
+            "sequence_number": 8,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "16:10",
+            "day_of_journey": 1,
+            "departure_time": "16:12",
+            "distance_km": 430.0,
+            "sequence_number": 9,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 495.0,
+            "sequence_number": 10,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": "18:47",
+            "distance_km": 559.0,
+            "sequence_number": 11,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "19:21",
+            "day_of_journey": 1,
+            "departure_time": "19:26",
+            "distance_km": 593.0,
+            "sequence_number": 12,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 723.0,
+            "sequence_number": 13,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 883.0,
+            "sequence_number": 14,
+            "station_code": "NDB",
+            "station_name": "NANDURBAR"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 1058.0,
+            "sequence_number": 15,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 1198.0,
+            "sequence_number": 16,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": "06:23",
+            "distance_km": 1277.0,
+            "sequence_number": 17,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": "09:35",
+            "distance_km": 1451.0,
+            "sequence_number": 18,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "11:18",
+            "day_of_journey": 2,
+            "departure_time": "11:20",
+            "distance_km": 1581.0,
+            "sequence_number": 19,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 2,
+            "departure_time": "12:42",
+            "distance_km": 1686.0,
+            "sequence_number": 20,
+            "station_code": "RJN",
+            "station_name": "RAJNANDGAON"
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 2,
+            "departure_time": "13:35",
+            "distance_km": 1716.0,
+            "sequence_number": 21,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "14:10",
+            "day_of_journey": 2,
+            "departure_time": "14:15",
+            "distance_km": 1753.0,
+            "sequence_number": 22,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "15:03",
+            "day_of_journey": 2,
+            "departure_time": "15:05",
+            "distance_km": 1817.0,
+            "sequence_number": 23,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "16:05",
+            "day_of_journey": 2,
+            "departure_time": "16:20",
+            "distance_km": 1868.0,
+            "sequence_number": 24,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 2,
+            "departure_time": "17:07",
+            "distance_km": 1921.0,
+            "sequence_number": 25,
+            "station_code": "CPH",
+            "station_name": "CHAMPA"
+        },
+        {
+            "arrival_time": "18:08",
+            "day_of_journey": 2,
+            "departure_time": "18:10",
+            "distance_km": 2001.0,
+            "sequence_number": 26,
+            "station_code": "RIG",
+            "station_name": "RAIGARH"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 2,
+            "departure_time": "19:17",
+            "distance_km": 2073.0,
+            "sequence_number": 27,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "20:42",
+            "day_of_journey": 2,
+            "departure_time": "20:50",
+            "distance_km": 2175.0,
+            "sequence_number": 28,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 2,
+            "departure_time": "22:20",
+            "distance_km": 2276.0,
+            "sequence_number": 29,
+            "station_code": "CKP",
+            "station_name": "CHAKARADHARPUR"
+        },
+        {
+            "arrival_time": "23:13",
+            "day_of_journey": 2,
+            "departure_time": "23:20",
+            "distance_km": 2338.0,
+            "sequence_number": 30,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "01:25",
+            "day_of_journey": 3,
+            "departure_time": "01:30",
+            "distance_km": 2473.0,
+            "sequence_number": 31,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 3,
+            "departure_time": "03:05",
+            "distance_km": 2582.0,
+            "sequence_number": 32,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2587.0,
+            "sequence_number": 33,
+            "station_code": "SHM",
+            "station_name": "SHALIMAR"
+        }
+    ],
+    "train_name": "OKHA SHM SF EXP",
+    "train_number": "22905",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,132 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12935.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12935-BDTS-ST",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:35",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 1,
+            "departure_time": "06:42",
+            "distance_km": 7.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "ADH",
+            "station_name": "ANDHERI"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 19.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 45.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "VR",
+            "station_name": "VIRAR"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 1,
+            "departure_time": "08:12",
+            "distance_km": 88.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BOR",
+            "station_name": "BOISAR"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 129.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "UBR",
+            "station_name": "UMBARGAM ROAD"
+        },
+        {
+            "arrival_time": "08:58",
+            "day_of_journey": 1,
+            "departure_time": "09:00",
+            "distance_km": 157.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "09:17",
+            "day_of_journey": 1,
+            "departure_time": "09:20",
+            "distance_km": 183.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 1,
+            "departure_time": "09:37",
+            "distance_km": 201.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BIM",
+            "station_name": "BILIMORA JN"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 1,
+            "departure_time": "09:52",
+            "distance_km": 222.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "10:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 252.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        }
+    ],
+    "train_name": "BDTS ST SF EXP",
+    "train_number": "12935",
+    "type": "SUPERFAST "
+}

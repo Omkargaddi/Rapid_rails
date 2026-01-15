@@ -1,0 +1,269 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18448.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18448-JDB-BBS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JDB",
+            "station_name": "JAGDALPUR"
+        },
+        {
+            "arrival_time": "16:34",
+            "day_of_journey": 1,
+            "departure_time": "16:36",
+            "distance_km": 32.0,
+            "sequence_number": 2,
+            "station_code": "KPRR",
+            "station_name": "KOTAPAR ROAD"
+        },
+        {
+            "arrival_time": "17:18",
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "JYP",
+            "station_name": "JEYPORE"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 106.0,
+            "sequence_number": 4,
+            "station_code": "KRPU",
+            "station_name": "KORAPUT JN."
+        },
+        {
+            "arrival_time": "19:12",
+            "day_of_journey": 1,
+            "departure_time": "19:14",
+            "distance_km": 125.0,
+            "sequence_number": 5,
+            "station_code": "DMNJ",
+            "station_name": "DAMAN JODI"
+        },
+        {
+            "arrival_time": "20:08",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 167.0,
+            "sequence_number": 6,
+            "station_code": "LKMR",
+            "station_name": "LAKSHMIPUR ROAD"
+        },
+        {
+            "arrival_time": "20:39",
+            "day_of_journey": 1,
+            "departure_time": "20:41",
+            "distance_km": 189.0,
+            "sequence_number": 7,
+            "station_code": "TKRI",
+            "station_name": "TIKIRI"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 279.0,
+            "sequence_number": 8,
+            "station_code": "RGDA",
+            "station_name": "RAYAGADA"
+        },
+        {
+            "arrival_time": "23:43",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 324.0,
+            "sequence_number": 9,
+            "station_code": "PVPT",
+            "station_name": "PARVATIPURAM TN"
+        },
+        {
+            "arrival_time": "23:48",
+            "day_of_journey": 1,
+            "departure_time": "23:50",
+            "distance_km": 325.0,
+            "sequence_number": 10,
+            "station_code": "PVP",
+            "station_name": "PARVATIPURAM"
+        },
+        {
+            "arrival_time": "00:08",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 350.0,
+            "sequence_number": 11,
+            "station_code": "VBL",
+            "station_name": "BOBBILI"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 403.0,
+            "sequence_number": 12,
+            "station_code": "Point(2)",
+            "station_name": "VIZIANAGRAM JN VZM Train Reversal"
+        },
+        {
+            "arrival_time": "01:58",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 433.0,
+            "sequence_number": 13,
+            "station_code": "CPP",
+            "station_name": "CHIPURUPALLE"
+        },
+        {
+            "arrival_time": "02:28",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 472.0,
+            "sequence_number": 14,
+            "station_code": "CHE",
+            "station_name": "SRIKAKULAM ROAD"
+        },
+        {
+            "arrival_time": "03:43",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 545.0,
+            "sequence_number": 15,
+            "station_code": "PSA",
+            "station_name": "PALASA"
+        },
+        {
+            "arrival_time": "04:09",
+            "day_of_journey": 2,
+            "departure_time": "04:11",
+            "distance_km": 577.0,
+            "sequence_number": 16,
+            "station_code": "SPT",
+            "station_name": "SOMPETA"
+        },
+        {
+            "arrival_time": "04:24",
+            "day_of_journey": 2,
+            "departure_time": "04:26",
+            "distance_km": 595.0,
+            "sequence_number": 17,
+            "station_code": "IPM",
+            "station_name": "ICHCHPURAM"
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 619.0,
+            "sequence_number": 18,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 2,
+            "departure_time": "05:07",
+            "distance_km": 640.0,
+            "sequence_number": 19,
+            "station_code": "CAP",
+            "station_name": "CHATRAPUR"
+        },
+        {
+            "arrival_time": "05:13",
+            "day_of_journey": 2,
+            "departure_time": "05:15",
+            "distance_km": 649.0,
+            "sequence_number": 20,
+            "station_code": "GAM",
+            "station_name": "GANJAM"
+        },
+        {
+            "arrival_time": "05:33",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 678.0,
+            "sequence_number": 21,
+            "station_code": "KIT",
+            "station_name": "KHALLIKOT"
+        },
+        {
+            "arrival_time": "05:43",
+            "day_of_journey": 2,
+            "departure_time": "05:45",
+            "distance_km": 695.0,
+            "sequence_number": 22,
+            "station_code": "BALU",
+            "station_name": "BALUGAN"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 722.0,
+            "sequence_number": 23,
+            "station_code": "KAPG",
+            "station_name": "KALUPARA GHAT"
+        },
+        {
+            "arrival_time": "06:08",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 732.0,
+            "sequence_number": 24,
+            "station_code": "BSDP",
+            "station_name": "BHUSANDPUR"
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 740.0,
+            "sequence_number": 25,
+            "station_code": "NKP",
+            "station_name": "NIRAKARPUR"
+        },
+        {
+            "arrival_time": "07:05",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 766.0,
+            "sequence_number": 26,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 785.0,
+            "sequence_number": 27,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        }
+    ],
+    "train_name": "HIRAKHAND EXP",
+    "train_number": "18448",
+    "type": "MAIL EXPRESS"
+}

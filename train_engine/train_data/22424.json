@@ -1,0 +1,166 @@
+{
+    "classes_available": [
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22424.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22424-ASR-GKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        },
+        {
+            "arrival_time": "13:13",
+            "day_of_journey": 1,
+            "departure_time": "13:15",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "13:52",
+            "day_of_journey": 1,
+            "departure_time": "13:58",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "14:16",
+            "day_of_journey": 1,
+            "departure_time": "14:18",
+            "distance_km": 100.0,
+            "sequence_number": 4,
+            "station_code": "PGW",
+            "station_name": "PHAGWARA JN"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 143.0,
+            "sequence_number": 5,
+            "station_code": "DDL",
+            "station_name": "DHANDARI KALAN"
+        },
+        {
+            "arrival_time": "16:40",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 249.0,
+            "sequence_number": 6,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 330.0,
+            "sequence_number": 7,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 523.0,
+            "sequence_number": 8,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "22:47",
+            "day_of_journey": 1,
+            "departure_time": "22:52",
+            "distance_km": 613.0,
+            "sequence_number": 9,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "00:04",
+            "day_of_journey": 2,
+            "departure_time": "00:06",
+            "distance_km": 684.0,
+            "sequence_number": 10,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 775.0,
+            "sequence_number": 11,
+            "station_code": "STP",
+            "station_name": "SITAPUR JN."
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 934.0,
+            "sequence_number": 12,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 962.0,
+            "sequence_number": 13,
+            "station_code": "MUR",
+            "station_name": "MANKAPUR JN"
+        },
+        {
+            "arrival_time": "06:27",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 1023.0,
+            "sequence_number": 14,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "06:51",
+            "day_of_journey": 2,
+            "departure_time": "06:53",
+            "distance_km": 1053.0,
+            "sequence_number": 15,
+            "station_code": "KLD",
+            "station_name": "KHALILABAD"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1088.0,
+            "sequence_number": 16,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        }
+    ],
+    "train_name": "ASR-GKP SUPERFAST EXP",
+    "train_number": "22424",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,151 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12143.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12143-LTT-SLN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 171.0,
+            "sequence_number": 2,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "20:11",
+            "day_of_journey": 1,
+            "departure_time": "20:13",
+            "distance_km": 244.0,
+            "sequence_number": 3,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "22:45",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 428.0,
+            "sequence_number": 4,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 551.0,
+            "sequence_number": 5,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": "05:25",
+            "distance_km": 825.0,
+            "sequence_number": 6,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 964.0,
+            "sequence_number": 7,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 2,
+            "departure_time": "09:23",
+            "distance_km": 1115.0,
+            "sequence_number": 8,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 2,
+            "departure_time": "10:40",
+            "distance_km": 1229.0,
+            "sequence_number": 9,
+            "station_code": "ORAI",
+            "station_name": "ORAI"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 2,
+            "departure_time": "13:05",
+            "distance_km": 1335.0,
+            "sequence_number": 10,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 2,
+            "departure_time": "14:50",
+            "distance_km": 1408.0,
+            "sequence_number": 11,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "16:11",
+            "day_of_journey": 2,
+            "departure_time": "16:13",
+            "distance_km": 1498.0,
+            "sequence_number": 12,
+            "station_code": "NHH",
+            "station_name": "NIHALGARH"
+        },
+        {
+            "arrival_time": "16:29",
+            "day_of_journey": 2,
+            "departure_time": "16:31",
+            "distance_km": 1517.0,
+            "sequence_number": 13,
+            "station_code": "MFKA",
+            "station_name": "MUSAFIR KHANA"
+        },
+        {
+            "arrival_time": "17:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1548.0,
+            "sequence_number": 14,
+            "station_code": "SLN",
+            "station_name": "SULTANPUR"
+        }
+    ],
+    "train_name": "LTT SLN SF EXP",
+    "train_number": "12143",
+    "type": "SUPERFAST"
+}

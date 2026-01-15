@@ -1,0 +1,106 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16188.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16188-ERS-KIK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "22:34",
+            "day_of_journey": 1,
+            "departure_time": "22:36",
+            "distance_km": 3.0,
+            "sequence_number": 2,
+            "station_code": "ERN",
+            "station_name": "ERNAKULAM TOWN"
+        },
+        {
+            "arrival_time": "22:46",
+            "day_of_journey": 1,
+            "departure_time": "22:47",
+            "distance_km": 9.0,
+            "sequence_number": 3,
+            "station_code": "IPL",
+            "station_name": "IDAPALLI"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 19.0,
+            "sequence_number": 4,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "23:14",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 29.0,
+            "sequence_number": 5,
+            "station_code": "AFK",
+            "station_name": "ANGAMALI"
+        },
+        {
+            "arrival_time": "23:26",
+            "day_of_journey": 1,
+            "departure_time": "23:27",
+            "distance_km": 44.0,
+            "sequence_number": 6,
+            "station_code": "CKI",
+            "station_name": "CHALAKUDI"
+        },
+        {
+            "arrival_time": "10:33",
+            "day_of_journey": 2,
+            "departure_time": "10:35",
+            "distance_km": 575.0,
+            "sequence_number": 24,
+            "station_code": "NGT",
+            "station_name": "NAGAPPATTINAM JN"
+        },
+        {
+            "arrival_time": "10:48",
+            "day_of_journey": 2,
+            "departure_time": "10:50",
+            "distance_km": 582.0,
+            "sequence_number": 25,
+            "station_code": "NCR",
+            "station_name": "NAGORE"
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 593.0,
+            "sequence_number": 26,
+            "station_code": "KIK",
+            "station_name": "KARAIKAL"
+        }
+    ],
+    "train_name": "ERS KIK EXPRESS",
+    "train_number": "16188",
+    "type": "MAIL EXPRESS"
+}

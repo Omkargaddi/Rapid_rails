@@ -1,0 +1,197 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12354.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12354-LKU-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LKU",
+            "station_name": "LALKUA JN."
+        },
+        {
+            "arrival_time": "19:21",
+            "day_of_journey": 1,
+            "departure_time": "19:23",
+            "distance_km": 18.0,
+            "sequence_number": 2,
+            "station_code": "KHH",
+            "station_name": "KICHHA"
+        },
+        {
+            "arrival_time": "20:28",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 77.0,
+            "sequence_number": 3,
+            "station_code": "IZN",
+            "station_name": "IZZATNAGAR JN"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 82.0,
+            "sequence_number": 4,
+            "station_code": "BC",
+            "station_name": "BAREILLY CITY"
+        },
+        {
+            "arrival_time": "21:22",
+            "day_of_journey": 1,
+            "departure_time": "21:32",
+            "distance_km": 84.0,
+            "sequence_number": 5,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 319.0,
+            "sequence_number": 6,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "02:43",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 397.0,
+            "sequence_number": 7,
+            "station_code": "RBL",
+            "station_name": "RAE BARELI JN"
+        },
+        {
+            "arrival_time": "03:41",
+            "day_of_journey": 2,
+            "departure_time": "03:43",
+            "distance_km": 457.0,
+            "sequence_number": 8,
+            "station_code": "AME",
+            "station_name": "AMETHI"
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 2,
+            "departure_time": "04:25",
+            "distance_km": 492.0,
+            "sequence_number": 9,
+            "station_code": "MBDP",
+            "station_name": "MAA BELHA DEVI DHAM PRATAPGARH"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 2,
+            "departure_time": "07:25",
+            "distance_km": 620.0,
+            "sequence_number": 10,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "08:15",
+            "day_of_journey": 2,
+            "departure_time": "08:20",
+            "distance_km": 638.0,
+            "sequence_number": 11,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "09:24",
+            "day_of_journey": 2,
+            "departure_time": "09:26",
+            "distance_km": 739.0,
+            "sequence_number": 12,
+            "station_code": "SSM",
+            "station_name": "SASARAM"
+        },
+        {
+            "arrival_time": "09:40",
+            "day_of_journey": 2,
+            "departure_time": "09:42",
+            "distance_km": 757.0,
+            "sequence_number": 13,
+            "station_code": "DOS",
+            "station_name": "DEHRI ON SONE"
+        },
+        {
+            "arrival_time": "10:55",
+            "day_of_journey": 2,
+            "departure_time": "11:00",
+            "distance_km": 842.0,
+            "sequence_number": 14,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 2,
+            "departure_time": "13:55",
+            "distance_km": 1042.0,
+            "sequence_number": 15,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "15:01",
+            "day_of_journey": 2,
+            "departure_time": "15:06",
+            "distance_km": 1099.0,
+            "sequence_number": 16,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "15:35",
+            "day_of_journey": 2,
+            "departure_time": "15:37",
+            "distance_km": 1141.0,
+            "sequence_number": 17,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "16:34",
+            "day_of_journey": 2,
+            "departure_time": "16:36",
+            "distance_km": 1203.0,
+            "sequence_number": 18,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1298.0,
+            "sequence_number": 19,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "LKU HWH SF EXP",
+    "train_number": "12354",
+    "type": "SUPERFAST"
+}

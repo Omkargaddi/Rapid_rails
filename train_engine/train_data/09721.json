@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_09721.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "09721-JP-UDZ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "06:27",
+            "day_of_journey": 1,
+            "departure_time": "06:29",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "KKU",
+            "station_name": "KANAKPURA"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 55.0,
+            "sequence_number": 3,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "07:37",
+            "day_of_journey": 1,
+            "departure_time": "07:39",
+            "distance_km": 109.0,
+            "sequence_number": 4,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 134.0,
+            "sequence_number": 5,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 1,
+            "departure_time": "08:47",
+            "distance_km": 158.0,
+            "sequence_number": 6,
+            "station_code": "NSD",
+            "station_name": "NASIRABAD"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 1,
+            "departure_time": "09:17",
+            "distance_km": 199.0,
+            "sequence_number": 7,
+            "station_code": "BJNR",
+            "station_name": "BIJAINAGAR"
+        },
+        {
+            "arrival_time": "10:05",
+            "day_of_journey": 1,
+            "departure_time": "10:07",
+            "distance_km": 266.0,
+            "sequence_number": 8,
+            "station_code": "BHL",
+            "station_name": "BHILWARA"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": "11:07",
+            "distance_km": 312.0,
+            "sequence_number": 9,
+            "station_code": "CNA",
+            "station_name": "CHANDERIA"
+        },
+        {
+            "arrival_time": "11:42",
+            "day_of_journey": 1,
+            "departure_time": "11:43",
+            "distance_km": 350.0,
+            "sequence_number": 10,
+            "station_code": "KIN",
+            "station_name": "KAPASAN"
+        },
+        {
+            "arrival_time": "12:13",
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 386.0,
+            "sequence_number": 11,
+            "station_code": "MVJ",
+            "station_name": "MAVLI JN"
+        },
+        {
+            "arrival_time": "12:53",
+            "day_of_journey": 1,
+            "departure_time": "12:55",
+            "distance_km": 425.0,
+            "sequence_number": 12,
+            "station_code": "RPZ",
+            "station_name": "RANA PRATAP NAGAR"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 429.0,
+            "sequence_number": 13,
+            "station_code": "UDZ",
+            "station_name": "UDAIPUR CITY"
+        }
+    ],
+    "train_name": "JP UDZ SF SPL",
+    "train_number": "09721",
+    "type": "TRAIN ON DEMAND"
+}

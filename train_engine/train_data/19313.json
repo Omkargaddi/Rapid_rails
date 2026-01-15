@@ -1,0 +1,189 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19313.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "19313-INDB-PNBE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        },
+        {
+            "arrival_time": "14:26",
+            "day_of_journey": 1,
+            "departure_time": "14:28",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 82.0,
+            "sequence_number": 3,
+            "station_code": "UJN",
+            "station_name": "UJJAIN JN"
+        },
+        {
+            "arrival_time": "16:57",
+            "day_of_journey": 1,
+            "departure_time": "16:59",
+            "distance_km": 185.0,
+            "sequence_number": 4,
+            "station_code": "SJP",
+            "station_name": "SHUJALPUR"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 255.0,
+            "sequence_number": 5,
+            "station_code": "SHRN",
+            "station_name": "SANT HIRDARAM NAGAR"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 404.0,
+            "sequence_number": 6,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:52",
+            "distance_km": 467.0,
+            "sequence_number": 7,
+            "station_code": "LAR",
+            "station_name": "LALITPUR"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 555.0,
+            "sequence_number": 8,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "00:23",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 669.0,
+            "sequence_number": 9,
+            "station_code": "ORAI",
+            "station_name": "ORAI"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 775.0,
+            "sequence_number": 10,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 849.0,
+            "sequence_number": 11,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "07:06",
+            "day_of_journey": 2,
+            "departure_time": "07:08",
+            "distance_km": 938.0,
+            "sequence_number": 12,
+            "station_code": "NHH",
+            "station_name": "NIHALGARH"
+        },
+        {
+            "arrival_time": "08:05",
+            "day_of_journey": 2,
+            "departure_time": "08:10",
+            "distance_km": 988.0,
+            "sequence_number": 13,
+            "station_code": "SLN",
+            "station_name": "SULTANPUR"
+        },
+        {
+            "arrival_time": "09:11",
+            "day_of_journey": 2,
+            "departure_time": "09:13",
+            "distance_km": 1074.0,
+            "sequence_number": 14,
+            "station_code": "JOP",
+            "station_name": "JAUNPUR CITY"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 2,
+            "departure_time": "10:50",
+            "distance_km": 1132.0,
+            "sequence_number": 15,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 2,
+            "departure_time": "11:35",
+            "distance_km": 1150.0,
+            "sequence_number": 16,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "12:38",
+            "day_of_journey": 2,
+            "departure_time": "12:40",
+            "distance_km": 1240.0,
+            "sequence_number": 17,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1357.0,
+            "sequence_number": 18,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        }
+    ],
+    "train_name": "INDB PNBE EXP",
+    "train_number": "19313",
+    "type": "MAIL EXPRESS"
+}

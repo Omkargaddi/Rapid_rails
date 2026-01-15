@@ -1,0 +1,179 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13136.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "13136-JYG-KOAA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JYG",
+            "station_name": "JAYNAGAR"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 1,
+            "departure_time": "13:07",
+            "distance_km": 32.0,
+            "sequence_number": 2,
+            "station_code": "MBI",
+            "station_name": "MADHUBANI"
+        },
+        {
+            "arrival_time": "13:26",
+            "day_of_journey": 1,
+            "departure_time": "13:28",
+            "distance_km": 49.0,
+            "sequence_number": 3,
+            "station_code": "SKI",
+            "station_name": "SAKRI JN"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 68.0,
+            "sequence_number": 4,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "15:23",
+            "day_of_journey": 1,
+            "departure_time": "15:28",
+            "distance_km": 105.0,
+            "sequence_number": 5,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "16:40",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 156.0,
+            "sequence_number": 6,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "18:03",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 193.0,
+            "sequence_number": 7,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 247.0,
+            "sequence_number": 8,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 291.0,
+            "sequence_number": 9,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "20:33",
+            "day_of_journey": 1,
+            "departure_time": "20:38",
+            "distance_km": 320.0,
+            "sequence_number": 10,
+            "station_code": "MDP",
+            "station_name": "MADHUPUR JN."
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:17",
+            "distance_km": 377.0,
+            "sequence_number": 11,
+            "station_code": "CRJ",
+            "station_name": "CHITTARANJAN"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 402.0,
+            "sequence_number": 12,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "22:42",
+            "day_of_journey": 1,
+            "departure_time": "22:44",
+            "distance_km": 444.0,
+            "sequence_number": 13,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "00:19",
+            "day_of_journey": 2,
+            "departure_time": "00:21",
+            "distance_km": 506.0,
+            "sequence_number": 14,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:17",
+            "distance_km": 574.0,
+            "sequence_number": 15,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "01:53",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 583.0,
+            "sequence_number": 16,
+            "station_code": "NH",
+            "station_name": "NAIHATI JN"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 617.0,
+            "sequence_number": 17,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        }
+    ],
+    "train_name": "JYG KOAA EXP",
+    "train_number": "13136",
+    "type": "MAIL EXPRESS"
+}

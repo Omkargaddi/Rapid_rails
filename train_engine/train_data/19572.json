@@ -1,0 +1,175 @@
+{
+    "classes_available": [
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19572.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19572-PBR-RJT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PBR",
+            "station_name": "PORBANDAR"
+        },
+        {
+            "arrival_time": "16:34",
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "RWO",
+            "station_name": "RANAVAV"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "16:51",
+            "distance_km": 29.0,
+            "sequence_number": 3,
+            "station_code": "TRSR",
+            "station_name": "TARSAI"
+        },
+        {
+            "arrival_time": "16:57",
+            "day_of_journey": 1,
+            "departure_time": "16:58",
+            "distance_km": 34.0,
+            "sequence_number": 4,
+            "station_code": "WSJ",
+            "station_name": "WANSJALIYA"
+        },
+        {
+            "arrival_time": "17:08",
+            "day_of_journey": 1,
+            "departure_time": "17:09",
+            "distance_km": 40.0,
+            "sequence_number": 5,
+            "station_code": "KTLA",
+            "station_name": "KATKOLA JN"
+        },
+        {
+            "arrival_time": "17:19",
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 49.0,
+            "sequence_number": 6,
+            "station_code": "WAB",
+            "station_name": "BALWA"
+        },
+        {
+            "arrival_time": "17:27",
+            "day_of_journey": 1,
+            "departure_time": "17:28",
+            "distance_km": 57.0,
+            "sequence_number": 7,
+            "station_code": "JDH",
+            "station_name": "JAM JODHPUR JN"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:41",
+            "distance_km": 71.0,
+            "sequence_number": 8,
+            "station_code": "PLM",
+            "station_name": "PANELI MOTI"
+        },
+        {
+            "arrival_time": "17:48",
+            "day_of_journey": 1,
+            "departure_time": "17:49",
+            "distance_km": 80.0,
+            "sequence_number": 9,
+            "station_code": "BHY",
+            "station_name": "BHAYAVADAR"
+        },
+        {
+            "arrival_time": "18:02",
+            "day_of_journey": 1,
+            "departure_time": "18:03",
+            "distance_km": 92.0,
+            "sequence_number": 10,
+            "station_code": "UA",
+            "station_name": "UPLETA"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 1,
+            "departure_time": "18:19",
+            "distance_km": 110.0,
+            "sequence_number": 11,
+            "station_code": "DJI",
+            "station_name": "DHORAJI"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 124.0,
+            "sequence_number": 12,
+            "station_code": "JLR",
+            "station_name": "JETALSAR JN"
+        },
+        {
+            "arrival_time": "18:42",
+            "day_of_journey": 1,
+            "departure_time": "18:43",
+            "distance_km": 130.0,
+            "sequence_number": 13,
+            "station_code": "NUD",
+            "station_name": "NAVAGADH"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 1,
+            "departure_time": "18:56",
+            "distance_km": 144.0,
+            "sequence_number": 14,
+            "station_code": "VRR",
+            "station_name": "VIRPUR"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:11",
+            "distance_km": 160.0,
+            "sequence_number": 15,
+            "station_code": "GDL",
+            "station_name": "GONDAL"
+        },
+        {
+            "arrival_time": "20:03",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 195.0,
+            "sequence_number": 16,
+            "station_code": "BKNG",
+            "station_name": "BHAKTI NAGAR"
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 201.0,
+            "sequence_number": 17,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        }
+    ],
+    "train_name": "PBR-RJT EXPRESS",
+    "train_number": "19572",
+    "type": "MAIL EXPRESS"
+}

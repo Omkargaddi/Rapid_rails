@@ -1,0 +1,198 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15722.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15722-NJP-DGHA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:02",
+            "distance_km": 63.0,
+            "sequence_number": 2,
+            "station_code": "TKG",
+            "station_name": "THAKURGANJ"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 114.0,
+            "sequence_number": 3,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:32",
+            "distance_km": 171.0,
+            "sequence_number": 4,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 259.0,
+            "sequence_number": 5,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "02:51",
+            "day_of_journey": 2,
+            "departure_time": "02:53",
+            "distance_km": 376.0,
+            "sequence_number": 6,
+            "station_code": "AZ",
+            "station_name": "AZIMGANJ JN"
+        },
+        {
+            "arrival_time": "03:11",
+            "day_of_journey": 2,
+            "departure_time": "03:12",
+            "distance_km": 391.0,
+            "sequence_number": 7,
+            "station_code": "KGLE",
+            "station_name": "KHAGRAGHAT ROAD"
+        },
+        {
+            "arrival_time": "03:38",
+            "day_of_journey": 2,
+            "departure_time": "03:39",
+            "distance_km": 432.0,
+            "sequence_number": 8,
+            "station_code": "SALE",
+            "station_name": "SALAR"
+        },
+        {
+            "arrival_time": "04:01",
+            "day_of_journey": 2,
+            "departure_time": "04:03",
+            "distance_km": 449.0,
+            "sequence_number": 9,
+            "station_code": "KWAE",
+            "station_name": "KATWA"
+        },
+        {
+            "arrival_time": "04:31",
+            "day_of_journey": 2,
+            "departure_time": "04:33",
+            "distance_km": 489.0,
+            "sequence_number": 10,
+            "station_code": "NDAE",
+            "station_name": "NABADWIP DHAM"
+        },
+        {
+            "arrival_time": "05:53",
+            "day_of_journey": 2,
+            "departure_time": "05:55",
+            "distance_km": 554.0,
+            "sequence_number": 11,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 2,
+            "departure_time": "07:50",
+            "distance_km": 593.0,
+            "sequence_number": 12,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "08:06",
+            "day_of_journey": 2,
+            "departure_time": "08:08",
+            "distance_km": 601.0,
+            "sequence_number": 13,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "08:29",
+            "day_of_journey": 2,
+            "departure_time": "08:31",
+            "distance_km": 625.0,
+            "sequence_number": 14,
+            "station_code": "ULB",
+            "station_name": "ULUBARIA"
+        },
+        {
+            "arrival_time": "08:42",
+            "day_of_journey": 2,
+            "departure_time": "08:44",
+            "distance_km": 638.0,
+            "sequence_number": 15,
+            "station_code": "BZN",
+            "station_name": "BAGNAN"
+        },
+        {
+            "arrival_time": "08:57",
+            "day_of_journey": 2,
+            "departure_time": "08:59",
+            "distance_km": 652.0,
+            "sequence_number": 16,
+            "station_code": "MCA",
+            "station_name": "MECHEDA"
+        },
+        {
+            "arrival_time": "09:33",
+            "day_of_journey": 2,
+            "departure_time": "09:35",
+            "distance_km": 686.0,
+            "sequence_number": 17,
+            "station_code": "TMZ",
+            "station_name": "TAMLUK"
+        },
+        {
+            "arrival_time": "10:27",
+            "day_of_journey": 2,
+            "departure_time": "10:29",
+            "distance_km": 747.0,
+            "sequence_number": 18,
+            "station_code": "KATI",
+            "station_name": "KATHI"
+        },
+        {
+            "arrival_time": "11:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 779.0,
+            "sequence_number": 19,
+            "station_code": "DGHA",
+            "station_name": "DIGHA"
+        }
+    ],
+    "train_name": "PAHARIA EXPRESS",
+    "train_number": "15722",
+    "type": "MAIL EXPRESS"
+}

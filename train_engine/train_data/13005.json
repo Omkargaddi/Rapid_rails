@@ -1,0 +1,175 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13005.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13005-HWH-ASR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "20:12",
+            "day_of_journey": 1,
+            "departure_time": "20:14",
+            "distance_km": 95.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "21:04",
+            "day_of_journey": 1,
+            "departure_time": "21:06",
+            "distance_km": 157.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "21:21",
+            "day_of_journey": 1,
+            "departure_time": "21:23",
+            "distance_km": 181.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "RNG",
+            "station_name": "RANIGANJ"
+        },
+        {
+            "arrival_time": "21:41",
+            "day_of_journey": 1,
+            "departure_time": "21:46",
+            "distance_km": 199.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "22:07",
+            "day_of_journey": 1,
+            "departure_time": "22:09",
+            "distance_km": 224.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "CRJ",
+            "station_name": "CHITTARANJAN"
+        },
+        {
+            "arrival_time": "22:45",
+            "day_of_journey": 1,
+            "departure_time": "22:49",
+            "distance_km": 281.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "MDP",
+            "station_name": "MADHUPUR JN."
+        },
+        {
+            "arrival_time": "23:08",
+            "day_of_journey": 1,
+            "departure_time": "23:12",
+            "distance_km": 310.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "00:35",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 354.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "01:18",
+            "day_of_journey": 2,
+            "departure_time": "01:23",
+            "distance_km": 408.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "01:54",
+            "distance_km": 442.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "MKA",
+            "station_name": "MOKAMA"
+        },
+        {
+            "arrival_time": "02:22",
+            "day_of_journey": 2,
+            "departure_time": "02:24",
+            "distance_km": 486.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BKP",
+            "station_name": "BAKHTIYARPUR JN"
+        },
+        {
+            "arrival_time": "07:22",
+            "day_of_journey": 3,
+            "departure_time": "07:24",
+            "distance_km": 1842.0,
+            "platform": null,
+            "sequence_number": 59,
+            "station_code": "KRE",
+            "station_name": "KARTARPUR"
+        },
+        {
+            "arrival_time": "07:43",
+            "day_of_journey": 3,
+            "departure_time": "07:45",
+            "distance_km": 1864.0,
+            "platform": null,
+            "sequence_number": 60,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1906.0,
+            "platform": null,
+            "sequence_number": 61,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        }
+    ],
+    "train_name": "HWH ASR MAIL",
+    "train_number": "13005",
+    "type": "MAIL EXPRESS "
+}

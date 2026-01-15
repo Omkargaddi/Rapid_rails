@@ -1,0 +1,183 @@
+{
+    "classes_available": [
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_01211.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "01211-BD-NK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 1,
+            "departure_time": "10:32",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "MZR",
+            "station_name": "MURTAJAPUR JN."
+        },
+        {
+            "arrival_time": "10:49",
+            "day_of_journey": 1,
+            "departure_time": "10:50",
+            "distance_km": 60.0,
+            "sequence_number": 3,
+            "station_code": "BGN",
+            "station_name": "BORGAON"
+        },
+        {
+            "arrival_time": "11:02",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 79.0,
+            "sequence_number": 4,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "11:33",
+            "day_of_journey": 1,
+            "departure_time": "11:35",
+            "distance_km": 116.0,
+            "sequence_number": 5,
+            "station_code": "SEG",
+            "station_name": "SHEGAON"
+        },
+        {
+            "arrival_time": "12:03",
+            "day_of_journey": 1,
+            "departure_time": "12:05",
+            "distance_km": 141.0,
+            "sequence_number": 6,
+            "station_code": "NN",
+            "station_name": "NANDURA"
+        },
+        {
+            "arrival_time": "12:38",
+            "day_of_journey": 1,
+            "departure_time": "12:40",
+            "distance_km": 168.0,
+            "sequence_number": 7,
+            "station_code": "MKU",
+            "station_name": "MALKAPUR"
+        },
+        {
+            "arrival_time": "13:37",
+            "day_of_journey": 1,
+            "departure_time": "13:38",
+            "distance_km": 188.0,
+            "sequence_number": 8,
+            "station_code": "BDWD",
+            "station_name": "BODWAD"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 1,
+            "departure_time": "15:10",
+            "distance_km": 219.0,
+            "sequence_number": 9,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "15:35",
+            "day_of_journey": 1,
+            "departure_time": "15:37",
+            "distance_km": 243.0,
+            "sequence_number": 10,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "16:06",
+            "day_of_journey": 1,
+            "departure_time": "16:07",
+            "distance_km": 291.0,
+            "sequence_number": 11,
+            "station_code": "PC",
+            "station_name": "PACHORA JN"
+        },
+        {
+            "arrival_time": "16:19",
+            "day_of_journey": 1,
+            "departure_time": "16:20",
+            "distance_km": 317.0,
+            "sequence_number": 12,
+            "station_code": "KJ",
+            "station_name": "KAJGAON"
+        },
+        {
+            "arrival_time": "16:39",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 336.0,
+            "sequence_number": 13,
+            "station_code": "CSN",
+            "station_name": "CHALISGAON JN"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 1,
+            "departure_time": "17:22",
+            "distance_km": 378.0,
+            "sequence_number": 14,
+            "station_code": "NGN",
+            "station_name": "NANDGAON"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 1,
+            "departure_time": "17:52",
+            "distance_km": 403.0,
+            "sequence_number": 15,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "18:05",
+            "day_of_journey": 1,
+            "departure_time": "18:07",
+            "distance_km": 428.0,
+            "sequence_number": 16,
+            "station_code": "LS",
+            "station_name": "LASALGAON"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 1,
+            "departure_time": "18:27",
+            "distance_km": 445.0,
+            "sequence_number": 17,
+            "station_code": "NR",
+            "station_name": "NIPHAD"
+        },
+        {
+            "arrival_time": "19:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 476.0,
+            "sequence_number": 18,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        }
+    ],
+    "train_name": "BD-NK SPL",
+    "train_number": "01211",
+    "type": "TRAIN ON DEMAND"
+}

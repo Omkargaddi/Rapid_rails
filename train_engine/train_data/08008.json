@@ -1,0 +1,158 @@
+{
+    "classes_available": [
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_08008.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "08008-VZR-SHM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "VZR",
+            "station_name": "BHANJPUR"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 1,
+            "departure_time": "09:27",
+            "distance_km": 4.0,
+            "sequence_number": 2,
+            "station_code": "BPO",
+            "station_name": "BARIPADA"
+        },
+        {
+            "arrival_time": "09:40",
+            "day_of_journey": 1,
+            "departure_time": "09:41",
+            "distance_km": 16.0,
+            "sequence_number": 3,
+            "station_code": "JSE",
+            "station_name": "JAMSOLE"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 1,
+            "departure_time": "09:51",
+            "distance_km": 20.0,
+            "sequence_number": 4,
+            "station_code": "KCV",
+            "station_name": "KRISHNA CH PURA"
+        },
+        {
+            "arrival_time": "10:09",
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 31.0,
+            "sequence_number": 5,
+            "station_code": "BTQ",
+            "station_name": "BETNOTI"
+        },
+        {
+            "arrival_time": "10:27",
+            "day_of_journey": 1,
+            "departure_time": "10:28",
+            "distance_km": 43.0,
+            "sequence_number": 6,
+            "station_code": "JRG",
+            "station_name": "JUGPURA P.H."
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 1,
+            "departure_time": "11:10",
+            "distance_km": 55.0,
+            "sequence_number": 7,
+            "station_code": "ROP",
+            "station_name": "RUPSA JN"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 1,
+            "departure_time": "11:22",
+            "distance_km": 65.0,
+            "sequence_number": 8,
+            "station_code": "BTS",
+            "station_name": "BASTA"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 1,
+            "departure_time": "11:37",
+            "distance_km": 85.0,
+            "sequence_number": 9,
+            "station_code": "JER",
+            "station_name": "JALESWAR"
+        },
+        {
+            "arrival_time": "12:01",
+            "day_of_journey": 1,
+            "departure_time": "12:03",
+            "distance_km": 118.0,
+            "sequence_number": 10,
+            "station_code": "BLDA",
+            "station_name": "BELDA"
+        },
+        {
+            "arrival_time": "12:55",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 158.0,
+            "sequence_number": 11,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 1,
+            "departure_time": "13:37",
+            "distance_km": 203.0,
+            "sequence_number": 12,
+            "station_code": "PKU",
+            "station_name": "PANSKURA"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 1,
+            "departure_time": "14:02",
+            "distance_km": 229.0,
+            "sequence_number": 13,
+            "station_code": "BZN",
+            "station_name": "BAGNAN"
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 268.0,
+            "sequence_number": 14,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 273.0,
+            "sequence_number": 15,
+            "station_code": "SHM",
+            "station_name": "SHALIMAR"
+        }
+    ],
+    "train_name": "VZR SHM SPL",
+    "train_number": "08008",
+    "type": "TRAIN ON DEMAND"
+}

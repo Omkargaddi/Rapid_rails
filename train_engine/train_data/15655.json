@@ -1,0 +1,179 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15655.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15655-KYQ-SVDK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 1,
+            "departure_time": "12:37",
+            "distance_km": 124.0,
+            "sequence_number": 2,
+            "station_code": "GLPT",
+            "station_name": "GOALPARA TOWN"
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 176.0,
+            "sequence_number": 3,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 1,
+            "departure_time": "14:32",
+            "distance_km": 207.0,
+            "sequence_number": 4,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 285.0,
+            "sequence_number": 5,
+            "station_code": "NOQ",
+            "station_name": "NEW ALIPURDUAR"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "15:55",
+            "distance_km": 304.0,
+            "sequence_number": 6,
+            "station_code": "NCB",
+            "station_name": "NEW COOCH BEHAR"
+        },
+        {
+            "arrival_time": "16:40",
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 365.0,
+            "sequence_number": 7,
+            "station_code": "DQG",
+            "station_name": "DHUPGURI"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 430.0,
+            "sequence_number": 8,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:27",
+            "distance_km": 517.0,
+            "sequence_number": 9,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 1,
+            "departure_time": "20:17",
+            "distance_km": 575.0,
+            "sequence_number": 10,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:15",
+            "distance_km": 631.0,
+            "sequence_number": 11,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "22:53",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 688.0,
+            "sequence_number": 12,
+            "station_code": "NNA",
+            "station_name": "NAUGACHIA"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 3,
+            "departure_time": "09:05",
+            "distance_km": 2295.0,
+            "sequence_number": 36,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 3,
+            "departure_time": "10:55",
+            "distance_km": 2408.0,
+            "sequence_number": 37,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "12:55",
+            "day_of_journey": 3,
+            "departure_time": "13:05",
+            "distance_km": 2507.0,
+            "sequence_number": 38,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "14:06",
+            "day_of_journey": 3,
+            "departure_time": "14:08",
+            "distance_km": 2561.0,
+            "sequence_number": 39,
+            "station_code": "MCTM",
+            "station_name": "MARTYR CAPTAIN TUSHAR MAHAJAN"
+        },
+        {
+            "arrival_time": "15:55",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2585.0,
+            "sequence_number": 40,
+            "station_code": "SVDK",
+            "station_name": "SHRI MATA VAISHNO DEVI KATRA"
+        }
+    ],
+    "train_name": "KYQ SVDK EXP",
+    "train_number": "15655",
+    "type": "MAIL EXPRESS"
+}

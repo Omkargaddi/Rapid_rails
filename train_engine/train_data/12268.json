@@ -1,0 +1,74 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12268.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12268-HAPA-MMCT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "HAPA",
+            "station_name": "HAPA"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 73.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "22:57",
+            "day_of_journey": 1,
+            "departure_time": "22:59",
+            "distance_km": 189.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 319.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "08:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 809.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MMCT",
+            "station_name": "MUMBAI CENTRAL"
+        }
+    ],
+    "train_name": "MMCT DURONTO EXP",
+    "train_number": "12268",
+    "type": "DURONTO EXPRESS "
+}

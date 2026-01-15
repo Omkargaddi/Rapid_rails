@@ -1,0 +1,205 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12849.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12849-BSP-PUNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:20",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 52.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "12:55",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 116.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 1,
+            "departure_time": "13:55",
+            "distance_km": 153.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "14:14",
+            "day_of_journey": 1,
+            "departure_time": "14:16",
+            "distance_km": 184.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "RJN",
+            "station_name": "RAJNANDGAON"
+        },
+        {
+            "arrival_time": "15:38",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 288.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 419.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "19:03",
+            "day_of_journey": 1,
+            "departure_time": "19:05",
+            "distance_km": 497.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "WR",
+            "station_name": "WARDHA JN"
+        },
+        {
+            "arrival_time": "20:52",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 593.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 671.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 812.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 2,
+            "departure_time": "00:42",
+            "distance_km": 836.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 996.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "03:37",
+            "day_of_journey": 2,
+            "departure_time": "03:40",
+            "distance_km": 1037.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "KPG",
+            "station_name": "KOPARGAON"
+        },
+        {
+            "arrival_time": "04:17",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 1081.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "BAP",
+            "station_name": "BELAPUR"
+        },
+        {
+            "arrival_time": "05:12",
+            "day_of_journey": 2,
+            "departure_time": "05:15",
+            "distance_km": 1148.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "ANG",
+            "station_name": "AHILYANAGAR"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 2,
+            "departure_time": "07:32",
+            "distance_km": 1230.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "DDCC",
+            "station_name": "DAUND CHORD LINE"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1302.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        }
+    ],
+    "train_name": "BSP PUNE SF EXP",
+    "train_number": "12849",
+    "type": "SUPERFAST "
+}

@@ -1,0 +1,206 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12618.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12618-NZM-ERS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "05:52",
+            "day_of_journey": 1,
+            "departure_time": "05:54",
+            "distance_km": 21.0,
+            "sequence_number": 2,
+            "station_code": "FDB",
+            "station_name": "FARIDABAD"
+        },
+        {
+            "arrival_time": "07:40",
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 133.0,
+            "sequence_number": 3,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 1,
+            "departure_time": "08:25",
+            "distance_km": 187.0,
+            "sequence_number": 4,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "10:03",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 267.0,
+            "sequence_number": 5,
+            "station_code": "MRA",
+            "station_name": "MORENA"
+        },
+        {
+            "arrival_time": "10:31",
+            "day_of_journey": 1,
+            "departure_time": "10:33",
+            "distance_km": 305.0,
+            "sequence_number": 6,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "12:00",
+            "day_of_journey": 1,
+            "departure_time": "12:08",
+            "distance_km": 404.0,
+            "sequence_number": 7,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "14:25",
+            "day_of_journey": 1,
+            "departure_time": "14:30",
+            "distance_km": 555.0,
+            "sequence_number": 8,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 693.0,
+            "sequence_number": 9,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 785.0,
+            "sequence_number": 10,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "20:53",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 967.0,
+            "sequence_number": 11,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "21:43",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 1036.0,
+            "sequence_number": 12,
+            "station_code": "BAU",
+            "station_name": "BURHANPUR"
+        },
+        {
+            "arrival_time": "01:39",
+            "day_of_journey": 3,
+            "departure_time": "01:40",
+            "distance_km": 2551.0,
+            "sequence_number": 36,
+            "station_code": "QLD",
+            "station_name": "QUILANDI"
+        },
+        {
+            "arrival_time": "02:02",
+            "day_of_journey": 3,
+            "departure_time": "02:05",
+            "distance_km": 2576.0,
+            "sequence_number": 37,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "02:48",
+            "day_of_journey": 3,
+            "departure_time": "02:50",
+            "distance_km": 2617.0,
+            "sequence_number": 38,
+            "station_code": "TIR",
+            "station_name": "TIRUR"
+        },
+        {
+            "arrival_time": "03:19",
+            "day_of_journey": 3,
+            "departure_time": "03:20",
+            "distance_km": 2651.0,
+            "sequence_number": 39,
+            "station_code": "PTB",
+            "station_name": "PATTAMBI"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 3,
+            "departure_time": "04:15",
+            "distance_km": 2662.0,
+            "sequence_number": 40,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 3,
+            "departure_time": "05:03",
+            "distance_km": 2696.0,
+            "sequence_number": 41,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 3,
+            "departure_time": "06:00",
+            "distance_km": 2751.0,
+            "sequence_number": 42,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2770.0,
+            "sequence_number": 43,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        }
+    ],
+    "train_name": "MNGLA LKSDP EXP",
+    "train_number": "12618",
+    "type": "SUPERFAST"
+}

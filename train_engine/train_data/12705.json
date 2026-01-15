@@ -1,0 +1,169 @@
+{
+    "classes_available": [
+        "3E",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12705.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12705-GNT-SC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GNT",
+            "station_name": "GUNTUR JN"
+        },
+        {
+            "arrival_time": "15:56",
+            "day_of_journey": 1,
+            "departure_time": "15:57",
+            "distance_km": 21.0,
+            "sequence_number": 2,
+            "station_code": "MAG",
+            "station_name": "MANGALAGIRI"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "17:14",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 90.0,
+            "sequence_number": 4,
+            "station_code": "MDR",
+            "station_name": "MADHIRA"
+        },
+        {
+            "arrival_time": "17:49",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 134.0,
+            "sequence_number": 5,
+            "station_code": "KMT",
+            "station_name": "KHAMMAM"
+        },
+        {
+            "arrival_time": "18:09",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 157.0,
+            "sequence_number": 6,
+            "station_code": "DKJ",
+            "station_name": "DORNAKAL JN"
+        },
+        {
+            "arrival_time": "18:29",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 181.0,
+            "sequence_number": 7,
+            "station_code": "MABD",
+            "station_name": "MAHBUBABAD"
+        },
+        {
+            "arrival_time": "18:54",
+            "day_of_journey": 1,
+            "departure_time": "18:55",
+            "distance_km": 212.0,
+            "sequence_number": 8,
+            "station_code": "NKD",
+            "station_name": "NEKONDA"
+        },
+        {
+            "arrival_time": "19:28",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 242.0,
+            "sequence_number": 9,
+            "station_code": "WL",
+            "station_name": "WARANGAL"
+        },
+        {
+            "arrival_time": "19:48",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 254.0,
+            "sequence_number": 10,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "20:19",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 274.0,
+            "sequence_number": 11,
+            "station_code": "GNP",
+            "station_name": "GHANPUR"
+        },
+        {
+            "arrival_time": "20:39",
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 302.0,
+            "sequence_number": 12,
+            "station_code": "ZN",
+            "station_name": "JANGAON"
+        },
+        {
+            "arrival_time": "20:54",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 316.0,
+            "sequence_number": 13,
+            "station_code": "ALER",
+            "station_name": "ALER"
+        },
+        {
+            "arrival_time": "21:14",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 339.0,
+            "sequence_number": 14,
+            "station_code": "BG",
+            "station_name": "BHONGIR"
+        },
+        {
+            "arrival_time": "21:44",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 373.0,
+            "sequence_number": 15,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        },
+        {
+            "arrival_time": "22:28",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 385.0,
+            "sequence_number": 16,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        }
+    ],
+    "train_name": "SC INTERCITY SF",
+    "train_number": "12705",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,206 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12950.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12950-SRC-PBR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 109.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 121.0,
+            "sequence_number": 3,
+            "station_code": "MDN",
+            "station_name": "MIDNAPORE"
+        },
+        {
+            "arrival_time": "22:51",
+            "day_of_journey": 1,
+            "departure_time": "22:53",
+            "distance_km": 193.0,
+            "sequence_number": 4,
+            "station_code": "VSU",
+            "station_name": "BISHNUPUR"
+        },
+        {
+            "arrival_time": "23:18",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 224.0,
+            "sequence_number": 5,
+            "station_code": "BQA",
+            "station_name": "BANKURA"
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 277.0,
+            "sequence_number": 6,
+            "station_code": "ADRA",
+            "station_name": "ADRA"
+        },
+        {
+            "arrival_time": "03:53",
+            "day_of_journey": 3,
+            "departure_time": "03:58",
+            "distance_km": 1989.0,
+            "sequence_number": 24,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "04:57",
+            "day_of_journey": 3,
+            "departure_time": "04:59",
+            "distance_km": 2048.0,
+            "sequence_number": 25,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 3,
+            "departure_time": "06:05",
+            "distance_km": 2119.0,
+            "sequence_number": 26,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 3,
+            "departure_time": "06:42",
+            "distance_km": 2153.0,
+            "sequence_number": 27,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 3,
+            "departure_time": "08:40",
+            "distance_km": 2217.0,
+            "sequence_number": 28,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "09:48",
+            "day_of_journey": 3,
+            "departure_time": "09:50",
+            "distance_km": 2282.0,
+            "sequence_number": 29,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "11:01",
+            "day_of_journey": 3,
+            "departure_time": "11:03",
+            "distance_km": 2347.0,
+            "sequence_number": 30,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "12:47",
+            "day_of_journey": 3,
+            "departure_time": "12:57",
+            "distance_km": 2463.0,
+            "sequence_number": 31,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "13:20",
+            "day_of_journey": 3,
+            "departure_time": "13:22",
+            "distance_km": 2469.0,
+            "sequence_number": 32,
+            "station_code": "BKNG",
+            "station_name": "BHAKTI NAGAR"
+        },
+        {
+            "arrival_time": "14:15",
+            "day_of_journey": 3,
+            "departure_time": "14:16",
+            "distance_km": 2504.0,
+            "sequence_number": 33,
+            "station_code": "GDL",
+            "station_name": "GONDAL"
+        },
+        {
+            "arrival_time": "15:13",
+            "day_of_journey": 3,
+            "departure_time": "15:14",
+            "distance_km": 2540.0,
+            "sequence_number": 34,
+            "station_code": "JLR",
+            "station_name": "JETALSAR JN"
+        },
+        {
+            "arrival_time": "15:40",
+            "day_of_journey": 3,
+            "departure_time": "15:41",
+            "distance_km": 2572.0,
+            "sequence_number": 35,
+            "station_code": "UA",
+            "station_name": "UPLETA"
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 3,
+            "departure_time": "16:16",
+            "distance_km": 2607.0,
+            "sequence_number": 36,
+            "station_code": "JDH",
+            "station_name": "JAM JODHPUR JN"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2664.0,
+            "sequence_number": 37,
+            "station_code": "PBR",
+            "station_name": "PORBANDAR"
+        }
+    ],
+    "train_name": "KAVIGURU EXP",
+    "train_number": "12950",
+    "type": "SUPERFAST"
+}

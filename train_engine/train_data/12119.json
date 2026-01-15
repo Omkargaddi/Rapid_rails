@@ -1,0 +1,104 @@
+{
+    "classes_available": [
+        "3E",
+        "CC",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12119.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12119-AMI-AJNI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "AMI",
+            "station_name": "AMRAVATI"
+        },
+        {
+            "arrival_time": "06:06",
+            "day_of_journey": 1,
+            "departure_time": "06:07",
+            "distance_km": 38.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "CND",
+            "station_name": "CHANDUR"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 1,
+            "departure_time": "06:21",
+            "distance_km": 55.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "DMN",
+            "station_name": "DHAMANGAON"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 1,
+            "departure_time": "06:39",
+            "distance_km": 75.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "PLO",
+            "station_name": "PULGAON JN"
+        },
+        {
+            "arrival_time": "07:02",
+            "day_of_journey": 1,
+            "departure_time": "07:05",
+            "distance_km": 104.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "WR",
+            "station_name": "WARDHA JN"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 1,
+            "departure_time": "07:21",
+            "distance_km": 129.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "TGP",
+            "station_name": "TULJAPUR"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 1,
+            "departure_time": "07:29",
+            "distance_km": 136.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SNI",
+            "station_name": "SINDI"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 180.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "AJNI",
+            "station_name": "AJNI"
+        }
+    ],
+    "train_name": "AMI AJNI SF EXP",
+    "train_number": "12119",
+    "type": "SUPERFAST "
+}

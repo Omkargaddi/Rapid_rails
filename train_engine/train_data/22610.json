@@ -1,0 +1,159 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22610.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22610-CBE-MAQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "06:57",
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 55.0,
+            "sequence_number": 2,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        },
+        {
+            "arrival_time": "07:24",
+            "day_of_journey": 1,
+            "departure_time": "07:25",
+            "distance_km": 86.0,
+            "sequence_number": 3,
+            "station_code": "OTP",
+            "station_name": "OTTAPPALAM"
+        },
+        {
+            "arrival_time": "07:42",
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 98.0,
+            "sequence_number": 4,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "08:27",
+            "day_of_journey": 1,
+            "departure_time": "08:28",
+            "distance_km": 144.0,
+            "sequence_number": 5,
+            "station_code": "TIR",
+            "station_name": "TIRUR"
+        },
+        {
+            "arrival_time": "08:44",
+            "day_of_journey": 1,
+            "departure_time": "08:45",
+            "distance_km": 160.0,
+            "sequence_number": 6,
+            "station_code": "PGI",
+            "station_name": "PARPANANGADI"
+        },
+        {
+            "arrival_time": "09:12",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 185.0,
+            "sequence_number": 7,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "09:54",
+            "day_of_journey": 1,
+            "departure_time": "09:55",
+            "distance_km": 231.0,
+            "sequence_number": 8,
+            "station_code": "BDJ",
+            "station_name": "VADAKARA"
+        },
+        {
+            "arrival_time": "10:13",
+            "day_of_journey": 1,
+            "departure_time": "10:15",
+            "distance_km": 253.0,
+            "sequence_number": 9,
+            "station_code": "TLY",
+            "station_name": "THALASSERY"
+        },
+        {
+            "arrival_time": "10:42",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 274.0,
+            "sequence_number": 10,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "11:14",
+            "day_of_journey": 1,
+            "departure_time": "11:15",
+            "distance_km": 307.0,
+            "sequence_number": 11,
+            "station_code": "PAY",
+            "station_name": "PAYYANUR"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 1,
+            "departure_time": "11:31",
+            "distance_km": 327.0,
+            "sequence_number": 12,
+            "station_code": "NLE",
+            "station_name": "NILESHWAR"
+        },
+        {
+            "arrival_time": "11:39",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 337.0,
+            "sequence_number": 13,
+            "station_code": "KZE",
+            "station_name": "KANHANGAD"
+        },
+        {
+            "arrival_time": "11:59",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 360.0,
+            "sequence_number": 14,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 405.0,
+            "sequence_number": 15,
+            "station_code": "MAQ",
+            "station_name": "MANGALORE CENTRAL"
+        }
+    ],
+    "train_name": "INTERCITY SF EX",
+    "train_number": "22610",
+    "type": "SUPERFAST"
+}

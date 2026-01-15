@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12667.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12667-TBM-CAPE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 31.0,
+            "sequence_number": 2,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "20:24",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 66.0,
+            "sequence_number": 3,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 134.0,
+            "sequence_number": 4,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "22:26",
+            "day_of_journey": 1,
+            "departure_time": "22:28",
+            "distance_km": 188.0,
+            "sequence_number": 5,
+            "station_code": "VRI",
+            "station_name": "VRIDDHACHALAM JN"
+        },
+        {
+            "arrival_time": "00:25",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 311.0,
+            "sequence_number": 6,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "01:32",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 405.0,
+            "sequence_number": 7,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 471.0,
+            "sequence_number": 8,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "03:08",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 515.0,
+            "sequence_number": 9,
+            "station_code": "VPT",
+            "station_name": "VIRUDUNAGAR JN"
+        },
+        {
+            "arrival_time": "03:28",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 541.0,
+            "sequence_number": 10,
+            "station_code": "SRT",
+            "station_name": "SATUR"
+        },
+        {
+            "arrival_time": "04:55",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 628.0,
+            "sequence_number": 11,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 701.0,
+            "sequence_number": 12,
+            "station_code": "NCJ",
+            "station_name": "NAGERCOIL JUNCTION"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 717.0,
+            "sequence_number": 13,
+            "station_code": "CAPE",
+            "station_name": "KANNIYAKUMARI"
+        }
+    ],
+    "train_name": "MS NCJ SF EXP",
+    "train_number": "12667",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,205 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12982.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12982-ASV-JP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "ASV",
+            "station_name": "ASARVA JN"
+        },
+        {
+            "arrival_time": "20:01",
+            "day_of_journey": 1,
+            "departure_time": "20:02",
+            "distance_km": 4.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "SDGM",
+            "station_name": "SARDARGRAM"
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 1,
+            "departure_time": "20:17",
+            "distance_km": 26.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "NHM",
+            "station_name": "NANDOL DEHEGAM"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 85.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "HMT",
+            "station_name": "HIMMATNAGAR"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:52",
+            "distance_km": 126.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "SJS",
+            "station_name": "SHAMLAJI ROAD"
+        },
+        {
+            "arrival_time": "22:32",
+            "day_of_journey": 1,
+            "departure_time": "22:34",
+            "distance_km": 179.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "DNRP",
+            "station_name": "DUNGARPUR"
+        },
+        {
+            "arrival_time": "23:02",
+            "day_of_journey": 1,
+            "departure_time": "23:04",
+            "distance_km": 211.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SES",
+            "station_name": "SEMARI"
+        },
+        {
+            "arrival_time": "23:38",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 254.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "ZW",
+            "station_name": "ZAWAR"
+        },
+        {
+            "arrival_time": "00:15",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 298.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "UDZ",
+            "station_name": "UDAIPUR CITY"
+        },
+        {
+            "arrival_time": "00:33",
+            "day_of_journey": 2,
+            "departure_time": "00:35",
+            "distance_km": 302.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "RPZ",
+            "station_name": "RANA PRATAP NAGAR"
+        },
+        {
+            "arrival_time": "01:07",
+            "day_of_journey": 2,
+            "departure_time": "01:09",
+            "distance_km": 340.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "MVJ",
+            "station_name": "MAVLI JN"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 414.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "CNA",
+            "station_name": "CHANDERIA"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 460.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "BHL",
+            "station_name": "BHILWARA"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": "04:17",
+            "distance_km": 569.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "NSD",
+            "station_name": "NASIRABAD"
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 2,
+            "departure_time": "05:15",
+            "distance_km": 592.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "05:43",
+            "day_of_journey": 2,
+            "departure_time": "05:45",
+            "distance_km": 617.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "06:26",
+            "day_of_journey": 2,
+            "departure_time": "06:28",
+            "distance_km": 672.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "07:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 726.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        }
+    ],
+    "train_name": "ASV JP SF EXP",
+    "train_number": "12982",
+    "type": "SUPERFAST "
+}

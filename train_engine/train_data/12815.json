@@ -1,0 +1,135 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12815.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12815-PURI-ANVT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 44.0,
+            "sequence_number": 2,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 63.0,
+            "sequence_number": 3,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "12:49",
+            "day_of_journey": 1,
+            "departure_time": "12:54",
+            "distance_km": 90.0,
+            "sequence_number": 4,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "13:44",
+            "day_of_journey": 1,
+            "departure_time": "13:46",
+            "distance_km": 162.0,
+            "sequence_number": 5,
+            "station_code": "JJKR",
+            "station_name": "JAJPUR K ROAD"
+        },
+        {
+            "arrival_time": "14:37",
+            "day_of_journey": 1,
+            "departure_time": "14:39",
+            "distance_km": 206.0,
+            "sequence_number": 6,
+            "station_code": "BHC",
+            "station_name": "BHADRAKH"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 1157.0,
+            "sequence_number": 24,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "07:55",
+            "day_of_journey": 2,
+            "departure_time": "07:57",
+            "distance_km": 1274.0,
+            "sequence_number": 25,
+            "station_code": "FTP",
+            "station_name": "FATEHPUR"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 2,
+            "departure_time": "09:15",
+            "distance_km": 1352.0,
+            "sequence_number": 26,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "12:00",
+            "day_of_journey": 2,
+            "departure_time": "12:02",
+            "distance_km": 1583.0,
+            "sequence_number": 27,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "12:58",
+            "day_of_journey": 2,
+            "departure_time": "13:00",
+            "distance_km": 1661.0,
+            "sequence_number": 28,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1780.0,
+            "sequence_number": 29,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        }
+    ],
+    "train_name": "NANDANKANAN SF",
+    "train_number": "12815",
+    "type": "SUPERFAST"
+}

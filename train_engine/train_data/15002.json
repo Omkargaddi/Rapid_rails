@@ -1,0 +1,269 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15002.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15002-DDN-MFP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DDN",
+            "station_name": "DEHRADOON"
+        },
+        {
+            "arrival_time": "16:37",
+            "day_of_journey": 1,
+            "departure_time": "16:47",
+            "distance_km": 52.0,
+            "sequence_number": 2,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "17:11",
+            "day_of_journey": 1,
+            "departure_time": "17:16",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "LRJ",
+            "station_name": "LAKSAR JN"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 120.0,
+            "sequence_number": 4,
+            "station_code": "NBD",
+            "station_name": "NAJIBABAD JN"
+        },
+        {
+            "arrival_time": "20:05",
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 218.0,
+            "sequence_number": 5,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 246.0,
+            "sequence_number": 6,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:42",
+            "distance_km": 309.0,
+            "sequence_number": 7,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "23:07",
+            "day_of_journey": 1,
+            "departure_time": "23:09",
+            "distance_km": 380.0,
+            "sequence_number": 8,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "23:57",
+            "day_of_journey": 1,
+            "departure_time": "23:59",
+            "distance_km": 442.0,
+            "sequence_number": 9,
+            "station_code": "HRI",
+            "station_name": "HARDOI"
+        },
+        {
+            "arrival_time": "01:55",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 544.0,
+            "sequence_number": 10,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 572.0,
+            "sequence_number": 11,
+            "station_code": "BBK",
+            "station_name": "BARABANKI JN"
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 661.0,
+            "sequence_number": 12,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 689.0,
+            "sequence_number": 13,
+            "station_code": "MUR",
+            "station_name": "MANKAPUR JN"
+        },
+        {
+            "arrival_time": "06:27",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 750.0,
+            "sequence_number": 14,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "06:51",
+            "day_of_journey": 2,
+            "departure_time": "06:53",
+            "distance_km": 780.0,
+            "sequence_number": 15,
+            "station_code": "KLD",
+            "station_name": "KHALILABAD"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 2,
+            "departure_time": "08:00",
+            "distance_km": 814.0,
+            "sequence_number": 16,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 2,
+            "departure_time": "08:55",
+            "distance_km": 854.0,
+            "sequence_number": 17,
+            "station_code": "CPJ",
+            "station_name": "KAPTANGANJ JN"
+        },
+        {
+            "arrival_time": "09:18",
+            "day_of_journey": 2,
+            "departure_time": "09:20",
+            "distance_km": 880.0,
+            "sequence_number": 18,
+            "station_code": "SBZ",
+            "station_name": "SISWA BAZAR"
+        },
+        {
+            "arrival_time": "11:07",
+            "day_of_journey": 2,
+            "departure_time": "11:09",
+            "distance_km": 923.0,
+            "sequence_number": 19,
+            "station_code": "BUG",
+            "station_name": "BAGAHA"
+        },
+        {
+            "arrival_time": "11:32",
+            "day_of_journey": 2,
+            "departure_time": "11:34",
+            "distance_km": 950.0,
+            "sequence_number": 20,
+            "station_code": "HIR",
+            "station_name": "HARINAGAR"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 2,
+            "departure_time": "12:15",
+            "distance_km": 965.0,
+            "sequence_number": 21,
+            "station_code": "NKE",
+            "station_name": "NARKATIAGANJ JN"
+        },
+        {
+            "arrival_time": "12:48",
+            "day_of_journey": 2,
+            "departure_time": "12:50",
+            "distance_km": 1002.0,
+            "sequence_number": 22,
+            "station_code": "BTH",
+            "station_name": "BETTIAH"
+        },
+        {
+            "arrival_time": "13:13",
+            "day_of_journey": 2,
+            "departure_time": "13:15",
+            "distance_km": 1024.0,
+            "sequence_number": 23,
+            "station_code": "SGL",
+            "station_name": "SAGAULI JN"
+        },
+        {
+            "arrival_time": "13:43",
+            "day_of_journey": 2,
+            "departure_time": "13:45",
+            "distance_km": 1045.0,
+            "sequence_number": 24,
+            "station_code": "BMKI",
+            "station_name": "BAPUDM MOTIHARI"
+        },
+        {
+            "arrival_time": "14:23",
+            "day_of_journey": 2,
+            "departure_time": "14:25",
+            "distance_km": 1076.0,
+            "sequence_number": 25,
+            "station_code": "CAA",
+            "station_name": "CHAKIA"
+        },
+        {
+            "arrival_time": "14:34",
+            "day_of_journey": 2,
+            "departure_time": "14:36",
+            "distance_km": 1085.0,
+            "sequence_number": 26,
+            "station_code": "MAI",
+            "station_name": "MEHSI"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1124.0,
+            "sequence_number": 27,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        }
+    ],
+    "train_name": "DDN MFP EXPRESS",
+    "train_number": "15002",
+    "type": "MAIL EXPRESS"
+}

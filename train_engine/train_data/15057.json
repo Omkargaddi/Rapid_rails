@@ -1,0 +1,99 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15057.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15057-GKP-ANVT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "21:29",
+            "day_of_journey": 1,
+            "departure_time": "21:31",
+            "distance_km": 35.0,
+            "sequence_number": 2,
+            "station_code": "KLD",
+            "station_name": "KHALILABAD"
+        },
+        {
+            "arrival_time": "21:56",
+            "day_of_journey": 1,
+            "departure_time": "21:59",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "23:15",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 154.0,
+            "sequence_number": 4,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 270.0,
+            "sequence_number": 5,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 2,
+            "departure_time": "07:45",
+            "distance_km": 596.0,
+            "sequence_number": 6,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "10:06",
+            "day_of_journey": 2,
+            "departure_time": "10:08",
+            "distance_km": 737.0,
+            "sequence_number": 7,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 749.0,
+            "sequence_number": 8,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        }
+    ],
+    "train_name": "GKP ANVT EXP",
+    "train_number": "15057",
+    "type": "MAIL EXPRESS"
+}

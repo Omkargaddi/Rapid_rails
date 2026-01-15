@@ -1,0 +1,160 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12134.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12134-MAJN-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAJN",
+            "station_name": "MANGALORE JUNCTION"
+        },
+        {
+            "arrival_time": "14:33",
+            "day_of_journey": 1,
+            "departure_time": "14:35",
+            "distance_km": 24.0,
+            "sequence_number": 2,
+            "station_code": "SL",
+            "station_name": "SURATHKAL"
+        },
+        {
+            "arrival_time": "15:16",
+            "day_of_journey": 1,
+            "departure_time": "15:21",
+            "distance_km": 66.0,
+            "sequence_number": 3,
+            "station_code": "UD",
+            "station_name": "UDUPI"
+        },
+        {
+            "arrival_time": "15:40",
+            "day_of_journey": 1,
+            "departure_time": "15:42",
+            "distance_km": 97.0,
+            "sequence_number": 4,
+            "station_code": "KUDA",
+            "station_name": "KUNDAPURA"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 131.0,
+            "sequence_number": 5,
+            "station_code": "BYNR",
+            "station_name": "MOOKAMBIKA ROAD BYNDOOR (H)"
+        },
+        {
+            "arrival_time": "16:26",
+            "day_of_journey": 1,
+            "departure_time": "16:28",
+            "distance_km": 147.0,
+            "sequence_number": 6,
+            "station_code": "BTJL",
+            "station_name": "BHATKAL"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 1,
+            "departure_time": "17:02",
+            "distance_km": 201.0,
+            "sequence_number": 7,
+            "station_code": "KT",
+            "station_name": "KUMTA"
+        },
+        {
+            "arrival_time": "17:48",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 256.0,
+            "sequence_number": 8,
+            "station_code": "KAWR",
+            "station_name": "KARWAR"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 315.0,
+            "sequence_number": 9,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 1,
+            "departure_time": "19:32",
+            "distance_km": 344.0,
+            "sequence_number": 10,
+            "station_code": "KRMI",
+            "station_name": "KARMALI"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": "20:52",
+            "distance_km": 443.0,
+            "sequence_number": 11,
+            "station_code": "KKW",
+            "station_name": "KANKAVLI"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 554.0,
+            "sequence_number": 12,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "02:47",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 835.0,
+            "sequence_number": 13,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "03:48",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 872.0,
+            "sequence_number": 14,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 905.0,
+            "sequence_number": 15,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "MAJN CSMT SF EXP",
+    "train_number": "12134",
+    "type": "SUPERFAST"
+}

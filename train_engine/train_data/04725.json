@@ -1,0 +1,288 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "CC",
+        "EC",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_04725.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "04725-HSR-KK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:50",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "HSR",
+            "station_name": "HISAR"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 71.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "SDLP",
+            "station_name": "SADULPUR JN"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 120.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "LHU",
+            "station_name": "LOHARU"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 1,
+            "departure_time": "09:02",
+            "distance_km": 149.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "CRWA",
+            "station_name": "CHIRAWA"
+        },
+        {
+            "arrival_time": "09:33",
+            "day_of_journey": 1,
+            "departure_time": "09:35",
+            "distance_km": 178.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "JJN",
+            "station_name": "JHUNJHUNU"
+        },
+        {
+            "arrival_time": "10:04",
+            "day_of_journey": 1,
+            "departure_time": "10:06",
+            "distance_km": 215.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "NWH",
+            "station_name": "NAWALGARH"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 242.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SIKR",
+            "station_name": "SIKAR JN"
+        },
+        {
+            "arrival_time": "11:27",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 292.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "RGS",
+            "station_name": "RINGAS JN"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 349.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "13:20",
+            "day_of_journey": 1,
+            "departure_time": "13:23",
+            "distance_km": 357.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "DPA",
+            "station_name": "DURGAPURA"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 481.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "Point(2)",
+            "station_name": "SAWAI MADHOPUR JN SWM Train Reversal"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 589.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "18:03",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 689.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "BWM",
+            "station_name": "BHAWANI MANDI"
+        },
+        {
+            "arrival_time": "20:18",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 814.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "NAD",
+            "station_name": "NAGDA JN"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:10",
+            "distance_km": 854.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "23:48",
+            "day_of_journey": 1,
+            "departure_time": "23:50",
+            "distance_km": 1039.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "GDA",
+            "station_name": "GODHRA JN"
+        },
+        {
+            "arrival_time": "00:39",
+            "day_of_journey": 2,
+            "departure_time": "00:47",
+            "distance_km": 1111.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:37",
+            "distance_km": 1181.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "02:40",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 1240.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "03:34",
+            "day_of_journey": 2,
+            "departure_time": "03:36",
+            "distance_km": 1309.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "03:56",
+            "day_of_journey": 2,
+            "departure_time": "03:58",
+            "distance_km": 1335.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 1455.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "06:42",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 1497.0,
+            "platform": null,
+            "sequence_number": 23,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 2,
+            "departure_time": "08:43",
+            "distance_km": 1572.0,
+            "platform": null,
+            "sequence_number": 24,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 2,
+            "departure_time": "09:17",
+            "distance_km": 1619.0,
+            "platform": null,
+            "sequence_number": 25,
+            "station_code": "CCH",
+            "station_name": "CHINCHVAD"
+        },
+        {
+            "arrival_time": "10:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1629.0,
+            "platform": null,
+            "sequence_number": 26,
+            "station_code": "KK",
+            "station_name": "KHADKI"
+        }
+    ],
+    "train_name": "HSR-KK SF SPL",
+    "train_number": "04725",
+    "type": "TRAIN ON DEMAND "
+}

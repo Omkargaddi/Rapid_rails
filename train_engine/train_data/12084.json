@@ -1,0 +1,112 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12084.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12084-CBE-MV",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "07:34",
+            "day_of_journey": 1,
+            "departure_time": "07:35",
+            "distance_km": 18.0,
+            "sequence_number": 2,
+            "station_code": "IGU",
+            "station_name": "IRUGUR"
+        },
+        {
+            "arrival_time": "07:53",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 50.0,
+            "sequence_number": 3,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 101.0,
+            "sequence_number": 4,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "09:33",
+            "day_of_journey": 1,
+            "departure_time": "09:35",
+            "distance_km": 166.0,
+            "sequence_number": 5,
+            "station_code": "KRR",
+            "station_name": "KARUR JN."
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:10",
+            "distance_km": 242.0,
+            "sequence_number": 6,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "12:02",
+            "day_of_journey": 1,
+            "departure_time": "12:04",
+            "distance_km": 291.0,
+            "sequence_number": 7,
+            "station_code": "TJ",
+            "station_name": "THANJAVUR JN."
+        },
+        {
+            "arrival_time": "12:24",
+            "day_of_journey": 1,
+            "departure_time": "12:25",
+            "distance_km": 316.0,
+            "sequence_number": 8,
+            "station_code": "PML",
+            "station_name": "PAPANASAM"
+        },
+        {
+            "arrival_time": "12:36",
+            "day_of_journey": 1,
+            "departure_time": "12:38",
+            "distance_km": 331.0,
+            "sequence_number": 9,
+            "station_code": "KMU",
+            "station_name": "KUMBAKONAM"
+        },
+        {
+            "arrival_time": "13:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 362.0,
+            "sequence_number": 10,
+            "station_code": "MV",
+            "station_name": "MAYILADUTURAI JN"
+        }
+    ],
+    "train_name": "MV JAN SHATABDI",
+    "train_number": "12084",
+    "type": "JAN SHATABDI"
+}

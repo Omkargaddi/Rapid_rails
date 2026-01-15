@@ -1,0 +1,89 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18420.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "18420-JYG-PURI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JYG",
+            "station_name": "JAYNAGAR"
+        },
+        {
+            "arrival_time": "05:49",
+            "day_of_journey": 1,
+            "departure_time": "05:51",
+            "distance_km": 32.0,
+            "sequence_number": 2,
+            "station_code": "MBI",
+            "station_name": "MADHUBANI"
+        },
+        {
+            "arrival_time": "06:06",
+            "day_of_journey": 1,
+            "departure_time": "06:08",
+            "distance_km": 49.0,
+            "sequence_number": 3,
+            "station_code": "SKI",
+            "station_name": "SAKRI JN"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 1,
+            "departure_time": "06:40",
+            "distance_km": 68.0,
+            "sequence_number": 4,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "06:48",
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 72.0,
+            "sequence_number": 5,
+            "station_code": "LSI",
+            "station_name": "LAHERIA SARAI"
+        },
+        {
+            "arrival_time": "07:55",
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 105.0,
+            "sequence_number": 6,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 994.0,
+            "sequence_number": 24,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        }
+    ],
+    "train_name": "JYG PURI EXP",
+    "train_number": "18420",
+    "type": "MAIL EXPRESS"
+}

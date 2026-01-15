@@ -1,0 +1,163 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17481.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "17481-BSP-TPTY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "16:13",
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 52.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "16:36",
+            "day_of_journey": 1,
+            "departure_time": "16:38",
+            "distance_km": 78.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "TLD",
+            "station_name": "TILDA"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 1,
+            "departure_time": "17:35",
+            "distance_km": 116.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "18:28",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 171.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MSMD",
+            "station_name": "MAHASAMUND"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 202.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BGBR",
+            "station_name": "BAGBAHRA"
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 222.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "KRAR",
+            "station_name": "KHARIAR ROAD"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 234.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "NPD",
+            "station_name": "NAWAPARA ROAD"
+        },
+        {
+            "arrival_time": "19:55",
+            "day_of_journey": 1,
+            "departure_time": "19:57",
+            "distance_km": 263.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "HSK",
+            "station_name": "HARISHANKER RD"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 287.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "KBJ",
+            "station_name": "KANTABANJI"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 320.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "TIG",
+            "station_name": "TITLAGARH"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 333.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "KSNG",
+            "station_name": "KESINGA"
+        },
+        {
+            "arrival_time": "18:53",
+            "day_of_journey": 2,
+            "departure_time": "18:55",
+            "distance_km": 1398.0,
+            "platform": null,
+            "sequence_number": 59,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "20:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1408.0,
+            "platform": null,
+            "sequence_number": 60,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        }
+    ],
+    "train_name": "BSP TPTY EXP",
+    "train_number": "17481",
+    "type": "MAIL EXPRESS "
+}

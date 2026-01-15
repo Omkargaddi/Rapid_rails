@@ -1,0 +1,60 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12289.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12289-CSMT-NGP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 444.0,
+            "sequence_number": 2,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "04:43",
+            "day_of_journey": 2,
+            "departure_time": "04:45",
+            "distance_km": 663.0,
+            "sequence_number": 3,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 837.0,
+            "sequence_number": 4,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        }
+    ],
+    "train_name": "NGP DURONTO EXP",
+    "train_number": "12289",
+    "type": "DURONTO EXPRESS"
+}

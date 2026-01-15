@@ -1,0 +1,76 @@
+{
+    "classes_available": [
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_56138.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "56138-ONR-UAM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ONR",
+            "station_name": "COONOOR"
+        },
+        {
+            "arrival_time": "16:07",
+            "day_of_journey": 1,
+            "departure_time": "16:08",
+            "distance_km": 2.0,
+            "sequence_number": 2,
+            "station_code": "WEL",
+            "station_name": "WELLINGTON"
+        },
+        {
+            "arrival_time": "16:17",
+            "day_of_journey": 1,
+            "departure_time": "16:18",
+            "distance_km": 4.0,
+            "sequence_number": 3,
+            "station_code": "AVK",
+            "station_name": "ARAVANKADU"
+        },
+        {
+            "arrival_time": "16:33",
+            "day_of_journey": 1,
+            "departure_time": "16:34",
+            "distance_km": 10.0,
+            "sequence_number": 4,
+            "station_code": "KXT",
+            "station_name": "KETTI"
+        },
+        {
+            "arrival_time": "16:49",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 15.0,
+            "sequence_number": 5,
+            "station_code": "LOV",
+            "station_name": "LOVEDALE"
+        },
+        {
+            "arrival_time": "17:10",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 19.0,
+            "sequence_number": 6,
+            "station_code": "UAM",
+            "station_name": "UDAGAMANDALAM"
+        }
+    ],
+    "train_name": "ONR UAM PASS",
+    "train_number": "56138",
+    "type": "PASSENGER"
+}

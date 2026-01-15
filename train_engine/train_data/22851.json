@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22851.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22851-SRC-MAQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 109.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "17:12",
+            "day_of_journey": 1,
+            "departure_time": "17:14",
+            "distance_km": 182.0,
+            "sequence_number": 3,
+            "station_code": "JER",
+            "station_name": "JALESWAR"
+        },
+        {
+            "arrival_time": "17:47",
+            "day_of_journey": 1,
+            "departure_time": "17:52",
+            "distance_km": 229.0,
+            "sequence_number": 4,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 332.0,
+            "sequence_number": 5,
+            "station_code": "JJKR",
+            "station_name": "JAJPUR K ROAD"
+        },
+        {
+            "arrival_time": "20:39",
+            "day_of_journey": 1,
+            "departure_time": "20:44",
+            "distance_km": 404.0,
+            "sequence_number": 6,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 431.0,
+            "sequence_number": 7,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "21:30",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 450.0,
+            "sequence_number": 8,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "23:23",
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 597.0,
+            "sequence_number": 9,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 2,
+            "departure_time": "00:03",
+            "distance_km": 639.0,
+            "sequence_number": 10,
+            "station_code": "SPT",
+            "station_name": "SOMPETA"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 2,
+            "departure_time": "00:52",
+            "distance_km": 671.0,
+            "sequence_number": 11,
+            "station_code": "PSA",
+            "station_name": "PALASA"
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 744.0,
+            "sequence_number": 12,
+            "station_code": "CHE",
+            "station_name": "SRIKAKULAM ROAD"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 3,
+            "departure_time": "06:10",
+            "distance_km": 2356.0,
+            "sequence_number": 36,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "06:34",
+            "day_of_journey": 3,
+            "departure_time": "06:35",
+            "distance_km": 2390.0,
+            "sequence_number": 37,
+            "station_code": "PAY",
+            "station_name": "PAYYANUR"
+        },
+        {
+            "arrival_time": "07:03",
+            "day_of_journey": 3,
+            "departure_time": "07:05",
+            "distance_km": 2419.0,
+            "sequence_number": 38,
+            "station_code": "KZE",
+            "station_name": "KANHANGAD"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 3,
+            "departure_time": "07:30",
+            "distance_km": 2442.0,
+            "sequence_number": 39,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2488.0,
+            "sequence_number": 40,
+            "station_code": "MAQ",
+            "station_name": "MANGALORE CENTRAL"
+        }
+    ],
+    "train_name": "MAQ VIVEK SF EXP",
+    "train_number": "22851",
+    "type": "SUPERFAST"
+}

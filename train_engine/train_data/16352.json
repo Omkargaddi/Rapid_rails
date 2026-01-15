@@ -1,0 +1,204 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16352.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16352-NCJ-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NCJ",
+            "station_name": "NAGERCOIL JUNCTION"
+        },
+        {
+            "arrival_time": "06:49",
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 31.0,
+            "sequence_number": 2,
+            "station_code": "VLY",
+            "station_name": "VALLIYUR"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 1,
+            "departure_time": "07:01",
+            "distance_km": 45.0,
+            "sequence_number": 3,
+            "station_code": "NNN",
+            "station_name": "NANGUNERI"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 1,
+            "departure_time": "08:05",
+            "distance_km": 73.0,
+            "sequence_number": 4,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 1,
+            "departure_time": "08:55",
+            "distance_km": 138.0,
+            "sequence_number": 5,
+            "station_code": "CVP",
+            "station_name": "KOVILPATTI"
+        },
+        {
+            "arrival_time": "09:13",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 160.0,
+            "sequence_number": 6,
+            "station_code": "SRT",
+            "station_name": "SATUR"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 1,
+            "departure_time": "09:40",
+            "distance_km": 187.0,
+            "sequence_number": 7,
+            "station_code": "VPT",
+            "station_name": "VIRUDUNAGAR JN"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 1,
+            "departure_time": "10:50",
+            "distance_km": 230.0,
+            "sequence_number": 8,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "11:55",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 296.0,
+            "sequence_number": 9,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 390.0,
+            "sequence_number": 10,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "13:48",
+            "day_of_journey": 1,
+            "departure_time": "13:50",
+            "distance_km": 402.0,
+            "sequence_number": 11,
+            "station_code": "SRGM",
+            "station_name": "SRIRANGAM"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 1,
+            "departure_time": "14:31",
+            "distance_km": 460.0,
+            "sequence_number": 12,
+            "station_code": "ALU",
+            "station_name": "ARIYALUR"
+        },
+        {
+            "arrival_time": "11:28",
+            "day_of_journey": 2,
+            "departure_time": "11:30",
+            "distance_km": 1572.0,
+            "sequence_number": 36,
+            "station_code": "KWV",
+            "station_name": "KURDUVADI JN."
+        },
+        {
+            "arrival_time": "13:45",
+            "day_of_journey": 2,
+            "departure_time": "13:50",
+            "distance_km": 1682.0,
+            "sequence_number": 37,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 2,
+            "departure_time": "15:10",
+            "distance_km": 1757.0,
+            "sequence_number": 38,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "16:22",
+            "day_of_journey": 2,
+            "departure_time": "16:25",
+            "distance_km": 1820.0,
+            "sequence_number": 39,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "17:47",
+            "day_of_journey": 2,
+            "departure_time": "17:50",
+            "distance_km": 1895.0,
+            "sequence_number": 40,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "18:07",
+            "day_of_journey": 2,
+            "departure_time": "18:10",
+            "distance_km": 1915.0,
+            "sequence_number": 41,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "18:37",
+            "day_of_journey": 2,
+            "departure_time": "18:40",
+            "distance_km": 1939.0,
+            "sequence_number": 42,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "19:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1948.0,
+            "sequence_number": 43,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "NCJ CSMT EXP",
+    "train_number": "16352",
+    "type": "MAIL EXPRESS"
+}

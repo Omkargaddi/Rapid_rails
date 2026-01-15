@@ -1,0 +1,179 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12379.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12379-SDAH-ASR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        },
+        {
+            "arrival_time": "14:29",
+            "day_of_journey": 1,
+            "departure_time": "14:31",
+            "distance_km": 107.0,
+            "sequence_number": 2,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "15:15",
+            "day_of_journey": 1,
+            "departure_time": "15:17",
+            "distance_km": 170.0,
+            "sequence_number": 3,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "15:52",
+            "day_of_journey": 1,
+            "departure_time": "15:57",
+            "distance_km": 212.0,
+            "sequence_number": 4,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "16:16",
+            "day_of_journey": 1,
+            "departure_time": "16:17",
+            "distance_km": 230.0,
+            "sequence_number": 5,
+            "station_code": "KMME",
+            "station_name": "KUMARDUBI"
+        },
+        {
+            "arrival_time": "17:10",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 269.0,
+            "sequence_number": 6,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "18:32",
+            "distance_km": 392.0,
+            "sequence_number": 7,
+            "station_code": "KQR",
+            "station_name": "KODERMA"
+        },
+        {
+            "arrival_time": "19:55",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 468.0,
+            "sequence_number": 8,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 1,
+            "departure_time": "21:07",
+            "distance_km": 571.0,
+            "sequence_number": 9,
+            "station_code": "SSM",
+            "station_name": "SASARAM"
+        },
+        {
+            "arrival_time": "22:33",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 672.0,
+            "sequence_number": 10,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 1023.0,
+            "sequence_number": 11,
+            "station_code": "GOY",
+            "station_name": "GOVINDPURI"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 2,
+            "departure_time": "09:15",
+            "distance_km": 1454.0,
+            "sequence_number": 12,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "11:50",
+            "day_of_journey": 2,
+            "departure_time": "11:55",
+            "distance_km": 1651.0,
+            "sequence_number": 13,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "13:23",
+            "day_of_journey": 2,
+            "departure_time": "13:33",
+            "distance_km": 1765.0,
+            "sequence_number": 14,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 2,
+            "departure_time": "14:35",
+            "distance_km": 1822.0,
+            "sequence_number": 15,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "15:06",
+            "day_of_journey": 2,
+            "departure_time": "15:08",
+            "distance_km": 1858.0,
+            "sequence_number": 16,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1900.0,
+            "sequence_number": 17,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        }
+    ],
+    "train_name": "JALIANWALA B EX",
+    "train_number": "12379",
+    "type": "SUPERFAST"
+}

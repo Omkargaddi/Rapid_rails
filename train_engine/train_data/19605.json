@@ -1,0 +1,165 @@
+{
+    "classes_available": [
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19605.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19605-MDJN-UDZ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MDJN",
+            "station_name": "MADAR JN"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 1,
+            "departure_time": "08:01",
+            "distance_km": 12.0,
+            "sequence_number": 3,
+            "station_code": "AHO",
+            "station_name": "ADARSHNAGAR"
+        },
+        {
+            "arrival_time": "08:08",
+            "day_of_journey": 1,
+            "departure_time": "08:09",
+            "distance_km": 17.0,
+            "sequence_number": 4,
+            "station_code": "HTD",
+            "station_name": "HATUNDI"
+        },
+        {
+            "arrival_time": "08:16",
+            "day_of_journey": 1,
+            "departure_time": "08:17",
+            "distance_km": 24.0,
+            "sequence_number": 5,
+            "station_code": "ROS",
+            "station_name": "RAJOSI"
+        },
+        {
+            "arrival_time": "08:26",
+            "day_of_journey": 1,
+            "departure_time": "08:28",
+            "distance_km": 30.0,
+            "sequence_number": 6,
+            "station_code": "NSD",
+            "station_name": "NASIRABAD"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:39",
+            "distance_km": 41.0,
+            "sequence_number": 7,
+            "station_code": "JWS",
+            "station_name": "JHARWASAA"
+        },
+        {
+            "arrival_time": "08:47",
+            "day_of_journey": 1,
+            "departure_time": "08:48",
+            "distance_km": 49.0,
+            "sequence_number": 8,
+            "station_code": "BDW",
+            "station_name": "BANDANWARA"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 1,
+            "departure_time": "08:56",
+            "distance_km": 59.0,
+            "sequence_number": 9,
+            "station_code": "SGW",
+            "station_name": "SINGHAWAL"
+        },
+        {
+            "arrival_time": "09:03",
+            "day_of_journey": 1,
+            "departure_time": "09:04",
+            "distance_km": 65.0,
+            "sequence_number": 10,
+            "station_code": "MAKH",
+            "station_name": "MOKHAMPURA"
+        },
+        {
+            "arrival_time": "09:22",
+            "day_of_journey": 1,
+            "departure_time": "09:24",
+            "distance_km": 71.0,
+            "sequence_number": 11,
+            "station_code": "BJNR",
+            "station_name": "BIJAINAGAR"
+        },
+        {
+            "arrival_time": "09:29",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 74.0,
+            "sequence_number": 12,
+            "station_code": "GBP",
+            "station_name": "GULABPURA"
+        },
+        {
+            "arrival_time": "15:14",
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 282.0,
+            "sequence_number": 36,
+            "station_code": "KLH",
+            "station_name": "KHEMLI"
+        },
+        {
+            "arrival_time": "15:26",
+            "day_of_journey": 1,
+            "departure_time": "15:27",
+            "distance_km": 292.0,
+            "sequence_number": 37,
+            "station_code": "DRB",
+            "station_name": "DEBARI"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "15:52",
+            "distance_km": 302.0,
+            "sequence_number": 38,
+            "station_code": "RPZ",
+            "station_name": "RANA PRATAP NAGAR"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 306.0,
+            "sequence_number": 39,
+            "station_code": "UDZ",
+            "station_name": "UDAIPUR CITY"
+        }
+    ],
+    "train_name": "MDJN - UDZ EXP",
+    "train_number": "19605",
+    "type": "MAIL EXPRESS"
+}

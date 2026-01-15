@@ -1,0 +1,103 @@
+{
+    "classes_available": [
+        "EC",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12004.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12004-NDLS-LJN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 1,
+            "departure_time": "06:42",
+            "distance_km": 26.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "07:47",
+            "day_of_journey": 1,
+            "departure_time": "07:49",
+            "distance_km": 132.0,
+            "sequence_number": 3,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 1,
+            "departure_time": "08:47",
+            "distance_km": 210.0,
+            "sequence_number": 4,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "09:40",
+            "day_of_journey": 1,
+            "departure_time": "09:42",
+            "distance_km": 301.0,
+            "sequence_number": 5,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "10:14",
+            "day_of_journey": 1,
+            "departure_time": "10:15",
+            "distance_km": 358.0,
+            "sequence_number": 6,
+            "station_code": "PHD",
+            "station_name": "PHAPHUND"
+        },
+        {
+            "arrival_time": "11:23",
+            "day_of_journey": 1,
+            "departure_time": "11:28",
+            "distance_km": 441.0,
+            "sequence_number": 7,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "11:54",
+            "day_of_journey": 1,
+            "departure_time": "11:56",
+            "distance_km": 458.0,
+            "sequence_number": 8,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 514.0,
+            "sequence_number": 9,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        }
+    ],
+    "train_name": "SHATABDI EXPRESS",
+    "train_number": "12004",
+    "type": "SHATABDI"
+}

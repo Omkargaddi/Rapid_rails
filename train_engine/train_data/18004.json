@@ -1,0 +1,121 @@
+{
+    "classes_available": [
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18004.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18004-ADRA-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ADRA",
+            "station_name": "ADRA"
+        },
+        {
+            "arrival_time": "04:42",
+            "day_of_journey": 1,
+            "departure_time": "04:43",
+            "distance_km": 14.0,
+            "sequence_number": 2,
+            "station_code": "IBL",
+            "station_name": "INDRABIL"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 1,
+            "departure_time": "04:51",
+            "distance_km": 21.0,
+            "sequence_number": 3,
+            "station_code": "SRJM",
+            "station_name": "SIRJAM"
+        },
+        {
+            "arrival_time": "04:59",
+            "day_of_journey": 1,
+            "departure_time": "05:00",
+            "distance_km": 30.0,
+            "sequence_number": 4,
+            "station_code": "JPH",
+            "station_name": "JHANTIPAHARI"
+        },
+        {
+            "arrival_time": "05:08",
+            "day_of_journey": 1,
+            "departure_time": "05:09",
+            "distance_km": 39.0,
+            "sequence_number": 5,
+            "station_code": "CJN",
+            "station_name": "CHHATNA"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 1,
+            "departure_time": "05:22",
+            "distance_km": 53.0,
+            "sequence_number": 6,
+            "station_code": "BQA",
+            "station_name": "BANKURA"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:39",
+            "distance_km": 213.0,
+            "sequence_number": 24,
+            "station_code": "PKU",
+            "station_name": "PANSKURA"
+        },
+        {
+            "arrival_time": "08:52",
+            "day_of_journey": 1,
+            "departure_time": "08:53",
+            "distance_km": 226.0,
+            "sequence_number": 25,
+            "station_code": "MCA",
+            "station_name": "MECHEDA"
+        },
+        {
+            "arrival_time": "09:04",
+            "day_of_journey": 1,
+            "departure_time": "09:05",
+            "distance_km": 239.0,
+            "sequence_number": 26,
+            "station_code": "BZN",
+            "station_name": "BAGNAN"
+        },
+        {
+            "arrival_time": "09:34",
+            "day_of_journey": 1,
+            "departure_time": "09:36",
+            "distance_km": 277.0,
+            "sequence_number": 27,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 285.0,
+            "sequence_number": 28,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "ADRA-HWH RANI SHIROMONI",
+    "train_number": "18004",
+    "type": "MAIL EXPRESS"
+}

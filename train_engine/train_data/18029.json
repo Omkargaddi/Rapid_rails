@@ -1,0 +1,259 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18029.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18029-LTT-SHM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "22:22",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "22:47",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 37.0,
+            "sequence_number": 3,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "23:59",
+            "day_of_journey": 2,
+            "departure_time": "00:01",
+            "distance_km": 104.0,
+            "sequence_number": 4,
+            "station_code": "KSRA",
+            "station_name": "KASARA"
+        },
+        {
+            "arrival_time": "00:32",
+            "day_of_journey": 2,
+            "departure_time": "00:37",
+            "distance_km": 120.0,
+            "sequence_number": 5,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 171.0,
+            "sequence_number": 6,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "02:28",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 244.0,
+            "sequence_number": 7,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "03:18",
+            "day_of_journey": 2,
+            "departure_time": "03:20",
+            "distance_km": 311.0,
+            "sequence_number": 8,
+            "station_code": "CSN",
+            "station_name": "CHALISGAON JN"
+        },
+        {
+            "arrival_time": "03:48",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 356.0,
+            "sequence_number": 9,
+            "station_code": "PC",
+            "station_name": "PACHORA JN"
+        },
+        {
+            "arrival_time": "04:33",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 404.0,
+            "sequence_number": 10,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 428.0,
+            "sequence_number": 11,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:31",
+            "distance_km": 440.0,
+            "sequence_number": 12,
+            "station_code": "VNA",
+            "station_name": "VARANGAON"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 3,
+            "departure_time": "04:37",
+            "distance_km": 1612.0,
+            "sequence_number": 59,
+            "station_code": "GOL",
+            "station_name": "GOILKERA"
+        },
+        {
+            "arrival_time": "05:08",
+            "day_of_journey": 3,
+            "departure_time": "05:15",
+            "distance_km": 1646.0,
+            "sequence_number": 60,
+            "station_code": "CKP",
+            "station_name": "CHAKARADHARPUR"
+        },
+        {
+            "arrival_time": "05:43",
+            "day_of_journey": 3,
+            "departure_time": "05:45",
+            "distance_km": 1682.0,
+            "sequence_number": 61,
+            "station_code": "SINI",
+            "station_name": "SINI JN"
+        },
+        {
+            "arrival_time": "06:15",
+            "day_of_journey": 3,
+            "departure_time": "06:25",
+            "distance_km": 1708.0,
+            "sequence_number": 62,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "07:01",
+            "day_of_journey": 3,
+            "departure_time": "07:02",
+            "distance_km": 1735.0,
+            "sequence_number": 63,
+            "station_code": "GUD",
+            "station_name": "GALUDIH"
+        },
+        {
+            "arrival_time": "07:11",
+            "day_of_journey": 3,
+            "departure_time": "07:12",
+            "distance_km": 1745.0,
+            "sequence_number": 64,
+            "station_code": "GTS",
+            "station_name": "GHATSILA"
+        },
+        {
+            "arrival_time": "07:34",
+            "day_of_journey": 3,
+            "departure_time": "07:36",
+            "distance_km": 1775.0,
+            "sequence_number": 65,
+            "station_code": "CKU",
+            "station_name": "CHAKULIA"
+        },
+        {
+            "arrival_time": "08:08",
+            "day_of_journey": 3,
+            "departure_time": "08:10",
+            "distance_km": 1804.0,
+            "sequence_number": 66,
+            "station_code": "JGM",
+            "station_name": "JHARGRAM"
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 3,
+            "departure_time": "09:10",
+            "distance_km": 1843.0,
+            "sequence_number": 67,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "10:01",
+            "day_of_journey": 3,
+            "departure_time": "10:03",
+            "distance_km": 1887.0,
+            "sequence_number": 68,
+            "station_code": "PKU",
+            "station_name": "PANSKURA"
+        },
+        {
+            "arrival_time": "10:18",
+            "day_of_journey": 3,
+            "departure_time": "10:20",
+            "distance_km": 1900.0,
+            "sequence_number": 69,
+            "station_code": "MCA",
+            "station_name": "MECHEDA"
+        },
+        {
+            "arrival_time": "10:35",
+            "day_of_journey": 3,
+            "departure_time": "10:36",
+            "distance_km": 1926.0,
+            "sequence_number": 70,
+            "station_code": "ULB",
+            "station_name": "ULUBARIA"
+        },
+        {
+            "arrival_time": "11:18",
+            "day_of_journey": 3,
+            "departure_time": "11:20",
+            "distance_km": 1952.0,
+            "sequence_number": 71,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1957.0,
+            "sequence_number": 72,
+            "station_code": "SHM",
+            "station_name": "SHALIMAR"
+        }
+    ],
+    "train_name": "LTT SHALIMAR EXP",
+    "train_number": "18029",
+    "type": "MAIL EXPRESS"
+}

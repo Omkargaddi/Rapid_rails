@@ -1,0 +1,160 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12833.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12833-ADI-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "00:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "00:33",
+            "day_of_journey": 1,
+            "departure_time": "00:35",
+            "distance_km": 3.0,
+            "sequence_number": 2,
+            "station_code": "MAN",
+            "station_name": "MANINAGAR"
+        },
+        {
+            "arrival_time": "01:06",
+            "day_of_journey": 1,
+            "departure_time": "01:08",
+            "distance_km": 46.0,
+            "sequence_number": 3,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 1,
+            "departure_time": "01:25",
+            "distance_km": 64.0,
+            "sequence_number": 4,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "02:04",
+            "day_of_journey": 1,
+            "departure_time": "02:09",
+            "distance_km": 98.0,
+            "sequence_number": 5,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "02:57",
+            "day_of_journey": 1,
+            "departure_time": "02:59",
+            "distance_km": 169.0,
+            "sequence_number": 6,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "04:26",
+            "day_of_journey": 1,
+            "departure_time": "04:31",
+            "distance_km": 228.0,
+            "sequence_number": 7,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "04:38",
+            "day_of_journey": 1,
+            "departure_time": "04:40",
+            "distance_km": 232.0,
+            "sequence_number": 8,
+            "station_code": "UDN",
+            "station_name": "UDHNA JN"
+        },
+        {
+            "arrival_time": "05:13",
+            "day_of_journey": 1,
+            "departure_time": "05:15",
+            "distance_km": 258.0,
+            "sequence_number": 9,
+            "station_code": "BIY",
+            "station_name": "BARDOLI"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 1,
+            "departure_time": "05:32",
+            "distance_km": 273.0,
+            "sequence_number": 10,
+            "station_code": "MID",
+            "station_name": "MADHI"
+        },
+        {
+            "arrival_time": "05:53",
+            "day_of_journey": 1,
+            "departure_time": "05:55",
+            "distance_km": 288.0,
+            "sequence_number": 11,
+            "station_code": "VYA",
+            "station_name": "VYARA"
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 1,
+            "departure_time": "06:35",
+            "distance_km": 330.0,
+            "sequence_number": 12,
+            "station_code": "NWU",
+            "station_name": "NAVAPUR"
+        },
+        {
+            "arrival_time": "12:31",
+            "day_of_journey": 2,
+            "departure_time": "12:33",
+            "distance_km": 2035.0,
+            "sequence_number": 59,
+            "station_code": "MCA",
+            "station_name": "MECHEDA"
+        },
+        {
+            "arrival_time": "13:07",
+            "day_of_journey": 2,
+            "departure_time": "13:09",
+            "distance_km": 2086.0,
+            "sequence_number": 60,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 2093.0,
+            "sequence_number": 61,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "ADI HWH EXP",
+    "train_number": "12833",
+    "type": "SUPERFAST"
+}

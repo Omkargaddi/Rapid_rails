@@ -1,0 +1,274 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19203.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "19203-BDTS-VRL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        },
+        {
+            "arrival_time": "19:55",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 19.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 157.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "23:19",
+            "day_of_journey": 1,
+            "departure_time": "23:22",
+            "distance_km": 252.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 2,
+            "departure_time": "00:03",
+            "distance_km": 301.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "AKV",
+            "station_name": "ANKLESHWAR JN"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:18",
+            "distance_km": 381.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "01:52",
+            "distance_km": 415.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "02:07",
+            "day_of_journey": 2,
+            "departure_time": "02:09",
+            "distance_km": 434.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "03:10",
+            "day_of_journey": 2,
+            "departure_time": "03:20",
+            "distance_km": 479.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "04:16",
+            "day_of_journey": 2,
+            "departure_time": "04:17",
+            "distance_km": 510.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "SEJ",
+            "station_name": "SARKHEJ"
+        },
+        {
+            "arrival_time": "05:28",
+            "day_of_journey": 2,
+            "departure_time": "05:29",
+            "distance_km": 604.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "DCK",
+            "station_name": "DHANDHUKA"
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 654.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BTD",
+            "station_name": "BOTAD JN"
+        },
+        {
+            "arrival_time": "07:06",
+            "day_of_journey": 2,
+            "departure_time": "07:07",
+            "distance_km": 697.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "DLJ",
+            "station_name": "DHOLA JN"
+        },
+        {
+            "arrival_time": "07:33",
+            "day_of_journey": 2,
+            "departure_time": "07:35",
+            "distance_km": 723.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "DAS",
+            "station_name": "DHASA JN"
+        },
+        {
+            "arrival_time": "07:51",
+            "day_of_journey": 2,
+            "departure_time": "07:52",
+            "distance_km": 737.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "LAT",
+            "station_name": "LATHI"
+        },
+        {
+            "arrival_time": "08:05",
+            "day_of_journey": 2,
+            "departure_time": "08:06",
+            "distance_km": 749.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "KJV",
+            "station_name": "KHIJADIYA JN"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 2,
+            "departure_time": "08:19",
+            "distance_km": 755.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "CTL",
+            "station_name": "CHITAL"
+        },
+        {
+            "arrival_time": "08:37",
+            "day_of_journey": 2,
+            "departure_time": "08:38",
+            "distance_km": 770.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "LDU",
+            "station_name": "LUNIDHAR"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 2,
+            "departure_time": "08:54",
+            "distance_km": 783.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "KKV",
+            "station_name": "KUNKAVAV JN"
+        },
+        {
+            "arrival_time": "09:04",
+            "day_of_journey": 2,
+            "departure_time": "09:05",
+            "distance_km": 794.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "KKK",
+            "station_name": "KHAKHARIA"
+        },
+        {
+            "arrival_time": "09:13",
+            "day_of_journey": 2,
+            "departure_time": "09:14",
+            "distance_km": 802.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "VDV",
+            "station_name": "VADIYA DEVLI"
+        },
+        {
+            "arrival_time": "09:31",
+            "day_of_journey": 2,
+            "departure_time": "09:32",
+            "distance_km": 820.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "JTP",
+            "station_name": "JETPUR"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 2,
+            "departure_time": "10:00",
+            "distance_km": 827.0,
+            "platform": null,
+            "sequence_number": 23,
+            "station_code": "JLR",
+            "station_name": "JETALSAR JN"
+        },
+        {
+            "arrival_time": "10:28",
+            "day_of_journey": 2,
+            "departure_time": "10:30",
+            "distance_km": 853.0,
+            "platform": null,
+            "sequence_number": 24,
+            "station_code": "JND",
+            "station_name": "JUNAGADH JN"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 935.0,
+            "platform": null,
+            "sequence_number": 25,
+            "station_code": "VRL",
+            "station_name": "VERAVAL"
+        }
+    ],
+    "train_name": "BDTS VRL EXP",
+    "train_number": "19203",
+    "type": "MAIL EXPRESS "
+}

@@ -1,0 +1,123 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_09415.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "09415-BDTS-GIMB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 19.0,
+            "sequence_number": 2,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "21:57",
+            "distance_km": 157.0,
+            "sequence_number": 3,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 252.0,
+            "sequence_number": 4,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 381.0,
+            "sequence_number": 5,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 479.0,
+            "sequence_number": 6,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": "04:37",
+            "distance_km": 545.0,
+            "sequence_number": 7,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "05:32",
+            "day_of_journey": 2,
+            "departure_time": "05:34",
+            "distance_km": 610.0,
+            "sequence_number": 8,
+            "station_code": "DHG",
+            "station_name": "DHRANGADHRA"
+        },
+        {
+            "arrival_time": "07:34",
+            "day_of_journey": 2,
+            "departure_time": "07:36",
+            "distance_km": 727.0,
+            "sequence_number": 9,
+            "station_code": "SIOB",
+            "station_name": "SAMAKHIALI B G"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 2,
+            "departure_time": "07:52",
+            "distance_km": 743.0,
+            "sequence_number": 10,
+            "station_code": "BCOB",
+            "station_name": "BHACHAU BG"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 780.0,
+            "sequence_number": 11,
+            "station_code": "GIMB",
+            "station_name": "GANDHIDHAM BG"
+        }
+    ],
+    "train_name": "BDTS GIMB SF SPL",
+    "train_number": "09415",
+    "type": "TRAIN ON DEMAND"
+}

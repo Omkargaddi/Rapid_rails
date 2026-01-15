@@ -1,0 +1,154 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14804.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14804-JAT-BGKT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "09:32",
+            "day_of_journey": 1,
+            "departure_time": "09:34",
+            "distance_km": 47.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "HRNR",
+            "station_name": "HIRA NAGAR"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 100.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "PTK",
+            "station_name": "PATHANKOT"
+        },
+        {
+            "arrival_time": "12:38",
+            "day_of_journey": 1,
+            "departure_time": "12:40",
+            "distance_km": 135.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "GSP",
+            "station_name": "GURDASPUR"
+        },
+        {
+            "arrival_time": "12:54",
+            "day_of_journey": 1,
+            "departure_time": "12:56",
+            "distance_km": 149.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "DHW",
+            "station_name": "DHARIWAL"
+        },
+        {
+            "arrival_time": "13:28",
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 168.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BAT",
+            "station_name": "BATALA JN"
+        },
+        {
+            "arrival_time": "14:08",
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 198.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "VKA",
+            "station_name": "VERKA JN"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": "15:25",
+            "distance_km": 206.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        },
+        {
+            "arrival_time": "15:53",
+            "day_of_journey": 1,
+            "departure_time": "15:55",
+            "distance_km": 249.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 285.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 305.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "KXH",
+            "station_name": "KAPURTHALA"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "17:46",
+            "distance_km": 312.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "RCF",
+            "station_name": "RAIL COACH FACTORY"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1095.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "BGKT",
+            "station_name": "BHAGAT KI KOTHI"
+        }
+    ],
+    "train_name": "JAT BGKT EXP",
+    "train_number": "14804",
+    "type": "MAIL EXPRESS "
+}

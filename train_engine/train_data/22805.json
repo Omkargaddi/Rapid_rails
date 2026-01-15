@@ -1,0 +1,204 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22805.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22805-BBS-ANVT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "13:26",
+            "day_of_journey": 1,
+            "departure_time": "13:28",
+            "distance_km": 61.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "DNKL",
+            "station_name": "DHENKANAL"
+        },
+        {
+            "arrival_time": "14:45",
+            "day_of_journey": 1,
+            "departure_time": "14:47",
+            "distance_km": 121.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "ANGL",
+            "station_name": "ANGUL"
+        },
+        {
+            "arrival_time": "16:03",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 207.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "RAIR",
+            "station_name": "RAIKAKHOL"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 272.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "SBPY",
+            "station_name": "SAMBALPUR CITY"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 317.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "20:02",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 419.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 520.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "CKP",
+            "station_name": "CHAKARADHARPUR"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:22",
+            "distance_km": 654.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 706.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "02:46",
+            "day_of_journey": 2,
+            "departure_time": "02:48",
+            "distance_km": 722.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "CRP",
+            "station_name": "CHANDRAPURA"
+        },
+        {
+            "arrival_time": "03:10",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 738.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "04:17",
+            "day_of_journey": 2,
+            "departure_time": "04:19",
+            "distance_km": 832.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "KQR",
+            "station_name": "KODERMA"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 908.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "08:33",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 1112.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "10:55",
+            "day_of_journey": 2,
+            "departure_time": "11:00",
+            "distance_km": 1265.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "13:20",
+            "day_of_journey": 2,
+            "departure_time": "13:25",
+            "distance_km": 1459.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "19:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1887.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        }
+    ],
+    "train_name": "BBS ANVT S F",
+    "train_number": "22805",
+    "type": "SUPERFAST "
+}

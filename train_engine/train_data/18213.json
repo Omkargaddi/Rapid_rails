@@ -1,0 +1,216 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18213.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "18213-DURG-AII",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 36.0,
+            "sequence_number": 2,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "17:33",
+            "day_of_journey": 1,
+            "departure_time": "17:35",
+            "distance_km": 100.0,
+            "sequence_number": 3,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "18:50",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 152.0,
+            "sequence_number": 4,
+            "station_code": "USL",
+            "station_name": "USLAPUR"
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 244.0,
+            "sequence_number": 5,
+            "station_code": "PND",
+            "station_name": "PENDRA ROAD"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 294.0,
+            "sequence_number": 6,
+            "station_code": "APR",
+            "station_name": "ANUPPUR JN"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:07",
+            "distance_km": 335.0,
+            "sequence_number": 7,
+            "station_code": "SDL",
+            "station_name": "SHAHDOL"
+        },
+        {
+            "arrival_time": "23:01",
+            "day_of_journey": 1,
+            "departure_time": "23:03",
+            "distance_km": 402.0,
+            "sequence_number": 8,
+            "station_code": "UMR",
+            "station_name": "UMARIA"
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 463.0,
+            "sequence_number": 9,
+            "station_code": "KMZ",
+            "station_name": "KATNI MURWARA"
+        },
+        {
+            "arrival_time": "02:08",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 571.0,
+            "sequence_number": 10,
+            "station_code": "DMO",
+            "station_name": "DAMOH"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 649.0,
+            "sequence_number": 11,
+            "station_code": "SGO",
+            "station_name": "SAUGOR"
+        },
+        {
+            "arrival_time": "05:53",
+            "day_of_journey": 2,
+            "departure_time": "05:55",
+            "distance_km": 791.0,
+            "sequence_number": 12,
+            "station_code": "ASKN",
+            "station_name": "ASHOK NAGAR"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 835.0,
+            "sequence_number": 13,
+            "station_code": "GUNA",
+            "station_name": "GUNA"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 2,
+            "departure_time": "07:55",
+            "distance_km": 856.0,
+            "sequence_number": 14,
+            "station_code": "RTA",
+            "station_name": "RUTHIYAI JUNCTION"
+        },
+        {
+            "arrival_time": "08:28",
+            "day_of_journey": 2,
+            "departure_time": "08:30",
+            "distance_km": 895.0,
+            "sequence_number": 15,
+            "station_code": "CAG",
+            "station_name": "CHHABRA GUGOR"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 2,
+            "departure_time": "09:10",
+            "distance_km": 954.0,
+            "sequence_number": 16,
+            "station_code": "BAZ",
+            "station_name": "BARAN"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 2,
+            "departure_time": "10:35",
+            "distance_km": 1017.0,
+            "sequence_number": 17,
+            "station_code": "SGAC",
+            "station_name": "SOGARIYA"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 2,
+            "departure_time": "12:55",
+            "distance_km": 1126.0,
+            "sequence_number": 18,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "14:25",
+            "day_of_journey": 2,
+            "departure_time": "14:28",
+            "distance_km": 1250.0,
+            "sequence_number": 19,
+            "station_code": "DPA",
+            "station_name": "DURGAPURA"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 2,
+            "departure_time": "15:00",
+            "distance_km": 1257.0,
+            "sequence_number": 20,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1391.0,
+            "sequence_number": 21,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        }
+    ],
+    "train_name": "DURG AII EXP",
+    "train_number": "18213",
+    "type": "MAIL EXPRESS"
+}

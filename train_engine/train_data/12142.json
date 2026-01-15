@@ -1,0 +1,170 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12142.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12142-PPTA-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PPTA",
+            "station_name": "PATLIPUTRA"
+        },
+        {
+            "arrival_time": "11:01",
+            "day_of_journey": 1,
+            "departure_time": "11:03",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 45.0,
+            "sequence_number": 3,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "12:28",
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 114.0,
+            "sequence_number": 4,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "13:06",
+            "day_of_journey": 1,
+            "departure_time": "13:08",
+            "distance_km": 164.0,
+            "sequence_number": 5,
+            "station_code": "ZNA",
+            "station_name": "ZAMANIA"
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 204.0,
+            "sequence_number": 6,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "17:03",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 348.0,
+            "sequence_number": 7,
+            "station_code": "PCOI",
+            "station_name": "PRAYAGRAJ CHHEOKI"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 517.0,
+            "sequence_number": 8,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 706.0,
+            "sequence_number": 9,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 951.0,
+            "sequence_number": 10,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": "06:55",
+            "distance_km": 1257.0,
+            "sequence_number": 11,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "09:29",
+            "day_of_journey": 2,
+            "departure_time": "09:32",
+            "distance_km": 1441.0,
+            "sequence_number": 12,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "10:27",
+            "day_of_journey": 2,
+            "departure_time": "10:30",
+            "distance_km": 1514.0,
+            "sequence_number": 13,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 2,
+            "departure_time": "13:03",
+            "distance_km": 1648.0,
+            "sequence_number": 14,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "13:26",
+            "day_of_journey": 2,
+            "departure_time": "13:28",
+            "distance_km": 1668.0,
+            "sequence_number": 15,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "14:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1685.0,
+            "sequence_number": 16,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "PPTA LTT EXP",
+    "train_number": "12142",
+    "type": "SUPERFAST"
+}

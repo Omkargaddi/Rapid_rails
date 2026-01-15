@@ -1,0 +1,125 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22623.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22623-TBM-MDU",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        },
+        {
+            "arrival_time": "22:58",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 31.0,
+            "sequence_number": 2,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "23:24",
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 66.0,
+            "sequence_number": 3,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 134.0,
+            "sequence_number": 4,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "01:53",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 219.0,
+            "sequence_number": 5,
+            "station_code": "CDM",
+            "station_name": "CHIDAMBARAM"
+        },
+        {
+            "arrival_time": "02:38",
+            "day_of_journey": 2,
+            "departure_time": "02:40",
+            "distance_km": 255.0,
+            "sequence_number": 6,
+            "station_code": "MV",
+            "station_name": "MAYILADUTURAI JN"
+        },
+        {
+            "arrival_time": "03:13",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 287.0,
+            "sequence_number": 7,
+            "station_code": "KMU",
+            "station_name": "KUMBAKONAM"
+        },
+        {
+            "arrival_time": "03:58",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 326.0,
+            "sequence_number": 8,
+            "station_code": "TJ",
+            "station_name": "THANJAVUR JN."
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 376.0,
+            "sequence_number": 9,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "06:37",
+            "day_of_journey": 2,
+            "departure_time": "06:40",
+            "distance_km": 470.0,
+            "sequence_number": 10,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "07:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 536.0,
+            "sequence_number": 11,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        }
+    ],
+    "train_name": "MS MDU SF EXP",
+    "train_number": "22623",
+    "type": "SUPERFAST"
+}

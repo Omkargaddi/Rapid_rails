@@ -1,0 +1,174 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12112.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12112-AMI-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "AMI",
+            "station_name": "AMRAVATI"
+        },
+        {
+            "arrival_time": "19:27",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 9.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:02",
+            "distance_km": 50.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "MZR",
+            "station_name": "MURTAJAPUR JN."
+        },
+        {
+            "arrival_time": "20:27",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 88.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 125.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "SEG",
+            "station_name": "SHEGAON"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 150.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "NN",
+            "station_name": "NANDURA"
+        },
+        {
+            "arrival_time": "21:43",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 177.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "MKU",
+            "station_name": "MALKAPUR"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 228.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "23:20",
+            "day_of_journey": 1,
+            "departure_time": "23:22",
+            "distance_km": 252.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 485.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "03:10",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 536.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "04:52",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 619.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "05:08",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 639.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "05:32",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 663.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "06:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 672.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "AMI CSMT SF EXP",
+    "train_number": "12112",
+    "type": "SUPERFAST "
+}

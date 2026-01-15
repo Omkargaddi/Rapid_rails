@@ -1,0 +1,90 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12274.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12274-NDLS-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 441.0,
+            "sequence_number": 2,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 788.0,
+            "sequence_number": 3,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "00:43",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 996.0,
+            "sequence_number": 4,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "04:49",
+            "day_of_journey": 2,
+            "departure_time": "04:51",
+            "distance_km": 1217.0,
+            "sequence_number": 5,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "07:26",
+            "day_of_journey": 2,
+            "departure_time": "07:31",
+            "distance_km": 1327.0,
+            "sequence_number": 6,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "10:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1527.0,
+            "sequence_number": 7,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "HWH DURONTO EXP",
+    "train_number": "12274",
+    "type": "DURONTO EXPRESS"
+}

@@ -1,0 +1,168 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15105.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15105-CPR-NTV",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "06:22",
+            "day_of_journey": 1,
+            "departure_time": "06:24",
+            "distance_km": 28.0,
+            "sequence_number": 2,
+            "station_code": "EKMA",
+            "station_name": "EKMA"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 1,
+            "departure_time": "06:40",
+            "distance_km": 43.0,
+            "sequence_number": 3,
+            "station_code": "DDA",
+            "station_name": "DURAUNDHA JN"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 61.0,
+            "sequence_number": 4,
+            "station_code": "SV",
+            "station_name": "SIWAN JN"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 1,
+            "departure_time": "07:12",
+            "distance_km": 71.0,
+            "sequence_number": 5,
+            "station_code": "ZRDE",
+            "station_name": "JIRADEI"
+        },
+        {
+            "arrival_time": "07:18",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 82.0,
+            "sequence_number": 6,
+            "station_code": "MW",
+            "station_name": "MAIRWA"
+        },
+        {
+            "arrival_time": "07:29",
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 89.0,
+            "sequence_number": 7,
+            "station_code": "BTK",
+            "station_name": "BANKATA"
+        },
+        {
+            "arrival_time": "07:38",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 97.0,
+            "sequence_number": 8,
+            "station_code": "BHTR",
+            "station_name": "BHATPAR RANI"
+        },
+        {
+            "arrival_time": "08:01",
+            "day_of_journey": 1,
+            "departure_time": "08:03",
+            "distance_km": 109.0,
+            "sequence_number": 9,
+            "station_code": "BTT",
+            "station_name": "BHATNI JN"
+        },
+        {
+            "arrival_time": "08:14",
+            "day_of_journey": 1,
+            "departure_time": "08:15",
+            "distance_km": 117.0,
+            "sequence_number": 10,
+            "station_code": "NRA",
+            "station_name": "NUNKHAR"
+        },
+        {
+            "arrival_time": "08:28",
+            "day_of_journey": 1,
+            "departure_time": "08:30",
+            "distance_km": 130.0,
+            "sequence_number": 11,
+            "station_code": "DEOS",
+            "station_name": "DEORIA SADAR"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 180.0,
+            "sequence_number": 12,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 1,
+            "departure_time": "10:47",
+            "distance_km": 203.0,
+            "sequence_number": 13,
+            "station_code": "PJ",
+            "station_name": "PEPPEGANJ"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 1,
+            "departure_time": "11:17",
+            "distance_km": 221.0,
+            "sequence_number": 14,
+            "station_code": "ANDN",
+            "station_name": "ANAND NAGAR"
+        },
+        {
+            "arrival_time": "11:50",
+            "day_of_journey": 1,
+            "departure_time": "11:52",
+            "distance_km": 242.0,
+            "sequence_number": 15,
+            "station_code": "LIR",
+            "station_name": "LACHMIPUR"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 262.0,
+            "sequence_number": 16,
+            "station_code": "NTV",
+            "station_name": "NAUTANWA"
+        }
+    ],
+    "train_name": "CPR NTV EXP",
+    "train_number": "15105",
+    "type": "MAIL EXPRESS"
+}

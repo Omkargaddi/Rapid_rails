@@ -1,0 +1,232 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15959.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15959-HWH-DBRG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 39.0,
+            "sequence_number": 2,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "19:53",
+            "day_of_journey": 1,
+            "departure_time": "19:57",
+            "distance_km": 81.0,
+            "sequence_number": 3,
+            "station_code": "ABKA",
+            "station_name": "AMBIKA KALNA"
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 1,
+            "departure_time": "20:19",
+            "distance_km": 105.0,
+            "sequence_number": 4,
+            "station_code": "NDAE",
+            "station_name": "NABADWIP DHAM"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 1,
+            "departure_time": "21:10",
+            "distance_km": 144.0,
+            "sequence_number": 5,
+            "station_code": "KWAE",
+            "station_name": "KATWA"
+        },
+        {
+            "arrival_time": "21:24",
+            "day_of_journey": 1,
+            "departure_time": "21:26",
+            "distance_km": 161.0,
+            "sequence_number": 6,
+            "station_code": "SALE",
+            "station_name": "SALAR"
+        },
+        {
+            "arrival_time": "17:18",
+            "day_of_journey": 2,
+            "departure_time": "17:20",
+            "distance_km": 1113.0,
+            "sequence_number": 41,
+            "station_code": "HJI",
+            "station_name": "HOJAI"
+        },
+        {
+            "arrival_time": "17:33",
+            "day_of_journey": 2,
+            "departure_time": "17:35",
+            "distance_km": 1128.0,
+            "sequence_number": 42,
+            "station_code": "LKA",
+            "station_name": "LANKA"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 2,
+            "departure_time": "18:40",
+            "distance_km": 1158.0,
+            "sequence_number": 43,
+            "station_code": "LMG",
+            "station_name": "LUMDING JN"
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 2,
+            "departure_time": "19:20",
+            "distance_km": 1190.0,
+            "sequence_number": 44,
+            "station_code": "DPU",
+            "station_name": "DIPHU"
+        },
+        {
+            "arrival_time": "19:55",
+            "day_of_journey": 2,
+            "departure_time": "20:05",
+            "distance_km": 1227.0,
+            "sequence_number": 45,
+            "station_code": "DMV",
+            "station_name": "DIMAPUR"
+        },
+        {
+            "arrival_time": "20:52",
+            "day_of_journey": 2,
+            "departure_time": "20:54",
+            "distance_km": 1263.0,
+            "sequence_number": 46,
+            "station_code": "SZR",
+            "station_name": "SARUPATHAR"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 2,
+            "departure_time": "21:07",
+            "distance_km": 1273.0,
+            "sequence_number": 47,
+            "station_code": "BXP",
+            "station_name": "BARPATHAR"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 2,
+            "departure_time": "22:17",
+            "distance_km": 1297.0,
+            "sequence_number": 48,
+            "station_code": "FKG",
+            "station_name": "FURKATING JN."
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 2,
+            "departure_time": "23:15",
+            "distance_km": 1336.0,
+            "sequence_number": 49,
+            "station_code": "MXN",
+            "station_name": "MARIANI JN"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 2,
+            "departure_time": "23:52",
+            "distance_km": 1363.0,
+            "sequence_number": 50,
+            "station_code": "AGI",
+            "station_name": "AMGURI"
+        },
+        {
+            "arrival_time": "00:30",
+            "day_of_journey": 3,
+            "departure_time": "00:32",
+            "distance_km": 1389.0,
+            "sequence_number": 51,
+            "station_code": "SLGR",
+            "station_name": "SIMALUGURI JN"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 3,
+            "departure_time": "01:07",
+            "distance_km": 1423.0,
+            "sequence_number": 52,
+            "station_code": "BOJ",
+            "station_name": "BHOJO"
+        },
+        {
+            "arrival_time": "01:32",
+            "day_of_journey": 3,
+            "departure_time": "01:34",
+            "distance_km": 1455.0,
+            "sequence_number": 53,
+            "station_code": "NAM",
+            "station_name": "NAMRUP"
+        },
+        {
+            "arrival_time": "01:46",
+            "day_of_journey": 3,
+            "departure_time": "01:48",
+            "distance_km": 1467.0,
+            "sequence_number": 54,
+            "station_code": "NHK",
+            "station_name": "NAHARKATIYA"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 3,
+            "departure_time": "02:02",
+            "distance_km": 1476.0,
+            "sequence_number": 55,
+            "station_code": "DJG",
+            "station_name": "DULIAJAN"
+        },
+        {
+            "arrival_time": "02:35",
+            "day_of_journey": 3,
+            "departure_time": "02:45",
+            "distance_km": 1492.0,
+            "sequence_number": 56,
+            "station_code": "NTSK",
+            "station_name": "NEW TINSUKIA"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1534.0,
+            "sequence_number": 57,
+            "station_code": "DBRG",
+            "station_name": "DIBRUGARH"
+        }
+    ],
+    "train_name": "KAMRUP EXPRESS",
+    "train_number": "15959",
+    "type": "MAIL EXPRESS"
+}

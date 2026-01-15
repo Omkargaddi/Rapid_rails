@@ -1,0 +1,167 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22691.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22691-SBC-NZM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "22:13",
+            "day_of_journey": 1,
+            "departure_time": "22:15",
+            "distance_km": 157.0,
+            "sequence_number": 2,
+            "station_code": "SSPN",
+            "station_name": "SAI P NILAYAM"
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 291.0,
+            "sequence_number": 3,
+            "station_code": "GTL",
+            "station_name": "GUNTAKAL JN"
+        },
+        {
+            "arrival_time": "02:28",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 413.0,
+            "sequence_number": 4,
+            "station_code": "RC",
+            "station_name": "RAICHUR"
+        },
+        {
+            "arrival_time": "03:13",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 481.0,
+            "sequence_number": 5,
+            "station_code": "YG",
+            "station_name": "YADGIR"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:31",
+            "distance_km": 555.0,
+            "sequence_number": 6,
+            "station_code": "SEM",
+            "station_name": "SEDAM"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 703.0,
+            "sequence_number": 7,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 2,
+            "departure_time": "08:50",
+            "distance_km": 834.0,
+            "sequence_number": 8,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 2,
+            "departure_time": "12:15",
+            "distance_km": 1074.0,
+            "sequence_number": 9,
+            "station_code": "BPQ",
+            "station_name": "BALHARSHAH"
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 2,
+            "departure_time": "15:00",
+            "distance_km": 1283.0,
+            "sequence_number": 10,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 2,
+            "departure_time": "19:20",
+            "distance_km": 1578.0,
+            "sequence_number": 11,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 2,
+            "departure_time": "21:05",
+            "distance_km": 1670.0,
+            "sequence_number": 12,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "00:16",
+            "day_of_journey": 3,
+            "departure_time": "00:21",
+            "distance_km": 1959.0,
+            "sequence_number": 13,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "01:19",
+            "day_of_journey": 3,
+            "departure_time": "01:21",
+            "distance_km": 2058.0,
+            "sequence_number": 14,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 3,
+            "departure_time": "02:57",
+            "distance_km": 2176.0,
+            "sequence_number": 15,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2363.0,
+            "sequence_number": 16,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        }
+    ],
+    "train_name": "RAJDHANI EXP",
+    "train_number": "22691",
+    "type": "RAJDHANI"
+}

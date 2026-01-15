@@ -1,0 +1,147 @@
+{
+    "classes_available": [
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12536.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12536-R-LJN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "12:53",
+            "day_of_journey": 1,
+            "departure_time": "12:55",
+            "distance_km": 64.0,
+            "sequence_number": 2,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "14:05",
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 116.0,
+            "sequence_number": 3,
+            "station_code": "USL",
+            "station_name": "USLAPUR"
+        },
+        {
+            "arrival_time": "15:41",
+            "day_of_journey": 1,
+            "departure_time": "15:43",
+            "distance_km": 208.0,
+            "sequence_number": 4,
+            "station_code": "PND",
+            "station_name": "PENDRA ROAD"
+        },
+        {
+            "arrival_time": "16:21",
+            "day_of_journey": 1,
+            "departure_time": "16:26",
+            "distance_km": 258.0,
+            "sequence_number": 5,
+            "station_code": "APR",
+            "station_name": "ANUPPUR JN"
+        },
+        {
+            "arrival_time": "17:08",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 299.0,
+            "sequence_number": 6,
+            "station_code": "SDL",
+            "station_name": "SHAHDOL"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 425.0,
+            "sequence_number": 7,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 523.0,
+            "sequence_number": 8,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "23:11",
+            "day_of_journey": 1,
+            "departure_time": "23:13",
+            "distance_km": 627.0,
+            "sequence_number": 9,
+            "station_code": "CKTD",
+            "station_name": "CHITRAKOT"
+        },
+        {
+            "arrival_time": "23:38",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 664.0,
+            "sequence_number": 10,
+            "station_code": "ATE",
+            "station_name": "ATARRA"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 696.0,
+            "sequence_number": 11,
+            "station_code": "BNDA",
+            "station_name": "BANDA JN"
+        },
+        {
+            "arrival_time": "00:56",
+            "day_of_journey": 2,
+            "departure_time": "00:58",
+            "distance_km": 736.0,
+            "sequence_number": 12,
+            "station_code": "RGU",
+            "station_name": "RAGAUL"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 2,
+            "departure_time": "03:20",
+            "distance_km": 839.0,
+            "sequence_number": 13,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 913.0,
+            "sequence_number": 14,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        }
+    ],
+    "train_name": "LJN GARIBRATH",
+    "train_number": "12536",
+    "type": "GARIB RATH"
+}

@@ -1,0 +1,99 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13252.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "13252-ANVT-PNBE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 424.0,
+            "sequence_number": 2,
+            "station_code": "GOY",
+            "station_name": "GOVINDPURI"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": "09:35",
+            "distance_km": 621.0,
+            "sequence_number": 3,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "14:38",
+            "day_of_journey": 2,
+            "departure_time": "14:45",
+            "distance_km": 775.0,
+            "sequence_number": 4,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 2,
+            "departure_time": "15:52",
+            "distance_km": 864.0,
+            "sequence_number": 5,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "16:36",
+            "day_of_journey": 2,
+            "departure_time": "16:38",
+            "distance_km": 933.0,
+            "sequence_number": 6,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 2,
+            "departure_time": "17:17",
+            "distance_km": 972.0,
+            "sequence_number": 7,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 982.0,
+            "sequence_number": 8,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        }
+    ],
+    "train_name": "ANVT PNBE EXP",
+    "train_number": "13252",
+    "type": "MAIL EXPRESS"
+}

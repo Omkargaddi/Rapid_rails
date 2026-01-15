@@ -1,0 +1,107 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22982.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22982-SGNR-KOTA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SGNR",
+            "station_name": "SHRI GANGANAGAR"
+        },
+        {
+            "arrival_time": "17:52",
+            "day_of_journey": 1,
+            "departure_time": "17:54",
+            "distance_km": 29.0,
+            "sequence_number": 2,
+            "station_code": "SDS",
+            "station_name": "SADULSHAHR"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 67.0,
+            "sequence_number": 3,
+            "station_code": "HMH",
+            "station_name": "HANUMANGARH JN"
+        },
+        {
+            "arrival_time": "19:23",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 92.0,
+            "sequence_number": 4,
+            "station_code": "PGK",
+            "station_name": "PILI BANGAN"
+        },
+        {
+            "arrival_time": "19:50",
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 116.0,
+            "sequence_number": 5,
+            "station_code": "SOG",
+            "station_name": "SURATGARH JN"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 179.0,
+            "sequence_number": 6,
+            "station_code": "MHJ",
+            "station_name": "MAHAJAN"
+        },
+        {
+            "arrival_time": "08:43",
+            "day_of_journey": 2,
+            "departure_time": "08:45",
+            "distance_km": 845.0,
+            "sequence_number": 24,
+            "station_code": "IDG",
+            "station_name": "INDARGARH"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 2,
+            "departure_time": "08:55",
+            "distance_km": 856.0,
+            "sequence_number": 25,
+            "station_code": "LKE",
+            "station_name": "LAKHERI"
+        },
+        {
+            "arrival_time": "10:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 917.0,
+            "sequence_number": 26,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        }
+    ],
+    "train_name": "SGNR KOTA SF",
+    "train_number": "22982",
+    "type": "SUPERFAST"
+}

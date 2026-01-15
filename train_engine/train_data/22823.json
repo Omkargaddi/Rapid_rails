@@ -1,0 +1,173 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22823.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22823-BBS-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "09:54",
+            "day_of_journey": 1,
+            "departure_time": "09:56",
+            "distance_km": 27.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 1,
+            "departure_time": "11:32",
+            "distance_km": 143.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BHC",
+            "station_name": "BHADRAKH"
+        },
+        {
+            "arrival_time": "12:08",
+            "day_of_journey": 1,
+            "departure_time": "12:10",
+            "distance_km": 202.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "13:32",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 314.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "HIJ",
+            "station_name": "HIJLI"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 1,
+            "departure_time": "15:50",
+            "distance_km": 447.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "17:55",
+            "day_of_journey": 1,
+            "departure_time": "17:57",
+            "distance_km": 551.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "18:50",
+            "day_of_journey": 1,
+            "departure_time": "18:55",
+            "distance_km": 603.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 636.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "20:56",
+            "day_of_journey": 1,
+            "departure_time": "20:58",
+            "distance_km": 729.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "KQR",
+            "station_name": "KODERMA"
+        },
+        {
+            "arrival_time": "22:17",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 805.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "00:33",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 1009.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:32",
+            "distance_km": 1162.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 1356.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1797.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "TEJAS RAJ EXP",
+    "train_number": "22823",
+    "type": "RAJDHANI "
+}

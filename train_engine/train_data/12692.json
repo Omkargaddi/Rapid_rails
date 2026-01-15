@@ -1,0 +1,225 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12692.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12692-SMET-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "SMET",
+            "station_name": "SHIMOGA TOWN"
+        },
+        {
+            "arrival_time": "17:58",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 18.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BDVT",
+            "station_name": "BHADRAVATI"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 39.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "TKE",
+            "station_name": "TARIKERE JN"
+        },
+        {
+            "arrival_time": "18:43",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 63.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "RRB",
+            "station_name": "BIRUR JN"
+        },
+        {
+            "arrival_time": "18:53",
+            "day_of_journey": 1,
+            "departure_time": "18:55",
+            "distance_km": 69.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "DRU",
+            "station_name": "KADUR"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 108.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "ASK",
+            "station_name": "ARSIKERE JN"
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 1,
+            "departure_time": "19:47",
+            "distance_km": 133.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "TTR",
+            "station_name": "TIPTUR"
+        },
+        {
+            "arrival_time": "20:13",
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 204.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "TK",
+            "station_name": "TUMKUR"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 283.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "SMVB",
+            "station_name": "SMVT BENGALURU"
+        },
+        {
+            "arrival_time": "23:13",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 290.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "23:24",
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 299.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "WFD",
+            "station_name": "WHITEFIELD"
+        },
+        {
+            "arrival_time": "23:53",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 346.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "00:19",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 378.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "KPN",
+            "station_name": "KUPPAM"
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 416.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "01:48",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 447.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "AB",
+            "station_name": "AMBUR"
+        },
+        {
+            "arrival_time": "02:38",
+            "day_of_journey": 2,
+            "departure_time": "02:40",
+            "distance_km": 500.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 539.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "SHU",
+            "station_name": "SHOLINGHUR"
+        },
+        {
+            "arrival_time": "03:23",
+            "day_of_journey": 2,
+            "departure_time": "03:25",
+            "distance_km": 561.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "04:13",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 623.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "04:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 630.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "SMET MAS SF EXP",
+    "train_number": "12692",
+    "type": "SUPERFAST "
+}

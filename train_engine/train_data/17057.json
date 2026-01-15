@@ -1,0 +1,144 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17057.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17057-CSMT-LPI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "21:42",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "22:13",
+            "day_of_journey": 1,
+            "departure_time": "22:15",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "22:35",
+            "day_of_journey": 1,
+            "departure_time": "22:38",
+            "distance_km": 53.0,
+            "sequence_number": 4,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 1,
+            "departure_time": "23:48",
+            "distance_km": 121.0,
+            "sequence_number": 5,
+            "station_code": "KSRA",
+            "station_name": "KASARA"
+        },
+        {
+            "arrival_time": "00:12",
+            "day_of_journey": 2,
+            "departure_time": "00:17",
+            "distance_km": 136.0,
+            "sequence_number": 6,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "12:23",
+            "day_of_journey": 2,
+            "departure_time": "12:25",
+            "distance_km": 772.0,
+            "sequence_number": 24,
+            "station_code": "KMC",
+            "station_name": "KAMAREDDI"
+        },
+        {
+            "arrival_time": "12:49",
+            "day_of_journey": 2,
+            "departure_time": "12:50",
+            "distance_km": 799.0,
+            "sequence_number": 25,
+            "station_code": "AKE",
+            "station_name": "AKANAPET"
+        },
+        {
+            "arrival_time": "12:59",
+            "day_of_journey": 2,
+            "departure_time": "13:00",
+            "distance_km": 808.0,
+            "sequence_number": 26,
+            "station_code": "MZL",
+            "station_name": "MIRZAPALLI"
+        },
+        {
+            "arrival_time": "13:59",
+            "day_of_journey": 2,
+            "departure_time": "14:00",
+            "distance_km": 866.0,
+            "sequence_number": 27,
+            "station_code": "BMO",
+            "station_name": "BOLARUM"
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 2,
+            "departure_time": "15:00",
+            "distance_km": 880.0,
+            "sequence_number": 28,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "15:14",
+            "day_of_journey": 2,
+            "departure_time": "15:15",
+            "distance_km": 884.0,
+            "sequence_number": 29,
+            "station_code": "BMT",
+            "station_name": "BEGAMPET"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 903.0,
+            "sequence_number": 30,
+            "station_code": "LPI",
+            "station_name": "LINGAMPALLI"
+        }
+    ],
+    "train_name": "DEVAGIRI EXPRESS",
+    "train_number": "17057",
+    "type": "MAIL EXPRESS"
+}

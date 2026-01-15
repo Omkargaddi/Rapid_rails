@@ -1,0 +1,225 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22818.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22818-MYS-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 138.0,
+            "sequence_number": 2,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "02:31",
+            "day_of_journey": 2,
+            "departure_time": "02:33",
+            "distance_km": 152.0,
+            "sequence_number": 3,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "03:11",
+            "day_of_journey": 2,
+            "departure_time": "03:13",
+            "distance_km": 209.0,
+            "sequence_number": 4,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 2,
+            "departure_time": "04:45",
+            "distance_km": 278.0,
+            "sequence_number": 5,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "05:55",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 362.0,
+            "sequence_number": 6,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": "08:30",
+            "distance_km": 488.0,
+            "sequence_number": 7,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 2,
+            "departure_time": "14:10",
+            "distance_km": 864.0,
+            "sequence_number": 8,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "14:58",
+            "day_of_journey": 2,
+            "departure_time": "15:00",
+            "distance_km": 923.0,
+            "sequence_number": 9,
+            "station_code": "EE",
+            "station_name": "ELURU"
+        },
+        {
+            "arrival_time": "16:43",
+            "day_of_journey": 2,
+            "departure_time": "16:45",
+            "distance_km": 1013.0,
+            "sequence_number": 10,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 2,
+            "departure_time": "20:50",
+            "distance_km": 1214.0,
+            "sequence_number": 11,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 2,
+            "departure_time": "21:40",
+            "distance_km": 1275.0,
+            "sequence_number": 12,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "23:48",
+            "day_of_journey": 2,
+            "departure_time": "23:50",
+            "distance_km": 1417.0,
+            "sequence_number": 13,
+            "station_code": "PSA",
+            "station_name": "PALASA"
+        },
+        {
+            "arrival_time": "00:33",
+            "day_of_journey": 3,
+            "departure_time": "00:35",
+            "distance_km": 1491.0,
+            "sequence_number": 14,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 3,
+            "departure_time": "02:40",
+            "distance_km": 1638.0,
+            "sequence_number": 15,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 3,
+            "departure_time": "03:10",
+            "distance_km": 1656.0,
+            "sequence_number": 16,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 3,
+            "departure_time": "03:35",
+            "distance_km": 1684.0,
+            "sequence_number": 17,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "05:52",
+            "day_of_journey": 3,
+            "departure_time": "05:54",
+            "distance_km": 1799.0,
+            "sequence_number": 18,
+            "station_code": "BHC",
+            "station_name": "BHADRAKH"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 3,
+            "departure_time": "06:37",
+            "distance_km": 1858.0,
+            "sequence_number": 19,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 3,
+            "departure_time": "08:30",
+            "distance_km": 1979.0,
+            "sequence_number": 20,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "10:13",
+            "day_of_journey": 3,
+            "departure_time": "10:15",
+            "distance_km": 2088.0,
+            "sequence_number": 21,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "11:10",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2095.0,
+            "sequence_number": 22,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "MYS HOWRAH EXP",
+    "train_number": "22818",
+    "type": "SUPERFAST"
+}

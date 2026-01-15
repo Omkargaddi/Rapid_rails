@@ -1,0 +1,134 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22146.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22146-REWA-BPL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "REWA",
+            "station_name": "REWA"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 49.0,
+            "sequence_number": 2,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "23:57",
+            "day_of_journey": 1,
+            "departure_time": "23:59",
+            "distance_km": 84.0,
+            "sequence_number": 3,
+            "station_code": "MYR",
+            "station_name": "MAIHAR"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 147.0,
+            "sequence_number": 4,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 238.0,
+            "sequence_number": 5,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "03:28",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 322.0,
+            "sequence_number": 6,
+            "station_code": "NU",
+            "station_name": "NARSINGHPUR"
+        },
+        {
+            "arrival_time": "04:08",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 366.0,
+            "sequence_number": 7,
+            "station_code": "GAR",
+            "station_name": "GADARWARA"
+        },
+        {
+            "arrival_time": "04:38",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 416.0,
+            "sequence_number": 8,
+            "station_code": "PPI",
+            "station_name": "PIPARIYA"
+        },
+        {
+            "arrival_time": "05:55",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 483.0,
+            "sequence_number": 9,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 501.0,
+            "sequence_number": 10,
+            "station_code": "NDPM",
+            "station_name": "NARMADAPURAM"
+        },
+        {
+            "arrival_time": "07:43",
+            "day_of_journey": 2,
+            "departure_time": "07:45",
+            "distance_km": 569.0,
+            "sequence_number": 11,
+            "station_code": "RKMP",
+            "station_name": "RANI KAMALAPATI"
+        },
+        {
+            "arrival_time": "08:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 575.0,
+            "sequence_number": 12,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        }
+    ],
+    "train_name": "REWA BPL SF EXP",
+    "train_number": "22146",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,104 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12657.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12657-MAS-SBC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        },
+        {
+            "arrival_time": "23:43",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 69.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "00:33",
+            "day_of_journey": 2,
+            "departure_time": "00:35",
+            "distance_km": 130.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "01:53",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 214.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "02:53",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 283.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "03:47",
+            "day_of_journey": 2,
+            "departure_time": "03:48",
+            "distance_km": 347.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BNCE",
+            "station_name": "BANGALORE EAST"
+        },
+        {
+            "arrival_time": "03:56",
+            "day_of_journey": 2,
+            "departure_time": "03:57",
+            "distance_km": 349.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BNC",
+            "station_name": "BANGALORE CANT"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 354.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        }
+    ],
+    "train_name": "MAS SBC SF MAIL",
+    "train_number": "12657",
+    "type": "SUPERFAST "
+}

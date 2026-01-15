@@ -1,0 +1,223 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22632.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22632-BKN-MDU",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BKN",
+            "station_name": "BIKANER JN"
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 1,
+            "departure_time": "16:17",
+            "distance_km": 65.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "NOK",
+            "station_name": "NOKHA"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 1,
+            "departure_time": "16:53",
+            "distance_km": 117.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "NGO",
+            "station_name": "NAGAUR"
+        },
+        {
+            "arrival_time": "18:44",
+            "day_of_journey": 1,
+            "departure_time": "18:47",
+            "distance_km": 217.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "DNA",
+            "station_name": "DEGANA JN"
+        },
+        {
+            "arrival_time": "19:17",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 261.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MKN",
+            "station_name": "MAKRANA JN"
+        },
+        {
+            "arrival_time": "20:28",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 326.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 380.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "21:42",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 388.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "DPA",
+            "station_name": "DURGAPURA"
+        },
+        {
+            "arrival_time": "22:25",
+            "day_of_journey": 1,
+            "departure_time": "22:27",
+            "distance_km": 446.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BNLW",
+            "station_name": "BANASTHALI NIWAI"
+        },
+        {
+            "arrival_time": "23:25",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 512.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "00:55",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 619.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "02:28",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 753.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "SGZ",
+            "station_name": "SHAMGARH"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 3,
+            "departure_time": "12:45",
+            "distance_km": 2729.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "13:26",
+            "day_of_journey": 3,
+            "departure_time": "13:28",
+            "distance_km": 2784.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "VRI",
+            "station_name": "VRIDDHACHALAM JN"
+        },
+        {
+            "arrival_time": "14:02",
+            "day_of_journey": 3,
+            "departure_time": "14:03",
+            "distance_km": 2837.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "ALU",
+            "station_name": "ARIYALUR"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 3,
+            "departure_time": "14:45",
+            "distance_km": 2895.0,
+            "platform": null,
+            "sequence_number": 39,
+            "station_code": "SRGM",
+            "station_name": "SRIRANGAM"
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 3,
+            "departure_time": "15:30",
+            "distance_km": 2907.0,
+            "platform": null,
+            "sequence_number": 40,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "16:57",
+            "day_of_journey": 3,
+            "departure_time": "17:00",
+            "distance_km": 3001.0,
+            "platform": null,
+            "sequence_number": 41,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "17:13",
+            "day_of_journey": 3,
+            "departure_time": "17:15",
+            "distance_km": 3027.0,
+            "platform": null,
+            "sequence_number": 42,
+            "station_code": "KQN",
+            "station_name": "KODAIKANAL ROAD"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 3067.0,
+            "platform": null,
+            "sequence_number": 43,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        }
+    ],
+    "train_name": "BKN-MDU ANUVRAT SF EXP",
+    "train_number": "22632",
+    "type": "SUPERFAST "
+}

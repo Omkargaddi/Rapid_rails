@@ -1,0 +1,160 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17250.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17250-CCT-TPTY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CCT",
+            "station_name": "KAKINADA TOWN"
+        },
+        {
+            "arrival_time": "15:28",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 12.0,
+            "sequence_number": 2,
+            "station_code": "SLO",
+            "station_name": "SAMALKOT JN"
+        },
+        {
+            "arrival_time": "15:49",
+            "day_of_journey": 1,
+            "departure_time": "15:50",
+            "distance_km": 39.0,
+            "sequence_number": 3,
+            "station_code": "APT",
+            "station_name": "ANAPARTI"
+        },
+        {
+            "arrival_time": "15:54",
+            "day_of_journey": 1,
+            "departure_time": "15:55",
+            "distance_km": 43.0,
+            "sequence_number": 4,
+            "station_code": "DWP",
+            "station_name": "DWARAPUDI"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 63.0,
+            "sequence_number": 5,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "17:19",
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 85.0,
+            "sequence_number": 6,
+            "station_code": "NDD",
+            "station_name": "NIDADAVOLU JN"
+        },
+        {
+            "arrival_time": "00:48",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 432.0,
+            "sequence_number": 24,
+            "station_code": "BTTR",
+            "station_name": "BITRAGUNTA"
+        },
+        {
+            "arrival_time": "01:38",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 466.0,
+            "sequence_number": 25,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "02:59",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 524.0,
+            "sequence_number": 26,
+            "station_code": "VDD",
+            "station_name": "VENDODU"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 532.0,
+            "sequence_number": 27,
+            "station_code": "NDZ",
+            "station_name": "NIDIGALLU"
+        },
+        {
+            "arrival_time": "03:34",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 553.0,
+            "sequence_number": 28,
+            "station_code": "YLK",
+            "station_name": "YELLAKARU"
+        },
+        {
+            "arrival_time": "03:43",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 565.0,
+            "sequence_number": 29,
+            "station_code": "KHT",
+            "station_name": "SRI KALAHASTI"
+        },
+        {
+            "arrival_time": "03:59",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 578.0,
+            "sequence_number": 30,
+            "station_code": "YPD",
+            "station_name": "YERPEDU"
+        },
+        {
+            "arrival_time": "04:28",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 588.0,
+            "sequence_number": 31,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 598.0,
+            "sequence_number": 32,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        }
+    ],
+    "train_name": "CCT TPTY EXP",
+    "train_number": "17250",
+    "type": "MAIL EXPRESS"
+}

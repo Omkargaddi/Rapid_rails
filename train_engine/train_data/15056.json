@@ -1,0 +1,232 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15056.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15056-RMR-AF",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RMR",
+            "station_name": "RAMNAGAR"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 27.0,
+            "sequence_number": 2,
+            "station_code": "KPV",
+            "station_name": "KASHIPUR"
+        },
+        {
+            "arrival_time": "20:48",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 47.0,
+            "sequence_number": 3,
+            "station_code": "BPZ",
+            "station_name": "BAZPUR"
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 86.0,
+            "sequence_number": 4,
+            "station_code": "LKU",
+            "station_name": "LALKUA JN."
+        },
+        {
+            "arrival_time": "22:02",
+            "day_of_journey": 1,
+            "departure_time": "22:04",
+            "distance_km": 92.0,
+            "sequence_number": 5,
+            "station_code": "PBW",
+            "station_name": "PANTNAGAR"
+        },
+        {
+            "arrival_time": "22:14",
+            "day_of_journey": 1,
+            "departure_time": "22:16",
+            "distance_km": 103.0,
+            "sequence_number": 6,
+            "station_code": "KHH",
+            "station_name": "KICHHA"
+        },
+        {
+            "arrival_time": "22:33",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 119.0,
+            "sequence_number": 7,
+            "station_code": "BHI",
+            "station_name": "BAHERI"
+        },
+        {
+            "arrival_time": "22:48",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 136.0,
+            "sequence_number": 8,
+            "station_code": "DRN",
+            "station_name": "DEORANIAN"
+        },
+        {
+            "arrival_time": "23:01",
+            "day_of_journey": 1,
+            "departure_time": "23:03",
+            "distance_km": 150.0,
+            "sequence_number": 9,
+            "station_code": "BPR",
+            "station_name": "BHOJIPURA JN."
+        },
+        {
+            "arrival_time": "23:31",
+            "day_of_journey": 1,
+            "departure_time": "23:33",
+            "distance_km": 163.0,
+            "sequence_number": 10,
+            "station_code": "IZN",
+            "station_name": "IZZATNAGAR JN"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 167.0,
+            "sequence_number": 11,
+            "station_code": "BC",
+            "station_name": "BAREILLY CITY"
+        },
+        {
+            "arrival_time": "00:08",
+            "day_of_journey": 2,
+            "departure_time": "00:13",
+            "distance_km": 170.0,
+            "sequence_number": 12,
+            "station_code": "BRY",
+            "station_name": "BAREILLY JN"
+        },
+        {
+            "arrival_time": "00:55",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 213.0,
+            "sequence_number": 13,
+            "station_code": "BEM",
+            "station_name": "BADAUN"
+        },
+        {
+            "arrival_time": "01:14",
+            "day_of_journey": 2,
+            "departure_time": "01:16",
+            "distance_km": 226.0,
+            "sequence_number": 14,
+            "station_code": "UJH",
+            "station_name": "UJHANI"
+        },
+        {
+            "arrival_time": "01:42",
+            "day_of_journey": 2,
+            "departure_time": "01:44",
+            "distance_km": 257.0,
+            "sequence_number": 15,
+            "station_code": "SRNK",
+            "station_name": "SORON SHUKAR KSHETRA"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 273.0,
+            "sequence_number": 16,
+            "station_code": "KSJ",
+            "station_name": "KASGANJ"
+        },
+        {
+            "arrival_time": "02:58",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 302.0,
+            "sequence_number": 17,
+            "station_code": "SKA",
+            "station_name": "SIKANDRA RAO"
+        },
+        {
+            "arrival_time": "03:33",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 336.0,
+            "sequence_number": 18,
+            "station_code": "HTC",
+            "station_name": "HATHRAS CITY"
+        },
+        {
+            "arrival_time": "04:23",
+            "day_of_journey": 2,
+            "departure_time": "04:25",
+            "distance_km": 376.0,
+            "sequence_number": 19,
+            "station_code": "MRT",
+            "station_name": "MATHURA CANT"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 378.0,
+            "sequence_number": 20,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "05:28",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 416.0,
+            "sequence_number": 21,
+            "station_code": "AH",
+            "station_name": "ACHHNERA JN"
+        },
+        {
+            "arrival_time": "06:08",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 440.0,
+            "sequence_number": 22,
+            "station_code": "IDH",
+            "station_name": "IDGAH JN"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 442.0,
+            "sequence_number": 23,
+            "station_code": "AF",
+            "station_name": "AGRA FORT"
+        }
+    ],
+    "train_name": "RMR AF EXP",
+    "train_number": "15056",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,130 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22626.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22626-SBC-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "13:41",
+            "day_of_journey": 1,
+            "departure_time": "13:42",
+            "distance_km": 4.0,
+            "sequence_number": 2,
+            "station_code": "BNC",
+            "station_name": "BANGALORE CANT"
+        },
+        {
+            "arrival_time": "13:52",
+            "day_of_journey": 1,
+            "departure_time": "13:54",
+            "distance_km": 14.0,
+            "sequence_number": 3,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "14:37",
+            "day_of_journey": 1,
+            "departure_time": "14:38",
+            "distance_km": 70.0,
+            "sequence_number": 4,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "15:04",
+            "day_of_journey": 1,
+            "departure_time": "15:05",
+            "distance_km": 102.0,
+            "sequence_number": 5,
+            "station_code": "KPN",
+            "station_name": "KUPPAM"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 140.0,
+            "sequence_number": 6,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:22",
+            "distance_km": 155.0,
+            "sequence_number": 7,
+            "station_code": "VN",
+            "station_name": "VANIYAMBADI"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:37",
+            "distance_km": 172.0,
+            "sequence_number": 8,
+            "station_code": "AB",
+            "station_name": "AMBUR"
+        },
+        {
+            "arrival_time": "17:18",
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 224.0,
+            "sequence_number": 9,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 285.0,
+            "sequence_number": 10,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "19:03",
+            "day_of_journey": 1,
+            "departure_time": "19:05",
+            "distance_km": 347.0,
+            "sequence_number": 11,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 354.0,
+            "sequence_number": 12,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "MAS DOUBLE DECK",
+    "train_number": "22626",
+    "type": "SUPERFAST"
+}

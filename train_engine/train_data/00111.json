@@ -1,0 +1,37 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_00111.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "00111-BIRD-SGTY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BIRD",
+            "station_name": "BHIWANDI ROAD"
+        },
+        {
+            "arrival_time": "15:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1914.0,
+            "sequence_number": 2,
+            "station_code": "SGTY",
+            "station_name": "SANKRAIL GOODS TERMINAL"
+        }
+    ],
+    "train_name": "BIRD-SGTY RAPID CARGO",
+    "train_number": "00111",
+    "type": "PARCEL EXPRESS"
+}

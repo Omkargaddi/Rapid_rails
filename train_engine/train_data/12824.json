@@ -1,0 +1,135 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12824.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12824-NZM-DURG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "23:22",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 404.0,
+            "sequence_number": 2,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "02:40",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 623.0,
+            "sequence_number": 3,
+            "station_code": "SGO",
+            "station_name": "SAUGOR"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 808.0,
+            "sequence_number": 4,
+            "station_code": "KMZ",
+            "station_name": "KATNI MURWARA"
+        },
+        {
+            "arrival_time": "07:16",
+            "day_of_journey": 2,
+            "departure_time": "07:18",
+            "distance_km": 869.0,
+            "sequence_number": 5,
+            "station_code": "UMR",
+            "station_name": "UMARIA"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 2,
+            "departure_time": "08:20",
+            "distance_km": 936.0,
+            "sequence_number": 6,
+            "station_code": "SDL",
+            "station_name": "SHAHDOL"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 2,
+            "departure_time": "09:00",
+            "distance_km": 977.0,
+            "sequence_number": 7,
+            "station_code": "APR",
+            "station_name": "ANUPPUR JN"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 2,
+            "departure_time": "09:40",
+            "distance_km": 1027.0,
+            "sequence_number": 8,
+            "station_code": "PND",
+            "station_name": "PENDRA ROAD"
+        },
+        {
+            "arrival_time": "11:50",
+            "day_of_journey": 2,
+            "departure_time": "12:00",
+            "distance_km": 1119.0,
+            "sequence_number": 9,
+            "station_code": "USL",
+            "station_name": "USLAPUR"
+        },
+        {
+            "arrival_time": "12:44",
+            "day_of_journey": 2,
+            "departure_time": "12:46",
+            "distance_km": 1171.0,
+            "sequence_number": 10,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 2,
+            "departure_time": "13:55",
+            "distance_km": 1235.0,
+            "sequence_number": 11,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1272.0,
+            "sequence_number": 12,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        }
+    ],
+    "train_name": "CG S KRANTI",
+    "train_number": "12824",
+    "type": "SUPERFAST"
+}

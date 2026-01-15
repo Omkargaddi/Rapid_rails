@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12155.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12155-RKMP-NZM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "RKMP",
+            "station_name": "RANI KAMALAPATI"
+        },
+        {
+            "arrival_time": "22:53",
+            "day_of_journey": 1,
+            "departure_time": "22:58",
+            "distance_km": 6.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "23:33",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 59.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BHS",
+            "station_name": "VIDISHA"
+        },
+        {
+            "arrival_time": "23:57",
+            "day_of_journey": 1,
+            "departure_time": "23:59",
+            "distance_km": 99.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BAQ",
+            "station_name": "GANJ BASODA"
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 2,
+            "departure_time": "00:47",
+            "distance_km": 144.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "02:27",
+            "day_of_journey": 2,
+            "departure_time": "02:32",
+            "distance_km": 296.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 2,
+            "departure_time": "03:32",
+            "distance_km": 394.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:02",
+            "distance_km": 433.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "MRA",
+            "station_name": "MORENA"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": "05:17",
+            "distance_km": 513.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 699.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        }
+    ],
+    "train_name": "RKMP NZM SF EXP",
+    "train_number": "12155",
+    "type": "SUPERFAST "
+}

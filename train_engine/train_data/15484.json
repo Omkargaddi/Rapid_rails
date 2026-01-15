@@ -1,0 +1,342 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15484.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15484-DLI-APDJ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "07:51",
+            "day_of_journey": 1,
+            "departure_time": "07:53",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "DSA",
+            "station_name": "DELHI SHAHDARA"
+        },
+        {
+            "arrival_time": "08:16",
+            "day_of_journey": 1,
+            "departure_time": "08:18",
+            "distance_km": 20.0,
+            "sequence_number": 3,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 68.0,
+            "sequence_number": 4,
+            "station_code": "CHL",
+            "station_name": "CHOLA"
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 1,
+            "departure_time": "09:07",
+            "distance_km": 83.0,
+            "sequence_number": 5,
+            "station_code": "KRJ",
+            "station_name": "KHURJA JN"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 1,
+            "departure_time": "09:52",
+            "distance_km": 126.0,
+            "sequence_number": 6,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "10:08",
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 156.0,
+            "sequence_number": 7,
+            "station_code": "HRS",
+            "station_name": "HATHRAS JN"
+        },
+        {
+            "arrival_time": "11:03",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 204.0,
+            "sequence_number": 8,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "11:28",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 220.0,
+            "sequence_number": 9,
+            "station_code": "FZD",
+            "station_name": "FIROZABAD"
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 1,
+            "departure_time": "11:47",
+            "distance_km": 240.0,
+            "sequence_number": 10,
+            "station_code": "SKB",
+            "station_name": "SHIKOHABAD JN"
+        },
+        {
+            "arrival_time": "12:18",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 296.0,
+            "sequence_number": 11,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "12:59",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 352.0,
+            "sequence_number": 12,
+            "station_code": "PHD",
+            "station_name": "PHAPHUND"
+        },
+        {
+            "arrival_time": "06:12",
+            "day_of_journey": 2,
+            "departure_time": "06:14",
+            "distance_km": 1195.0,
+            "sequence_number": 36,
+            "station_code": "NNR",
+            "station_name": "NARAYANPUR"
+        },
+        {
+            "arrival_time": "06:23",
+            "day_of_journey": 2,
+            "departure_time": "06:25",
+            "distance_km": 1203.0,
+            "sequence_number": 37,
+            "station_code": "THB",
+            "station_name": "THANA BIHPUR JN"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 1219.0,
+            "sequence_number": 38,
+            "station_code": "NNA",
+            "station_name": "NAUGACHIA"
+        },
+        {
+            "arrival_time": "07:32",
+            "day_of_journey": 2,
+            "departure_time": "07:34",
+            "distance_km": 1236.0,
+            "sequence_number": 39,
+            "station_code": "KUE",
+            "station_name": "KURSELA"
+        },
+        {
+            "arrival_time": "08:03",
+            "day_of_journey": 2,
+            "departure_time": "08:05",
+            "distance_km": 1253.0,
+            "sequence_number": 40,
+            "station_code": "CRR",
+            "station_name": "KARAGOLA ROAD"
+        },
+        {
+            "arrival_time": "08:23",
+            "day_of_journey": 2,
+            "departure_time": "08:25",
+            "distance_km": 1264.0,
+            "sequence_number": 41,
+            "station_code": "SMO",
+            "station_name": "SEMAPUR"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 2,
+            "departure_time": "09:20",
+            "distance_km": 1275.0,
+            "sequence_number": 42,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 2,
+            "departure_time": "09:57",
+            "distance_km": 1299.0,
+            "sequence_number": 43,
+            "station_code": "LAV",
+            "station_name": "LABHA"
+        },
+        {
+            "arrival_time": "10:28",
+            "day_of_journey": 2,
+            "departure_time": "10:30",
+            "distance_km": 1319.0,
+            "sequence_number": 44,
+            "station_code": "AZR",
+            "station_name": "AZAMNAGAR ROAD"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 2,
+            "departure_time": "10:52",
+            "distance_km": 1332.0,
+            "sequence_number": 45,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 2,
+            "departure_time": "11:27",
+            "distance_km": 1361.0,
+            "sequence_number": 46,
+            "station_code": "DLK",
+            "station_name": "DALKOLHA"
+        },
+        {
+            "arrival_time": "11:50",
+            "day_of_journey": 2,
+            "departure_time": "11:55",
+            "distance_km": 1389.0,
+            "sequence_number": 47,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 2,
+            "departure_time": "12:27",
+            "distance_km": 1420.0,
+            "sequence_number": 48,
+            "station_code": "AUB",
+            "station_name": "ALUABARI ROAD"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 2,
+            "departure_time": "12:52",
+            "distance_km": 1440.0,
+            "sequence_number": 49,
+            "station_code": "TKG",
+            "station_name": "THAKURGANJ"
+        },
+        {
+            "arrival_time": "13:02",
+            "day_of_journey": 2,
+            "departure_time": "13:03",
+            "distance_km": 1452.0,
+            "sequence_number": 50,
+            "station_code": "GAGA",
+            "station_name": "GALGALIA"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 2,
+            "departure_time": "13:42",
+            "distance_km": 1486.0,
+            "sequence_number": 51,
+            "station_code": "BORA",
+            "station_name": "BAGHDOGRA"
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 2,
+            "departure_time": "14:50",
+            "distance_km": 1496.0,
+            "sequence_number": 52,
+            "station_code": "SGUJ",
+            "station_name": "SILIGURI JN"
+        },
+        {
+            "arrival_time": "16:25",
+            "day_of_journey": 2,
+            "departure_time": "16:30",
+            "distance_km": 1544.0,
+            "sequence_number": 53,
+            "station_code": "NMZ",
+            "station_name": "NEW MAL JN"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 2,
+            "departure_time": "16:52",
+            "distance_km": 1565.0,
+            "sequence_number": 54,
+            "station_code": "NKB",
+            "station_name": "NAGRAKATA"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 2,
+            "departure_time": "17:30",
+            "distance_km": 1588.0,
+            "sequence_number": 55,
+            "station_code": "BNV",
+            "station_name": "BINNAGURI"
+        },
+        {
+            "arrival_time": "17:43",
+            "day_of_journey": 2,
+            "departure_time": "17:45",
+            "distance_km": 1597.0,
+            "sequence_number": 56,
+            "station_code": "DLO",
+            "station_name": "DALGAON"
+        },
+        {
+            "arrival_time": "18:23",
+            "day_of_journey": 2,
+            "departure_time": "18:25",
+            "distance_km": 1622.0,
+            "sequence_number": 57,
+            "station_code": "HSA",
+            "station_name": "HASIMARA"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1657.0,
+            "sequence_number": 58,
+            "station_code": "APDJ",
+            "station_name": "ALIPUR DUAR JN"
+        }
+    ],
+    "train_name": "MAHANANDA EXP",
+    "train_number": "15484",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,224 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12949.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12949-PBR-SRC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PBR",
+            "station_name": "PORBANDAR"
+        },
+        {
+            "arrival_time": "09:41",
+            "day_of_journey": 1,
+            "departure_time": "09:42",
+            "distance_km": 34.0,
+            "sequence_number": 2,
+            "station_code": "WSJ",
+            "station_name": "WANSJALIYA"
+        },
+        {
+            "arrival_time": "10:09",
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 57.0,
+            "sequence_number": 3,
+            "station_code": "JDH",
+            "station_name": "JAM JODHPUR JN"
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 1,
+            "departure_time": "10:39",
+            "distance_km": 92.0,
+            "sequence_number": 4,
+            "station_code": "UA",
+            "station_name": "UPLETA"
+        },
+        {
+            "arrival_time": "11:10",
+            "day_of_journey": 1,
+            "departure_time": "11:12",
+            "distance_km": 124.0,
+            "sequence_number": 5,
+            "station_code": "JLR",
+            "station_name": "JETALSAR JN"
+        },
+        {
+            "arrival_time": "11:46",
+            "day_of_journey": 1,
+            "departure_time": "11:47",
+            "distance_km": 160.0,
+            "sequence_number": 6,
+            "station_code": "GDL",
+            "station_name": "GONDAL"
+        },
+        {
+            "arrival_time": "10:15",
+            "day_of_journey": 2,
+            "departure_time": "10:20",
+            "distance_km": 1403.0,
+            "sequence_number": 24,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "11:53",
+            "day_of_journey": 2,
+            "departure_time": "11:55",
+            "distance_km": 1533.0,
+            "sequence_number": 25,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "14:10",
+            "day_of_journey": 2,
+            "departure_time": "14:15",
+            "distance_km": 1669.0,
+            "sequence_number": 26,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 2,
+            "departure_time": "14:55",
+            "distance_km": 1705.0,
+            "sequence_number": 27,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 2,
+            "departure_time": "16:50",
+            "distance_km": 1821.0,
+            "sequence_number": 28,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "17:33",
+            "day_of_journey": 2,
+            "departure_time": "17:35",
+            "distance_km": 1873.0,
+            "sequence_number": 29,
+            "station_code": "CPH",
+            "station_name": "CHAMPA"
+        },
+        {
+            "arrival_time": "20:03",
+            "day_of_journey": 2,
+            "departure_time": "20:05",
+            "distance_km": 2025.0,
+            "sequence_number": 30,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "21:22",
+            "day_of_journey": 2,
+            "departure_time": "21:30",
+            "distance_km": 2127.0,
+            "sequence_number": 31,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 2,
+            "departure_time": "23:02",
+            "distance_km": 2228.0,
+            "sequence_number": 32,
+            "station_code": "CKP",
+            "station_name": "CHAKARADHARPUR"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 3,
+            "departure_time": "01:05",
+            "distance_km": 2348.0,
+            "sequence_number": 33,
+            "station_code": "PRR",
+            "station_name": "PURULIA JN."
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 3,
+            "departure_time": "02:05",
+            "distance_km": 2387.0,
+            "sequence_number": 34,
+            "station_code": "ADRA",
+            "station_name": "ADRA"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 3,
+            "departure_time": "02:52",
+            "distance_km": 2440.0,
+            "sequence_number": 35,
+            "station_code": "BQA",
+            "station_name": "BANKURA"
+        },
+        {
+            "arrival_time": "03:11",
+            "day_of_journey": 3,
+            "departure_time": "03:12",
+            "distance_km": 2470.0,
+            "sequence_number": 36,
+            "station_code": "VSU",
+            "station_name": "BISHNUPUR"
+        },
+        {
+            "arrival_time": "04:23",
+            "day_of_journey": 3,
+            "departure_time": "04:25",
+            "distance_km": 2543.0,
+            "sequence_number": 37,
+            "station_code": "MDN",
+            "station_name": "MIDNAPORE"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 3,
+            "departure_time": "04:55",
+            "distance_km": 2555.0,
+            "sequence_number": 38,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2665.0,
+            "sequence_number": 39,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        }
+    ],
+    "train_name": "KAVIGURU EXP",
+    "train_number": "12949",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,258 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16231.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16231-CUPJ-MYS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CUPJ",
+            "station_name": "CUDDALORE PORT JN."
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 1,
+            "departure_time": "17:02",
+            "distance_km": 38.0,
+            "sequence_number": 2,
+            "station_code": "CDM",
+            "station_name": "CHIDAMBARAM"
+        },
+        {
+            "arrival_time": "17:17",
+            "day_of_journey": 1,
+            "departure_time": "17:18",
+            "distance_km": 55.0,
+            "sequence_number": 3,
+            "station_code": "SY",
+            "station_name": "SIRKAZHI"
+        },
+        {
+            "arrival_time": "17:47",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 75.0,
+            "sequence_number": 4,
+            "station_code": "MV",
+            "station_name": "MAYILADUTURAI JN"
+        },
+        {
+            "arrival_time": "18:03",
+            "day_of_journey": 1,
+            "departure_time": "18:04",
+            "distance_km": 84.0,
+            "sequence_number": 5,
+            "station_code": "KTM",
+            "station_name": "KUTTALAM"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 1,
+            "departure_time": "18:16",
+            "distance_km": 95.0,
+            "sequence_number": 6,
+            "station_code": "ADT",
+            "station_name": "ADUTURAI"
+        },
+        {
+            "arrival_time": "18:26",
+            "day_of_journey": 1,
+            "departure_time": "18:28",
+            "distance_km": 106.0,
+            "sequence_number": 7,
+            "station_code": "KMU",
+            "station_name": "KUMBAKONAM"
+        },
+        {
+            "arrival_time": "18:39",
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 121.0,
+            "sequence_number": 8,
+            "station_code": "PML",
+            "station_name": "PAPANASAM"
+        },
+        {
+            "arrival_time": "19:03",
+            "day_of_journey": 1,
+            "departure_time": "19:05",
+            "distance_km": 146.0,
+            "sequence_number": 9,
+            "station_code": "TJ",
+            "station_name": "THANJAVUR JN."
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:21",
+            "distance_km": 163.0,
+            "sequence_number": 10,
+            "station_code": "BAL",
+            "station_name": "BUDALUR"
+        },
+        {
+            "arrival_time": "19:37",
+            "day_of_journey": 1,
+            "departure_time": "19:38",
+            "distance_km": 185.0,
+            "sequence_number": 11,
+            "station_code": "TRB",
+            "station_name": "TIRUVERUMBUR"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 195.0,
+            "sequence_number": 12,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 1,
+            "departure_time": "20:42",
+            "distance_km": 199.0,
+            "sequence_number": 13,
+            "station_code": "TP",
+            "station_name": "TIRUCHCHIRAPPALLI FORT"
+        },
+        {
+            "arrival_time": "21:19",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 232.0,
+            "sequence_number": 14,
+            "station_code": "KLT",
+            "station_name": "KULITALAI"
+        },
+        {
+            "arrival_time": "21:58",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 271.0,
+            "sequence_number": 15,
+            "station_code": "KRR",
+            "station_name": "KARUR JN."
+        },
+        {
+            "arrival_time": "22:19",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 286.0,
+            "sequence_number": 16,
+            "station_code": "PGR",
+            "station_name": "PUGALUR"
+        },
+        {
+            "arrival_time": "23:25",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 337.0,
+            "sequence_number": 17,
+            "station_code": "Point(2)",
+            "station_name": "ERODE JN ED Train Reversal"
+        },
+        {
+            "arrival_time": "00:27",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 396.0,
+            "sequence_number": 18,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "02:06",
+            "day_of_journey": 2,
+            "departure_time": "02:07",
+            "distance_km": 463.0,
+            "sequence_number": 19,
+            "station_code": "DPJ",
+            "station_name": "DHARMAPURI"
+        },
+        {
+            "arrival_time": "03:33",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 555.0,
+            "sequence_number": 20,
+            "station_code": "HSRA",
+            "station_name": "HOSUR"
+        },
+        {
+            "arrival_time": "04:04",
+            "day_of_journey": 2,
+            "departure_time": "04:05",
+            "distance_km": 590.0,
+            "sequence_number": 21,
+            "station_code": "CRLM",
+            "station_name": "KARMELARAM"
+        },
+        {
+            "arrival_time": "04:59",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 610.0,
+            "sequence_number": 22,
+            "station_code": "BNC",
+            "station_name": "BANGALORE CANT"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 614.0,
+            "sequence_number": 23,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "05:59",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 626.0,
+            "sequence_number": 24,
+            "station_code": "KGI",
+            "station_name": "KENGERI"
+        },
+        {
+            "arrival_time": "07:03",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 707.0,
+            "sequence_number": 25,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 752.0,
+            "sequence_number": 26,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        }
+    ],
+    "train_name": "MYSURU EXPRESS",
+    "train_number": "16231",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,165 @@
+{
+    "classes_available": [
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12187.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12187-JBP-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "20:27",
+            "day_of_journey": 1,
+            "departure_time": "20:28",
+            "distance_km": 53.0,
+            "sequence_number": 2,
+            "station_code": "SRID",
+            "station_name": "SRIDHAM"
+        },
+        {
+            "arrival_time": "20:48",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 84.0,
+            "sequence_number": 3,
+            "station_code": "NU",
+            "station_name": "NARSINGHPUR"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 128.0,
+            "sequence_number": 4,
+            "station_code": "GAR",
+            "station_name": "GADARWARA"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 178.0,
+            "sequence_number": 5,
+            "station_code": "PPI",
+            "station_name": "PIPARIYA"
+        },
+        {
+            "arrival_time": "23:20",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 245.0,
+            "sequence_number": 6,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "00:15",
+            "day_of_journey": 2,
+            "departure_time": "00:17",
+            "distance_km": 321.0,
+            "sequence_number": 7,
+            "station_code": "HD",
+            "station_name": "HARDA"
+        },
+        {
+            "arrival_time": "02:02",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 428.0,
+            "sequence_number": 8,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 551.0,
+            "sequence_number": 9,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": "04:37",
+            "distance_km": 575.0,
+            "sequence_number": 10,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 2,
+            "departure_time": "06:40",
+            "distance_km": 735.0,
+            "sequence_number": 11,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "07:42",
+            "day_of_journey": 2,
+            "departure_time": "07:45",
+            "distance_km": 808.0,
+            "sequence_number": 12,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 2,
+            "departure_time": "09:15",
+            "distance_km": 859.0,
+            "sequence_number": 13,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "10:57",
+            "day_of_journey": 2,
+            "departure_time": "11:00",
+            "distance_km": 942.0,
+            "sequence_number": 14,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "11:52",
+            "day_of_journey": 2,
+            "departure_time": "11:55",
+            "distance_km": 986.0,
+            "sequence_number": 15,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 995.0,
+            "sequence_number": 16,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "GARIBRATH EXP",
+    "train_number": "12187",
+    "type": "GARIB RATH"
+}

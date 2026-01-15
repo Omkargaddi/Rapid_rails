@@ -1,0 +1,186 @@
+{
+    "classes_available": [
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13420.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13420-MFP-BGP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "23:28",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "DOL",
+            "station_name": "DHOLI"
+        },
+        {
+            "arrival_time": "23:41",
+            "day_of_journey": 1,
+            "departure_time": "23:43",
+            "distance_km": 38.0,
+            "sequence_number": 3,
+            "station_code": "KRBP",
+            "station_name": "KHUDIRAM BOSE PUSA"
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 52.0,
+            "sequence_number": 4,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "00:33",
+            "day_of_journey": 2,
+            "departure_time": "00:35",
+            "distance_km": 75.0,
+            "sequence_number": 5,
+            "station_code": "DSS",
+            "station_name": "DALSINGH SARAI"
+        },
+        {
+            "arrival_time": "00:47",
+            "day_of_journey": 2,
+            "departure_time": "00:49",
+            "distance_km": 86.0,
+            "sequence_number": 6,
+            "station_code": "BCA",
+            "station_name": "BACHWARA JN"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 103.0,
+            "sequence_number": 7,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 2,
+            "departure_time": "02:27",
+            "distance_km": 123.0,
+            "sequence_number": 8,
+            "station_code": "BRYA",
+            "station_name": "BARHIYA"
+        },
+        {
+            "arrival_time": "02:42",
+            "day_of_journey": 2,
+            "departure_time": "02:44",
+            "distance_km": 139.0,
+            "sequence_number": 9,
+            "station_code": "LKR",
+            "station_name": "LUCKEESARAI JN"
+        },
+        {
+            "arrival_time": "03:08",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 140.0,
+            "sequence_number": 10,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "03:36",
+            "day_of_journey": 2,
+            "departure_time": "03:38",
+            "distance_km": 163.0,
+            "sequence_number": 11,
+            "station_code": "AHA",
+            "station_name": "ABHAIPUR"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "03:51",
+            "distance_km": 173.0,
+            "sequence_number": 12,
+            "station_code": "DRH",
+            "station_name": "DHARHARA"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 184.0,
+            "sequence_number": 13,
+            "station_code": "JMP",
+            "station_name": "JAMALPUR JN"
+        },
+        {
+            "arrival_time": "04:33",
+            "day_of_journey": 2,
+            "departure_time": "04:34",
+            "distance_km": 195.0,
+            "sequence_number": 14,
+            "station_code": "BUP",
+            "station_name": "BARIARPUR"
+        },
+        {
+            "arrival_time": "04:41",
+            "day_of_journey": 2,
+            "departure_time": "04:42",
+            "distance_km": 200.0,
+            "sequence_number": 15,
+            "station_code": "KPRD",
+            "station_name": "KALYANPUR ROAD"
+        },
+        {
+            "arrival_time": "04:54",
+            "day_of_journey": 2,
+            "departure_time": "04:58",
+            "distance_km": 213.0,
+            "sequence_number": 16,
+            "station_code": "SGG",
+            "station_name": "SULTANGANJ"
+        },
+        {
+            "arrival_time": "05:09",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 223.0,
+            "sequence_number": 17,
+            "station_code": "AKN",
+            "station_name": "AKBARNAGAR"
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 237.0,
+            "sequence_number": 18,
+            "station_code": "BGP",
+            "station_name": "BHAGALPUR"
+        }
+    ],
+    "train_name": "JANSEWA EXPRESS",
+    "train_number": "13420",
+    "type": "MAIL EXPRESS"
+}

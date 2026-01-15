@@ -1,0 +1,207 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13145.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13145-KOAA-RDP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        },
+        {
+            "arrival_time": "21:25",
+            "day_of_journey": 1,
+            "departure_time": "21:27",
+            "distance_km": 34.0,
+            "sequence_number": 2,
+            "station_code": "NH",
+            "station_name": "NAIHATI JN"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 43.0,
+            "sequence_number": 3,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "22:23",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 85.0,
+            "sequence_number": 4,
+            "station_code": "ABKA",
+            "station_name": "AMBIKA KALNA"
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 109.0,
+            "sequence_number": 5,
+            "station_code": "NDAE",
+            "station_name": "NABADWIP DHAM"
+        },
+        {
+            "arrival_time": "23:21",
+            "day_of_journey": 1,
+            "departure_time": "23:26",
+            "distance_km": 148.0,
+            "sequence_number": 6,
+            "station_code": "KWAE",
+            "station_name": "KATWA"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:41",
+            "distance_km": 165.0,
+            "sequence_number": 7,
+            "station_code": "SALE",
+            "station_name": "SALAR"
+        },
+        {
+            "arrival_time": "00:07",
+            "day_of_journey": 2,
+            "departure_time": "00:09",
+            "distance_km": 206.0,
+            "sequence_number": 8,
+            "station_code": "KGLE",
+            "station_name": "KHAGRAGHAT ROAD"
+        },
+        {
+            "arrival_time": "00:23",
+            "day_of_journey": 2,
+            "departure_time": "00:28",
+            "distance_km": 221.0,
+            "sequence_number": 9,
+            "station_code": "AZ",
+            "station_name": "AZIMGANJ JN"
+        },
+        {
+            "arrival_time": "01:21",
+            "day_of_journey": 2,
+            "departure_time": "01:23",
+            "distance_km": 256.0,
+            "sequence_number": 10,
+            "station_code": "JRLE",
+            "station_name": "JANGIPUR ROAD"
+        },
+        {
+            "arrival_time": "02:09",
+            "day_of_journey": 2,
+            "departure_time": "02:14",
+            "distance_km": 303.0,
+            "sequence_number": 11,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 338.0,
+            "sequence_number": 12,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:02",
+            "distance_km": 373.0,
+            "sequence_number": 13,
+            "station_code": "SM",
+            "station_name": "SAMSI"
+        },
+        {
+            "arrival_time": "04:13",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 383.0,
+            "sequence_number": 14,
+            "station_code": "BKRD",
+            "station_name": "BHALUKA ROAD F"
+        },
+        {
+            "arrival_time": "04:25",
+            "day_of_journey": 2,
+            "departure_time": "04:27",
+            "distance_km": 393.0,
+            "sequence_number": 15,
+            "station_code": "HCR",
+            "station_name": "HARISCHANDRPUR"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 413.0,
+            "sequence_number": 16,
+            "station_code": "AZR",
+            "station_name": "AZAMNAGAR ROAD"
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 2,
+            "departure_time": "05:05",
+            "distance_km": 426.0,
+            "sequence_number": 17,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 447.0,
+            "sequence_number": 18,
+            "station_code": "RGJ",
+            "station_name": "RAIGANJ"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": "07:02",
+            "distance_km": 467.0,
+            "sequence_number": 19,
+            "station_code": "KAJ",
+            "station_name": "KALIYANGANJ"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 479.0,
+            "sequence_number": 20,
+            "station_code": "RDP",
+            "station_name": "RADHIKAPUR"
+        }
+    ],
+    "train_name": "KOAA RDP EXPRES",
+    "train_number": "13145",
+    "type": "MAIL EXPRESS"
+}

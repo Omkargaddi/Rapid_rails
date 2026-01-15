@@ -1,0 +1,123 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15031.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15031-GKP-LJN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "06:08",
+            "day_of_journey": 1,
+            "departure_time": "06:10",
+            "distance_km": 18.0,
+            "sequence_number": 2,
+            "station_code": "SWA",
+            "station_name": "SAHJANWA"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 1,
+            "departure_time": "06:27",
+            "distance_km": 35.0,
+            "sequence_number": 3,
+            "station_code": "KLD",
+            "station_name": "KHALILABAD"
+        },
+        {
+            "arrival_time": "06:48",
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 64.0,
+            "sequence_number": 4,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 1,
+            "departure_time": "07:17",
+            "distance_km": 95.0,
+            "sequence_number": 5,
+            "station_code": "BV",
+            "station_name": "BABHNAN"
+        },
+        {
+            "arrival_time": "07:44",
+            "day_of_journey": 1,
+            "departure_time": "07:46",
+            "distance_km": 126.0,
+            "sequence_number": 6,
+            "station_code": "MUR",
+            "station_name": "MANKAPUR JN"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 1,
+            "departure_time": "08:23",
+            "distance_km": 154.0,
+            "sequence_number": 7,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 182.0,
+            "sequence_number": 8,
+            "station_code": "CLJ",
+            "station_name": "COLONELGANJ"
+        },
+        {
+            "arrival_time": "10:08",
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 242.0,
+            "sequence_number": 9,
+            "station_code": "BBK",
+            "station_name": "BARABANKI JN"
+        },
+        {
+            "arrival_time": "10:42",
+            "day_of_journey": 1,
+            "departure_time": "10:44",
+            "distance_km": 267.0,
+            "sequence_number": 10,
+            "station_code": "BNZ",
+            "station_name": "BADSHAHNAGAR"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 278.0,
+            "sequence_number": 11,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        }
+    ],
+    "train_name": "LJN INTERCITY",
+    "train_number": "15031",
+    "type": "MAIL EXPRESS"
+}

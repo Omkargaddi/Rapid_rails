@@ -1,0 +1,342 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12839.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12839-HWH-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 116.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "02:45",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 237.0,
+            "sequence_number": 3,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "03:52",
+            "distance_km": 296.0,
+            "sequence_number": 4,
+            "station_code": "BHC",
+            "station_name": "BHADRAKH"
+        },
+        {
+            "arrival_time": "04:23",
+            "day_of_journey": 2,
+            "departure_time": "04:25",
+            "distance_km": 339.0,
+            "sequence_number": 5,
+            "station_code": "JJKR",
+            "station_name": "JAJPUR K ROAD"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": "05:25",
+            "distance_km": 411.0,
+            "sequence_number": 6,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "05:55",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 439.0,
+            "sequence_number": 7,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 2,
+            "departure_time": "06:50",
+            "distance_km": 458.0,
+            "sequence_number": 8,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 528.0,
+            "sequence_number": 9,
+            "station_code": "BALU",
+            "station_name": "BALUGAN"
+        },
+        {
+            "arrival_time": "08:08",
+            "day_of_journey": 2,
+            "departure_time": "08:10",
+            "distance_km": 583.0,
+            "sequence_number": 10,
+            "station_code": "CAP",
+            "station_name": "CHATRAPUR"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": "08:25",
+            "distance_km": 604.0,
+            "sequence_number": 11,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 2,
+            "departure_time": "08:55",
+            "distance_km": 629.0,
+            "sequence_number": 12,
+            "station_code": "IPM",
+            "station_name": "ICHCHPURAM"
+        },
+        {
+            "arrival_time": "09:13",
+            "day_of_journey": 2,
+            "departure_time": "09:15",
+            "distance_km": 647.0,
+            "sequence_number": 13,
+            "station_code": "SPT",
+            "station_name": "SOMPETA"
+        },
+        {
+            "arrival_time": "10:22",
+            "day_of_journey": 2,
+            "departure_time": "10:24",
+            "distance_km": 678.0,
+            "sequence_number": 14,
+            "station_code": "PSA",
+            "station_name": "PALASA"
+        },
+        {
+            "arrival_time": "10:53",
+            "day_of_journey": 2,
+            "departure_time": "10:55",
+            "distance_km": 704.0,
+            "sequence_number": 15,
+            "station_code": "NWP",
+            "station_name": "NAUPADA JN"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 2,
+            "departure_time": "11:32",
+            "distance_km": 751.0,
+            "sequence_number": 16,
+            "station_code": "CHE",
+            "station_name": "SRIKAKULAM ROAD"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 2,
+            "departure_time": "12:00",
+            "distance_km": 790.0,
+            "sequence_number": 17,
+            "station_code": "CPP",
+            "station_name": "CHIPURUPALLE"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 2,
+            "departure_time": "12:40",
+            "distance_km": 820.0,
+            "sequence_number": 18,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 2,
+            "departure_time": "14:10",
+            "distance_km": 881.0,
+            "sequence_number": 19,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        },
+        {
+            "arrival_time": "14:59",
+            "day_of_journey": 2,
+            "departure_time": "15:00",
+            "distance_km": 914.0,
+            "sequence_number": 20,
+            "station_code": "AKP",
+            "station_name": "ANAKAPALLE"
+        },
+        {
+            "arrival_time": "15:44",
+            "day_of_journey": 2,
+            "departure_time": "15:45",
+            "distance_km": 978.0,
+            "sequence_number": 21,
+            "station_code": "TUNI",
+            "station_name": "TUNI"
+        },
+        {
+            "arrival_time": "16:09",
+            "day_of_journey": 2,
+            "departure_time": "16:10",
+            "distance_km": 995.0,
+            "sequence_number": 22,
+            "station_code": "ANV",
+            "station_name": "ANNAVARAM"
+        },
+        {
+            "arrival_time": "16:44",
+            "day_of_journey": 2,
+            "departure_time": "16:45",
+            "distance_km": 1032.0,
+            "sequence_number": 23,
+            "station_code": "SLO",
+            "station_name": "SAMALKOT JN"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 2,
+            "departure_time": "17:30",
+            "distance_km": 1082.0,
+            "sequence_number": 24,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "17:58",
+            "day_of_journey": 2,
+            "departure_time": "18:00",
+            "distance_km": 1104.0,
+            "sequence_number": 25,
+            "station_code": "NDD",
+            "station_name": "NIDADAVOLU JN"
+        },
+        {
+            "arrival_time": "18:29",
+            "day_of_journey": 2,
+            "departure_time": "18:30",
+            "distance_km": 1124.0,
+            "sequence_number": 26,
+            "station_code": "TDD",
+            "station_name": "TADEPALLIGUDEM"
+        },
+        {
+            "arrival_time": "18:59",
+            "day_of_journey": 2,
+            "departure_time": "19:00",
+            "distance_km": 1172.0,
+            "sequence_number": 27,
+            "station_code": "EE",
+            "station_name": "ELURU"
+        },
+        {
+            "arrival_time": "20:10",
+            "day_of_journey": 2,
+            "departure_time": "20:20",
+            "distance_km": 1231.0,
+            "sequence_number": 28,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "20:49",
+            "day_of_journey": 2,
+            "departure_time": "20:50",
+            "distance_km": 1263.0,
+            "sequence_number": 29,
+            "station_code": "TEL",
+            "station_name": "TENALI JN"
+        },
+        {
+            "arrival_time": "21:24",
+            "day_of_journey": 2,
+            "departure_time": "21:25",
+            "distance_km": 1305.0,
+            "sequence_number": 30,
+            "station_code": "BPP",
+            "station_name": "BAPATLA"
+        },
+        {
+            "arrival_time": "21:44",
+            "day_of_journey": 2,
+            "departure_time": "21:45",
+            "distance_km": 1320.0,
+            "sequence_number": 31,
+            "station_code": "CLX",
+            "station_name": "CHIRALA"
+        },
+        {
+            "arrival_time": "22:24",
+            "day_of_journey": 2,
+            "departure_time": "22:25",
+            "distance_km": 1370.0,
+            "sequence_number": 32,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "00:04",
+            "day_of_journey": 3,
+            "departure_time": "00:05",
+            "distance_km": 1486.0,
+            "sequence_number": 33,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "00:48",
+            "day_of_journey": 3,
+            "departure_time": "00:50",
+            "distance_km": 1524.0,
+            "sequence_number": 34,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1661.0,
+            "sequence_number": 35,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "CHENNAI MAIL",
+    "train_number": "12839",
+    "type": "SUPERFAST"
+}

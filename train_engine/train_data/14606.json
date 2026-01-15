@@ -1,0 +1,171 @@
+{
+    "classes_available": [
+        "1A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14606.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "14606-JAT-YNRK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 100.0,
+            "sequence_number": 2,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "01:40",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 212.0,
+            "sequence_number": 3,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 265.0,
+            "sequence_number": 4,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "03:44",
+            "day_of_journey": 2,
+            "departure_time": "03:46",
+            "distance_km": 307.0,
+            "sequence_number": 5,
+            "station_code": "KNN",
+            "station_name": "KHANNA"
+        },
+        {
+            "arrival_time": "04:02",
+            "day_of_journey": 2,
+            "departure_time": "04:04",
+            "distance_km": 325.0,
+            "sequence_number": 6,
+            "station_code": "SIR",
+            "station_name": "SIRHIND JN"
+        },
+        {
+            "arrival_time": "04:19",
+            "day_of_journey": 2,
+            "departure_time": "04:21",
+            "distance_km": 350.0,
+            "sequence_number": 7,
+            "station_code": "RPJ",
+            "station_name": "RAJPURA JN"
+        },
+        {
+            "arrival_time": "04:41",
+            "day_of_journey": 2,
+            "departure_time": "04:43",
+            "distance_km": 371.0,
+            "sequence_number": 8,
+            "station_code": "UBC",
+            "station_name": "AMBALA CITY"
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 378.0,
+            "sequence_number": 9,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 429.0,
+            "sequence_number": 10,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": "06:35",
+            "distance_km": 459.0,
+            "sequence_number": 11,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 535.0,
+            "sequence_number": 12,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 2,
+            "departure_time": "09:07",
+            "distance_km": 540.0,
+            "sequence_number": 13,
+            "station_code": "MOTC",
+            "station_name": "MOTICHUR"
+        },
+        {
+            "arrival_time": "09:28",
+            "day_of_journey": 2,
+            "departure_time": "09:30",
+            "distance_km": 547.0,
+            "sequence_number": 14,
+            "station_code": "RWL",
+            "station_name": "RAIWALA"
+        },
+        {
+            "arrival_time": "09:43",
+            "day_of_journey": 2,
+            "departure_time": "09:45",
+            "distance_km": 553.0,
+            "sequence_number": 15,
+            "station_code": "VRH",
+            "station_name": "VIRBHADRA"
+        },
+        {
+            "arrival_time": "10:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 558.0,
+            "sequence_number": 16,
+            "station_code": "YNRK",
+            "station_name": "YOG NAGARI RISHIKESH"
+        }
+    ],
+    "train_name": "JAT YNRK EXP",
+    "train_number": "14606",
+    "type": "MAIL EXPRESS"
+}

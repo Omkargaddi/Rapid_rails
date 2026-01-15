@@ -1,0 +1,164 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12458.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12458-BKN-DEE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BKN",
+            "station_name": "BIKANER JN"
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 27.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "NPS",
+            "station_name": "NAPASAR"
+        },
+        {
+            "arrival_time": "23:02",
+            "day_of_journey": 1,
+            "departure_time": "23:04",
+            "distance_km": 49.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "SDF",
+            "station_name": "SUDSAR"
+        },
+        {
+            "arrival_time": "23:22",
+            "day_of_journey": 1,
+            "departure_time": "23:24",
+            "distance_km": 73.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SDGH",
+            "station_name": "SRI DUNGARGARH"
+        },
+        {
+            "arrival_time": "23:59",
+            "day_of_journey": 2,
+            "departure_time": "00:01",
+            "distance_km": 120.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "RJR",
+            "station_name": "RAJALDESAR"
+        },
+        {
+            "arrival_time": "00:17",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 137.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "RTGH",
+            "station_name": "RATANGARH JN"
+        },
+        {
+            "arrival_time": "00:55",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 180.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "CUR",
+            "station_name": "CHURU"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 238.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "SDLP",
+            "station_name": "SADULPUR JN"
+        },
+        {
+            "arrival_time": "02:35",
+            "day_of_journey": 2,
+            "departure_time": "02:40",
+            "distance_km": 287.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "LHU",
+            "station_name": "LOHARU"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:22",
+            "distance_km": 329.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "MHRG",
+            "station_name": "MAHENDRAGARH"
+        },
+        {
+            "arrival_time": "04:22",
+            "day_of_journey": 2,
+            "departure_time": "04:25",
+            "distance_km": 379.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "RE",
+            "station_name": "REWARI JN."
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 2,
+            "departure_time": "05:07",
+            "distance_km": 430.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "GGN",
+            "station_name": "GURGAON"
+        },
+        {
+            "arrival_time": "05:34",
+            "day_of_journey": 2,
+            "departure_time": "05:36",
+            "distance_km": 447.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "DEC",
+            "station_name": "DELHI CANTT"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 457.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        }
+    ],
+    "train_name": "BKN DEE EXP",
+    "train_number": "12458",
+    "type": "SUPERFAST "
+}

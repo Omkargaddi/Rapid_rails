@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19610.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "19610-YNRK-UDZ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "YNRK",
+            "station_name": "YOG NAGARI RISHIKESH"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:12",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "VRH",
+            "station_name": "VIRBHADRA"
+        },
+        {
+            "arrival_time": "18:26",
+            "day_of_journey": 1,
+            "departure_time": "18:28",
+            "distance_km": 11.0,
+            "sequence_number": 3,
+            "station_code": "RWL",
+            "station_name": "RAIWALA"
+        },
+        {
+            "arrival_time": "18:42",
+            "day_of_journey": 1,
+            "departure_time": "18:44",
+            "distance_km": 18.0,
+            "sequence_number": 4,
+            "station_code": "MOTC",
+            "station_name": "MOTICHUR"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:03",
+            "distance_km": 22.0,
+            "sequence_number": 5,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "19:41",
+            "day_of_journey": 1,
+            "departure_time": "19:43",
+            "distance_km": 64.0,
+            "sequence_number": 6,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 96.0,
+            "sequence_number": 7,
+            "station_code": "TPZ",
+            "station_name": "TAPRI"
+        },
+        {
+            "arrival_time": "20:45",
+            "day_of_journey": 1,
+            "departure_time": "20:47",
+            "distance_km": 116.0,
+            "sequence_number": 8,
+            "station_code": "RPMN",
+            "station_name": "RAMPURMANI HARAN"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 159.0,
+            "sequence_number": 9,
+            "station_code": "SMQL",
+            "station_name": "SHAMLI"
+        },
+        {
+            "arrival_time": "22:07",
+            "day_of_journey": 1,
+            "departure_time": "22:09",
+            "distance_km": 173.0,
+            "sequence_number": 10,
+            "station_code": "KQL",
+            "station_name": "KANDHLA"
+        },
+        {
+            "arrival_time": "22:34",
+            "day_of_journey": 1,
+            "departure_time": "22:36",
+            "distance_km": 198.0,
+            "sequence_number": 11,
+            "station_code": "BTU",
+            "station_name": "BARAUT"
+        },
+        {
+            "arrival_time": "23:39",
+            "day_of_journey": 1,
+            "departure_time": "23:41",
+            "distance_km": 247.0,
+            "sequence_number": 12,
+            "station_code": "DSA",
+            "station_name": "DELHI SHAHDARA"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 2,
+            "departure_time": "14:02",
+            "distance_km": 952.0,
+            "sequence_number": 36,
+            "station_code": "MVJ",
+            "station_name": "MAVLI JN"
+        },
+        {
+            "arrival_time": "14:58",
+            "day_of_journey": 2,
+            "departure_time": "15:00",
+            "distance_km": 990.0,
+            "sequence_number": 37,
+            "station_code": "RPZ",
+            "station_name": "RANA PRATAP NAGAR"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 994.0,
+            "sequence_number": 38,
+            "station_code": "UDZ",
+            "station_name": "UDAIPUR CITY"
+        }
+    ],
+    "train_name": "UDAIPUR EXPRESS",
+    "train_number": "19610",
+    "type": "MAIL EXPRESS"
+}

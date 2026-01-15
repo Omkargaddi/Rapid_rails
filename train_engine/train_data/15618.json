@@ -1,0 +1,133 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15618.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "15618-DLCR-GHY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DLCR",
+            "station_name": "DULLABCHERRA"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 1,
+            "departure_time": "12:27",
+            "distance_km": 29.0,
+            "sequence_number": 2,
+            "station_code": "BRGM",
+            "station_name": "BARAIGRAM JN"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 51.0,
+            "sequence_number": 3,
+            "station_code": "KXJ",
+            "station_name": "KARIMGANJ JN."
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 73.0,
+            "sequence_number": 4,
+            "station_code": "BPB",
+            "station_name": "BADARPUR JN."
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 1,
+            "departure_time": "16:20",
+            "distance_km": 144.0,
+            "sequence_number": 5,
+            "station_code": "NHLG",
+            "station_name": "NEW HAFLONG"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 1,
+            "departure_time": "17:27",
+            "distance_km": 179.0,
+            "sequence_number": 6,
+            "station_code": "MBG",
+            "station_name": "MAIBANG"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:17",
+            "distance_km": 233.0,
+            "sequence_number": 7,
+            "station_code": "MYD",
+            "station_name": "MANDERDISA"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 1,
+            "departure_time": "20:22",
+            "distance_km": 264.0,
+            "sequence_number": 8,
+            "station_code": "LKA",
+            "station_name": "LANKA"
+        },
+        {
+            "arrival_time": "20:36",
+            "day_of_journey": 1,
+            "departure_time": "20:38",
+            "distance_km": 278.0,
+            "sequence_number": 9,
+            "station_code": "HJI",
+            "station_name": "HOJAI"
+        },
+        {
+            "arrival_time": "21:12",
+            "day_of_journey": 1,
+            "departure_time": "21:14",
+            "distance_km": 322.0,
+            "sequence_number": 10,
+            "station_code": "CPK",
+            "station_name": "CHAPARMUKH JN"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:42",
+            "distance_km": 356.0,
+            "sequence_number": 11,
+            "station_code": "JID",
+            "station_name": "JAGI ROAD"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 414.0,
+            "sequence_number": 12,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        }
+    ],
+    "train_name": "DLCR GHY EXPRESS",
+    "train_number": "15618",
+    "type": "MAIL EXPRESS"
+}

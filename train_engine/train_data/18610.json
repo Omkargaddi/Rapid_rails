@@ -1,0 +1,116 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18610.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "18610-LTT-RNC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "17:17",
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "20:35",
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 171.0,
+            "sequence_number": 3,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "21:57",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 244.0,
+            "sequence_number": 4,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 428.0,
+            "sequence_number": 5,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 551.0,
+            "sequence_number": 6,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "03:14",
+            "day_of_journey": 3,
+            "departure_time": "03:16",
+            "distance_km": 1879.0,
+            "sequence_number": 24,
+            "station_code": "CRP",
+            "station_name": "CHANDRAPURA"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 3,
+            "departure_time": "04:00",
+            "distance_km": 1894.0,
+            "sequence_number": 25,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 3,
+            "departure_time": "04:52",
+            "distance_km": 1947.0,
+            "sequence_number": 26,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2010.0,
+            "sequence_number": 27,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        }
+    ],
+    "train_name": "LTT RANCHI EXP",
+    "train_number": "18610",
+    "type": "MAIL EXPRESS"
+}

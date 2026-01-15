@@ -1,0 +1,115 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "LDS",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12109.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12109-CSMT-MMR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "18:28",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "19:07",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 53.0,
+            "sequence_number": 3,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "20:11",
+            "day_of_journey": 1,
+            "departure_time": "20:13",
+            "distance_km": 121.0,
+            "sequence_number": 4,
+            "station_code": "KSRA",
+            "station_name": "KASARA"
+        },
+        {
+            "arrival_time": "20:42",
+            "day_of_journey": 1,
+            "departure_time": "20:47",
+            "distance_km": 136.0,
+            "sequence_number": 5,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "21:23",
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 181.0,
+            "sequence_number": 6,
+            "station_code": "DVL",
+            "station_name": "DEVLALI"
+        },
+        {
+            "arrival_time": "21:32",
+            "day_of_journey": 1,
+            "departure_time": "21:35",
+            "distance_km": 187.0,
+            "sequence_number": 7,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "21:56",
+            "distance_km": 218.0,
+            "sequence_number": 8,
+            "station_code": "NR",
+            "station_name": "NIPHAD"
+        },
+        {
+            "arrival_time": "22:10",
+            "day_of_journey": 1,
+            "departure_time": "22:11",
+            "distance_km": 235.0,
+            "sequence_number": 9,
+            "station_code": "LS",
+            "station_name": "LASALGAON"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 260.0,
+            "sequence_number": 10,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        }
+    ],
+    "train_name": "PANCHAVATI EXP",
+    "train_number": "12109",
+    "type": "SUPERFAST"
+}

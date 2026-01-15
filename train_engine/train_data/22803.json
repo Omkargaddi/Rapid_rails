@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22803.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22803-SHM-SBP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SHM",
+            "station_name": "SHALIMAR"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": "20:52",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "22:22",
+            "day_of_journey": 1,
+            "departure_time": "22:27",
+            "distance_km": 114.0,
+            "sequence_number": 3,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "23:55",
+            "day_of_journey": 1,
+            "departure_time": "23:57",
+            "distance_km": 234.0,
+            "sequence_number": 4,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 2,
+            "departure_time": "00:42",
+            "distance_km": 293.0,
+            "sequence_number": 5,
+            "station_code": "BHC",
+            "station_name": "BHADRAKH"
+        },
+        {
+            "arrival_time": "01:18",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 337.0,
+            "sequence_number": 6,
+            "station_code": "JJKR",
+            "station_name": "JAJPUR K ROAD"
+        },
+        {
+            "arrival_time": "02:45",
+            "day_of_journey": 2,
+            "departure_time": "02:47",
+            "distance_km": 442.0,
+            "sequence_number": 7,
+            "station_code": "DNKL",
+            "station_name": "DHENKANAL"
+        },
+        {
+            "arrival_time": "04:08",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 490.0,
+            "sequence_number": 8,
+            "station_code": "TLHD",
+            "station_name": "TALCHER ROAD"
+        },
+        {
+            "arrival_time": "04:22",
+            "day_of_journey": 2,
+            "departure_time": "04:24",
+            "distance_km": 502.0,
+            "sequence_number": 9,
+            "station_code": "ANGL",
+            "station_name": "ANGUL"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 2,
+            "departure_time": "05:47",
+            "distance_km": 587.0,
+            "sequence_number": 10,
+            "station_code": "RAIR",
+            "station_name": "RAIKAKHOL"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 658.0,
+            "sequence_number": 11,
+            "station_code": "SBP",
+            "station_name": "SAMBALPUR JN."
+        }
+    ],
+    "train_name": "SHM SBP SUF EXP",
+    "train_number": "22803",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,151 @@
+{
+    "classes_available": [
+        "3E",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12712.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12712-MAS-BZA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        },
+        {
+            "arrival_time": "15:18",
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 82.0,
+            "sequence_number": 2,
+            "station_code": "SPE",
+            "station_name": "SULLURUPETA"
+        },
+        {
+            "arrival_time": "15:43",
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 110.0,
+            "sequence_number": 3,
+            "station_code": "NYP",
+            "station_name": "NAYUDUPETA"
+        },
+        {
+            "arrival_time": "16:13",
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 137.0,
+            "sequence_number": 4,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 176.0,
+            "sequence_number": 5,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "17:18",
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 209.0,
+            "sequence_number": 6,
+            "station_code": "BTTR",
+            "station_name": "BITRAGUNTA"
+        },
+        {
+            "arrival_time": "17:39",
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 226.0,
+            "sequence_number": 7,
+            "station_code": "KVZ",
+            "station_name": "KAVALI"
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 264.0,
+            "sequence_number": 8,
+            "station_code": "SKM",
+            "station_name": "SINGARAYAKONDA"
+        },
+        {
+            "arrival_time": "18:43",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 292.0,
+            "sequence_number": 9,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "19:24",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 341.0,
+            "sequence_number": 10,
+            "station_code": "CLX",
+            "station_name": "CHIRALA"
+        },
+        {
+            "arrival_time": "19:39",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 356.0,
+            "sequence_number": 11,
+            "station_code": "BPP",
+            "station_name": "BAPATLA"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 377.0,
+            "sequence_number": 12,
+            "station_code": "NDO",
+            "station_name": "NIDUBROLU"
+        },
+        {
+            "arrival_time": "20:18",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 398.0,
+            "sequence_number": 13,
+            "station_code": "TEL",
+            "station_name": "TENALI JN"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 430.0,
+            "sequence_number": 14,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        }
+    ],
+    "train_name": "PINAKINI SF EXP",
+    "train_number": "12712",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,294 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15622.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15622-ANVT-KYQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        },
+        {
+            "arrival_time": "00:21",
+            "day_of_journey": 2,
+            "departure_time": "00:23",
+            "distance_km": 13.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 50.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "02:52",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 154.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 197.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "CH",
+            "station_name": "CHANDAUSI JN"
+        },
+        {
+            "arrival_time": "08:12",
+            "day_of_journey": 2,
+            "departure_time": "08:22",
+            "distance_km": 421.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "STP",
+            "station_name": "SITAPUR JN."
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 2,
+            "departure_time": "11:40",
+            "distance_km": 580.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "12:02",
+            "day_of_journey": 2,
+            "departure_time": "12:04",
+            "distance_km": 608.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "MUR",
+            "station_name": "MANKAPUR JN"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 2,
+            "departure_time": "12:53",
+            "distance_km": 669.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 2,
+            "departure_time": "15:00",
+            "distance_km": 734.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 2,
+            "departure_time": "17:00",
+            "distance_km": 853.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "SV",
+            "station_name": "SIWAN JN"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 2,
+            "departure_time": "18:35",
+            "distance_km": 914.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 2,
+            "departure_time": "20:05",
+            "distance_km": 973.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 2,
+            "departure_time": "22:05",
+            "distance_km": 1061.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "23:01",
+            "day_of_journey": 2,
+            "departure_time": "23:03",
+            "distance_km": 1117.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "KGG",
+            "station_name": "KHAGARIA JN."
+        },
+        {
+            "arrival_time": "00:08",
+            "day_of_journey": 3,
+            "departure_time": "00:10",
+            "distance_km": 1184.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "NNA",
+            "station_name": "NAUGACHIA"
+        },
+        {
+            "arrival_time": "01:40",
+            "day_of_journey": 3,
+            "departure_time": "01:50",
+            "distance_km": 1241.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "02:13",
+            "day_of_journey": 3,
+            "departure_time": "02:15",
+            "distance_km": 1272.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "SRI",
+            "station_name": "SALMARI"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 3,
+            "departure_time": "03:17",
+            "distance_km": 1339.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 3,
+            "departure_time": "05:10",
+            "distance_km": 1426.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 3,
+            "departure_time": "06:52",
+            "distance_km": 1481.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "NMZ",
+            "station_name": "NEW MAL JN"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 3,
+            "departure_time": "07:52",
+            "distance_km": 1525.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "BNV",
+            "station_name": "BINNAGURI"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 3,
+            "departure_time": "09:30",
+            "distance_km": 1594.0,
+            "platform": null,
+            "sequence_number": 23,
+            "station_code": "APDJ",
+            "station_name": "ALIPUR DUAR JN"
+        },
+        {
+            "arrival_time": "10:28",
+            "day_of_journey": 3,
+            "departure_time": "10:30",
+            "distance_km": 1675.0,
+            "platform": null,
+            "sequence_number": 24,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 3,
+            "departure_time": "11:30",
+            "distance_km": 1706.0,
+            "platform": null,
+            "sequence_number": 25,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "12:12",
+            "day_of_journey": 3,
+            "departure_time": "12:14",
+            "distance_km": 1758.0,
+            "platform": null,
+            "sequence_number": 26,
+            "station_code": "GLPT",
+            "station_name": "GOALPARA TOWN"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1882.0,
+            "platform": null,
+            "sequence_number": 27,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        }
+    ],
+    "train_name": "ANVT KYQ EXP",
+    "train_number": "15622",
+    "type": "MAIL EXPRESS "
+}

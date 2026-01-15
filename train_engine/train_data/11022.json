@@ -1,0 +1,163 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11022.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "11022-TEN-DR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        },
+        {
+            "arrival_time": "16:33",
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 65.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "CVP",
+            "station_name": "KOVILPATTI"
+        },
+        {
+            "arrival_time": "16:51",
+            "day_of_journey": 1,
+            "departure_time": "16:53",
+            "distance_km": 86.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "SRT",
+            "station_name": "SATUR"
+        },
+        {
+            "arrival_time": "17:13",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 113.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "VPT",
+            "station_name": "VIRUDUNAGAR JN"
+        },
+        {
+            "arrival_time": "17:55",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 157.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 222.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "20:08",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 296.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "KRR",
+            "station_name": "KARUR JN."
+        },
+        {
+            "arrival_time": "20:44",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 330.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "NMKL",
+            "station_name": "NAMAKKAL"
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 382.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "00:29",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 449.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "DPJ",
+            "station_name": "DHARMAPURI"
+        },
+        {
+            "arrival_time": "01:48",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 541.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "HSRA",
+            "station_name": "HOSUR"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 593.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "SMVB",
+            "station_name": "SMVT BENGALURU"
+        },
+        {
+            "arrival_time": "04:27",
+            "day_of_journey": 3,
+            "departure_time": "04:30",
+            "distance_km": 1766.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1811.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        }
+    ],
+    "train_name": "TEN DR EXPRESS",
+    "train_number": "11022",
+    "type": "MAIL EXPRESS "
+}

@@ -1,0 +1,183 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15666.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15666-MXN-GHY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "MXN",
+            "station_name": "MARIANI JN"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 1,
+            "departure_time": "06:45",
+            "distance_km": 18.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "JTTN",
+            "station_name": "JORHAT TOWN"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 1,
+            "departure_time": "07:22",
+            "distance_km": 46.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BBGN",
+            "station_name": "BARUA BAMUNGAON"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 78.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "GLGT",
+            "station_name": "GOLAGHAT"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 1,
+            "departure_time": "08:22",
+            "distance_km": 85.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "FKG",
+            "station_name": "FURKATING JN."
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 141.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BXJ",
+            "station_name": "BOKAJAN"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 1,
+            "departure_time": "09:35",
+            "distance_km": 155.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "DMV",
+            "station_name": "DIMAPUR"
+        },
+        {
+            "arrival_time": "10:16",
+            "day_of_journey": 1,
+            "departure_time": "10:18",
+            "distance_km": 193.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "DPU",
+            "station_name": "DIPHU"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:10",
+            "distance_km": 224.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "LMG",
+            "station_name": "LUMDING JN"
+        },
+        {
+            "arrival_time": "11:26",
+            "day_of_journey": 1,
+            "departure_time": "11:28",
+            "distance_km": 239.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "LKG",
+            "station_name": "LAMSAKHANG"
+        },
+        {
+            "arrival_time": "11:42",
+            "day_of_journey": 1,
+            "departure_time": "11:44",
+            "distance_km": 255.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "LKA",
+            "station_name": "LANKA"
+        },
+        {
+            "arrival_time": "11:56",
+            "day_of_journey": 1,
+            "departure_time": "11:58",
+            "distance_km": 269.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "HJI",
+            "station_name": "HOJAI"
+        },
+        {
+            "arrival_time": "12:22",
+            "day_of_journey": 1,
+            "departure_time": "12:24",
+            "distance_km": 297.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "KWM",
+            "station_name": "KAMPUR"
+        },
+        {
+            "arrival_time": "12:43",
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 314.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "CPK",
+            "station_name": "CHAPARMUKH JN"
+        },
+        {
+            "arrival_time": "13:12",
+            "day_of_journey": 1,
+            "departure_time": "13:14",
+            "distance_km": 348.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "JID",
+            "station_name": "JAGI ROAD"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 405.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        }
+    ],
+    "train_name": "BG EXPRESS",
+    "train_number": "15666",
+    "type": "MAIL EXPRESS "
+}

@@ -1,0 +1,115 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11019.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11019-CSMT-BBSN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "14:12",
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "14:33",
+            "day_of_journey": 1,
+            "departure_time": "14:35",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 1,
+            "departure_time": "14:58",
+            "distance_km": 53.0,
+            "sequence_number": 4,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "15:36",
+            "day_of_journey": 1,
+            "departure_time": "15:38",
+            "distance_km": 100.0,
+            "sequence_number": 5,
+            "station_code": "KJT",
+            "station_name": "KARJAT"
+        },
+        {
+            "arrival_time": "16:27",
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 128.0,
+            "sequence_number": 6,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 2,
+            "departure_time": "22:20",
+            "distance_km": 1915.0,
+            "sequence_number": 41,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 2,
+            "departure_time": "23:55",
+            "distance_km": 1934.0,
+            "sequence_number": 42,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "00:02",
+            "day_of_journey": 3,
+            "departure_time": "00:04",
+            "distance_km": 1940.0,
+            "sequence_number": 43,
+            "station_code": "MCS",
+            "station_name": "MANCHESWAR"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1946.0,
+            "sequence_number": 44,
+            "station_code": "BBSN",
+            "station_name": "BHUBANESWAR NEW JN"
+        }
+    ],
+    "train_name": "KONARK EXPRESS",
+    "train_number": "11019",
+    "type": "MAIL EXPRESS"
+}

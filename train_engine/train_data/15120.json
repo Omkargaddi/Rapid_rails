@@ -1,0 +1,144 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15120.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15120-DDN-BNRS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DDN",
+            "station_name": "DEHRADOON"
+        },
+        {
+            "arrival_time": "18:43",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "HRW",
+            "station_name": "HARRAWALA"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:12",
+            "distance_km": 20.0,
+            "sequence_number": 3,
+            "station_code": "DWO",
+            "station_name": "DOIWALA"
+        },
+        {
+            "arrival_time": "19:43",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 40.0,
+            "sequence_number": 4,
+            "station_code": "RWL",
+            "station_name": "RAIWALA"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 52.0,
+            "sequence_number": 5,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "20:38",
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 56.0,
+            "sequence_number": 6,
+            "station_code": "JWP",
+            "station_name": "JWALAPUR"
+        },
+        {
+            "arrival_time": "12:18",
+            "day_of_journey": 2,
+            "departure_time": "12:20",
+            "distance_km": 770.0,
+            "sequence_number": 41,
+            "station_code": "JNH",
+            "station_name": "JANGHAI JN"
+        },
+        {
+            "arrival_time": "12:34",
+            "day_of_journey": 2,
+            "departure_time": "12:35",
+            "distance_km": 775.0,
+            "sequence_number": 42,
+            "station_code": "SQN",
+            "station_name": "SARAI KANSRAI"
+        },
+        {
+            "arrival_time": "12:46",
+            "day_of_journey": 2,
+            "departure_time": "12:47",
+            "distance_km": 785.0,
+            "sequence_number": 43,
+            "station_code": "SAW",
+            "station_name": "SURIAWAN"
+        },
+        {
+            "arrival_time": "13:03",
+            "day_of_journey": 2,
+            "departure_time": "13:05",
+            "distance_km": 801.0,
+            "sequence_number": 44,
+            "station_code": "BOY",
+            "station_name": "BHADOHI"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 2,
+            "departure_time": "13:26",
+            "distance_km": 809.0,
+            "sequence_number": 45,
+            "station_code": "PRF",
+            "station_name": "PARSIPUR"
+        },
+        {
+            "arrival_time": "14:08",
+            "day_of_journey": 2,
+            "departure_time": "14:09",
+            "distance_km": 823.0,
+            "sequence_number": 46,
+            "station_code": "SWPR",
+            "station_name": "SEWAPURI"
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 847.0,
+            "sequence_number": 47,
+            "station_code": "BNRS",
+            "station_name": "BANARAS"
+        }
+    ],
+    "train_name": "DDN BSBS EXP",
+    "train_number": "15120",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,117 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12230.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12230-NDLS-LKO",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 26.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "23:21",
+            "day_of_journey": 1,
+            "departure_time": "23:26",
+            "distance_km": 63.0,
+            "sequence_number": 3,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 167.0,
+            "sequence_number": 4,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 194.0,
+            "sequence_number": 5,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "02:34",
+            "day_of_journey": 2,
+            "departure_time": "02:39",
+            "distance_km": 257.0,
+            "sequence_number": 6,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "03:42",
+            "day_of_journey": 2,
+            "departure_time": "03:44",
+            "distance_km": 328.0,
+            "sequence_number": 7,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "04:32",
+            "day_of_journey": 2,
+            "departure_time": "04:34",
+            "distance_km": 390.0,
+            "sequence_number": 8,
+            "station_code": "HRI",
+            "station_name": "HARDOI"
+        },
+        {
+            "arrival_time": "06:16",
+            "day_of_journey": 2,
+            "departure_time": "06:17",
+            "distance_km": 486.0,
+            "sequence_number": 9,
+            "station_code": "AMG",
+            "station_name": "ALAMNAGAR"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 492.0,
+            "sequence_number": 10,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        }
+    ],
+    "train_name": "LUCKNOW MAIL",
+    "train_number": "12230",
+    "type": "SUPERFAST"
+}

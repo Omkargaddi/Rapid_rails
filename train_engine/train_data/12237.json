@@ -1,0 +1,185 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12237.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12237-BSB-JAT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:40",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "13:36",
+            "day_of_journey": 1,
+            "departure_time": "13:38",
+            "distance_km": 57.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "JOP",
+            "station_name": "JAUNPUR CITY"
+        },
+        {
+            "arrival_time": "14:27",
+            "day_of_journey": 1,
+            "departure_time": "14:28",
+            "distance_km": 121.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "LBA",
+            "station_name": "LAMBHUA"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 143.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SLN",
+            "station_name": "SULTANPUR"
+        },
+        {
+            "arrival_time": "15:31",
+            "day_of_journey": 1,
+            "departure_time": "15:33",
+            "distance_km": 194.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "NHH",
+            "station_name": "NIHALGARH"
+        },
+        {
+            "arrival_time": "17:30",
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 283.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "20:21",
+            "day_of_journey": 1,
+            "departure_time": "20:23",
+            "distance_km": 447.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": "23:13",
+            "distance_km": 609.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 801.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 2,
+            "departure_time": "03:52",
+            "distance_km": 882.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "05:46",
+            "day_of_journey": 2,
+            "departure_time": "05:56",
+            "distance_km": 996.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 1048.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "08:13",
+            "day_of_journey": 2,
+            "departure_time": "08:15",
+            "distance_km": 1121.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "MEX",
+            "station_name": "MUKERIAN"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 2,
+            "departure_time": "08:53",
+            "distance_km": 1161.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "09:22",
+            "day_of_journey": 2,
+            "departure_time": "09:24",
+            "distance_km": 1185.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "KTHU",
+            "station_name": "KATHUA"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1261.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        }
+    ],
+    "train_name": "BEGUMPURA EXP",
+    "train_number": "12237",
+    "type": "MAIL EXPRESS "
+}

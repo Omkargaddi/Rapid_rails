@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15667.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15667-GIMB-KYQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GIMB",
+            "station_name": "GANDHIDHAM BG"
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 1,
+            "departure_time": "14:37",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "BCOB",
+            "station_name": "BHACHAU BG"
+        },
+        {
+            "arrival_time": "14:53",
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 53.0,
+            "sequence_number": 3,
+            "station_code": "SIOB",
+            "station_name": "SAMAKHIALI B G"
+        },
+        {
+            "arrival_time": "16:32",
+            "day_of_journey": 1,
+            "departure_time": "16:37",
+            "distance_km": 141.0,
+            "sequence_number": 4,
+            "station_code": "MVI",
+            "station_name": "MORBI"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 169.0,
+            "sequence_number": 5,
+            "station_code": "WKR",
+            "station_name": "WANKANER JN"
+        },
+        {
+            "arrival_time": "18:39",
+            "day_of_journey": 1,
+            "departure_time": "18:41",
+            "distance_km": 243.0,
+            "sequence_number": 6,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "20:10",
+            "day_of_journey": 1,
+            "departure_time": "20:12",
+            "distance_km": 308.0,
+            "sequence_number": 7,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "21:30",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 373.0,
+            "sequence_number": 8,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 469.0,
+            "sequence_number": 9,
+            "station_code": "CYI",
+            "station_name": "CHHAYAPURI"
+        },
+        {
+            "arrival_time": "01:26",
+            "day_of_journey": 2,
+            "departure_time": "01:28",
+            "distance_km": 606.0,
+            "sequence_number": 10,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 2,
+            "departure_time": "03:25",
+            "distance_km": 720.0,
+            "sequence_number": 11,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 2,
+            "departure_time": "06:35",
+            "distance_km": 985.0,
+            "sequence_number": 12,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 4,
+            "departure_time": null,
+            "distance_km": 3110.0,
+            "sequence_number": 36,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        }
+    ],
+    "train_name": "KAMAKHYA EXP",
+    "train_number": "15667",
+    "type": "MAIL EXPRESS"
+}

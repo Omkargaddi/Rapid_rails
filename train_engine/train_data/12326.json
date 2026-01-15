@@ -1,0 +1,188 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12326.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12326-NLDM-KOAA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NLDM",
+            "station_name": "NANGAL DAM"
+        },
+        {
+            "arrival_time": "07:13",
+            "day_of_journey": 1,
+            "departure_time": "07:15",
+            "distance_km": 20.0,
+            "sequence_number": 2,
+            "station_code": "ANSB",
+            "station_name": "ANANDPUR SAHIB"
+        },
+        {
+            "arrival_time": "07:48",
+            "day_of_journey": 1,
+            "departure_time": "07:53",
+            "distance_km": 56.0,
+            "sequence_number": 3,
+            "station_code": "RPAR",
+            "station_name": "RUPNAGAR"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 1,
+            "departure_time": "09:12",
+            "distance_km": 104.0,
+            "sequence_number": 4,
+            "station_code": "SIR",
+            "station_name": "SIRHIND JN"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 157.0,
+            "sequence_number": 5,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 1,
+            "departure_time": "11:25",
+            "distance_km": 238.0,
+            "sequence_number": 6,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "14:45",
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 431.0,
+            "sequence_number": 7,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "16:22",
+            "day_of_journey": 1,
+            "departure_time": "16:24",
+            "distance_km": 522.0,
+            "sequence_number": 8,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "20:05",
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 757.0,
+            "sequence_number": 9,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 1040.0,
+            "sequence_number": 10,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 1058.0,
+            "sequence_number": 11,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "05:13",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 1265.0,
+            "sequence_number": 12,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:37",
+            "distance_km": 1275.0,
+            "sequence_number": 13,
+            "station_code": "PNC",
+            "station_name": "PATNA SAHEB"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": "06:52",
+            "distance_km": 1389.0,
+            "sequence_number": 14,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 2,
+            "departure_time": "08:55",
+            "distance_km": 1442.0,
+            "sequence_number": 15,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 2,
+            "departure_time": "09:27",
+            "distance_km": 1486.0,
+            "sequence_number": 16,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "11:01",
+            "day_of_journey": 2,
+            "departure_time": "11:11",
+            "distance_km": 1597.0,
+            "sequence_number": 17,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1802.0,
+            "sequence_number": 18,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        }
+    ],
+    "train_name": "GURUMUKHI EXP",
+    "train_number": "12326",
+    "type": "SUPERFAST"
+}

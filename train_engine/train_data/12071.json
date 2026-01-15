@@ -1,0 +1,168 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12071.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12071-CSMT-HNL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "12:23",
+            "day_of_journey": 1,
+            "departure_time": "12:25",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "12:43",
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "13:07",
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 53.0,
+            "sequence_number": 4,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "14:17",
+            "day_of_journey": 1,
+            "departure_time": "14:19",
+            "distance_km": 121.0,
+            "sequence_number": 5,
+            "station_code": "KSRA",
+            "station_name": "KASARA"
+        },
+        {
+            "arrival_time": "14:52",
+            "day_of_journey": 1,
+            "departure_time": "14:57",
+            "distance_km": 136.0,
+            "sequence_number": 6,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "15:32",
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 187.0,
+            "sequence_number": 7,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "16:40",
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 260.0,
+            "sequence_number": 8,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 373.0,
+            "sequence_number": 9,
+            "station_code": "CPSN",
+            "station_name": "CHHATRAPATI SAMBHAJINAGAR"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 436.0,
+            "sequence_number": 10,
+            "station_code": "J",
+            "station_name": "JALNA"
+        },
+        {
+            "arrival_time": "20:04",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 481.0,
+            "sequence_number": 11,
+            "station_code": "PTU",
+            "station_name": "PARTUR"
+        },
+        {
+            "arrival_time": "20:24",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 508.0,
+            "sequence_number": 12,
+            "station_code": "SELU",
+            "station_name": "SELU"
+        },
+        {
+            "arrival_time": "21:33",
+            "day_of_journey": 1,
+            "departure_time": "21:35",
+            "distance_km": 550.0,
+            "sequence_number": 13,
+            "station_code": "PBN",
+            "station_name": "PARBHANI JN"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 579.0,
+            "sequence_number": 14,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "22:44",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 601.0,
+            "sequence_number": 15,
+            "station_code": "BMF",
+            "station_name": "BASMAT"
+        },
+        {
+            "arrival_time": "00:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 659.0,
+            "sequence_number": 16,
+            "station_code": "HNL",
+            "station_name": "HINGOLI DECCAN"
+        }
+    ],
+    "train_name": "JANSHATABDTI EXP",
+    "train_number": "12071",
+    "type": "JAN SHATABDI"
+}

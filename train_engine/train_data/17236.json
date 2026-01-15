@@ -1,0 +1,174 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17236.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17236-NCJ-SMVB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "NCJ",
+            "station_name": "NAGERCOIL JUNCTION"
+        },
+        {
+            "arrival_time": "19:49",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 31.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "VLY",
+            "station_name": "VALLIYUR"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 73.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        },
+        {
+            "arrival_time": "22:13",
+            "day_of_journey": 1,
+            "departure_time": "22:15",
+            "distance_km": 138.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "CVP",
+            "station_name": "KOVILPATTI"
+        },
+        {
+            "arrival_time": "22:32",
+            "day_of_journey": 1,
+            "departure_time": "22:34",
+            "distance_km": 160.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "SRT",
+            "station_name": "SATUR"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 187.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "VPT",
+            "station_name": "VIRUDUNAGAR JN"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 230.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 296.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 370.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "KRR",
+            "station_name": "KARUR JN."
+        },
+        {
+            "arrival_time": "02:49",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 404.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "NMKL",
+            "station_name": "NAMAKKAL"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 429.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "RASP",
+            "station_name": "RASIPURAM"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 455.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 522.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "DPJ",
+            "station_name": "DHARMAPURI"
+        },
+        {
+            "arrival_time": "07:08",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 614.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "HSRA",
+            "station_name": "HOSUR"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 666.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "SMVB",
+            "station_name": "SMVT BENGALURU"
+        }
+    ],
+    "train_name": "NCJ SMVB EXP",
+    "train_number": "17236",
+    "type": "MAIL EXPRESS "
+}

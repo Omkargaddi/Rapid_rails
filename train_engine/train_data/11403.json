@@ -1,0 +1,240 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11403.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "11403-NGP-KOP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "15:23",
+            "day_of_journey": 1,
+            "departure_time": "15:24",
+            "distance_km": 3.0,
+            "sequence_number": 2,
+            "station_code": "AJNI",
+            "station_name": "AJNI"
+        },
+        {
+            "arrival_time": "16:13",
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "WR",
+            "station_name": "WARDHA JN"
+        },
+        {
+            "arrival_time": "16:36",
+            "day_of_journey": 1,
+            "departure_time": "16:37",
+            "distance_km": 108.0,
+            "sequence_number": 4,
+            "station_code": "PLO",
+            "station_name": "PULGAON JN"
+        },
+        {
+            "arrival_time": "16:57",
+            "day_of_journey": 1,
+            "departure_time": "16:58",
+            "distance_km": 128.0,
+            "sequence_number": 5,
+            "station_code": "DMN",
+            "station_name": "DHAMANGAON"
+        },
+        {
+            "arrival_time": "18:17",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 174.0,
+            "sequence_number": 6,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "18:48",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 215.0,
+            "sequence_number": 7,
+            "station_code": "MZR",
+            "station_name": "MURTAJAPUR JN."
+        },
+        {
+            "arrival_time": "19:50",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 253.0,
+            "sequence_number": 8,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "20:59",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 334.0,
+            "sequence_number": 9,
+            "station_code": "WHM",
+            "station_name": "WASHIM"
+        },
+        {
+            "arrival_time": "21:49",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 382.0,
+            "sequence_number": 10,
+            "station_code": "HNL",
+            "station_name": "HINGOLI DECCAN"
+        },
+        {
+            "arrival_time": "22:29",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 440.0,
+            "sequence_number": 11,
+            "station_code": "BMF",
+            "station_name": "BASMAT"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 462.0,
+            "sequence_number": 12,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "00:13",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 490.0,
+            "sequence_number": 13,
+            "station_code": "PBN",
+            "station_name": "PARBHANI JN"
+        },
+        {
+            "arrival_time": "01:14",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 525.0,
+            "sequence_number": 14,
+            "station_code": "GNH",
+            "station_name": "GANGAKHER"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 554.0,
+            "sequence_number": 15,
+            "station_code": "Point(2)",
+            "station_name": "PARLI VAIJNATH PRLI Train Reversal"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 617.0,
+            "sequence_number": 16,
+            "station_code": "Point(3)",
+            "station_name": "LATUR ROAD LTRR Train Reversal"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": "05:25",
+            "distance_km": 650.0,
+            "sequence_number": 17,
+            "station_code": "LUR",
+            "station_name": "LATUR"
+        },
+        {
+            "arrival_time": "06:45",
+            "day_of_journey": 2,
+            "departure_time": "06:48",
+            "distance_km": 739.0,
+            "sequence_number": 18,
+            "station_code": "DRSV",
+            "station_name": "DHARASHIV"
+        },
+        {
+            "arrival_time": "07:23",
+            "day_of_journey": 2,
+            "departure_time": "07:25",
+            "distance_km": 776.0,
+            "sequence_number": 19,
+            "station_code": "BTW",
+            "station_name": "BARSI TOWN"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": "08:25",
+            "distance_km": 813.0,
+            "sequence_number": 20,
+            "station_code": "KWV",
+            "station_name": "KURDUVADI JN."
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 2,
+            "departure_time": "09:10",
+            "distance_km": 865.0,
+            "sequence_number": 21,
+            "station_code": "PVR",
+            "station_name": "PANDHARPUR"
+        },
+        {
+            "arrival_time": "09:23",
+            "day_of_journey": 2,
+            "departure_time": "09:25",
+            "distance_km": 895.0,
+            "sequence_number": 22,
+            "station_code": "SGLA",
+            "station_name": "SANGOLA"
+        },
+        {
+            "arrival_time": "11:55",
+            "day_of_journey": 2,
+            "departure_time": "12:05",
+            "distance_km": 1002.0,
+            "sequence_number": 23,
+            "station_code": "Point(4)",
+            "station_name": "MIRAJ JN. MRJ Train Reversal"
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1049.0,
+            "sequence_number": 24,
+            "station_code": "KOP",
+            "station_name": "KOLHAPUR"
+        }
+    ],
+    "train_name": "NGP KOP EXPRESS",
+    "train_number": "11403",
+    "type": "MAIL EXPRESS"
+}

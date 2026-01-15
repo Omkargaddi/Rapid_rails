@@ -1,0 +1,164 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18574.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "18574-BGKT-VSKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BGKT",
+            "station_name": "BHAGAT KI KOTHI"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 3.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 108.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "MTD",
+            "station_name": "MERTA ROAD JN"
+        },
+        {
+            "arrival_time": "22:52",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 152.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "DNA",
+            "station_name": "DEGANA JN"
+        },
+        {
+            "arrival_time": "23:25",
+            "day_of_journey": 1,
+            "departure_time": "23:28",
+            "distance_km": 196.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MKN",
+            "station_name": "MAKRANA JN"
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 261.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "01:25",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 316.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "01:47",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 323.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "DPA",
+            "station_name": "DURGAPURA"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:32",
+            "distance_km": 382.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BNLW",
+            "station_name": "BANASTHALI NIWAI"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 447.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 556.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "SGAC",
+            "station_name": "SOGARIYA"
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 619.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BAZ",
+            "station_name": "BARAN"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 3,
+            "departure_time": "08:50",
+            "distance_km": 2005.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2066.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        }
+    ],
+    "train_name": "BGKT VSKP EXP",
+    "train_number": "18574",
+    "type": "MAIL EXPRESS "
+}

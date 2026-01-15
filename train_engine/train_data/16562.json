@@ -1,0 +1,149 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16562.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16562-TVCN-YPR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TVCN",
+            "station_name": "THIRUVANANTHAPURAM NORTH"
+        },
+        {
+            "arrival_time": "13:37",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 58.0,
+            "sequence_number": 2,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "14:32",
+            "day_of_journey": 1,
+            "departure_time": "14:34",
+            "distance_km": 119.0,
+            "sequence_number": 3,
+            "station_code": "CNGR",
+            "station_name": "CHENGANNUR"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 1,
+            "departure_time": "14:44",
+            "distance_km": 128.0,
+            "sequence_number": 4,
+            "station_code": "TRVL",
+            "station_name": "TIRUVALLA"
+        },
+        {
+            "arrival_time": "15:12",
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 154.0,
+            "sequence_number": 5,
+            "station_code": "KTYM",
+            "station_name": "KOTTAYAM"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 214.0,
+            "sequence_number": 6,
+            "station_code": "ERN",
+            "station_name": "ERNAKULAM TOWN"
+        },
+        {
+            "arrival_time": "17:42",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 285.0,
+            "sequence_number": 7,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "19:32",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 362.0,
+            "sequence_number": 8,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        },
+        {
+            "arrival_time": "21:07",
+            "day_of_journey": 1,
+            "departure_time": "21:10",
+            "distance_km": 417.0,
+            "sequence_number": 9,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 467.0,
+            "sequence_number": 10,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 517.0,
+            "sequence_number": 11,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "23:42",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 577.0,
+            "sequence_number": 12,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "02:54",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 824.0,
+            "sequence_number": 13,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 847.0,
+            "sequence_number": 14,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        }
+    ],
+    "train_name": "TVCN YPR AC EXP",
+    "train_number": "16562",
+    "type": "MAIL EXPRESS"
+}

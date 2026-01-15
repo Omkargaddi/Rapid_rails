@@ -1,0 +1,126 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15119.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15119-BNRS-DDN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BNRS",
+            "station_name": "BANARAS"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 1,
+            "departure_time": "08:49",
+            "distance_km": 24.0,
+            "sequence_number": 2,
+            "station_code": "SWPR",
+            "station_name": "SEWAPURI"
+        },
+        {
+            "arrival_time": "09:01",
+            "day_of_journey": 1,
+            "departure_time": "09:02",
+            "distance_km": 38.0,
+            "sequence_number": 3,
+            "station_code": "PRF",
+            "station_name": "PARSIPUR"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 1,
+            "departure_time": "09:12",
+            "distance_km": 46.0,
+            "sequence_number": 4,
+            "station_code": "BOY",
+            "station_name": "BHADOHI"
+        },
+        {
+            "arrival_time": "09:21",
+            "day_of_journey": 1,
+            "departure_time": "09:22",
+            "distance_km": 54.0,
+            "sequence_number": 5,
+            "station_code": "MOF",
+            "station_name": "MONDH"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 1,
+            "departure_time": "09:31",
+            "distance_km": 61.0,
+            "sequence_number": 6,
+            "station_code": "SAW",
+            "station_name": "SURIAWAN"
+        },
+        {
+            "arrival_time": "02:48",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 791.0,
+            "sequence_number": 41,
+            "station_code": "JWP",
+            "station_name": "JWALAPUR"
+        },
+        {
+            "arrival_time": "03:25",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 795.0,
+            "sequence_number": 42,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 2,
+            "departure_time": "03:57",
+            "distance_km": 806.0,
+            "sequence_number": 43,
+            "station_code": "RWL",
+            "station_name": "RAIWALA"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 2,
+            "departure_time": "05:27",
+            "distance_km": 827.0,
+            "sequence_number": 44,
+            "station_code": "DWO",
+            "station_name": "DOIWALA"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 847.0,
+            "sequence_number": 45,
+            "station_code": "DDN",
+            "station_name": "DEHRADOON"
+        }
+    ],
+    "train_name": "BNRS DDN EXPRES",
+    "train_number": "15119",
+    "type": "MAIL EXPRESS"
+}

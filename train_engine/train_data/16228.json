@@ -1,0 +1,314 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16228.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16228-TLGP-MYS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "TLGP",
+            "station_name": "TALGUPPA"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:17",
+            "distance_km": 15.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "SRF",
+            "station_name": "SAGAR JAMBAGARU"
+        },
+        {
+            "arrival_time": "21:49",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 42.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "ANF",
+            "station_name": "ANANDAPURAM"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 1,
+            "departure_time": "22:04",
+            "distance_km": 57.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "ARU",
+            "station_name": "ARASALU"
+        },
+        {
+            "arrival_time": "22:24",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 72.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "KMSI",
+            "station_name": "KUMSI"
+        },
+        {
+            "arrival_time": "22:55",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 98.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "SMET",
+            "station_name": "SHIMOGA TOWN"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": "23:06",
+            "distance_km": 100.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SME",
+            "station_name": "SHIMOGA"
+        },
+        {
+            "arrival_time": "23:20",
+            "day_of_journey": 1,
+            "departure_time": "23:22",
+            "distance_km": 116.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BDVT",
+            "station_name": "BHADRAVATI"
+        },
+        {
+            "arrival_time": "23:39",
+            "day_of_journey": 1,
+            "departure_time": "23:41",
+            "distance_km": 136.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "TKE",
+            "station_name": "TARIKERE JN"
+        },
+        {
+            "arrival_time": "00:18",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 161.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "RRB",
+            "station_name": "BIRUR JN"
+        },
+        {
+            "arrival_time": "00:57",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 206.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "ASK",
+            "station_name": "ARSIKERE JN"
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 231.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "TTR",
+            "station_name": "TIPTUR"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:12",
+            "distance_km": 302.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "TK",
+            "station_name": "TUMKUR"
+        },
+        {
+            "arrival_time": "04:28",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 367.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": "04:36",
+            "distance_km": 370.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "MWM",
+            "station_name": "MALLESWARAM"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "05:05",
+            "distance_km": 372.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "05:11",
+            "day_of_journey": 2,
+            "departure_time": "05:12",
+            "distance_km": 378.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "KNDV",
+            "station_name": "KRISHNADEVARAYA HALT"
+        },
+        {
+            "arrival_time": "05:17",
+            "day_of_journey": 2,
+            "departure_time": "05:18",
+            "distance_km": 380.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "NYH",
+            "station_name": "NAYANDAHALLI"
+        },
+        {
+            "arrival_time": "05:23",
+            "day_of_journey": 2,
+            "departure_time": "05:24",
+            "distance_km": 385.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "KGI",
+            "station_name": "KENGERI"
+        },
+        {
+            "arrival_time": "05:39",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 402.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "BID",
+            "station_name": "BIDADI"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": "05:51",
+            "distance_km": 417.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "RMGM",
+            "station_name": "RAMANAGARAM"
+        },
+        {
+            "arrival_time": "06:01",
+            "day_of_journey": 2,
+            "departure_time": "06:02",
+            "distance_km": 428.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "CPT",
+            "station_name": "CHANNAPATNA"
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 2,
+            "departure_time": "06:19",
+            "distance_km": 446.0,
+            "platform": null,
+            "sequence_number": 23,
+            "station_code": "MAD",
+            "station_name": "MADDUR"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 2,
+            "departure_time": "06:29",
+            "distance_km": 455.0,
+            "platform": null,
+            "sequence_number": 24,
+            "station_code": "HNK",
+            "station_name": "HANAKERE"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 2,
+            "departure_time": "06:39",
+            "distance_km": 465.0,
+            "platform": null,
+            "sequence_number": 25,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "06:47",
+            "day_of_journey": 2,
+            "departure_time": "06:48",
+            "distance_km": 473.0,
+            "platform": null,
+            "sequence_number": 26,
+            "station_code": "Y",
+            "station_name": "YELIYUR"
+        },
+        {
+            "arrival_time": "07:19",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 491.0,
+            "platform": null,
+            "sequence_number": 27,
+            "station_code": "PANP",
+            "station_name": "PANDAVAPURA"
+        },
+        {
+            "arrival_time": "07:29",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 502.0,
+            "platform": null,
+            "sequence_number": 28,
+            "station_code": "NHY",
+            "station_name": "NAGANAHALLI"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 511.0,
+            "platform": null,
+            "sequence_number": 29,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        }
+    ],
+    "train_name": "TLGP MYS EXP",
+    "train_number": "16228",
+    "type": "MAIL EXPRESS "
+}

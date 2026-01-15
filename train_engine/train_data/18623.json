@@ -1,0 +1,144 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18623.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18623-IPR-HTE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "IPR",
+            "station_name": "ISLAMPUR"
+        },
+        {
+            "arrival_time": "19:24",
+            "day_of_journey": 1,
+            "departure_time": "19:26",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "EKR",
+            "station_name": "EKANGARSARAI"
+        },
+        {
+            "arrival_time": "19:38",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 21.0,
+            "sequence_number": 3,
+            "station_code": "HIL",
+            "station_name": "HILSA"
+        },
+        {
+            "arrival_time": "19:52",
+            "day_of_journey": 1,
+            "departure_time": "19:54",
+            "distance_km": 29.0,
+            "sequence_number": 4,
+            "station_code": "DYW",
+            "station_name": "DIYAWAN HALT"
+        },
+        {
+            "arrival_time": "20:06",
+            "day_of_journey": 1,
+            "departure_time": "20:08",
+            "distance_km": 35.0,
+            "sequence_number": 5,
+            "station_code": "DNWH",
+            "station_name": "DANIYAWAN BZR H"
+        },
+        {
+            "arrival_time": "20:21",
+            "day_of_journey": 1,
+            "departure_time": "20:23",
+            "distance_km": 41.0,
+            "sequence_number": 6,
+            "station_code": "FUT",
+            "station_name": "FATUHA"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 1,
+            "departure_time": "20:42",
+            "distance_km": 53.0,
+            "sequence_number": 7,
+            "station_code": "PNC",
+            "station_name": "PATNA SAHEB"
+        },
+        {
+            "arrival_time": "20:52",
+            "day_of_journey": 1,
+            "departure_time": "20:54",
+            "distance_km": 61.0,
+            "sequence_number": 8,
+            "station_code": "RJPB",
+            "station_name": "RAJENDRA NAGAR"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 63.0,
+            "sequence_number": 9,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "21:42",
+            "day_of_journey": 1,
+            "departure_time": "21:44",
+            "distance_km": 76.0,
+            "sequence_number": 10,
+            "station_code": "PPN",
+            "station_name": "PUNPUN"
+        },
+        {
+            "arrival_time": "21:56",
+            "day_of_journey": 1,
+            "departure_time": "21:58",
+            "distance_km": 87.0,
+            "sequence_number": 11,
+            "station_code": "NDW",
+            "station_name": "NADWAN"
+        },
+        {
+            "arrival_time": "22:06",
+            "day_of_journey": 1,
+            "departure_time": "22:08",
+            "distance_km": 93.0,
+            "sequence_number": 12,
+            "station_code": "TEA",
+            "station_name": "TAREGNA"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 479.0,
+            "sequence_number": 36,
+            "station_code": "HTE",
+            "station_name": "HATIA"
+        }
+    ],
+    "train_name": "IPR HATIA EXP",
+    "train_number": "18623",
+    "type": "MAIL EXPRESS"
+}

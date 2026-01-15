@@ -1,0 +1,225 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22927.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22927-BDTS-ADI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        },
+        {
+            "arrival_time": "19:47",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "ADH",
+            "station_name": "ANDHERI"
+        },
+        {
+            "arrival_time": "20:09",
+            "day_of_journey": 1,
+            "departure_time": "20:14",
+            "distance_km": 19.0,
+            "sequence_number": 3,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 45.0,
+            "sequence_number": 4,
+            "station_code": "VR",
+            "station_name": "VIRAR"
+        },
+        {
+            "arrival_time": "21:03",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 61.0,
+            "sequence_number": 5,
+            "station_code": "SAH",
+            "station_name": "SAPHALE"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 76.0,
+            "sequence_number": 6,
+            "station_code": "PLG",
+            "station_name": "PALGHAR"
+        },
+        {
+            "arrival_time": "21:33",
+            "day_of_journey": 1,
+            "departure_time": "21:35",
+            "distance_km": 88.0,
+            "sequence_number": 7,
+            "station_code": "BOR",
+            "station_name": "BOISAR"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 108.0,
+            "sequence_number": 8,
+            "station_code": "DRD",
+            "station_name": "DAHANU ROAD"
+        },
+        {
+            "arrival_time": "22:18",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 129.0,
+            "sequence_number": 9,
+            "station_code": "UBR",
+            "station_name": "UMBARGAM ROAD"
+        },
+        {
+            "arrival_time": "22:38",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 157.0,
+            "sequence_number": 10,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "23:17",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 183.0,
+            "sequence_number": 11,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "23:33",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 201.0,
+            "sequence_number": 12,
+            "station_code": "BIM",
+            "station_name": "BILIMORA JN"
+        },
+        {
+            "arrival_time": "23:53",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 222.0,
+            "sequence_number": 13,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "00:34",
+            "day_of_journey": 2,
+            "departure_time": "00:37",
+            "distance_km": 252.0,
+            "sequence_number": 14,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "00:58",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 283.0,
+            "sequence_number": 15,
+            "station_code": "KSB",
+            "station_name": "KOSAMBA JN"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:22",
+            "distance_km": 311.0,
+            "sequence_number": 16,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "02:15",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 381.0,
+            "sequence_number": 17,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "02:51",
+            "day_of_journey": 2,
+            "departure_time": "02:53",
+            "distance_km": 415.0,
+            "sequence_number": 18,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "03:07",
+            "day_of_journey": 2,
+            "departure_time": "03:09",
+            "distance_km": 434.0,
+            "sequence_number": 19,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "03:22",
+            "day_of_journey": 2,
+            "departure_time": "03:24",
+            "distance_km": 451.0,
+            "sequence_number": 20,
+            "station_code": "MHD",
+            "station_name": "MAHEMADAVAD KHEDA ROAD"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "03:52",
+            "distance_km": 476.0,
+            "sequence_number": 21,
+            "station_code": "MAN",
+            "station_name": "MANINAGAR"
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 479.0,
+            "sequence_number": 22,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        }
+    ],
+    "train_name": "LOKSHAKTI EXP",
+    "train_number": "22927",
+    "type": "SUPERFAST"
+}

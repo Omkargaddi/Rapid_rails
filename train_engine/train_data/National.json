@@ -1,0 +1,67 @@
+{
+    "classes_available": [
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_National.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "National-BRMT-DD",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BRMT",
+            "station_name": "BARAMATI"
+        },
+        {
+            "arrival_time": "11:13",
+            "day_of_journey": 1,
+            "departure_time": "11:14",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "KFH",
+            "station_name": "KATPHAL"
+        },
+        {
+            "arrival_time": "11:27",
+            "day_of_journey": 1,
+            "departure_time": "11:28",
+            "distance_km": 23.0,
+            "sequence_number": 3,
+            "station_code": "SSI",
+            "station_name": "SHIRSAI"
+        },
+        {
+            "arrival_time": "11:37",
+            "day_of_journey": 1,
+            "departure_time": "11:38",
+            "distance_km": 30.0,
+            "sequence_number": 4,
+            "station_code": "MDDG",
+            "station_name": "MALAD GAON"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 44.0,
+            "sequence_number": 5,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        }
+    ],
+    "train_name": "Train Enquiry System Train Schedule Train No./Name 51402 Start Date 15-Jan-2026 Get Schedule 51402 BRMT-DD PASS Show on Bhuvan Map BARAMATI - DAUND JN Travel Time: 01:20 Hrs. Days of Run: Daily Type: PASSENGER Reserved Class of Travel: SL Un-Reserved Class : GEN Un-Reserved Fare Category : | ORDINARY Un-Reserved Season Ticket (MST) : Allowed Sr. Station Day Arr. Halt Dist. Dep. KMs. 1 BARAMATI 1 SRC 0 BRMT 11:00 2 KATPHAL 1 11:13 1 Min 10 KFH 11:14 3 SHIRSAI 1 11:27 1 Min 23 SSI 11:28 4 MALAD GAON 1 11:37 1 Min 30 MDDG 11:38 5 DAUND JN 1 12:20 44 DD DSTN",
+    "train_number": "National",
+    "type": "PASSENGER"
+}

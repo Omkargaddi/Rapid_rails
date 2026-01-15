@@ -1,0 +1,242 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17221.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "17221-COA-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "COA",
+            "station_name": "KAKINADA PORT"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 3.0,
+            "sequence_number": 2,
+            "station_code": "CCT",
+            "station_name": "KAKINADA TOWN"
+        },
+        {
+            "arrival_time": "09:23",
+            "day_of_journey": 1,
+            "departure_time": "09:25",
+            "distance_km": 16.0,
+            "sequence_number": 3,
+            "station_code": "SLO",
+            "station_name": "SAMALKOT JN"
+        },
+        {
+            "arrival_time": "10:03",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 66.0,
+            "sequence_number": 4,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "10:44",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 108.0,
+            "sequence_number": 5,
+            "station_code": "TDD",
+            "station_name": "TADEPALLIGUDEM"
+        },
+        {
+            "arrival_time": "11:18",
+            "day_of_journey": 1,
+            "departure_time": "11:20",
+            "distance_km": 156.0,
+            "sequence_number": 6,
+            "station_code": "EE",
+            "station_name": "ELURU"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 215.0,
+            "sequence_number": 7,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "13:09",
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 227.0,
+            "sequence_number": 8,
+            "station_code": "MAG",
+            "station_name": "MANGALAGIRI"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 248.0,
+            "sequence_number": 9,
+            "station_code": "GNT",
+            "station_name": "GUNTUR JN"
+        },
+        {
+            "arrival_time": "14:22",
+            "day_of_journey": 1,
+            "departure_time": "14:23",
+            "distance_km": 291.0,
+            "sequence_number": 10,
+            "station_code": "SAP",
+            "station_name": "SATTENAPALLE"
+        },
+        {
+            "arrival_time": "15:06",
+            "day_of_journey": 1,
+            "departure_time": "15:07",
+            "distance_km": 343.0,
+            "sequence_number": 11,
+            "station_code": "NDKD",
+            "station_name": "NADIKODE"
+        },
+        {
+            "arrival_time": "15:47",
+            "day_of_journey": 1,
+            "departure_time": "15:48",
+            "distance_km": 382.0,
+            "sequence_number": 12,
+            "station_code": "MRGA",
+            "station_name": "MIRYALAGUDA"
+        },
+        {
+            "arrival_time": "16:33",
+            "day_of_journey": 1,
+            "departure_time": "16:34",
+            "distance_km": 419.0,
+            "sequence_number": 13,
+            "station_code": "NLDA",
+            "station_name": "NALGONDA"
+        },
+        {
+            "arrival_time": "19:39",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 523.0,
+            "sequence_number": 14,
+            "station_code": "MLY",
+            "station_name": "MAULA ALI"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 528.0,
+            "sequence_number": 15,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "20:49",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 552.0,
+            "sequence_number": 16,
+            "station_code": "LPI",
+            "station_name": "LINGAMPALLI"
+        },
+        {
+            "arrival_time": "22:19",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 643.0,
+            "sequence_number": 17,
+            "station_code": "TDU",
+            "station_name": "TANDUR"
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 714.0,
+            "sequence_number": 18,
+            "station_code": "WADI",
+            "station_name": "WADI JN."
+        },
+        {
+            "arrival_time": "00:47",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 750.0,
+            "sequence_number": 19,
+            "station_code": "KLBG",
+            "station_name": "KALABURAGI"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 863.0,
+            "sequence_number": 20,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 2,
+            "departure_time": "07:55",
+            "distance_km": 1126.0,
+            "sequence_number": 21,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "08:49",
+            "day_of_journey": 2,
+            "departure_time": "08:51",
+            "distance_km": 1190.0,
+            "sequence_number": 22,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "10:09",
+            "day_of_journey": 2,
+            "departure_time": "10:11",
+            "distance_km": 1264.0,
+            "sequence_number": 23,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1301.0,
+            "sequence_number": 24,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "COA LTT EXPRESS",
+    "train_number": "17221",
+    "type": "MAIL EXPRESS"
+}

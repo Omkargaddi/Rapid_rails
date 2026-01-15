@@ -1,0 +1,104 @@
+{
+    "classes_available": [
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15284.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15284-JYG-MHI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JYG",
+            "station_name": "JAYNAGAR"
+        },
+        {
+            "arrival_time": "04:47",
+            "day_of_journey": 1,
+            "departure_time": "04:49",
+            "distance_km": 12.0,
+            "sequence_number": 2,
+            "station_code": "KJI",
+            "station_name": "KHAJAULI"
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 1,
+            "departure_time": "05:07",
+            "distance_km": 32.0,
+            "sequence_number": 3,
+            "station_code": "MBI",
+            "station_name": "MADHUBANI"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 1,
+            "departure_time": "05:22",
+            "distance_km": 49.0,
+            "sequence_number": 4,
+            "station_code": "SKI",
+            "station_name": "SAKRI JN"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 1,
+            "departure_time": "05:55",
+            "distance_km": 68.0,
+            "sequence_number": 5,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 72.0,
+            "sequence_number": 6,
+            "station_code": "LSI",
+            "station_name": "LAHERIA SARAI"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": "14:52",
+            "distance_km": 381.0,
+            "sequence_number": 24,
+            "station_code": "MNS",
+            "station_name": "MANSHAHI"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": "15:02",
+            "distance_km": 388.0,
+            "sequence_number": 25,
+            "station_code": "MHPR",
+            "station_name": "MAHIYARPUR"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 396.0,
+            "sequence_number": 26,
+            "station_code": "MHI",
+            "station_name": "MANIHARI"
+        }
+    ],
+    "train_name": "JANKI EXPRESS",
+    "train_number": "15284",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12167.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12167-LTT-BNRS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "23:27",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 171.0,
+            "sequence_number": 3,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 428.0,
+            "sequence_number": 4,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "06:24",
+            "day_of_journey": 2,
+            "departure_time": "06:25",
+            "distance_km": 482.0,
+            "sequence_number": 5,
+            "station_code": "BAU",
+            "station_name": "BURHANPUR"
+        },
+        {
+            "arrival_time": "08:07",
+            "day_of_journey": 2,
+            "departure_time": "08:10",
+            "distance_km": 551.0,
+            "sequence_number": 6,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 2,
+            "departure_time": "10:50",
+            "distance_km": 734.0,
+            "sequence_number": 7,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 2,
+            "departure_time": "14:10",
+            "distance_km": 979.0,
+            "sequence_number": 8,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 2,
+            "departure_time": "15:35",
+            "distance_km": 1069.0,
+            "sequence_number": 9,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "16:18",
+            "day_of_journey": 2,
+            "departure_time": "16:20",
+            "distance_km": 1132.0,
+            "sequence_number": 10,
+            "station_code": "MYR",
+            "station_name": "MAIHAR"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 2,
+            "departure_time": "17:05",
+            "distance_km": 1168.0,
+            "sequence_number": 11,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 2,
+            "departure_time": "19:17",
+            "distance_km": 1245.0,
+            "sequence_number": 12,
+            "station_code": "MKP",
+            "station_name": "MANIKPUR JN"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 2,
+            "departure_time": "21:12",
+            "distance_km": 1337.0,
+            "sequence_number": 13,
+            "station_code": "PCOI",
+            "station_name": "PRAYAGRAJ CHHEOKI"
+        },
+        {
+            "arrival_time": "01:25",
+            "day_of_journey": 3,
+            "departure_time": "01:35",
+            "distance_km": 1493.0,
+            "sequence_number": 14,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "01:55",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1497.0,
+            "sequence_number": 15,
+            "station_code": "BNRS",
+            "station_name": "BANARAS"
+        }
+    ],
+    "train_name": "LTT BANARAS EXP",
+    "train_number": "12167",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,197 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_02187.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "02187-REWA-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "REWA",
+            "station_name": "REWA"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 49.0,
+            "sequence_number": 2,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 1,
+            "departure_time": "17:27",
+            "distance_km": 84.0,
+            "sequence_number": 3,
+            "station_code": "MYR",
+            "station_name": "MAIHAR"
+        },
+        {
+            "arrival_time": "18:05",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 147.0,
+            "sequence_number": 4,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 238.0,
+            "sequence_number": 5,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "20:48",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 322.0,
+            "sequence_number": 6,
+            "station_code": "NU",
+            "station_name": "NARSINGHPUR"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 366.0,
+            "sequence_number": 7,
+            "station_code": "GAR",
+            "station_name": "GADARWARA"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 416.0,
+            "sequence_number": 8,
+            "station_code": "PPI",
+            "station_name": "PIPARIYA"
+        },
+        {
+            "arrival_time": "23:20",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 483.0,
+            "sequence_number": 9,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "00:22",
+            "day_of_journey": 2,
+            "departure_time": "00:24",
+            "distance_km": 559.0,
+            "sequence_number": 10,
+            "station_code": "HD",
+            "station_name": "HARDA"
+        },
+        {
+            "arrival_time": "02:02",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 666.0,
+            "sequence_number": 11,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 789.0,
+            "sequence_number": 12,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": "04:37",
+            "distance_km": 813.0,
+            "sequence_number": 13,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 2,
+            "departure_time": "06:40",
+            "distance_km": 973.0,
+            "sequence_number": 14,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "07:42",
+            "day_of_journey": 2,
+            "departure_time": "07:45",
+            "distance_km": 1046.0,
+            "sequence_number": 15,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 2,
+            "departure_time": "09:15",
+            "distance_km": 1097.0,
+            "sequence_number": 16,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "10:57",
+            "day_of_journey": 2,
+            "departure_time": "11:00",
+            "distance_km": 1180.0,
+            "sequence_number": 17,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "11:52",
+            "day_of_journey": 2,
+            "departure_time": "11:55",
+            "distance_km": 1224.0,
+            "sequence_number": 18,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1233.0,
+            "sequence_number": 19,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "REWA-CSMT SF WINTER SPL Valid From : 15-Jan-2026",
+    "train_number": "02187",
+    "type": "TRAIN ON DEMAND"
+}

@@ -1,0 +1,175 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12577.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12577-DBG-MYS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 37.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "17:55",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 88.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "18:54",
+            "day_of_journey": 1,
+            "departure_time": "18:56",
+            "distance_km": 107.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "MKA",
+            "station_name": "MOKAMA"
+        },
+        {
+            "arrival_time": "20:13",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 196.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "20:33",
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 206.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "21:03",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 245.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "21:46",
+            "day_of_journey": 1,
+            "departure_time": "21:48",
+            "distance_km": 314.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "23:43",
+            "day_of_journey": 1,
+            "departure_time": "23:50",
+            "distance_km": 404.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 467.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "MZP",
+            "station_name": "MIRZAPUR"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 548.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "PCOI",
+            "station_name": "PRAYAGRAJ CHHEOKI"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 717.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "17:19",
+            "day_of_journey": 3,
+            "departure_time": "17:20",
+            "distance_km": 2901.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "KGI",
+            "station_name": "KENGERI"
+        },
+        {
+            "arrival_time": "18:19",
+            "day_of_journey": 3,
+            "departure_time": "18:20",
+            "distance_km": 2981.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 3027.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        }
+    ],
+    "train_name": "BAGMATI EXPRESS",
+    "train_number": "12577",
+    "type": "SUPERFAST "
+}

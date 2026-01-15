@@ -1,0 +1,104 @@
+{
+    "classes_available": [
+        "EV",
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12062.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12062-MML-RKMP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MML",
+            "station_name": "MADAN MAHAL"
+        },
+        {
+            "arrival_time": "06:09",
+            "day_of_journey": 1,
+            "departure_time": "06:10",
+            "distance_km": 50.0,
+            "sequence_number": 2,
+            "station_code": "SRID",
+            "station_name": "SRIDHAM"
+        },
+        {
+            "arrival_time": "06:33",
+            "day_of_journey": 1,
+            "departure_time": "06:35",
+            "distance_km": 81.0,
+            "sequence_number": 3,
+            "station_code": "NU",
+            "station_name": "NARSINGHPUR"
+        },
+        {
+            "arrival_time": "06:49",
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 96.0,
+            "sequence_number": 4,
+            "station_code": "KY",
+            "station_name": "KARELI"
+        },
+        {
+            "arrival_time": "07:14",
+            "day_of_journey": 1,
+            "departure_time": "07:15",
+            "distance_km": 125.0,
+            "sequence_number": 5,
+            "station_code": "GAR",
+            "station_name": "GADARWARA"
+        },
+        {
+            "arrival_time": "07:43",
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 174.0,
+            "sequence_number": 6,
+            "station_code": "PPI",
+            "station_name": "PIPARIYA"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 1,
+            "departure_time": "09:20",
+            "distance_km": 242.0,
+            "sequence_number": 7,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 1,
+            "departure_time": "09:40",
+            "distance_km": 259.0,
+            "sequence_number": 8,
+            "station_code": "NDPM",
+            "station_name": "NARMADAPURAM"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 327.0,
+            "sequence_number": 9,
+            "station_code": "RKMP",
+            "station_name": "RANI KAMALAPATI"
+        }
+    ],
+    "train_name": "RKMP JANSHTBDI",
+    "train_number": "12062",
+    "type": "JAN SHATABDI"
+}

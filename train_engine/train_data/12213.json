@@ -1,0 +1,95 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12213.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12213-YPR-DEE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        },
+        {
+            "arrival_time": "03:25",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 274.0,
+            "sequence_number": 2,
+            "station_code": "GTL",
+            "station_name": "GUNTAKAL JN"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 686.0,
+            "sequence_number": 3,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 2,
+            "departure_time": "13:35",
+            "distance_km": 1057.0,
+            "sequence_number": 4,
+            "station_code": "BPQ",
+            "station_name": "BALHARSHAH"
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 2,
+            "departure_time": "16:20",
+            "distance_km": 1266.0,
+            "sequence_number": 5,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "22:02",
+            "day_of_journey": 2,
+            "departure_time": "22:10",
+            "distance_km": 1651.0,
+            "sequence_number": 6,
+            "station_code": "RKMP",
+            "station_name": "RANI KAMALAPATI"
+        },
+        {
+            "arrival_time": "01:30",
+            "day_of_journey": 3,
+            "departure_time": "01:35",
+            "distance_km": 1947.0,
+            "sequence_number": 7,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2363.0,
+            "sequence_number": 8,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        }
+    ],
+    "train_name": "YPR DEE DURONTO",
+    "train_number": "12213",
+    "type": "DURONTO EXPRESS"
+}

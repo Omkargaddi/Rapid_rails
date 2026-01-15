@@ -1,0 +1,143 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12512.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12512-TVCN-GKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TVCN",
+            "station_name": "THIRUVANANTHAPURAM NORTH"
+        },
+        {
+            "arrival_time": "07:32",
+            "day_of_journey": 1,
+            "departure_time": "07:35",
+            "distance_km": 58.0,
+            "sequence_number": 2,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 99.0,
+            "sequence_number": 3,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "08:34",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 112.0,
+            "sequence_number": 4,
+            "station_code": "HAD",
+            "station_name": "HARIPAD"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 1,
+            "departure_time": "08:51",
+            "distance_km": 130.0,
+            "sequence_number": 5,
+            "station_code": "AMPA",
+            "station_name": "AMBALAPPUZHA"
+        },
+        {
+            "arrival_time": "09:02",
+            "day_of_journey": 1,
+            "departure_time": "09:05",
+            "distance_km": 142.0,
+            "sequence_number": 6,
+            "station_code": "ALLP",
+            "station_name": "ALAPPUZHA"
+        },
+        {
+            "arrival_time": "09:24",
+            "day_of_journey": 1,
+            "departure_time": "09:25",
+            "distance_km": 166.0,
+            "sequence_number": 7,
+            "station_code": "SRTL",
+            "station_name": "CHERTHALA"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 1,
+            "departure_time": "10:35",
+            "distance_km": 199.0,
+            "sequence_number": 8,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": "11:07",
+            "distance_km": 219.0,
+            "sequence_number": 9,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "11:17",
+            "day_of_journey": 1,
+            "departure_time": "11:18",
+            "distance_km": 228.0,
+            "sequence_number": 10,
+            "station_code": "AFK",
+            "station_name": "ANGAMALI"
+        },
+        {
+            "arrival_time": "11:33",
+            "day_of_journey": 1,
+            "departure_time": "11:34",
+            "distance_km": 243.0,
+            "sequence_number": 11,
+            "station_code": "CKI",
+            "station_name": "CHALAKUDI"
+        },
+        {
+            "arrival_time": "11:44",
+            "day_of_journey": 1,
+            "departure_time": "11:45",
+            "distance_km": 250.0,
+            "sequence_number": 12,
+            "station_code": "IJK",
+            "station_name": "IRINJALAKUDA"
+        },
+        {
+            "arrival_time": "15:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 3246.0,
+            "sequence_number": 59,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        }
+    ],
+    "train_name": "RAPTISAGAR EXP",
+    "train_number": "12512",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,151 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12107.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12107-LTT-STP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "16:43",
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "17:07",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 37.0,
+            "sequence_number": 3,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 171.0,
+            "sequence_number": 4,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "23:15",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 428.0,
+            "sequence_number": 5,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:45",
+            "distance_km": 825.0,
+            "sequence_number": 6,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "08:11",
+            "day_of_journey": 2,
+            "departure_time": "08:13",
+            "distance_km": 1026.0,
+            "sequence_number": 7,
+            "station_code": "LAR",
+            "station_name": "LALITPUR"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 2,
+            "departure_time": "09:43",
+            "distance_km": 1115.0,
+            "sequence_number": 8,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "10:58",
+            "day_of_journey": 2,
+            "departure_time": "11:00",
+            "distance_km": 1229.0,
+            "sequence_number": 9,
+            "station_code": "ORAI",
+            "station_name": "ORAI"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 2,
+            "departure_time": "13:45",
+            "distance_km": 1335.0,
+            "sequence_number": 10,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 2,
+            "departure_time": "15:30",
+            "distance_km": 1411.0,
+            "sequence_number": 11,
+            "station_code": "ASH",
+            "station_name": "AISHBAGH"
+        },
+        {
+            "arrival_time": "15:56",
+            "day_of_journey": 2,
+            "departure_time": "15:58",
+            "distance_km": 1419.0,
+            "sequence_number": 12,
+            "station_code": "MBP",
+            "station_name": "MOHIBULLAPUR"
+        },
+        {
+            "arrival_time": "16:33",
+            "day_of_journey": 2,
+            "departure_time": "16:35",
+            "distance_km": 1461.0,
+            "sequence_number": 13,
+            "station_code": "SD",
+            "station_name": "SIDHAULI"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1496.0,
+            "sequence_number": 14,
+            "station_code": "STP",
+            "station_name": "SITAPUR JN."
+        }
+    ],
+    "train_name": "LTT SITAPUR EXP",
+    "train_number": "12107",
+    "type": "SUPERFAST"
+}

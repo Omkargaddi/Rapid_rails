@@ -1,0 +1,85 @@
+{
+    "classes_available": [
+        "EC",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12985.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12985-JP-DEE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "05:52",
+            "day_of_journey": 1,
+            "departure_time": "05:55",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "GADJ",
+            "station_name": "GANDHINAGAR JAIPUR"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 1,
+            "departure_time": "06:37",
+            "distance_km": 61.0,
+            "sequence_number": 3,
+            "station_code": "DO",
+            "station_name": "DAUSA JUNCTION"
+        },
+        {
+            "arrival_time": "07:38",
+            "day_of_journey": 1,
+            "departure_time": "07:41",
+            "distance_km": 151.0,
+            "sequence_number": 4,
+            "station_code": "AWR",
+            "station_name": "ALWAR JUNCTION"
+        },
+        {
+            "arrival_time": "09:36",
+            "day_of_journey": 1,
+            "departure_time": "09:38",
+            "distance_km": 276.0,
+            "sequence_number": 5,
+            "station_code": "GGN",
+            "station_name": "GURGAON"
+        },
+        {
+            "arrival_time": "09:53",
+            "day_of_journey": 1,
+            "departure_time": "09:55",
+            "distance_km": 293.0,
+            "sequence_number": 6,
+            "station_code": "DEC",
+            "station_name": "DELHI CANTT"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 302.0,
+            "sequence_number": 7,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        }
+    ],
+    "train_name": "DOUBLE DECKER",
+    "train_number": "12985",
+    "type": "SUPERFAST"
+}

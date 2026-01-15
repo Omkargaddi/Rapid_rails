@@ -1,0 +1,242 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22612.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22612-NJP-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "22:45",
+            "day_of_journey": 1,
+            "departure_time": "22:47",
+            "distance_km": 57.0,
+            "sequence_number": 2,
+            "station_code": "AUB",
+            "station_name": "ALUABARI ROAD"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 1,
+            "departure_time": "23:12",
+            "distance_km": 87.0,
+            "sequence_number": 3,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 2,
+            "departure_time": "00:07",
+            "distance_km": 145.0,
+            "sequence_number": 4,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "00:44",
+            "day_of_journey": 2,
+            "departure_time": "00:46",
+            "distance_km": 177.0,
+            "sequence_number": 5,
+            "station_code": "HCR",
+            "station_name": "HARISCHANDRPUR"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 233.0,
+            "sequence_number": 6,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 355.0,
+            "sequence_number": 7,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 2,
+            "departure_time": "07:45",
+            "distance_km": 478.0,
+            "sequence_number": 8,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 2,
+            "departure_time": "08:50",
+            "distance_km": 520.0,
+            "sequence_number": 9,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": "09:55",
+            "distance_km": 562.0,
+            "sequence_number": 10,
+            "station_code": "ADRA",
+            "station_name": "ADRA"
+        },
+        {
+            "arrival_time": "10:33",
+            "day_of_journey": 2,
+            "departure_time": "10:35",
+            "distance_km": 615.0,
+            "sequence_number": 11,
+            "station_code": "BQA",
+            "station_name": "BANKURA"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 2,
+            "departure_time": "12:50",
+            "distance_km": 736.0,
+            "sequence_number": 12,
+            "station_code": "HIJ",
+            "station_name": "HIJLI"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 2,
+            "departure_time": "17:30",
+            "distance_km": 1050.0,
+            "sequence_number": 13,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 2,
+            "departure_time": "18:15",
+            "distance_km": 1069.0,
+            "sequence_number": 14,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 2,
+            "departure_time": "20:35",
+            "distance_km": 1216.0,
+            "sequence_number": 15,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "00:23",
+            "day_of_journey": 3,
+            "departure_time": "00:25",
+            "distance_km": 1432.0,
+            "sequence_number": 16,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 3,
+            "departure_time": "01:40",
+            "distance_km": 1492.0,
+            "sequence_number": 17,
+            "station_code": "Point(2)",
+            "station_name": "VISAKHAPATNAM VSKP Train Reversal"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 3,
+            "departure_time": "02:20",
+            "distance_km": 1510.0,
+            "sequence_number": 18,
+            "station_code": "DVD",
+            "station_name": "DUVVADA"
+        },
+        {
+            "arrival_time": "02:33",
+            "day_of_journey": 3,
+            "departure_time": "02:35",
+            "distance_km": 1526.0,
+            "sequence_number": 19,
+            "station_code": "AKP",
+            "station_name": "ANAKAPALLE"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 3,
+            "departure_time": "06:00",
+            "distance_km": 1783.0,
+            "sequence_number": 20,
+            "station_code": "EE",
+            "station_name": "ELURU"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 3,
+            "departure_time": "07:10",
+            "distance_km": 1842.0,
+            "sequence_number": 21,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 3,
+            "departure_time": "09:10",
+            "distance_km": 1981.0,
+            "sequence_number": 22,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 3,
+            "departure_time": "10:40",
+            "distance_km": 2097.0,
+            "sequence_number": 23,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "14:05",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2272.0,
+            "sequence_number": 24,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "NJP MAS EXPRESS",
+    "train_number": "22612",
+    "type": "SUPERFAST"
+}

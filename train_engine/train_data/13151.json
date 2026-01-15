@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13151.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13151-KOAA-JAT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        },
+        {
+            "arrival_time": "11:59",
+            "day_of_journey": 1,
+            "departure_time": "12:01",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DAKE",
+            "station_name": "DAKHINESWAR"
+        },
+        {
+            "arrival_time": "12:26",
+            "day_of_journey": 1,
+            "departure_time": "12:28",
+            "distance_km": 39.0,
+            "sequence_number": 3,
+            "station_code": "KQU",
+            "station_name": "KAMARKUNDU"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 1,
+            "departure_time": "13:17",
+            "distance_km": 100.0,
+            "sequence_number": 4,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "13:59",
+            "day_of_journey": 1,
+            "departure_time": "14:03",
+            "distance_km": 147.0,
+            "sequence_number": 5,
+            "station_code": "PAN",
+            "station_name": "PANAGARH"
+        },
+        {
+            "arrival_time": "14:15",
+            "day_of_journey": 1,
+            "departure_time": "14:17",
+            "distance_km": 163.0,
+            "sequence_number": 6,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "14:32",
+            "day_of_journey": 1,
+            "departure_time": "14:34",
+            "distance_km": 179.0,
+            "sequence_number": 7,
+            "station_code": "UDL",
+            "station_name": "ANDAL JN."
+        },
+        {
+            "arrival_time": "14:45",
+            "day_of_journey": 1,
+            "departure_time": "14:47",
+            "distance_km": 187.0,
+            "sequence_number": 8,
+            "station_code": "RNG",
+            "station_name": "RANIGANJ"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 1,
+            "departure_time": "15:10",
+            "distance_km": 205.0,
+            "sequence_number": 9,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "15:27",
+            "day_of_journey": 1,
+            "departure_time": "15:29",
+            "distance_km": 217.0,
+            "sequence_number": 10,
+            "station_code": "ULT",
+            "station_name": "KULTI"
+        },
+        {
+            "arrival_time": "15:34",
+            "day_of_journey": 1,
+            "departure_time": "15:36",
+            "distance_km": 221.0,
+            "sequence_number": 11,
+            "station_code": "BRR",
+            "station_name": "BARAKAR"
+        },
+        {
+            "arrival_time": "15:39",
+            "day_of_journey": 1,
+            "departure_time": "15:41",
+            "distance_km": 223.0,
+            "sequence_number": 12,
+            "station_code": "KMME",
+            "station_name": "KUMARDUBI"
+        },
+        {
+            "arrival_time": "05:26",
+            "day_of_journey": 3,
+            "departure_time": "05:28",
+            "distance_km": 1830.0,
+            "sequence_number": 82,
+            "station_code": "DZA",
+            "station_name": "DASUYA"
+        },
+        {
+            "arrival_time": "05:42",
+            "day_of_journey": 3,
+            "departure_time": "05:44",
+            "distance_km": 1845.0,
+            "sequence_number": 83,
+            "station_code": "MEX",
+            "station_name": "MUKERIAN"
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 3,
+            "departure_time": "06:23",
+            "distance_km": 1885.0,
+            "sequence_number": 84,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "06:52",
+            "day_of_journey": 3,
+            "departure_time": "06:54",
+            "distance_km": 1908.0,
+            "sequence_number": 85,
+            "station_code": "KTHU",
+            "station_name": "KATHUA"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1984.0,
+            "sequence_number": 86,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        }
+    ],
+    "train_name": "KOAA JAT EXPRES",
+    "train_number": "13151",
+    "type": "MAIL EXPRESS"
+}

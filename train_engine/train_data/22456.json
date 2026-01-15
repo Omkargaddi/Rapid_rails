@@ -1,0 +1,169 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22456.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22456-KLK-SNSI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KLK",
+            "station_name": "KALKA"
+        },
+        {
+            "arrival_time": "17:55",
+            "day_of_journey": 1,
+            "departure_time": "18:07",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "18:50",
+            "day_of_journey": 1,
+            "departure_time": "18:55",
+            "distance_km": 70.0,
+            "sequence_number": 3,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "20:32",
+            "day_of_journey": 1,
+            "departure_time": "20:34",
+            "distance_km": 179.0,
+            "sequence_number": 4,
+            "station_code": "PNP",
+            "station_name": "PANIPAT JN"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 268.0,
+            "sequence_number": 5,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "22:36",
+            "day_of_journey": 1,
+            "departure_time": "22:38",
+            "distance_km": 275.0,
+            "sequence_number": 6,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "00:08",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 409.0,
+            "sequence_number": 7,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 462.0,
+            "sequence_number": 8,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "02:27",
+            "day_of_journey": 2,
+            "departure_time": "02:29",
+            "distance_km": 580.0,
+            "sequence_number": 9,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 679.0,
+            "sequence_number": 10,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "07:40",
+            "day_of_journey": 2,
+            "departure_time": "07:50",
+            "distance_km": 969.0,
+            "sequence_number": 11,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": "09:35",
+            "distance_km": 1060.0,
+            "sequence_number": 12,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "12:23",
+            "day_of_journey": 2,
+            "departure_time": "12:25",
+            "distance_km": 1243.0,
+            "sequence_number": 13,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "14:05",
+            "day_of_journey": 2,
+            "departure_time": "14:10",
+            "distance_km": 1366.0,
+            "sequence_number": 14,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "16:25",
+            "day_of_journey": 2,
+            "departure_time": "16:30",
+            "distance_km": 1550.0,
+            "sequence_number": 15,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1633.0,
+            "sequence_number": 16,
+            "station_code": "SNSI",
+            "station_name": "SAINAGAR SHIRDI"
+        }
+    ],
+    "train_name": "S NGR SHIRDI EX",
+    "train_number": "22456",
+    "type": "MAIL EXPRESS"
+}

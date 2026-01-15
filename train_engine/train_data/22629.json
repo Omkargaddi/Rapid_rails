@@ -1,0 +1,278 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22629.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22629-DR-TEN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "21:04",
+            "day_of_journey": 1,
+            "departure_time": "21:07",
+            "distance_km": 24.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "21:37",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 61.0,
+            "sequence_number": 3,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "23:15",
+            "day_of_journey": 1,
+            "departure_time": "23:17",
+            "distance_km": 138.0,
+            "sequence_number": 4,
+            "station_code": "ROHA",
+            "station_name": "ROHA"
+        },
+        {
+            "arrival_time": "01:30",
+            "day_of_journey": 2,
+            "departure_time": "01:32",
+            "distance_km": 266.0,
+            "sequence_number": 5,
+            "station_code": "CHI",
+            "station_name": "CHIPLUN"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 342.0,
+            "sequence_number": 6,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "04:38",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 453.0,
+            "sequence_number": 7,
+            "station_code": "KKW",
+            "station_name": "KANKAVLI"
+        },
+        {
+            "arrival_time": "05:38",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 535.0,
+            "sequence_number": 8,
+            "station_code": "THVM",
+            "station_name": "THIVIM"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 581.0,
+            "sequence_number": 9,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        },
+        {
+            "arrival_time": "08:08",
+            "day_of_journey": 2,
+            "departure_time": "08:10",
+            "distance_km": 639.0,
+            "sequence_number": 10,
+            "station_code": "KAWR",
+            "station_name": "KARWAR"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 2,
+            "departure_time": "09:02",
+            "distance_km": 708.0,
+            "sequence_number": 11,
+            "station_code": "HNA",
+            "station_name": "HONNAVAR"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 2,
+            "departure_time": "10:02",
+            "distance_km": 765.0,
+            "sequence_number": 12,
+            "station_code": "BYNR",
+            "station_name": "MOOKAMBIKA ROAD BYNDOOR (H)"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 2,
+            "departure_time": "10:42",
+            "distance_km": 829.0,
+            "sequence_number": 13,
+            "station_code": "UD",
+            "station_name": "UDUPI"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 2,
+            "departure_time": "12:10",
+            "distance_km": 896.0,
+            "sequence_number": 14,
+            "station_code": "MAJN",
+            "station_name": "MANGALORE JUNCTION"
+        },
+        {
+            "arrival_time": "12:49",
+            "day_of_journey": 2,
+            "departure_time": "12:50",
+            "distance_km": 943.0,
+            "sequence_number": 15,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "13:57",
+            "day_of_journey": 2,
+            "departure_time": "14:00",
+            "distance_km": 1029.0,
+            "sequence_number": 16,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "15:17",
+            "day_of_journey": 2,
+            "departure_time": "15:20",
+            "distance_km": 1118.0,
+            "sequence_number": 17,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 2,
+            "departure_time": "17:00",
+            "distance_km": 1204.0,
+            "sequence_number": 18,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "17:37",
+            "day_of_journey": 2,
+            "departure_time": "17:40",
+            "distance_km": 1248.0,
+            "sequence_number": 19,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        },
+        {
+            "arrival_time": "19:32",
+            "day_of_journey": 2,
+            "departure_time": "19:35",
+            "distance_km": 1302.0,
+            "sequence_number": 20,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "20:18",
+            "day_of_journey": 2,
+            "departure_time": "20:20",
+            "distance_km": 1353.0,
+            "sequence_number": 21,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 2,
+            "departure_time": "21:15",
+            "distance_km": 1403.0,
+            "sequence_number": 22,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "22:33",
+            "day_of_journey": 2,
+            "departure_time": "22:35",
+            "distance_km": 1468.0,
+            "sequence_number": 23,
+            "station_code": "KRR",
+            "station_name": "KARUR JN."
+        },
+        {
+            "arrival_time": "00:02",
+            "day_of_journey": 3,
+            "departure_time": "00:05",
+            "distance_km": 1542.0,
+            "sequence_number": 24,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 3,
+            "departure_time": "01:10",
+            "distance_km": 1608.0,
+            "sequence_number": 25,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 3,
+            "departure_time": "01:45",
+            "distance_km": 1651.0,
+            "sequence_number": 26,
+            "station_code": "VPT",
+            "station_name": "VIRUDUNAGAR JN"
+        },
+        {
+            "arrival_time": "02:13",
+            "day_of_journey": 3,
+            "departure_time": "02:15",
+            "distance_km": 1700.0,
+            "sequence_number": 27,
+            "station_code": "CVP",
+            "station_name": "KOVILPATTI"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1765.0,
+            "sequence_number": 28,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        }
+    ],
+    "train_name": "DADAR TEN EXP",
+    "train_number": "22629",
+    "type": "SUPERFAST"
+}

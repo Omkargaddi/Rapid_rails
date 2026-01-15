@@ -1,0 +1,222 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13233.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13233-KQR-DNR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KQR",
+            "station_name": "KODERMA"
+        },
+        {
+            "arrival_time": "14:52",
+            "day_of_journey": 1,
+            "departure_time": "14:54",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "GJD",
+            "station_name": "GUJHANDI"
+        },
+        {
+            "arrival_time": "15:14",
+            "day_of_journey": 1,
+            "departure_time": "15:16",
+            "distance_km": 32.0,
+            "sequence_number": 3,
+            "station_code": "GAP",
+            "station_name": "GURPA"
+        },
+        {
+            "arrival_time": "15:26",
+            "day_of_journey": 1,
+            "departure_time": "15:28",
+            "distance_km": 44.0,
+            "sequence_number": 4,
+            "station_code": "PRP",
+            "station_name": "PAHARPUR"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 105.0,
+            "sequence_number": 5,
+            "station_code": "TIA",
+            "station_name": "TILAYA"
+        },
+        {
+            "arrival_time": "17:17",
+            "day_of_journey": 1,
+            "departure_time": "17:19",
+            "distance_km": 134.0,
+            "sequence_number": 6,
+            "station_code": "NES",
+            "station_name": "NATESAR"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 151.0,
+            "sequence_number": 7,
+            "station_code": "RGD",
+            "station_name": "RAJGIR"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:02",
+            "distance_km": 162.0,
+            "sequence_number": 8,
+            "station_code": "NLD",
+            "station_name": "NALANDA"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:12",
+            "distance_km": 167.0,
+            "sequence_number": 9,
+            "station_code": "POE",
+            "station_name": "PAWAPURI ROAD"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 1,
+            "departure_time": "18:22",
+            "distance_km": 173.0,
+            "sequence_number": 10,
+            "station_code": "BEHS",
+            "station_name": "BIHAR SHARIF"
+        },
+        {
+            "arrival_time": "18:29",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 181.0,
+            "sequence_number": 11,
+            "station_code": "RRE",
+            "station_name": "RAHUI ROAD"
+        },
+        {
+            "arrival_time": "18:37",
+            "day_of_journey": 1,
+            "departure_time": "18:39",
+            "distance_km": 187.0,
+            "sequence_number": 12,
+            "station_code": "WENA",
+            "station_name": "WENA"
+        },
+        {
+            "arrival_time": "18:46",
+            "day_of_journey": 1,
+            "departure_time": "18:48",
+            "distance_km": 192.0,
+            "sequence_number": 13,
+            "station_code": "HRT",
+            "station_name": "HARNAUT"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 202.0,
+            "sequence_number": 14,
+            "station_code": "BKP",
+            "station_name": "BAKHTIYARPUR JN"
+        },
+        {
+            "arrival_time": "19:11",
+            "day_of_journey": 1,
+            "departure_time": "19:13",
+            "distance_km": 211.0,
+            "sequence_number": 15,
+            "station_code": "KWO",
+            "station_name": "KARAUTA"
+        },
+        {
+            "arrival_time": "19:21",
+            "day_of_journey": 1,
+            "departure_time": "19:23",
+            "distance_km": 217.0,
+            "sequence_number": 16,
+            "station_code": "KOO",
+            "station_name": "KHUSROPUR"
+        },
+        {
+            "arrival_time": "19:32",
+            "day_of_journey": 1,
+            "departure_time": "19:34",
+            "distance_km": 226.0,
+            "sequence_number": 17,
+            "station_code": "FUT",
+            "station_name": "FATUHA"
+        },
+        {
+            "arrival_time": "19:48",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 238.0,
+            "sequence_number": 18,
+            "station_code": "PNC",
+            "station_name": "PATNA SAHEB"
+        },
+        {
+            "arrival_time": "19:56",
+            "day_of_journey": 1,
+            "departure_time": "19:58",
+            "distance_km": 240.0,
+            "sequence_number": 19,
+            "station_code": "GZH",
+            "station_name": "GULZARBAGH"
+        },
+        {
+            "arrival_time": "20:05",
+            "day_of_journey": 1,
+            "departure_time": "20:07",
+            "distance_km": 245.0,
+            "sequence_number": 20,
+            "station_code": "RJPB",
+            "station_name": "RAJENDRA NAGAR"
+        },
+        {
+            "arrival_time": "20:35",
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 247.0,
+            "sequence_number": 21,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 257.0,
+            "sequence_number": 22,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        }
+    ],
+    "train_name": "RAJGRIHA EXP",
+    "train_number": "13233",
+    "type": "MAIL EXPRESS"
+}

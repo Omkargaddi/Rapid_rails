@@ -1,0 +1,185 @@
+{
+    "classes_available": [
+        "3E",
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12821.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12821-HWH-PURI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "09:31",
+            "day_of_journey": 1,
+            "departure_time": "09:33",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 116.0,
+            "sequence_number": 3,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "11:43",
+            "day_of_journey": 1,
+            "departure_time": "11:45",
+            "distance_km": 157.0,
+            "sequence_number": 4,
+            "station_code": "BLDA",
+            "station_name": "BELDA"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 173.0,
+            "sequence_number": 5,
+            "station_code": "DNT",
+            "station_name": "DANTAN"
+        },
+        {
+            "arrival_time": "12:13",
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 190.0,
+            "sequence_number": 6,
+            "station_code": "JER",
+            "station_name": "JALESWAR"
+        },
+        {
+            "arrival_time": "12:30",
+            "day_of_journey": 1,
+            "departure_time": "12:32",
+            "distance_km": 209.0,
+            "sequence_number": 7,
+            "station_code": "BTS",
+            "station_name": "BASTA"
+        },
+        {
+            "arrival_time": "12:58",
+            "day_of_journey": 1,
+            "departure_time": "13:02",
+            "distance_km": 237.0,
+            "sequence_number": 8,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "13:22",
+            "day_of_journey": 1,
+            "departure_time": "13:24",
+            "distance_km": 270.0,
+            "sequence_number": 9,
+            "station_code": "SORO",
+            "station_name": "SORO"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 1,
+            "departure_time": "13:36",
+            "distance_km": 285.0,
+            "sequence_number": 10,
+            "station_code": "MKO",
+            "station_name": "MARKONA"
+        },
+        {
+            "arrival_time": "14:18",
+            "day_of_journey": 1,
+            "departure_time": "14:20",
+            "distance_km": 296.0,
+            "sequence_number": 11,
+            "station_code": "BHC",
+            "station_name": "BHADRAKH"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 339.0,
+            "sequence_number": 12,
+            "station_code": "JJKR",
+            "station_name": "JAJPUR K ROAD"
+        },
+        {
+            "arrival_time": "15:18",
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 376.0,
+            "sequence_number": 13,
+            "station_code": "DNM",
+            "station_name": "DHANMANDAL"
+        },
+        {
+            "arrival_time": "15:43",
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 411.0,
+            "sequence_number": 14,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 439.0,
+            "sequence_number": 15,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 458.0,
+            "sequence_number": 16,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "17:13",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 485.0,
+            "sequence_number": 17,
+            "station_code": "SIL",
+            "station_name": "SAKHI GOPAL"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 502.0,
+            "sequence_number": 18,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        }
+    ],
+    "train_name": "DHAULI EXP",
+    "train_number": "12821",
+    "type": "SUPERFAST"
+}

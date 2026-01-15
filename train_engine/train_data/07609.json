@@ -1,0 +1,277 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_07609.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "07609-J-TCNR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "J",
+            "station_name": "JALNA"
+        },
+        {
+            "arrival_time": "07:44",
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 45.0,
+            "sequence_number": 2,
+            "station_code": "PTU",
+            "station_name": "PARTUR"
+        },
+        {
+            "arrival_time": "08:04",
+            "day_of_journey": 1,
+            "departure_time": "08:05",
+            "distance_km": 72.0,
+            "sequence_number": 3,
+            "station_code": "SELU",
+            "station_name": "SELU"
+        },
+        {
+            "arrival_time": "08:24",
+            "day_of_journey": 1,
+            "departure_time": "08:25",
+            "distance_km": 87.0,
+            "sequence_number": 4,
+            "station_code": "MVO",
+            "station_name": "MANWATH ROAD"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 114.0,
+            "sequence_number": 5,
+            "station_code": "PBN",
+            "station_name": "PARBHANI JN"
+        },
+        {
+            "arrival_time": "12:01",
+            "day_of_journey": 1,
+            "departure_time": "12:03",
+            "distance_km": 149.0,
+            "sequence_number": 6,
+            "station_code": "GNH",
+            "station_name": "GANGAKHER"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 1,
+            "departure_time": "13:15",
+            "distance_km": 178.0,
+            "sequence_number": 7,
+            "station_code": "PRLI",
+            "station_name": "PARLI VAIJNATH"
+        },
+        {
+            "arrival_time": "14:58",
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 241.0,
+            "sequence_number": 8,
+            "station_code": "LTRR",
+            "station_name": "LATUR ROAD"
+        },
+        {
+            "arrival_time": "15:58",
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 274.0,
+            "sequence_number": 9,
+            "station_code": "UDGR",
+            "station_name": "UDGIR"
+        },
+        {
+            "arrival_time": "16:43",
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 355.0,
+            "sequence_number": 10,
+            "station_code": "BIDR",
+            "station_name": "BIDAR"
+        },
+        {
+            "arrival_time": "17:39",
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 410.0,
+            "sequence_number": 11,
+            "station_code": "MRF",
+            "station_name": "MARPALLI"
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 446.0,
+            "sequence_number": 12,
+            "station_code": "VKB",
+            "station_name": "VIKARABAD JN"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 495.0,
+            "sequence_number": 13,
+            "station_code": "LPI",
+            "station_name": "LINGAMPALLI"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 535.0,
+            "sequence_number": 14,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 632.0,
+            "sequence_number": 15,
+            "station_code": "NLDA",
+            "station_name": "NALGONDA"
+        },
+        {
+            "arrival_time": "00:13",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 670.0,
+            "sequence_number": 16,
+            "station_code": "MRGA",
+            "station_name": "MIRYALAGUDA"
+        },
+        {
+            "arrival_time": "00:43",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 708.0,
+            "sequence_number": 17,
+            "station_code": "NDKD",
+            "station_name": "NADIKODE"
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 761.0,
+            "sequence_number": 18,
+            "station_code": "SAP",
+            "station_name": "SATTENAPALLE"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 803.0,
+            "sequence_number": 19,
+            "station_code": "GNT",
+            "station_name": "GUNTUR JN"
+        },
+        {
+            "arrival_time": "03:43",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 829.0,
+            "sequence_number": 20,
+            "station_code": "TEL",
+            "station_name": "TENALI JN"
+        },
+        {
+            "arrival_time": "04:38",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 871.0,
+            "sequence_number": 21,
+            "station_code": "BPP",
+            "station_name": "BAPATLA"
+        },
+        {
+            "arrival_time": "04:53",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 886.0,
+            "sequence_number": 22,
+            "station_code": "CLX",
+            "station_name": "CHIRALA"
+        },
+        {
+            "arrival_time": "05:33",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 936.0,
+            "sequence_number": 23,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 1001.0,
+            "sequence_number": 24,
+            "station_code": "KVZ",
+            "station_name": "KAVALI"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 1052.0,
+            "sequence_number": 25,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 1090.0,
+            "sequence_number": 26,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "09:28",
+            "day_of_journey": 2,
+            "departure_time": "09:30",
+            "distance_km": 1173.0,
+            "sequence_number": 27,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1178.0,
+            "sequence_number": 28,
+            "station_code": "TCNR",
+            "station_name": "TIRUCHANUR"
+        }
+    ],
+    "train_name": "J TPTY SPL",
+    "train_number": "07609",
+    "type": "TRAIN ON DEMAND"
+}

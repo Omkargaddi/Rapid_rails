@@ -1,0 +1,155 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17206.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "17206-COA-SNSI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:05",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "COA",
+            "station_name": "KAKINADA PORT"
+        },
+        {
+            "arrival_time": "05:13",
+            "day_of_journey": 1,
+            "departure_time": "05:15",
+            "distance_km": 3.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "CCT",
+            "station_name": "KAKINADA TOWN"
+        },
+        {
+            "arrival_time": "05:29",
+            "day_of_journey": 1,
+            "departure_time": "05:30",
+            "distance_km": 16.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "SLO",
+            "station_name": "SAMALKOT JN"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 66.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "06:29",
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 88.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "NDD",
+            "station_name": "NIDADAVOLU JN"
+        },
+        {
+            "arrival_time": "06:44",
+            "day_of_journey": 1,
+            "departure_time": "06:45",
+            "distance_km": 108.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "TDD",
+            "station_name": "TADEPALLIGUDEM"
+        },
+        {
+            "arrival_time": "07:29",
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 156.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "EE",
+            "station_name": "ELURU"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 215.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "10:19",
+            "day_of_journey": 1,
+            "departure_time": "10:20",
+            "distance_km": 272.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "MDR",
+            "station_name": "MADHIRA"
+        },
+        {
+            "arrival_time": "11:09",
+            "day_of_journey": 1,
+            "departure_time": "11:10",
+            "distance_km": 316.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "KMT",
+            "station_name": "KHAMMAM"
+        },
+        {
+            "arrival_time": "11:34",
+            "day_of_journey": 1,
+            "departure_time": "11:35",
+            "distance_km": 339.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "DKJ",
+            "station_name": "DORNAKAL JN"
+        },
+        {
+            "arrival_time": "11:54",
+            "day_of_journey": 1,
+            "departure_time": "11:55",
+            "distance_km": 363.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "MABD",
+            "station_name": "MAHBUBABAD"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1343.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "SNSI",
+            "station_name": "SAINAGAR SHIRDI"
+        }
+    ],
+    "train_name": "COA SNSI EXP",
+    "train_number": "17206",
+    "type": "MAIL EXPRESS "
+}

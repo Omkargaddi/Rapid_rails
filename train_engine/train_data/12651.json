@@ -1,0 +1,170 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12651.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12651-MDU-NZM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "01:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "01:55",
+            "day_of_journey": 1,
+            "departure_time": "02:00",
+            "distance_km": 66.0,
+            "sequence_number": 2,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 1,
+            "departure_time": "03:10",
+            "distance_km": 160.0,
+            "sequence_number": 3,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 1,
+            "departure_time": "04:06",
+            "distance_km": 230.0,
+            "sequence_number": 4,
+            "station_code": "ALU",
+            "station_name": "ARIYALUR"
+        },
+        {
+            "arrival_time": "04:38",
+            "day_of_journey": 1,
+            "departure_time": "04:40",
+            "distance_km": 283.0,
+            "sequence_number": 5,
+            "station_code": "VRI",
+            "station_name": "VRIDDHACHALAM JN"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 1,
+            "departure_time": "05:45",
+            "distance_km": 338.0,
+            "sequence_number": 6,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "06:39",
+            "day_of_journey": 1,
+            "departure_time": "06:40",
+            "distance_km": 405.0,
+            "sequence_number": 7,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "07:08",
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 441.0,
+            "sequence_number": 8,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "07:38",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 471.0,
+            "sequence_number": 9,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 496.0,
+            "sequence_number": 10,
+            "station_code": "MS",
+            "station_name": "CHENNAI EGMORE"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 931.0,
+            "sequence_number": 11,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 1386.0,
+            "sequence_number": 12,
+            "station_code": "BPQ",
+            "station_name": "BALHARSHAH"
+        },
+        {
+            "arrival_time": "01:55",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 1595.0,
+            "sequence_number": 13,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "08:15",
+            "day_of_journey": 2,
+            "departure_time": "08:25",
+            "distance_km": 1986.0,
+            "sequence_number": 14,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 2,
+            "departure_time": "12:13",
+            "distance_km": 2276.0,
+            "sequence_number": 15,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 2679.0,
+            "sequence_number": 16,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        }
+    ],
+    "train_name": "NZM S KRNTI EXP",
+    "train_number": "12651",
+    "type": "SUPERFAST"
+}

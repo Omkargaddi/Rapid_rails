@@ -1,0 +1,296 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16630.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16630-MAQ-TVC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAQ",
+            "station_name": "MANGALORE CENTRAL"
+        },
+        {
+            "arrival_time": "18:31",
+            "day_of_journey": 1,
+            "departure_time": "18:32",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "ULL",
+            "station_name": "ULLAL"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 1,
+            "departure_time": "18:41",
+            "distance_km": 17.0,
+            "sequence_number": 3,
+            "station_code": "MJS",
+            "station_name": "MANJESHWAR"
+        },
+        {
+            "arrival_time": "18:47",
+            "day_of_journey": 1,
+            "departure_time": "18:48",
+            "distance_km": 24.0,
+            "sequence_number": 4,
+            "station_code": "UAA",
+            "station_name": "UPPALA"
+        },
+        {
+            "arrival_time": "18:59",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 34.0,
+            "sequence_number": 5,
+            "station_code": "KMQ",
+            "station_name": "KUMBLA"
+        },
+        {
+            "arrival_time": "19:09",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 46.0,
+            "sequence_number": 6,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "19:19",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 55.0,
+            "sequence_number": 7,
+            "station_code": "KQK",
+            "station_name": "KOTIKULAM"
+        },
+        {
+            "arrival_time": "19:26",
+            "day_of_journey": 1,
+            "departure_time": "19:27",
+            "distance_km": 60.0,
+            "sequence_number": 8,
+            "station_code": "BFR",
+            "station_name": "BEKAL FORT"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 69.0,
+            "sequence_number": 9,
+            "station_code": "KZE",
+            "station_name": "KANHANGAD"
+        },
+        {
+            "arrival_time": "19:44",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 78.0,
+            "sequence_number": 10,
+            "station_code": "NLE",
+            "station_name": "NILESHWAR"
+        },
+        {
+            "arrival_time": "19:51",
+            "day_of_journey": 1,
+            "departure_time": "19:52",
+            "distance_km": 83.0,
+            "sequence_number": 11,
+            "station_code": "CHV",
+            "station_name": "CHARVATTUR"
+        },
+        {
+            "arrival_time": "19:59",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 92.0,
+            "sequence_number": 12,
+            "station_code": "TKQ",
+            "station_name": "TRIKARPUR"
+        },
+        {
+            "arrival_time": "03:38",
+            "day_of_journey": 2,
+            "departure_time": "03:39",
+            "distance_km": 441.0,
+            "sequence_number": 36,
+            "station_code": "PVRD",
+            "station_name": "PIRAVAM ROAD"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": "04:13",
+            "distance_km": 471.0,
+            "sequence_number": 37,
+            "station_code": "KTYM",
+            "station_name": "KOTTAYAM"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:31",
+            "distance_km": 489.0,
+            "sequence_number": 38,
+            "station_code": "CGY",
+            "station_name": "CHANGANASSERI"
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 2,
+            "departure_time": "04:41",
+            "distance_km": 497.0,
+            "sequence_number": 39,
+            "station_code": "TRVL",
+            "station_name": "TIRUVALLA"
+        },
+        {
+            "arrival_time": "04:51",
+            "day_of_journey": 2,
+            "departure_time": "04:53",
+            "distance_km": 506.0,
+            "sequence_number": 40,
+            "station_code": "CNGR",
+            "station_name": "CHENGANNUR"
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 2,
+            "departure_time": "05:06",
+            "distance_km": 519.0,
+            "sequence_number": 41,
+            "station_code": "MVLK",
+            "station_name": "MAVELIKARA"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": "05:22",
+            "distance_km": 526.0,
+            "sequence_number": 42,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "05:37",
+            "day_of_journey": 2,
+            "departure_time": "05:38",
+            "distance_km": 540.0,
+            "sequence_number": 43,
+            "station_code": "KPY",
+            "station_name": "KARUNAGAPPALLI"
+        },
+        {
+            "arrival_time": "05:47",
+            "day_of_journey": 2,
+            "departure_time": "05:48",
+            "distance_km": 548.0,
+            "sequence_number": 44,
+            "station_code": "STKT",
+            "station_name": "SASTHANKOTTA"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": "06:23",
+            "distance_km": 567.0,
+            "sequence_number": 45,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "06:34",
+            "day_of_journey": 2,
+            "departure_time": "06:35",
+            "distance_km": 580.0,
+            "sequence_number": 46,
+            "station_code": "PVU",
+            "station_name": "PARAVUR"
+        },
+        {
+            "arrival_time": "06:47",
+            "day_of_journey": 2,
+            "departure_time": "06:48",
+            "distance_km": 591.0,
+            "sequence_number": 47,
+            "station_code": "VAK",
+            "station_name": "VARKALA"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 2,
+            "departure_time": "06:59",
+            "distance_km": 600.0,
+            "sequence_number": 48,
+            "station_code": "KVU",
+            "station_name": "KADAKAVUR"
+        },
+        {
+            "arrival_time": "07:04",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 603.0,
+            "sequence_number": 49,
+            "station_code": "CRY",
+            "station_name": "CHIRAYINKEEZH"
+        },
+        {
+            "arrival_time": "07:14",
+            "day_of_journey": 2,
+            "departure_time": "07:15",
+            "distance_km": 610.0,
+            "sequence_number": 50,
+            "station_code": "MQU",
+            "station_name": "MURUKKAMPUZHA"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 2,
+            "departure_time": "07:26",
+            "distance_km": 618.0,
+            "sequence_number": 51,
+            "station_code": "KZK",
+            "station_name": "KAZHAKUTTAM"
+        },
+        {
+            "arrival_time": "07:31",
+            "day_of_journey": 2,
+            "departure_time": "07:32",
+            "distance_km": 629.0,
+            "sequence_number": 52,
+            "station_code": "TVP",
+            "station_name": "THIRUVANANTHAPURAM PETTAH"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 631.0,
+            "sequence_number": 53,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        }
+    ],
+    "train_name": "MALABAR EXPRESS",
+    "train_number": "16630",
+    "type": "MAIL EXPRESS"
+}

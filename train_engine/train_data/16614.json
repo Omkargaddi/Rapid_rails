@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16614.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16614-CBE-RJT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "00:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "01:28",
+            "day_of_journey": 1,
+            "departure_time": "01:30",
+            "distance_km": 50.0,
+            "sequence_number": 2,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "02:15",
+            "day_of_journey": 1,
+            "departure_time": "02:20",
+            "distance_km": 101.0,
+            "sequence_number": 3,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 1,
+            "departure_time": "03:20",
+            "distance_km": 160.0,
+            "sequence_number": 4,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "04:44",
+            "day_of_journey": 1,
+            "departure_time": "04:45",
+            "distance_km": 274.0,
+            "sequence_number": 5,
+            "station_code": "TPT",
+            "station_name": "TIRUPATTUR JN"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 1,
+            "departure_time": "06:10",
+            "distance_km": 351.0,
+            "sequence_number": 6,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 2,
+            "departure_time": "08:20",
+            "distance_km": 1672.0,
+            "sequence_number": 24,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "09:42",
+            "day_of_journey": 2,
+            "departure_time": "09:47",
+            "distance_km": 1741.0,
+            "sequence_number": 25,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "10:21",
+            "day_of_journey": 2,
+            "departure_time": "10:23",
+            "distance_km": 1791.0,
+            "sequence_number": 26,
+            "station_code": "AKV",
+            "station_name": "ANKLESHWAR JN"
+        },
+        {
+            "arrival_time": "11:32",
+            "day_of_journey": 2,
+            "departure_time": "11:37",
+            "distance_km": 1870.0,
+            "sequence_number": 27,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 2,
+            "departure_time": "12:12",
+            "distance_km": 1905.0,
+            "sequence_number": 28,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "12:27",
+            "day_of_journey": 2,
+            "departure_time": "12:29",
+            "distance_km": 1923.0,
+            "sequence_number": 29,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 2,
+            "departure_time": "13:07",
+            "distance_km": 1965.0,
+            "sequence_number": 30,
+            "station_code": "MAN",
+            "station_name": "MANINAGAR"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 2,
+            "departure_time": "13:35",
+            "distance_km": 1969.0,
+            "sequence_number": 31,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "14:36",
+            "day_of_journey": 2,
+            "departure_time": "14:38",
+            "distance_km": 2034.0,
+            "sequence_number": 32,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 2,
+            "departure_time": "15:47",
+            "distance_km": 2098.0,
+            "sequence_number": 33,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 2215.0,
+            "sequence_number": 34,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        }
+    ],
+    "train_name": "CBE RJT EXPRESS",
+    "train_number": "16614",
+    "type": "MAIL EXPRESS"
+}

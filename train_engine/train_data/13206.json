@@ -1,0 +1,171 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13206.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13206-PPTA-PRNC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PPTA",
+            "station_name": "PATLIPUTRA"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 21.0,
+            "sequence_number": 2,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 1,
+            "departure_time": "10:32",
+            "distance_km": 51.0,
+            "sequence_number": 3,
+            "station_code": "MNO",
+            "station_name": "MEHNAR ROAD"
+        },
+        {
+            "arrival_time": "10:41",
+            "day_of_journey": 1,
+            "departure_time": "10:43",
+            "distance_km": 58.0,
+            "sequence_number": 4,
+            "station_code": "SPP",
+            "station_name": "SHAHPUR PATOREE"
+        },
+        {
+            "arrival_time": "11:12",
+            "day_of_journey": 1,
+            "departure_time": "11:14",
+            "distance_km": 92.0,
+            "sequence_number": 5,
+            "station_code": "BCA",
+            "station_name": "BACHWARA JN"
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 1,
+            "departure_time": "11:55",
+            "distance_km": 108.0,
+            "sequence_number": 6,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "12:11",
+            "day_of_journey": 1,
+            "departure_time": "12:13",
+            "distance_km": 124.0,
+            "sequence_number": 7,
+            "station_code": "BGS",
+            "station_name": "BEGUSARAI"
+        },
+        {
+            "arrival_time": "12:48",
+            "day_of_journey": 1,
+            "departure_time": "12:50",
+            "distance_km": 164.0,
+            "sequence_number": 8,
+            "station_code": "KGG",
+            "station_name": "KHAGARIA JN."
+        },
+        {
+            "arrival_time": "13:23",
+            "day_of_journey": 1,
+            "departure_time": "13:25",
+            "distance_km": 173.0,
+            "sequence_number": 9,
+            "station_code": "MNE",
+            "station_name": "MANSI JN"
+        },
+        {
+            "arrival_time": "13:55",
+            "day_of_journey": 1,
+            "departure_time": "13:57",
+            "distance_km": 201.0,
+            "sequence_number": 10,
+            "station_code": "SBV",
+            "station_name": "S BHAKHTIYARPUR"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 217.0,
+            "sequence_number": 11,
+            "station_code": "SHC",
+            "station_name": "SAHARSA JN"
+        },
+        {
+            "arrival_time": "15:53",
+            "day_of_journey": 1,
+            "departure_time": "15:55",
+            "distance_km": 239.0,
+            "sequence_number": 12,
+            "station_code": "DMH",
+            "station_name": "DAURAM MADHPURA"
+        },
+        {
+            "arrival_time": "16:23",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 261.0,
+            "sequence_number": 13,
+            "station_code": "MRIJ",
+            "station_name": "MURLIGANJ"
+        },
+        {
+            "arrival_time": "16:42",
+            "day_of_journey": 1,
+            "departure_time": "16:44",
+            "distance_km": 281.0,
+            "sequence_number": 14,
+            "station_code": "BNKI",
+            "station_name": "BANMANKHI JN."
+        },
+        {
+            "arrival_time": "16:52",
+            "day_of_journey": 1,
+            "departure_time": "16:54",
+            "distance_km": 291.0,
+            "sequence_number": 15,
+            "station_code": "SRSI",
+            "station_name": "SARSI"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 312.0,
+            "sequence_number": 16,
+            "station_code": "PRNC",
+            "station_name": "PURNIA COURT"
+        }
+    ],
+    "train_name": "JANHIT EXP",
+    "train_number": "13206",
+    "type": "MAIL EXPRESS"
+}

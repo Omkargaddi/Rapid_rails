@@ -1,0 +1,150 @@
+{
+    "classes_available": [
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14704.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14704-LGH-JSM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LGH",
+            "station_name": "LALGARH JN"
+        },
+        {
+            "arrival_time": "07:54",
+            "day_of_journey": 1,
+            "departure_time": "07:56",
+            "distance_km": 12.0,
+            "sequence_number": 2,
+            "station_code": "NAL",
+            "station_name": "NAL HALT"
+        },
+        {
+            "arrival_time": "08:11",
+            "day_of_journey": 1,
+            "departure_time": "08:13",
+            "distance_km": 31.0,
+            "sequence_number": 3,
+            "station_code": "GJN",
+            "station_name": "GAJNER"
+        },
+        {
+            "arrival_time": "08:26",
+            "day_of_journey": 1,
+            "departure_time": "08:28",
+            "distance_km": 46.0,
+            "sequence_number": 4,
+            "station_code": "KLYT",
+            "station_name": "KOLAYAT"
+        },
+        {
+            "arrival_time": "08:41",
+            "day_of_journey": 1,
+            "departure_time": "08:43",
+            "distance_km": 63.0,
+            "sequence_number": 5,
+            "station_code": "DTRD",
+            "station_name": "DIYATRAROAD"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 1,
+            "departure_time": "09:02",
+            "distance_km": 85.0,
+            "sequence_number": 6,
+            "station_code": "NKRA",
+            "station_name": "NOKHRA"
+        },
+        {
+            "arrival_time": "09:17",
+            "day_of_journey": 1,
+            "departure_time": "09:19",
+            "distance_km": 105.0,
+            "sequence_number": 7,
+            "station_code": "SIRD",
+            "station_name": "SIRD"
+        },
+        {
+            "arrival_time": "09:33",
+            "day_of_journey": 1,
+            "departure_time": "09:35",
+            "distance_km": 123.0,
+            "sequence_number": 8,
+            "station_code": "BAF",
+            "station_name": "BAP"
+        },
+        {
+            "arrival_time": "09:52",
+            "day_of_journey": 1,
+            "departure_time": "09:54",
+            "distance_km": 145.0,
+            "sequence_number": 9,
+            "station_code": "MAAR",
+            "station_name": "MALHAR"
+        },
+        {
+            "arrival_time": "10:15",
+            "day_of_journey": 1,
+            "departure_time": "10:20",
+            "distance_km": 158.0,
+            "sequence_number": 10,
+            "station_code": "PLCJ",
+            "station_name": "PHALODI"
+        },
+        {
+            "arrival_time": "10:56",
+            "day_of_journey": 1,
+            "departure_time": "10:59",
+            "distance_km": 205.0,
+            "sequence_number": 11,
+            "station_code": "RDRA",
+            "station_name": "RAMDEVRA"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 1,
+            "departure_time": "11:45",
+            "distance_km": 215.0,
+            "sequence_number": 12,
+            "station_code": "POK",
+            "station_name": "POKRAN"
+        },
+        {
+            "arrival_time": "12:32",
+            "day_of_journey": 1,
+            "departure_time": "12:34",
+            "distance_km": 258.0,
+            "sequence_number": 13,
+            "station_code": "SBLT",
+            "station_name": "SHRI BHADRIYA LATHI"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 322.0,
+            "sequence_number": 14,
+            "station_code": "JSM",
+            "station_name": "JAISALMER"
+        }
+    ],
+    "train_name": "LGH JSM EXP",
+    "train_number": "14704",
+    "type": "MAIL EXPRESS"
+}

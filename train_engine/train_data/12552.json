@@ -1,0 +1,284 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12552.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12552-KYQ-SMVB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 1,
+            "departure_time": "14:35",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 150.0,
+            "sequence_number": 3,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 260.0,
+            "sequence_number": 4,
+            "station_code": "NOQ",
+            "station_name": "NEW ALIPURDUAR"
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 1,
+            "departure_time": "18:37",
+            "distance_km": 278.0,
+            "sequence_number": 5,
+            "station_code": "NCB",
+            "station_name": "NEW COOCH BEHAR"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 405.0,
+            "sequence_number": 6,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "22:35",
+            "day_of_journey": 1,
+            "departure_time": "22:37",
+            "distance_km": 492.0,
+            "sequence_number": 7,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "23:28",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 549.0,
+            "sequence_number": 8,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 637.0,
+            "sequence_number": 9,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 759.0,
+            "sequence_number": 10,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 2,
+            "departure_time": "07:45",
+            "distance_km": 883.0,
+            "sequence_number": 11,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 2,
+            "departure_time": "08:50",
+            "distance_km": 925.0,
+            "sequence_number": 12,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": "09:55",
+            "distance_km": 966.0,
+            "sequence_number": 13,
+            "station_code": "ADRA",
+            "station_name": "ADRA"
+        },
+        {
+            "arrival_time": "10:33",
+            "day_of_journey": 2,
+            "departure_time": "10:35",
+            "distance_km": 1020.0,
+            "sequence_number": 14,
+            "station_code": "BQA",
+            "station_name": "BANKURA"
+        },
+        {
+            "arrival_time": "11:51",
+            "day_of_journey": 2,
+            "departure_time": "11:53",
+            "distance_km": 1122.0,
+            "sequence_number": 15,
+            "station_code": "MDN",
+            "station_name": "MIDNAPORE"
+        },
+        {
+            "arrival_time": "12:27",
+            "day_of_journey": 2,
+            "departure_time": "12:35",
+            "distance_km": 1141.0,
+            "sequence_number": 16,
+            "station_code": "HIJ",
+            "station_name": "HIJLI"
+        },
+        {
+            "arrival_time": "13:38",
+            "day_of_journey": 2,
+            "departure_time": "13:40",
+            "distance_km": 1253.0,
+            "sequence_number": 17,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 2,
+            "departure_time": "15:47",
+            "distance_km": 1427.0,
+            "sequence_number": 18,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 2,
+            "departure_time": "16:25",
+            "distance_km": 1454.0,
+            "sequence_number": 19,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 2,
+            "departure_time": "17:00",
+            "distance_km": 1473.0,
+            "sequence_number": 20,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 2,
+            "departure_time": "18:32",
+            "distance_km": 1620.0,
+            "sequence_number": 21,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 2,
+            "departure_time": "22:15",
+            "distance_km": 1836.0,
+            "sequence_number": 22,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "00:53",
+            "day_of_journey": 3,
+            "departure_time": "00:55",
+            "distance_km": 2034.0,
+            "sequence_number": 23,
+            "station_code": "SLO",
+            "station_name": "SAMALKOT JN"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 3,
+            "departure_time": "04:20",
+            "distance_km": 2234.0,
+            "sequence_number": 24,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "08:29",
+            "day_of_journey": 3,
+            "departure_time": "08:30",
+            "distance_km": 2526.0,
+            "sequence_number": 25,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 3,
+            "departure_time": "10:35",
+            "distance_km": 2664.0,
+            "sequence_number": 26,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 3,
+            "departure_time": "12:20",
+            "distance_km": 2788.0,
+            "sequence_number": 27,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 3,
+            "departure_time": "13:45",
+            "distance_km": 2871.0,
+            "sequence_number": 28,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 3005.0,
+            "sequence_number": 29,
+            "station_code": "SMVB",
+            "station_name": "SMVT BENGALURU"
+        }
+    ],
+    "train_name": "KYQ SMVB AC EXP",
+    "train_number": "12552",
+    "type": "SUPERFAST"
+}

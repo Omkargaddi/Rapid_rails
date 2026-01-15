@@ -1,0 +1,343 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12409.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12409-RIG-NZM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "03:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RIG",
+            "station_name": "RAIGARH"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 1,
+            "departure_time": "03:52",
+            "distance_km": 34.0,
+            "sequence_number": 2,
+            "station_code": "KHS",
+            "station_name": "KHARSIA"
+        },
+        {
+            "arrival_time": "04:26",
+            "day_of_journey": 1,
+            "departure_time": "04:31",
+            "distance_km": 80.0,
+            "sequence_number": 3,
+            "station_code": "CPH",
+            "station_name": "CHAMPA"
+        },
+        {
+            "arrival_time": "04:54",
+            "day_of_journey": 1,
+            "departure_time": "04:56",
+            "distance_km": 106.0,
+            "sequence_number": 4,
+            "station_code": "AKT",
+            "station_name": "AKALTARA"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 1,
+            "departure_time": "05:50",
+            "distance_km": 133.0,
+            "sequence_number": 5,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 185.0,
+            "sequence_number": 6,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "06:51",
+            "day_of_journey": 1,
+            "departure_time": "06:53",
+            "distance_km": 211.0,
+            "sequence_number": 7,
+            "station_code": "TLD",
+            "station_name": "TILDA"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 248.0,
+            "sequence_number": 8,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 286.0,
+            "sequence_number": 9,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "08:54",
+            "day_of_journey": 1,
+            "departure_time": "08:56",
+            "distance_km": 317.0,
+            "sequence_number": 10,
+            "station_code": "RJN",
+            "station_name": "RAJNANDGAON"
+        },
+        {
+            "arrival_time": "09:19",
+            "day_of_journey": 1,
+            "departure_time": "09:21",
+            "distance_km": 348.0,
+            "sequence_number": 11,
+            "station_code": "DGG",
+            "station_name": "DONGARGARH"
+        },
+        {
+            "arrival_time": "10:28",
+            "day_of_journey": 1,
+            "departure_time": "10:30",
+            "distance_km": 421.0,
+            "sequence_number": 12,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "11:06",
+            "day_of_journey": 1,
+            "departure_time": "11:08",
+            "distance_km": 471.0,
+            "sequence_number": 13,
+            "station_code": "TMR",
+            "station_name": "TUMSAR ROAD"
+        },
+        {
+            "arrival_time": "11:22",
+            "day_of_journey": 1,
+            "departure_time": "11:24",
+            "distance_km": 489.0,
+            "sequence_number": 14,
+            "station_code": "BRD",
+            "station_name": "BHANDARA ROAD"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 1,
+            "departure_time": "12:55",
+            "distance_km": 551.0,
+            "sequence_number": 15,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "13:44",
+            "day_of_journey": 1,
+            "departure_time": "13:45",
+            "distance_km": 610.0,
+            "sequence_number": 16,
+            "station_code": "KATL",
+            "station_name": "KATOL"
+        },
+        {
+            "arrival_time": "14:03",
+            "day_of_journey": 1,
+            "departure_time": "14:04",
+            "distance_km": 635.0,
+            "sequence_number": 17,
+            "station_code": "NRKR",
+            "station_name": "NARKHER"
+        },
+        {
+            "arrival_time": "14:09",
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 653.0,
+            "sequence_number": 18,
+            "station_code": "PAR",
+            "station_name": "PANDHURNA"
+        },
+        {
+            "arrival_time": "14:44",
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 694.0,
+            "sequence_number": 19,
+            "station_code": "MTY",
+            "station_name": "MULTAI"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": "15:02",
+            "distance_km": 717.0,
+            "sequence_number": 20,
+            "station_code": "AMLA",
+            "station_name": "AMLA JN"
+        },
+        {
+            "arrival_time": "15:18",
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 740.0,
+            "sequence_number": 21,
+            "station_code": "BZU",
+            "station_name": "BETUL"
+        },
+        {
+            "arrival_time": "15:57",
+            "day_of_journey": 1,
+            "departure_time": "15:58",
+            "distance_km": 776.0,
+            "sequence_number": 22,
+            "station_code": "GDYA",
+            "station_name": "GHORADONGRI"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 847.0,
+            "sequence_number": 23,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "18:08",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 864.0,
+            "sequence_number": 24,
+            "station_code": "NDPM",
+            "station_name": "NARMADAPURAM"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 938.0,
+            "sequence_number": 25,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 1,
+            "departure_time": "20:17",
+            "distance_km": 992.0,
+            "sequence_number": 26,
+            "station_code": "BHS",
+            "station_name": "VIDISHA"
+        },
+        {
+            "arrival_time": "20:36",
+            "day_of_journey": 1,
+            "departure_time": "20:38",
+            "distance_km": 1031.0,
+            "sequence_number": 27,
+            "station_code": "BAQ",
+            "station_name": "GANJ BASODA"
+        },
+        {
+            "arrival_time": "21:38",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 1077.0,
+            "sequence_number": 28,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:22",
+            "distance_km": 1139.0,
+            "sequence_number": 29,
+            "station_code": "LAR",
+            "station_name": "LALITPUR"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": "23:38",
+            "distance_km": 1228.0,
+            "sequence_number": 30,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 2,
+            "departure_time": "00:03",
+            "distance_km": 1253.0,
+            "sequence_number": 31,
+            "station_code": "DAA",
+            "station_name": "DATIA"
+        },
+        {
+            "arrival_time": "00:48",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 1327.0,
+            "sequence_number": 32,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "02:15",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 1445.0,
+            "sequence_number": 33,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "02:57",
+            "distance_km": 1498.0,
+            "sequence_number": 34,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1632.0,
+            "sequence_number": 35,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        }
+    ],
+    "train_name": "GONDWANA SF EXP",
+    "train_number": "12409",
+    "type": "SUPERFAST"
+}

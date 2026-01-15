@@ -1,0 +1,165 @@
+{
+    "classes_available": [
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12878.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12878-NDLS-RNC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 441.0,
+            "sequence_number": 2,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "22:58",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 635.0,
+            "sequence_number": 3,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "01:03",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 788.0,
+            "sequence_number": 4,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "01:46",
+            "day_of_journey": 2,
+            "departure_time": "01:48",
+            "distance_km": 841.0,
+            "sequence_number": 5,
+            "station_code": "BBU",
+            "station_name": "BHABUA ROAD"
+        },
+        {
+            "arrival_time": "02:16",
+            "day_of_journey": 2,
+            "departure_time": "02:18",
+            "distance_km": 889.0,
+            "sequence_number": 6,
+            "station_code": "SSM",
+            "station_name": "SASARAM"
+        },
+        {
+            "arrival_time": "02:32",
+            "day_of_journey": 2,
+            "departure_time": "02:34",
+            "distance_km": 907.0,
+            "sequence_number": 7,
+            "station_code": "DOS",
+            "station_name": "DEHRI ON SONE"
+        },
+        {
+            "arrival_time": "03:06",
+            "day_of_journey": 2,
+            "departure_time": "03:08",
+            "distance_km": 943.0,
+            "sequence_number": 8,
+            "station_code": "NBG",
+            "station_name": "NABINAGAR ROAD"
+        },
+        {
+            "arrival_time": "03:21",
+            "day_of_journey": 2,
+            "departure_time": "03:23",
+            "distance_km": 958.0,
+            "sequence_number": 9,
+            "station_code": "JPL",
+            "station_name": "JAPLA"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 2,
+            "departure_time": "04:53",
+            "distance_km": 1005.0,
+            "sequence_number": 10,
+            "station_code": "GHD",
+            "station_name": "GARWA ROAD JN"
+        },
+        {
+            "arrival_time": "05:19",
+            "day_of_journey": 2,
+            "departure_time": "05:21",
+            "distance_km": 1039.0,
+            "sequence_number": 11,
+            "station_code": "DTO",
+            "station_name": "DALTONGANJ"
+        },
+        {
+            "arrival_time": "06:16",
+            "day_of_journey": 2,
+            "departure_time": "06:18",
+            "distance_km": 1107.0,
+            "sequence_number": 12,
+            "station_code": "LTHR",
+            "station_name": "LATEHAR"
+        },
+        {
+            "arrival_time": "06:42",
+            "day_of_journey": 2,
+            "departure_time": "06:44",
+            "distance_km": 1139.0,
+            "sequence_number": 13,
+            "station_code": "TORI",
+            "station_name": "TORI"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 1224.0,
+            "sequence_number": 14,
+            "station_code": "BRKA",
+            "station_name": "BARKA KANA"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": "09:32",
+            "distance_km": 1282.0,
+            "sequence_number": 15,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1345.0,
+            "sequence_number": 16,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        }
+    ],
+    "train_name": "RNC GARIB RATH",
+    "train_number": "12878",
+    "type": "GARIB RATH"
+}

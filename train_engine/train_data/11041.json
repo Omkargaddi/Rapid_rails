@@ -1,0 +1,150 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11041.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11041-DR-SNSI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "00:17",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 24.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "00:42",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 44.0,
+            "sequence_number": 3,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "02:15",
+            "day_of_journey": 2,
+            "departure_time": "02:17",
+            "distance_km": 119.0,
+            "sequence_number": 4,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "02:38",
+            "day_of_journey": 2,
+            "departure_time": "02:40",
+            "distance_km": 148.0,
+            "sequence_number": 5,
+            "station_code": "TGN",
+            "station_name": "TALEGAON"
+        },
+        {
+            "arrival_time": "02:58",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 166.0,
+            "sequence_number": 6,
+            "station_code": "CCH",
+            "station_name": "CHINCHVAD"
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 183.0,
+            "sequence_number": 7,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "04:03",
+            "day_of_journey": 2,
+            "departure_time": "04:05",
+            "distance_km": 211.0,
+            "sequence_number": 8,
+            "station_code": "URI",
+            "station_name": "URULI"
+        },
+        {
+            "arrival_time": "04:23",
+            "day_of_journey": 2,
+            "departure_time": "04:25",
+            "distance_km": 236.0,
+            "sequence_number": 9,
+            "station_code": "KDG",
+            "station_name": "KEDGAON"
+        },
+        {
+            "arrival_time": "04:53",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 255.0,
+            "sequence_number": 10,
+            "station_code": "DDCC",
+            "station_name": "DAUND CHORD LINE"
+        },
+        {
+            "arrival_time": "06:17",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 337.0,
+            "sequence_number": 11,
+            "station_code": "ANG",
+            "station_name": "AHILYANAGAR"
+        },
+        {
+            "arrival_time": "06:59",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 377.0,
+            "sequence_number": 12,
+            "station_code": "RRI",
+            "station_name": "RAHURI"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 404.0,
+            "sequence_number": 13,
+            "station_code": "BAP",
+            "station_name": "BELAPUR"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 440.0,
+            "sequence_number": 14,
+            "station_code": "SNSI",
+            "station_name": "SAINAGAR SHIRDI"
+        }
+    ],
+    "train_name": "DR-SNSI VIA DDCC",
+    "train_number": "11041",
+    "type": "MAIL EXPRESS"
+}

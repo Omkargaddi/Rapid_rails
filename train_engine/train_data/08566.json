@@ -1,0 +1,118 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_08566.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "08566-PVP-VSKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PVP",
+            "station_name": "PARVATIPURAM"
+        },
+        {
+            "arrival_time": "12:57",
+            "day_of_journey": 1,
+            "departure_time": "12:58",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "SNM",
+            "station_name": "SITANAGARAM"
+        },
+        {
+            "arrival_time": "13:10",
+            "day_of_journey": 1,
+            "departure_time": "13:12",
+            "distance_km": 24.0,
+            "sequence_number": 3,
+            "station_code": "VBL",
+            "station_name": "BOBBILI"
+        },
+        {
+            "arrival_time": "13:23",
+            "day_of_journey": 1,
+            "departure_time": "13:24",
+            "distance_km": 36.0,
+            "sequence_number": 4,
+            "station_code": "DNV",
+            "station_name": "DONKINAVALASA"
+        },
+        {
+            "arrival_time": "13:33",
+            "day_of_journey": 1,
+            "departure_time": "13:34",
+            "distance_km": 46.0,
+            "sequence_number": 5,
+            "station_code": "KMX",
+            "station_name": "KOMATI PALLI"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 1,
+            "departure_time": "13:51",
+            "distance_km": 55.0,
+            "sequence_number": 6,
+            "station_code": "GPI",
+            "station_name": "GAJAPATINAGARAM"
+        },
+        {
+            "arrival_time": "14:10",
+            "day_of_journey": 1,
+            "departure_time": "14:12",
+            "distance_km": 77.0,
+            "sequence_number": 7,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 1,
+            "departure_time": "14:41",
+            "distance_km": 112.0,
+            "sequence_number": 8,
+            "station_code": "KTV",
+            "station_name": "KOTTAVALASA"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": "14:51",
+            "distance_km": 121.0,
+            "sequence_number": 9,
+            "station_code": "PDT",
+            "station_name": "PENDURTI"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": "15:01",
+            "distance_km": 130.0,
+            "sequence_number": 10,
+            "station_code": "SCM",
+            "station_name": "SIMHACHALAM"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 138.0,
+            "sequence_number": 11,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        }
+    ],
+    "train_name": "PVP-VSKP SPECIAL Valid From : 13-Jan-2026",
+    "train_number": "08566",
+    "type": "TRAIN ON DEMAND"
+}

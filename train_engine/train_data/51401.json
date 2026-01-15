@@ -1,0 +1,157 @@
+{
+    "classes_available": [
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_51401.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "51401-PUNE-BRMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "07:14",
+            "day_of_journey": 1,
+            "departure_time": "07:15",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "HDP",
+            "station_name": "HADAPSAR"
+        },
+        {
+            "arrival_time": "07:19",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 10.0,
+            "sequence_number": 3,
+            "station_code": "MJBK",
+            "station_name": "MANJARI BUDRUK"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 1,
+            "departure_time": "07:26",
+            "distance_km": 16.0,
+            "sequence_number": 4,
+            "station_code": "LONI",
+            "station_name": "LONI"
+        },
+        {
+            "arrival_time": "07:36",
+            "day_of_journey": 1,
+            "departure_time": "07:37",
+            "distance_km": 28.0,
+            "sequence_number": 5,
+            "station_code": "URI",
+            "station_name": "URULI"
+        },
+        {
+            "arrival_time": "07:48",
+            "day_of_journey": 1,
+            "departure_time": "07:49",
+            "distance_km": 41.0,
+            "sequence_number": 6,
+            "station_code": "YT",
+            "station_name": "YEVAT"
+        },
+        {
+            "arrival_time": "07:54",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 47.0,
+            "sequence_number": 7,
+            "station_code": "KTT",
+            "station_name": "KHUTBAV"
+        },
+        {
+            "arrival_time": "08:02",
+            "day_of_journey": 1,
+            "departure_time": "08:03",
+            "distance_km": 54.0,
+            "sequence_number": 8,
+            "station_code": "KDG",
+            "station_name": "KEDGAON"
+        },
+        {
+            "arrival_time": "08:08",
+            "day_of_journey": 1,
+            "departure_time": "08:09",
+            "distance_km": 59.0,
+            "sequence_number": 9,
+            "station_code": "KDTN",
+            "station_name": "KADETHAN"
+        },
+        {
+            "arrival_time": "08:15",
+            "day_of_journey": 1,
+            "departure_time": "08:16",
+            "distance_km": 63.0,
+            "sequence_number": 10,
+            "station_code": "PAA",
+            "station_name": "PATAS"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 75.0,
+            "sequence_number": 11,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        },
+        {
+            "arrival_time": "09:04",
+            "day_of_journey": 1,
+            "departure_time": "09:05",
+            "distance_km": 88.0,
+            "sequence_number": 12,
+            "station_code": "MDDG",
+            "station_name": "MALAD GAON"
+        },
+        {
+            "arrival_time": "09:14",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 95.0,
+            "sequence_number": 13,
+            "station_code": "SSI",
+            "station_name": "SHIRSAI"
+        },
+        {
+            "arrival_time": "09:29",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 108.0,
+            "sequence_number": 14,
+            "station_code": "KFH",
+            "station_name": "KATPHAL"
+        },
+        {
+            "arrival_time": "10:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 118.0,
+            "sequence_number": 15,
+            "station_code": "BRMT",
+            "station_name": "BARAMATI"
+        }
+    ],
+    "train_name": "PUNE-BRMT PASS",
+    "train_number": "51401",
+    "type": "PASSENGER"
+}

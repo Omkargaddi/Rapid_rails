@@ -1,0 +1,61 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22214.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22214-PNBE-SHM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "00:07",
+            "day_of_journey": 2,
+            "departure_time": "00:09",
+            "distance_km": 221.0,
+            "sequence_number": 2,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 2,
+            "departure_time": "01:48",
+            "distance_km": 332.0,
+            "sequence_number": 3,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 539.0,
+            "sequence_number": 4,
+            "station_code": "SHM",
+            "station_name": "SHALIMAR"
+        }
+    ],
+    "train_name": "DURONTO EXP",
+    "train_number": "22214",
+    "type": "DURONTO EXPRESS"
+}

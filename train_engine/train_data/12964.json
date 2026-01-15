@@ -1,0 +1,189 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12964.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12964-UDZ-NZM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "UDZ",
+            "station_name": "UDAIPUR CITY"
+        },
+        {
+            "arrival_time": "18:37",
+            "day_of_journey": 1,
+            "departure_time": "18:39",
+            "distance_km": 4.0,
+            "sequence_number": 2,
+            "station_code": "RPZ",
+            "station_name": "RANA PRATAP NAGAR"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:12",
+            "distance_km": 42.0,
+            "sequence_number": 3,
+            "station_code": "MVJ",
+            "station_name": "MAVLI JN"
+        },
+        {
+            "arrival_time": "19:39",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 79.0,
+            "sequence_number": 4,
+            "station_code": "KIN",
+            "station_name": "KAPASAN"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 114.0,
+            "sequence_number": 5,
+            "station_code": "COR",
+            "station_name": "CHITTAURGARH JN."
+        },
+        {
+            "arrival_time": "22:18",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 178.0,
+            "sequence_number": 6,
+            "station_code": "MLGH",
+            "station_name": "MANDAL GARH"
+        },
+        {
+            "arrival_time": "23:18",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 246.0,
+            "sequence_number": 7,
+            "station_code": "BUDI",
+            "station_name": "BUNDI"
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 284.0,
+            "sequence_number": 8,
+            "station_code": "Point(2)",
+            "station_name": "KOTA JN KOTA Train Reversal"
+        },
+        {
+            "arrival_time": "01:28",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 391.0,
+            "sequence_number": 9,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "02:08",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 455.0,
+            "sequence_number": 10,
+            "station_code": "GGC",
+            "station_name": "GANGAPUR CITY"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:32",
+            "distance_km": 489.0,
+            "sequence_number": 11,
+            "station_code": "SMVJ",
+            "station_name": "SHRI MAHAVEERJI"
+        },
+        {
+            "arrival_time": "02:43",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 499.0,
+            "sequence_number": 12,
+            "station_code": "HAN",
+            "station_name": "HINDAUN CITY"
+        },
+        {
+            "arrival_time": "03:08",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 532.0,
+            "sequence_number": 13,
+            "station_code": "BXN",
+            "station_name": "BAYANA JN"
+        },
+        {
+            "arrival_time": "03:38",
+            "day_of_journey": 2,
+            "departure_time": "03:40",
+            "distance_km": 574.0,
+            "sequence_number": 14,
+            "station_code": "BTE",
+            "station_name": "BHARATPUR JN"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 608.0,
+            "sequence_number": 15,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "05:04",
+            "day_of_journey": 2,
+            "departure_time": "05:06",
+            "distance_km": 649.0,
+            "sequence_number": 16,
+            "station_code": "KSV",
+            "station_name": "KOSI KALAN"
+        },
+        {
+            "arrival_time": "06:14",
+            "day_of_journey": 2,
+            "departure_time": "06:16",
+            "distance_km": 712.0,
+            "sequence_number": 17,
+            "station_code": "BVH",
+            "station_name": "BALLABGARH"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 741.0,
+            "sequence_number": 18,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        }
+    ],
+    "train_name": "MEWAR EXPRESS",
+    "train_number": "12964",
+    "type": "SUPERFAST"
+}

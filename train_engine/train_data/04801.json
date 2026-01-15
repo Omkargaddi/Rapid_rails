@@ -1,0 +1,154 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_04801.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "04801-SIKR-JP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SIKR",
+            "station_name": "SIKAR JN"
+        },
+        {
+            "arrival_time": "07:44",
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 14.0,
+            "sequence_number": 2,
+            "station_code": "GIO",
+            "station_name": "GORIYAN"
+        },
+        {
+            "arrival_time": "07:52",
+            "day_of_journey": 1,
+            "departure_time": "07:53",
+            "distance_km": 19.0,
+            "sequence_number": 3,
+            "station_code": "RNIS",
+            "station_name": "RANOLISHISHU"
+        },
+        {
+            "arrival_time": "08:01",
+            "day_of_journey": 1,
+            "departure_time": "08:03",
+            "distance_km": 27.0,
+            "sequence_number": 4,
+            "station_code": "PLSN",
+            "station_name": "PALSANA"
+        },
+        {
+            "arrival_time": "08:14",
+            "day_of_journey": 1,
+            "departure_time": "08:15",
+            "distance_km": 39.0,
+            "sequence_number": 5,
+            "station_code": "BOTI",
+            "station_name": "BAORI THIKARIA"
+        },
+        {
+            "arrival_time": "08:21",
+            "day_of_journey": 1,
+            "departure_time": "08:22",
+            "distance_km": 43.0,
+            "sequence_number": 6,
+            "station_code": "SNTH",
+            "station_name": "SONTHALIYA"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 1,
+            "departure_time": "08:38",
+            "distance_km": 50.0,
+            "sequence_number": 7,
+            "station_code": "RGS",
+            "station_name": "RINGAS JN"
+        },
+        {
+            "arrival_time": "08:52",
+            "day_of_journey": 1,
+            "departure_time": "08:53",
+            "distance_km": 59.0,
+            "sequence_number": 8,
+            "station_code": "COD",
+            "station_name": "CHHOTA GUDHA"
+        },
+        {
+            "arrival_time": "09:02",
+            "day_of_journey": 1,
+            "departure_time": "09:04",
+            "distance_km": 68.0,
+            "sequence_number": 9,
+            "station_code": "GND",
+            "station_name": "GOVINDGARH MALIKPUR"
+        },
+        {
+            "arrival_time": "09:12",
+            "day_of_journey": 1,
+            "departure_time": "09:13",
+            "distance_km": 73.0,
+            "sequence_number": 10,
+            "station_code": "LHW",
+            "station_name": "LOHARWARA"
+        },
+        {
+            "arrival_time": "09:19",
+            "day_of_journey": 1,
+            "departure_time": "09:21",
+            "distance_km": 79.0,
+            "sequence_number": 11,
+            "station_code": "COM",
+            "station_name": "CHOMUN SAMOD"
+        },
+        {
+            "arrival_time": "09:29",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 85.0,
+            "sequence_number": 12,
+            "station_code": "BHG",
+            "station_name": "BHATON KI GALI"
+        },
+        {
+            "arrival_time": "09:40",
+            "day_of_journey": 1,
+            "departure_time": "09:41",
+            "distance_km": 96.0,
+            "sequence_number": 13,
+            "station_code": "NDH",
+            "station_name": "NINDHAR BENAR"
+        },
+        {
+            "arrival_time": "09:48",
+            "day_of_journey": 1,
+            "departure_time": "09:51",
+            "distance_km": 104.0,
+            "sequence_number": 14,
+            "station_code": "DKBJ",
+            "station_name": "DAHAR KA BALAJI"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 107.0,
+            "sequence_number": 15,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        }
+    ],
+    "train_name": "SIKR-JP DMU",
+    "train_number": "04801",
+    "type": "TRAIN ON DEMAND"
+}

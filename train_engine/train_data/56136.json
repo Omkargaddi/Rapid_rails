@@ -1,0 +1,76 @@
+{
+    "classes_available": [
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_56136.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "56136-MTP-UAM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MTP",
+            "station_name": "METUPALAIYAM"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 1,
+            "departure_time": "10:40",
+            "distance_km": 27.0,
+            "sequence_number": 2,
+            "station_code": "ONR",
+            "station_name": "COONOOR"
+        },
+        {
+            "arrival_time": "10:59",
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 31.0,
+            "sequence_number": 3,
+            "station_code": "AVK",
+            "station_name": "ARAVANKADU"
+        },
+        {
+            "arrival_time": "11:19",
+            "day_of_journey": 1,
+            "departure_time": "11:20",
+            "distance_km": 37.0,
+            "sequence_number": 4,
+            "station_code": "KXT",
+            "station_name": "KETTI"
+        },
+        {
+            "arrival_time": "11:39",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 42.0,
+            "sequence_number": 5,
+            "station_code": "LOV",
+            "station_name": "LOVEDALE"
+        },
+        {
+            "arrival_time": "11:55",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 46.0,
+            "sequence_number": 6,
+            "station_code": "UAM",
+            "station_name": "UDAGAMANDALAM"
+        }
+    ],
+    "train_name": "MTP UAM PASS",
+    "train_number": "56136",
+    "type": "PASSENGER"
+}

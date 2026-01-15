@@ -1,0 +1,223 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16021.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16021-MAS-AP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "TRL",
+            "station_name": "TIRUVALLUR"
+        },
+        {
+            "arrival_time": "22:18",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 69.0,
+            "sequence_number": 3,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "22:33",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 81.0,
+            "sequence_number": 4,
+            "station_code": "AVN",
+            "station_name": "ANAVARDIKHANPETTAI"
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 90.0,
+            "sequence_number": 5,
+            "station_code": "SHU",
+            "station_name": "SHOLINGHUR"
+        },
+        {
+            "arrival_time": "22:58",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 105.0,
+            "sequence_number": 6,
+            "station_code": "WJR",
+            "station_name": "WALAJAH ROAD"
+        },
+        {
+            "arrival_time": "23:23",
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 130.0,
+            "sequence_number": 7,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 214.0,
+            "sequence_number": 8,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "01:56",
+            "day_of_journey": 2,
+            "departure_time": "01:58",
+            "distance_km": 283.0,
+            "sequence_number": 9,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "02:33",
+            "day_of_journey": 2,
+            "departure_time": "02:34",
+            "distance_km": 330.0,
+            "sequence_number": 10,
+            "station_code": "WFD",
+            "station_name": "WHITEFIELD"
+        },
+        {
+            "arrival_time": "02:43",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 340.0,
+            "sequence_number": 11,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "03:08",
+            "day_of_journey": 2,
+            "departure_time": "03:09",
+            "distance_km": 349.0,
+            "sequence_number": 12,
+            "station_code": "BNC",
+            "station_name": "BANGALORE CANT"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 354.0,
+            "sequence_number": 13,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "04:19",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 366.0,
+            "sequence_number": 14,
+            "station_code": "KGI",
+            "station_name": "KENGERI"
+        },
+        {
+            "arrival_time": "04:34",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 383.0,
+            "sequence_number": 15,
+            "station_code": "BID",
+            "station_name": "BIDADI"
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 2,
+            "departure_time": "04:46",
+            "distance_km": 398.0,
+            "sequence_number": 16,
+            "station_code": "RMGM",
+            "station_name": "RAMANAGARAM"
+        },
+        {
+            "arrival_time": "04:56",
+            "day_of_journey": 2,
+            "departure_time": "04:57",
+            "distance_km": 409.0,
+            "sequence_number": 17,
+            "station_code": "CPT",
+            "station_name": "CHANNAPATNA"
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 2,
+            "departure_time": "05:11",
+            "distance_km": 427.0,
+            "sequence_number": 18,
+            "station_code": "MAD",
+            "station_name": "MADDUR"
+        },
+        {
+            "arrival_time": "05:28",
+            "day_of_journey": 2,
+            "departure_time": "05:29",
+            "distance_km": 447.0,
+            "sequence_number": 19,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "05:54",
+            "day_of_journey": 2,
+            "departure_time": "05:55",
+            "distance_km": 472.0,
+            "sequence_number": 20,
+            "station_code": "PANP",
+            "station_name": "PANDAVAPURA"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 492.0,
+            "sequence_number": 21,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 497.0,
+            "sequence_number": 22,
+            "station_code": "AP",
+            "station_name": "ASHOKAPURAM"
+        }
+    ],
+    "train_name": "KAVERI EXPRESS",
+    "train_number": "16021",
+    "type": "MAIL EXPRESS"
+}

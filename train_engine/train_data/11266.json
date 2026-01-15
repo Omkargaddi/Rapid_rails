@@ -1,0 +1,164 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11266.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11266-ABKP-JBP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:15",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "ABKP",
+            "station_name": "AMBIKAPUR"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 1,
+            "departure_time": "06:37",
+            "distance_km": 19.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BSPR",
+            "station_name": "BISHRAMPUR"
+        },
+        {
+            "arrival_time": "07:07",
+            "day_of_journey": 1,
+            "departure_time": "07:09",
+            "distance_km": 60.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KTO",
+            "station_name": "KATORA"
+        },
+        {
+            "arrival_time": "07:23",
+            "day_of_journey": 1,
+            "departure_time": "07:25",
+            "distance_km": 77.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BRH",
+            "station_name": "BAIKUNTHPUR RD"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 129.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BJRI",
+            "station_name": "BIJURI"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 1,
+            "departure_time": "08:47",
+            "distance_km": 144.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "KTMA",
+            "station_name": "KOTMA"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 176.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "APR",
+            "station_name": "ANUPPUR JN"
+        },
+        {
+            "arrival_time": "09:46",
+            "day_of_journey": 1,
+            "departure_time": "09:48",
+            "distance_km": 197.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BUH",
+            "station_name": "BURHAR"
+        },
+        {
+            "arrival_time": "10:10",
+            "day_of_journey": 1,
+            "departure_time": "10:20",
+            "distance_km": 217.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "SDL",
+            "station_name": "SHAHDOL"
+        },
+        {
+            "arrival_time": "10:53",
+            "day_of_journey": 1,
+            "departure_time": "10:55",
+            "distance_km": 254.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BRS",
+            "station_name": "BIRSINGHPUR"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 1,
+            "departure_time": "11:22",
+            "distance_km": 284.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "UMR",
+            "station_name": "UMARIA"
+        },
+        {
+            "arrival_time": "12:55",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 343.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "KTES",
+            "station_name": "KATNI SOUTH"
+        },
+        {
+            "arrival_time": "13:53",
+            "day_of_journey": 1,
+            "departure_time": "13:55",
+            "distance_km": 394.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "SHR",
+            "station_name": "SIHORA ROAD"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 433.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        }
+    ],
+    "train_name": "ABKP JBP EXP",
+    "train_number": "11266",
+    "type": "MAIL EXPRESS "
+}

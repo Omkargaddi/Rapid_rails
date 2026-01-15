@@ -1,0 +1,149 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12402.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12402-DDN-KOTA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DDN",
+            "station_name": "DEHRADOON"
+        },
+        {
+            "arrival_time": "00:09",
+            "day_of_journey": 2,
+            "departure_time": "00:14",
+            "distance_km": 52.0,
+            "sequence_number": 2,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "00:52",
+            "day_of_journey": 2,
+            "departure_time": "00:54",
+            "distance_km": 93.0,
+            "sequence_number": 3,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "02:11",
+            "day_of_journey": 2,
+            "departure_time": "02:13",
+            "distance_km": 146.0,
+            "sequence_number": 4,
+            "station_code": "MOZ",
+            "station_name": "MUZAFFARNAGAR"
+        },
+        {
+            "arrival_time": "02:53",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 202.0,
+            "sequence_number": 5,
+            "station_code": "MTC",
+            "station_name": "MEERUT CITY"
+        },
+        {
+            "arrival_time": "03:47",
+            "day_of_journey": 2,
+            "departure_time": "03:49",
+            "distance_km": 249.0,
+            "sequence_number": 6,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:45",
+            "distance_km": 277.0,
+            "sequence_number": 7,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 410.0,
+            "sequence_number": 8,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "06:43",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 444.0,
+            "sequence_number": 9,
+            "station_code": "BTE",
+            "station_name": "BHARATPUR JN"
+        },
+        {
+            "arrival_time": "07:08",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 485.0,
+            "sequence_number": 10,
+            "station_code": "BXN",
+            "station_name": "BAYANA JN"
+        },
+        {
+            "arrival_time": "07:31",
+            "day_of_journey": 2,
+            "departure_time": "07:33",
+            "distance_km": 518.0,
+            "sequence_number": 11,
+            "station_code": "HAN",
+            "station_name": "HINDAUN CITY"
+        },
+        {
+            "arrival_time": "08:03",
+            "day_of_journey": 2,
+            "departure_time": "08:05",
+            "distance_km": 563.0,
+            "sequence_number": 12,
+            "station_code": "GGC",
+            "station_name": "GANGAPUR CITY"
+        },
+        {
+            "arrival_time": "08:43",
+            "day_of_journey": 2,
+            "departure_time": "08:45",
+            "distance_km": 626.0,
+            "sequence_number": 13,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "10:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 734.0,
+            "sequence_number": 14,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        }
+    ],
+    "train_name": "DDN KOTA AC EXP",
+    "train_number": "12402",
+    "type": "SUPERFAST"
+}

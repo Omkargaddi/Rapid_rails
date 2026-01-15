@@ -1,0 +1,160 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13165.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "13165-KOAA-SMI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:12",
+            "distance_km": 100.0,
+            "sequence_number": 2,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "01:55",
+            "day_of_journey": 2,
+            "departure_time": "01:57",
+            "distance_km": 163.0,
+            "sequence_number": 3,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "02:26",
+            "day_of_journey": 2,
+            "departure_time": "02:31",
+            "distance_km": 205.0,
+            "sequence_number": 4,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "03:39",
+            "day_of_journey": 2,
+            "departure_time": "03:41",
+            "distance_km": 286.0,
+            "sequence_number": 5,
+            "station_code": "MDP",
+            "station_name": "MADHUPUR JN."
+        },
+        {
+            "arrival_time": "04:13",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 315.0,
+            "sequence_number": 6,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 359.0,
+            "sequence_number": 7,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "06:08",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 413.0,
+            "sequence_number": 8,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 2,
+            "departure_time": "08:00",
+            "distance_km": 450.0,
+            "sequence_number": 9,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "08:28",
+            "day_of_journey": 2,
+            "departure_time": "08:30",
+            "distance_km": 478.0,
+            "sequence_number": 10,
+            "station_code": "DSS",
+            "station_name": "DALSINGH SARAI"
+        },
+        {
+            "arrival_time": "09:20",
+            "day_of_journey": 2,
+            "departure_time": "09:25",
+            "distance_km": 501.0,
+            "sequence_number": 11,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 2,
+            "departure_time": "10:30",
+            "distance_km": 538.0,
+            "sequence_number": 12,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "10:54",
+            "day_of_journey": 2,
+            "departure_time": "10:56",
+            "distance_km": 561.0,
+            "sequence_number": 13,
+            "station_code": "KML",
+            "station_name": "KAMTAUL"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 2,
+            "departure_time": "11:17",
+            "distance_km": 581.0,
+            "sequence_number": 14,
+            "station_code": "JNR",
+            "station_name": "JANAKPUR ROAD"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 606.0,
+            "sequence_number": 15,
+            "station_code": "SMI",
+            "station_name": "SITAMARHI"
+        }
+    ],
+    "train_name": "KOAA SMI EXPRES",
+    "train_number": "13165",
+    "type": "MAIL EXPRESS"
+}

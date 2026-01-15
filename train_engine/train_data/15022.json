@@ -1,0 +1,233 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15022.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15022-GKP-SHM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "11:52",
+            "day_of_journey": 1,
+            "departure_time": "11:57",
+            "distance_km": 50.0,
+            "sequence_number": 2,
+            "station_code": "DEOS",
+            "station_name": "DEORIA SADAR"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 1,
+            "departure_time": "12:22",
+            "distance_km": 71.0,
+            "sequence_number": 3,
+            "station_code": "BTT",
+            "station_name": "BHATNI JN"
+        },
+        {
+            "arrival_time": "12:37",
+            "day_of_journey": 1,
+            "departure_time": "12:39",
+            "distance_km": 81.0,
+            "sequence_number": 4,
+            "station_code": "SRU",
+            "station_name": "SALEMPUR JN"
+        },
+        {
+            "arrival_time": "12:58",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 104.0,
+            "sequence_number": 5,
+            "station_code": "BLTR",
+            "station_name": "BELTHARA ROAD"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 1,
+            "departure_time": "13:45",
+            "distance_km": 139.0,
+            "sequence_number": 6,
+            "station_code": "MAU",
+            "station_name": "MAU JN"
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 197.0,
+            "sequence_number": 7,
+            "station_code": "ARJ",
+            "station_name": "AUNRIHAR JN."
+        },
+        {
+            "arrival_time": "16:10",
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 256.0,
+            "sequence_number": 8,
+            "station_code": "JNU",
+            "station_name": "JAUNPUR JN"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 314.0,
+            "sequence_number": 9,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 332.0,
+            "sequence_number": 10,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:32",
+            "distance_km": 433.0,
+            "sequence_number": 11,
+            "station_code": "SSM",
+            "station_name": "SASARAM"
+        },
+        {
+            "arrival_time": "20:48",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 451.0,
+            "sequence_number": 12,
+            "station_code": "DOS",
+            "station_name": "DEHRI ON SONE"
+        },
+        {
+            "arrival_time": "21:03",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 467.0,
+            "sequence_number": 13,
+            "station_code": "AUBR",
+            "station_name": "ANUGRAHA N ROAD"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 536.0,
+            "sequence_number": 14,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "23:23",
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 612.0,
+            "sequence_number": 15,
+            "station_code": "KQR",
+            "station_name": "KODERMA"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 705.0,
+            "sequence_number": 16,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "01:34",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 725.0,
+            "sequence_number": 17,
+            "station_code": "MHQ",
+            "station_name": "MOHUDA"
+        },
+        {
+            "arrival_time": "02:08",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 748.0,
+            "sequence_number": 18,
+            "station_code": "BJE",
+            "station_name": "BHOJUDIH JN."
+        },
+        {
+            "arrival_time": "03:13",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 797.0,
+            "sequence_number": 19,
+            "station_code": "PRR",
+            "station_name": "PURULIA JN."
+        },
+        {
+            "arrival_time": "05:02",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 887.0,
+            "sequence_number": 20,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "06:15",
+            "day_of_journey": 2,
+            "departure_time": "06:16",
+            "distance_km": 924.0,
+            "sequence_number": 21,
+            "station_code": "GTS",
+            "station_name": "GHATSILA"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 2,
+            "departure_time": "07:25",
+            "distance_km": 1021.0,
+            "sequence_number": 22,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "10:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1136.0,
+            "sequence_number": 23,
+            "station_code": "SHM",
+            "station_name": "SHALIMAR"
+        }
+    ],
+    "train_name": "GKP SHM EXPRESS",
+    "train_number": "15022",
+    "type": "MAIL EXPRESS"
+}

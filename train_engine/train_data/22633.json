@@ -1,0 +1,286 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22633.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "22633-TVC-NZM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        },
+        {
+            "arrival_time": "15:33",
+            "day_of_journey": 1,
+            "departure_time": "15:36",
+            "distance_km": 64.0,
+            "sequence_number": 2,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 105.0,
+            "sequence_number": 3,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "16:52",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 149.0,
+            "sequence_number": 4,
+            "station_code": "ALLP",
+            "station_name": "ALAPPUZHA"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 206.0,
+            "sequence_number": 5,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "19:14",
+            "day_of_journey": 1,
+            "departure_time": "19:16",
+            "distance_km": 225.0,
+            "sequence_number": 6,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "20:04",
+            "day_of_journey": 1,
+            "departure_time": "20:07",
+            "distance_km": 280.0,
+            "sequence_number": 7,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 314.0,
+            "sequence_number": 8,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "22:17",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 401.0,
+            "sequence_number": 9,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "23:37",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 490.0,
+            "sequence_number": 10,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "00:44",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 576.0,
+            "sequence_number": 11,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 623.0,
+            "sequence_number": 12,
+            "station_code": "MAJN",
+            "station_name": "MANGALORE JUNCTION"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:42",
+            "distance_km": 689.0,
+            "sequence_number": 13,
+            "station_code": "UD",
+            "station_name": "UDUPI"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": "06:42",
+            "distance_km": 879.0,
+            "sequence_number": 14,
+            "station_code": "KAWR",
+            "station_name": "KARWAR"
+        },
+        {
+            "arrival_time": "08:15",
+            "day_of_journey": 2,
+            "departure_time": "08:25",
+            "distance_km": 938.0,
+            "sequence_number": 15,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": "09:32",
+            "distance_km": 995.0,
+            "sequence_number": 16,
+            "station_code": "PERN",
+            "station_name": "PERNEM"
+        },
+        {
+            "arrival_time": "10:56",
+            "day_of_journey": 2,
+            "departure_time": "10:58",
+            "distance_km": 1048.0,
+            "sequence_number": 17,
+            "station_code": "SNDD",
+            "station_name": "SINDHUDURG"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 2,
+            "departure_time": "13:45",
+            "distance_km": 1177.0,
+            "sequence_number": 18,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 2,
+            "departure_time": "14:52",
+            "distance_km": 1252.0,
+            "sequence_number": 19,
+            "station_code": "CHI",
+            "station_name": "CHIPLUN"
+        },
+        {
+            "arrival_time": "17:52",
+            "day_of_journey": 2,
+            "departure_time": "17:55",
+            "distance_km": 1458.0,
+            "sequence_number": 20,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 2,
+            "departure_time": "19:35",
+            "distance_km": 1524.0,
+            "sequence_number": 21,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 2,
+            "departure_time": "22:18",
+            "distance_km": 1739.0,
+            "sequence_number": 22,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "23:51",
+            "day_of_journey": 2,
+            "departure_time": "23:59",
+            "distance_km": 1868.0,
+            "sequence_number": 23,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 3,
+            "departure_time": "03:50",
+            "distance_km": 2126.0,
+            "sequence_number": 24,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "06:45",
+            "day_of_journey": 3,
+            "departure_time": "06:55",
+            "distance_km": 2392.0,
+            "sequence_number": 25,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "08:08",
+            "day_of_journey": 3,
+            "departure_time": "08:10",
+            "distance_km": 2500.0,
+            "sequence_number": 26,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "09:58",
+            "day_of_journey": 3,
+            "departure_time": "10:00",
+            "distance_km": 2683.0,
+            "sequence_number": 27,
+            "station_code": "BTE",
+            "station_name": "BHARATPUR JN"
+        },
+        {
+            "arrival_time": "10:43",
+            "day_of_journey": 3,
+            "departure_time": "10:45",
+            "distance_km": 2716.0,
+            "sequence_number": 28,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "12:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2850.0,
+            "sequence_number": 29,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        }
+    ],
+    "train_name": "TVC NZM SF EXP",
+    "train_number": "22633",
+    "type": "SUPERFAST"
+}

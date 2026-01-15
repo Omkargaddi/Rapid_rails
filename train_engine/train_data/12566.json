@@ -1,0 +1,175 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12566.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12566-NDLS-DBG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 441.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "18:42",
+            "day_of_journey": 1,
+            "departure_time": "18:43",
+            "distance_km": 458.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 517.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "ASH",
+            "station_name": "AISHBAGH"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:33",
+            "distance_km": 526.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BNZ",
+            "station_name": "BADSHAHNAGAR"
+        },
+        {
+            "arrival_time": "22:26",
+            "day_of_journey": 1,
+            "departure_time": "22:28",
+            "distance_km": 639.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 793.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "01:55",
+            "day_of_journey": 2,
+            "departure_time": "01:57",
+            "distance_km": 843.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "DEOS",
+            "station_name": "DEORIA SADAR"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 912.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "SV",
+            "station_name": "SIWAN JN"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 973.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 1027.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "SEE",
+            "station_name": "SONPUR JN"
+        },
+        {
+            "arrival_time": "05:32",
+            "day_of_journey": 2,
+            "departure_time": "05:37",
+            "distance_km": 1032.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "06:45",
+            "day_of_journey": 2,
+            "departure_time": "06:50",
+            "distance_km": 1086.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "07:45",
+            "day_of_journey": 2,
+            "departure_time": "08:10",
+            "distance_km": 1138.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1175.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        }
+    ],
+    "train_name": "BIHAR S KRANTI",
+    "train_number": "12566",
+    "type": "SUPERFAST "
+}

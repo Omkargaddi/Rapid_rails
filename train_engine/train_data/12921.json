@@ -1,0 +1,152 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GFC",
+        "GEN",
+        "LDS",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12921.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12921-MMCT-ST",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MMCT",
+            "station_name": "MUMBAI CENTRAL"
+        },
+        {
+            "arrival_time": "18:08",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "ADH",
+            "station_name": "ANDHERI"
+        },
+        {
+            "arrival_time": "18:22",
+            "day_of_journey": 1,
+            "departure_time": "18:24",
+            "distance_km": 30.0,
+            "sequence_number": 3,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:12",
+            "distance_km": 86.0,
+            "sequence_number": 4,
+            "station_code": "PLG",
+            "station_name": "PALGHAR"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 119.0,
+            "sequence_number": 5,
+            "station_code": "DRD",
+            "station_name": "DAHANU ROAD"
+        },
+        {
+            "arrival_time": "20:08",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 168.0,
+            "sequence_number": 6,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "20:48",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 194.0,
+            "sequence_number": 7,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:12",
+            "distance_km": 212.0,
+            "sequence_number": 8,
+            "station_code": "BIM",
+            "station_name": "BILIMORA JN"
+        },
+        {
+            "arrival_time": "21:21",
+            "day_of_journey": 1,
+            "departure_time": "21:22",
+            "distance_km": 217.0,
+            "sequence_number": 9,
+            "station_code": "AML",
+            "station_name": "AMALSAD"
+        },
+        {
+            "arrival_time": "21:38",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 233.0,
+            "sequence_number": 10,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "21:46",
+            "day_of_journey": 1,
+            "departure_time": "21:48",
+            "distance_km": 241.0,
+            "sequence_number": 11,
+            "station_code": "MRL",
+            "station_name": "MAROLI"
+        },
+        {
+            "arrival_time": "21:54",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 248.0,
+            "sequence_number": 12,
+            "station_code": "SCH",
+            "station_name": "SACHIN"
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 258.0,
+            "sequence_number": 13,
+            "station_code": "UDN",
+            "station_name": "UDHNA JN"
+        },
+        {
+            "arrival_time": "22:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 262.0,
+            "sequence_number": 14,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        }
+    ],
+    "train_name": "ST FLYING RANI",
+    "train_number": "12921",
+    "type": "SUPERFAST"
+}

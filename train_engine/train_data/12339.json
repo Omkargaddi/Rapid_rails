@@ -1,0 +1,141 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12339.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12339-HWH-DHN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "18:57",
+            "day_of_journey": 1,
+            "departure_time": "18:58",
+            "distance_km": 132.0,
+            "sequence_number": 2,
+            "station_code": "MNAE",
+            "station_name": "MANKAR"
+        },
+        {
+            "arrival_time": "19:05",
+            "day_of_journey": 1,
+            "departure_time": "19:06",
+            "distance_km": 142.0,
+            "sequence_number": 3,
+            "station_code": "PAN",
+            "station_name": "PANAGARH"
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 157.0,
+            "sequence_number": 4,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "19:27",
+            "day_of_journey": 1,
+            "departure_time": "19:28",
+            "distance_km": 166.0,
+            "sequence_number": 5,
+            "station_code": "OYR",
+            "station_name": "WARIA"
+        },
+        {
+            "arrival_time": "19:34",
+            "day_of_journey": 1,
+            "departure_time": "19:36",
+            "distance_km": 174.0,
+            "sequence_number": 6,
+            "station_code": "UDL",
+            "station_name": "ANDAL JN."
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 1,
+            "departure_time": "19:47",
+            "distance_km": 181.0,
+            "sequence_number": 7,
+            "station_code": "RNG",
+            "station_name": "RANIGANJ"
+        },
+        {
+            "arrival_time": "20:04",
+            "day_of_journey": 1,
+            "departure_time": "20:07",
+            "distance_km": 199.0,
+            "sequence_number": 8,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "20:18",
+            "day_of_journey": 1,
+            "departure_time": "20:19",
+            "distance_km": 208.0,
+            "sequence_number": 9,
+            "station_code": "STN",
+            "station_name": "SITARAMPUR"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": "20:26",
+            "distance_km": 212.0,
+            "sequence_number": 10,
+            "station_code": "ULT",
+            "station_name": "KULTI"
+        },
+        {
+            "arrival_time": "20:31",
+            "day_of_journey": 1,
+            "departure_time": "20:32",
+            "distance_km": 215.0,
+            "sequence_number": 11,
+            "station_code": "BRR",
+            "station_name": "BARAKAR"
+        },
+        {
+            "arrival_time": "20:36",
+            "day_of_journey": 1,
+            "departure_time": "20:37",
+            "distance_km": 218.0,
+            "sequence_number": 12,
+            "station_code": "KMME",
+            "station_name": "KUMARDUBI"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 257.0,
+            "sequence_number": 13,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        }
+    ],
+    "train_name": "COALFIELD EXP",
+    "train_number": "12339",
+    "type": "SUPERFAST"
+}

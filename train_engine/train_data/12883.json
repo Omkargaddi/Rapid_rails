@@ -1,0 +1,133 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12883.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12883-SRC-PRR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "07:45",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 109.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "08:24",
+            "day_of_journey": 1,
+            "departure_time": "08:26",
+            "distance_km": 121.0,
+            "sequence_number": 3,
+            "station_code": "MDN",
+            "station_name": "MIDNAPORE"
+        },
+        {
+            "arrival_time": "08:44",
+            "day_of_journey": 1,
+            "departure_time": "08:45",
+            "distance_km": 145.0,
+            "sequence_number": 4,
+            "station_code": "SLB",
+            "station_name": "SALBONI"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 1,
+            "departure_time": "08:56",
+            "distance_km": 157.0,
+            "sequence_number": 5,
+            "station_code": "CDGR",
+            "station_name": "CHANDRAKONA ROAD"
+        },
+        {
+            "arrival_time": "09:07",
+            "day_of_journey": 1,
+            "departure_time": "09:08",
+            "distance_km": 168.0,
+            "sequence_number": 6,
+            "station_code": "GBA",
+            "station_name": "GARBETA"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 1,
+            "departure_time": "09:32",
+            "distance_km": 193.0,
+            "sequence_number": 7,
+            "station_code": "VSU",
+            "station_name": "BISHNUPUR"
+        },
+        {
+            "arrival_time": "09:56",
+            "day_of_journey": 1,
+            "departure_time": "09:58",
+            "distance_km": 224.0,
+            "sequence_number": 8,
+            "station_code": "BQA",
+            "station_name": "BANKURA"
+        },
+        {
+            "arrival_time": "10:10",
+            "day_of_journey": 1,
+            "departure_time": "10:11",
+            "distance_km": 238.0,
+            "sequence_number": 9,
+            "station_code": "CJN",
+            "station_name": "CHHATNA"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 1,
+            "departure_time": "10:50",
+            "distance_km": 277.0,
+            "sequence_number": 10,
+            "station_code": "ADRA",
+            "station_name": "ADRA"
+        },
+        {
+            "arrival_time": "11:08",
+            "day_of_journey": 1,
+            "departure_time": "11:10",
+            "distance_km": 290.0,
+            "sequence_number": 11,
+            "station_code": "ANR",
+            "station_name": "ANARA"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 316.0,
+            "sequence_number": 12,
+            "station_code": "PRR",
+            "station_name": "PURULIA JN."
+        }
+    ],
+    "train_name": "RUPASHI BANGLA",
+    "train_number": "12883",
+    "type": "SUPERFAST"
+}

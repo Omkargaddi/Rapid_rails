@@ -1,0 +1,250 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_07001.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "07001-CHZ-TPTY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        },
+        {
+            "arrival_time": "22:48",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 97.0,
+            "sequence_number": 2,
+            "station_code": "NLDA",
+            "station_name": "NALGONDA"
+        },
+        {
+            "arrival_time": "23:28",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 135.0,
+            "sequence_number": 3,
+            "station_code": "MRGA",
+            "station_name": "MIRYALAGUDA"
+        },
+        {
+            "arrival_time": "00:03",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 173.0,
+            "sequence_number": 4,
+            "station_code": "NDKD",
+            "station_name": "NADIKODE"
+        },
+        {
+            "arrival_time": "00:28",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 195.0,
+            "sequence_number": 5,
+            "station_code": "PGRL",
+            "station_name": "PIDUGURALLA"
+        },
+        {
+            "arrival_time": "00:58",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 206.0,
+            "sequence_number": 6,
+            "station_code": "NLPI",
+            "station_name": "NEMALIPURI"
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 228.0,
+            "sequence_number": 7,
+            "station_code": "RPCA",
+            "station_name": "ROMPICHERLA"
+        },
+        {
+            "arrival_time": "01:58",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 255.0,
+            "sequence_number": 8,
+            "station_code": "VKN",
+            "station_name": "VINUKONDA"
+        },
+        {
+            "arrival_time": "02:28",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 293.0,
+            "sequence_number": 9,
+            "station_code": "DKD",
+            "station_name": "DONAKONDA"
+        },
+        {
+            "arrival_time": "02:58",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 317.0,
+            "sequence_number": 10,
+            "station_code": "MRK",
+            "station_name": "MARKAPUR ROAD"
+        },
+        {
+            "arrival_time": "03:28",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 343.0,
+            "sequence_number": 11,
+            "station_code": "CBM",
+            "station_name": "CUMBUM"
+        },
+        {
+            "arrival_time": "03:58",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 377.0,
+            "sequence_number": 12,
+            "station_code": "GID",
+            "station_name": "GIDDALUR"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:32",
+            "distance_km": 388.0,
+            "sequence_number": 13,
+            "station_code": "DMT",
+            "station_name": "DIGUVAMETTA"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 430.0,
+            "sequence_number": 14,
+            "station_code": "NDL",
+            "station_name": "NANDYAL"
+        },
+        {
+            "arrival_time": "06:23",
+            "day_of_journey": 2,
+            "departure_time": "06:25",
+            "distance_km": 474.0,
+            "sequence_number": 15,
+            "station_code": "KLKA",
+            "station_name": "KOILAKUNTLA"
+        },
+        {
+            "arrival_time": "07:18",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 521.0,
+            "sequence_number": 16,
+            "station_code": "JMDG",
+            "station_name": "JAMMALAMADUGU"
+        },
+        {
+            "arrival_time": "07:33",
+            "day_of_journey": 2,
+            "departure_time": "07:35",
+            "distance_km": 539.0,
+            "sequence_number": 17,
+            "station_code": "PRDT",
+            "station_name": "PRODDATUR"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 2,
+            "departure_time": "08:00",
+            "distance_km": 553.0,
+            "sequence_number": 18,
+            "station_code": "YA",
+            "station_name": "YERRAGUNTLA"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 2,
+            "departure_time": "08:50",
+            "distance_km": 593.0,
+            "sequence_number": 19,
+            "station_code": "HX",
+            "station_name": "CUDDAPAH"
+        },
+        {
+            "arrival_time": "09:03",
+            "day_of_journey": 2,
+            "departure_time": "09:05",
+            "distance_km": 615.0,
+            "sequence_number": 20,
+            "station_code": "VNM",
+            "station_name": "ONTIMITTA"
+        },
+        {
+            "arrival_time": "09:18",
+            "day_of_journey": 2,
+            "departure_time": "09:20",
+            "distance_km": 633.0,
+            "sequence_number": 21,
+            "station_code": "NRE",
+            "station_name": "NANDALUR"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 2,
+            "departure_time": "09:40",
+            "distance_km": 644.0,
+            "sequence_number": 22,
+            "station_code": "RJP",
+            "station_name": "RAZAMPETA"
+        },
+        {
+            "arrival_time": "10:13",
+            "day_of_journey": 2,
+            "departure_time": "10:15",
+            "distance_km": 677.0,
+            "sequence_number": 23,
+            "station_code": "KOU",
+            "station_name": "KODURU"
+        },
+        {
+            "arrival_time": "11:33",
+            "day_of_journey": 2,
+            "departure_time": "11:35",
+            "distance_km": 718.0,
+            "sequence_number": 24,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "12:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 728.0,
+            "sequence_number": 25,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        }
+    ],
+    "train_name": "CHZ TPTY SPL",
+    "train_number": "07001",
+    "type": "TRAIN ON DEMAND"
+}

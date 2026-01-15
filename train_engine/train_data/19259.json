@@ -1,0 +1,88 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19259.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "19259-TVCN-BVC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TVCN",
+            "station_name": "THIRUVANANTHAPURAM NORTH"
+        },
+        {
+            "arrival_time": "16:42",
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 58.0,
+            "sequence_number": 2,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 1,
+            "departure_time": "17:22",
+            "distance_km": 99.0,
+            "sequence_number": 3,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "17:43",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 119.0,
+            "sequence_number": 4,
+            "station_code": "CNGR",
+            "station_name": "CHENGANNUR"
+        },
+        {
+            "arrival_time": "17:54",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 128.0,
+            "sequence_number": 5,
+            "station_code": "TRVL",
+            "station_name": "TIRUVALLA"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 3,
+            "departure_time": "11:16",
+            "distance_km": 2250.0,
+            "sequence_number": 40,
+            "station_code": "SOJN",
+            "station_name": "SIHOR GUJARAT"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2271.0,
+            "sequence_number": 41,
+            "station_code": "BVC",
+            "station_name": "BHAVNAGAR TERMINUS"
+        }
+    ],
+    "train_name": "TVCN BVC EXPRES",
+    "train_number": "19259",
+    "type": "MAIL EXPRESS"
+}

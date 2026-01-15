@@ -1,0 +1,183 @@
+{
+    "classes_available": [
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15720.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15720-SGUJ-KIR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SGUJ",
+            "station_name": "SILIGURI JN"
+        },
+        {
+            "arrival_time": "14:14",
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "BORA",
+            "station_name": "BAGHDOGRA"
+        },
+        {
+            "arrival_time": "14:28",
+            "day_of_journey": 1,
+            "departure_time": "14:29",
+            "distance_km": 23.0,
+            "sequence_number": 3,
+            "station_code": "NAK",
+            "station_name": "NAKSALBARI"
+        },
+        {
+            "arrival_time": "14:44",
+            "day_of_journey": 1,
+            "departure_time": "14:46",
+            "distance_km": 36.0,
+            "sequence_number": 4,
+            "station_code": "ADQ",
+            "station_name": "ADHIKARI"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": "14:51",
+            "distance_km": 44.0,
+            "sequence_number": 5,
+            "station_code": "GAGA",
+            "station_name": "GALGALIA"
+        },
+        {
+            "arrival_time": "15:03",
+            "day_of_journey": 1,
+            "departure_time": "15:05",
+            "distance_km": 56.0,
+            "sequence_number": 6,
+            "station_code": "TKG",
+            "station_name": "THAKURGANJ"
+        },
+        {
+            "arrival_time": "15:14",
+            "day_of_journey": 1,
+            "departure_time": "15:16",
+            "distance_km": 63.0,
+            "sequence_number": 7,
+            "station_code": "TBR",
+            "station_name": "TAIABPUR"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 1,
+            "departure_time": "15:21",
+            "distance_km": 71.0,
+            "sequence_number": 8,
+            "station_code": "POT",
+            "station_name": "POTHIA"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 1,
+            "departure_time": "15:32",
+            "distance_km": 76.0,
+            "sequence_number": 9,
+            "station_code": "AUB",
+            "station_name": "ALUABARI ROAD"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": "16:02",
+            "distance_km": 107.0,
+            "sequence_number": 10,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "16:14",
+            "day_of_journey": 1,
+            "departure_time": "16:16",
+            "distance_km": 121.0,
+            "sequence_number": 11,
+            "station_code": "KKA",
+            "station_name": "KANKI"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 1,
+            "departure_time": "16:32",
+            "distance_km": 135.0,
+            "sequence_number": 12,
+            "station_code": "DLK",
+            "station_name": "DALKOLHA"
+        },
+        {
+            "arrival_time": "16:44",
+            "day_of_journey": 1,
+            "departure_time": "16:46",
+            "distance_km": 143.0,
+            "sequence_number": 13,
+            "station_code": "TETA",
+            "station_name": "TELTA"
+        },
+        {
+            "arrival_time": "16:53",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 152.0,
+            "sequence_number": 14,
+            "station_code": "SUD",
+            "station_name": "SUDHANI"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 1,
+            "departure_time": "17:17",
+            "distance_km": 164.0,
+            "sequence_number": 15,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:42",
+            "distance_km": 174.0,
+            "sequence_number": 16,
+            "station_code": "SRI",
+            "station_name": "SALMARI"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 1,
+            "departure_time": "18:17",
+            "distance_km": 186.0,
+            "sequence_number": 17,
+            "station_code": "SI",
+            "station_name": "SONALLI"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 205.0,
+            "sequence_number": 18,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        }
+    ],
+    "train_name": "SGUJ-KIR I C EXPRESS",
+    "train_number": "15720",
+    "type": "MAIL EXPRESS"
+}

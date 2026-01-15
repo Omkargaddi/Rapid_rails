@@ -1,0 +1,123 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12745.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12745-SC-MUGR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "00:04",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 12.0,
+            "sequence_number": 2,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        },
+        {
+            "arrival_time": "00:59",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 83.0,
+            "sequence_number": 3,
+            "station_code": "ZN",
+            "station_name": "JANGAON"
+        },
+        {
+            "arrival_time": "01:39",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 131.0,
+            "sequence_number": 4,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "01:59",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 142.0,
+            "sequence_number": 5,
+            "station_code": "WL",
+            "station_name": "WARANGAL"
+        },
+        {
+            "arrival_time": "02:49",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 204.0,
+            "sequence_number": 6,
+            "station_code": "MABD",
+            "station_name": "MAHBUBABAD"
+        },
+        {
+            "arrival_time": "02:59",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 223.0,
+            "sequence_number": 7,
+            "station_code": "GLA",
+            "station_name": "GARLA"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 228.0,
+            "sequence_number": 8,
+            "station_code": "DKJ",
+            "station_name": "DORNAKAL JN"
+        },
+        {
+            "arrival_time": "03:29",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 243.0,
+            "sequence_number": 9,
+            "station_code": "KRA",
+            "station_name": "KAREPALLI"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 288.0,
+            "sequence_number": 10,
+            "station_code": "BDCR",
+            "station_name": "BHADRACHALAM RD"
+        },
+        {
+            "arrival_time": "05:52",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 337.0,
+            "sequence_number": 11,
+            "station_code": "MUGR",
+            "station_name": "MANUGURU"
+        }
+    ],
+    "train_name": "SC MUGR SF EXP",
+    "train_number": "12745",
+    "type": "SUPERFAST"
+}

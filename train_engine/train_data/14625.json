@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14625.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "14625-HW-FZR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 1,
+            "departure_time": "15:27",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 1,
+            "departure_time": "16:20",
+            "distance_km": 76.0,
+            "sequence_number": 3,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "16:46",
+            "day_of_journey": 1,
+            "departure_time": "16:48",
+            "distance_km": 106.0,
+            "sequence_number": 4,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 157.0,
+            "sequence_number": 5,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "18:39",
+            "day_of_journey": 1,
+            "departure_time": "18:41",
+            "distance_km": 185.0,
+            "sequence_number": 6,
+            "station_code": "RPJ",
+            "station_name": "RAJPURA JN"
+        },
+        {
+            "arrival_time": "19:37",
+            "day_of_journey": 1,
+            "departure_time": "19:39",
+            "distance_km": 210.0,
+            "sequence_number": 7,
+            "station_code": "PTA",
+            "station_name": "PATIALA"
+        },
+        {
+            "arrival_time": "20:03",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 236.0,
+            "sequence_number": 8,
+            "station_code": "NBA",
+            "station_name": "NABHA"
+        },
+        {
+            "arrival_time": "20:38",
+            "day_of_journey": 1,
+            "departure_time": "20:43",
+            "distance_km": 263.0,
+            "sequence_number": 9,
+            "station_code": "DUI",
+            "station_name": "DHURI JN"
+        },
+        {
+            "arrival_time": "21:03",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 294.0,
+            "sequence_number": 10,
+            "station_code": "BNN",
+            "station_name": "BARNALA"
+        },
+        {
+            "arrival_time": "21:32",
+            "day_of_journey": 1,
+            "departure_time": "21:34",
+            "distance_km": 326.0,
+            "sequence_number": 11,
+            "station_code": "PUL",
+            "station_name": "RAMPURA PHUL"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 358.0,
+            "sequence_number": 12,
+            "station_code": "BTI",
+            "station_name": "BATHINDA"
+        },
+        {
+            "arrival_time": "23:32",
+            "day_of_journey": 1,
+            "departure_time": "23:34",
+            "distance_km": 401.0,
+            "sequence_number": 13,
+            "station_code": "KKP",
+            "station_name": "KOT KAPURA"
+        },
+        {
+            "arrival_time": "23:52",
+            "day_of_journey": 1,
+            "departure_time": "23:54",
+            "distance_km": 413.0,
+            "sequence_number": 14,
+            "station_code": "FDK",
+            "station_name": "FARIDKOT"
+        },
+        {
+            "arrival_time": "00:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 446.0,
+            "sequence_number": 15,
+            "station_code": "FZR",
+            "station_name": "FIROZPUR CANT"
+        }
+    ],
+    "train_name": "HW FZR EXP",
+    "train_number": "14625",
+    "type": "MAIL EXPRESS"
+}

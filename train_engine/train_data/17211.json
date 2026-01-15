@@ -1,0 +1,206 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17211.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "17211-MTM-YPR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MTM",
+            "station_name": "MACHELIPATNAM"
+        },
+        {
+            "arrival_time": "16:23",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "GDV",
+            "station_name": "GUDIVADA JN"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 1,
+            "departure_time": "17:35",
+            "distance_km": 81.0,
+            "sequence_number": 3,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "18:50",
+            "day_of_journey": 1,
+            "departure_time": "18:55",
+            "distance_km": 114.0,
+            "sequence_number": 4,
+            "station_code": "GNT",
+            "station_name": "GUNTUR JN"
+        },
+        {
+            "arrival_time": "19:17",
+            "day_of_journey": 1,
+            "departure_time": "19:18",
+            "distance_km": 160.0,
+            "sequence_number": 5,
+            "station_code": "NRT",
+            "station_name": "NARASARAOPET"
+        },
+        {
+            "arrival_time": "20:27",
+            "day_of_journey": 1,
+            "departure_time": "20:28",
+            "distance_km": 235.0,
+            "sequence_number": 6,
+            "station_code": "DKD",
+            "station_name": "DONAKONDA"
+        },
+        {
+            "arrival_time": "20:57",
+            "day_of_journey": 1,
+            "departure_time": "20:58",
+            "distance_km": 258.0,
+            "sequence_number": 7,
+            "station_code": "MRK",
+            "station_name": "MARKAPUR ROAD"
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 1,
+            "departure_time": "21:21",
+            "distance_km": 284.0,
+            "sequence_number": 8,
+            "station_code": "CBM",
+            "station_name": "CUMBUM"
+        },
+        {
+            "arrival_time": "21:57",
+            "day_of_journey": 1,
+            "departure_time": "21:58",
+            "distance_km": 318.0,
+            "sequence_number": 9,
+            "station_code": "GID",
+            "station_name": "GIDDALUR"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 372.0,
+            "sequence_number": 10,
+            "station_code": "NDL",
+            "station_name": "NANDYAL"
+        },
+        {
+            "arrival_time": "00:43",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 412.0,
+            "sequence_number": 11,
+            "station_code": "BMH",
+            "station_name": "BETAMCHERLA"
+        },
+        {
+            "arrival_time": "01:23",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 447.0,
+            "sequence_number": 12,
+            "station_code": "DHNE",
+            "station_name": "DHONE JN"
+        },
+        {
+            "arrival_time": "02:28",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 501.0,
+            "sequence_number": 13,
+            "station_code": "GY",
+            "station_name": "GOOTY"
+        },
+        {
+            "arrival_time": "03:23",
+            "day_of_journey": 2,
+            "departure_time": "03:25",
+            "distance_km": 558.0,
+            "sequence_number": 14,
+            "station_code": "ATP",
+            "station_name": "ANANTAPUR"
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 592.0,
+            "sequence_number": 15,
+            "station_code": "DMM",
+            "station_name": "DHARMAVARAM JN"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:32",
+            "distance_km": 625.0,
+            "sequence_number": 16,
+            "station_code": "SSPN",
+            "station_name": "SAI P NILAYAM"
+        },
+        {
+            "arrival_time": "05:53",
+            "day_of_journey": 2,
+            "departure_time": "05:55",
+            "distance_km": 645.0,
+            "sequence_number": 17,
+            "station_code": "PKD",
+            "station_name": "PENUKONDA"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 682.0,
+            "sequence_number": 18,
+            "station_code": "HUP",
+            "station_name": "HINDUPUR"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 2,
+            "departure_time": "09:15",
+            "distance_km": 765.0,
+            "sequence_number": 19,
+            "station_code": "YNK",
+            "station_name": "YELAHANKA JN."
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 776.0,
+            "sequence_number": 20,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        }
+    ],
+    "train_name": "KONDAVEEDU EXP",
+    "train_number": "17211",
+    "type": "MAIL EXPRESS"
+}

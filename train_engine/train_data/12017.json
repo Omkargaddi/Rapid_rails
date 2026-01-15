@@ -1,0 +1,94 @@
+{
+    "classes_available": [
+        "EC",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12017.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12017-NDLS-DDN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "07:21",
+            "day_of_journey": 1,
+            "departure_time": "07:23",
+            "distance_km": 26.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "08:01",
+            "day_of_journey": 1,
+            "departure_time": "08:03",
+            "distance_km": 73.0,
+            "sequence_number": 3,
+            "station_code": "MTC",
+            "station_name": "MEERUT CITY"
+        },
+        {
+            "arrival_time": "08:41",
+            "day_of_journey": 1,
+            "departure_time": "08:43",
+            "distance_km": 128.0,
+            "sequence_number": 4,
+            "station_code": "MOZ",
+            "station_name": "MUZAFFARNAGAR"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 1,
+            "departure_time": "10:15",
+            "distance_km": 186.0,
+            "sequence_number": 5,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "10:49",
+            "day_of_journey": 1,
+            "departure_time": "10:51",
+            "distance_km": 221.0,
+            "sequence_number": 6,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 262.0,
+            "sequence_number": 7,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "12:55",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 314.0,
+            "sequence_number": 8,
+            "station_code": "DDN",
+            "station_name": "DEHRADOON"
+        }
+    ],
+    "train_name": "DDN SHTBDI EXP",
+    "train_number": "12017",
+    "type": "SHATABDI"
+}

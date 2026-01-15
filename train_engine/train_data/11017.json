@@ -1,0 +1,169 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11017.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "11017-LTT-KIK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "13:36",
+            "day_of_journey": 1,
+            "departure_time": "13:38",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "14:02",
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 37.0,
+            "sequence_number": 3,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "15:28",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 111.0,
+            "sequence_number": 4,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 175.0,
+            "sequence_number": 5,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 438.0,
+            "sequence_number": 6,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "12:44",
+            "day_of_journey": 2,
+            "departure_time": "12:45",
+            "distance_km": 1358.0,
+            "sequence_number": 24,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "13:45",
+            "day_of_journey": 2,
+            "departure_time": "13:50",
+            "distance_km": 1425.0,
+            "sequence_number": 25,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "14:29",
+            "day_of_journey": 2,
+            "departure_time": "14:30",
+            "distance_km": 1467.0,
+            "sequence_number": 26,
+            "station_code": "TDPR",
+            "station_name": "TIRUPPADIRIPULIYUR"
+        },
+        {
+            "arrival_time": "15:08",
+            "day_of_journey": 2,
+            "departure_time": "15:10",
+            "distance_km": 1510.0,
+            "sequence_number": 27,
+            "station_code": "CDM",
+            "station_name": "CHIDAMBARAM"
+        },
+        {
+            "arrival_time": "15:35",
+            "day_of_journey": 2,
+            "departure_time": "15:36",
+            "distance_km": 1527.0,
+            "sequence_number": 28,
+            "station_code": "SY",
+            "station_name": "SIRKAZHI"
+        },
+        {
+            "arrival_time": "15:56",
+            "day_of_journey": 2,
+            "departure_time": "15:58",
+            "distance_km": 1547.0,
+            "sequence_number": 29,
+            "station_code": "MV",
+            "station_name": "MAYILADUTURAI JN"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 2,
+            "departure_time": "17:10",
+            "distance_km": 1585.0,
+            "sequence_number": 30,
+            "station_code": "TVR",
+            "station_name": "THIRUVARUR JN"
+        },
+        {
+            "arrival_time": "17:43",
+            "day_of_journey": 2,
+            "departure_time": "17:45",
+            "distance_km": 1609.0,
+            "sequence_number": 31,
+            "station_code": "NGT",
+            "station_name": "NAGAPPATTINAM JN"
+        },
+        {
+            "arrival_time": "17:58",
+            "day_of_journey": 2,
+            "departure_time": "18:00",
+            "distance_km": 1616.0,
+            "sequence_number": 32,
+            "station_code": "NCR",
+            "station_name": "NAGORE"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1627.0,
+            "sequence_number": 33,
+            "station_code": "KIK",
+            "station_name": "KARAIKAL"
+        }
+    ],
+    "train_name": "LTT KARAIKAL EXP",
+    "train_number": "11017",
+    "type": "MAIL EXPRESS"
+}

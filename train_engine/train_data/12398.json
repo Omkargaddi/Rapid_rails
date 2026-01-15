@@ -1,0 +1,171 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12398.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12398-NDLS-GAYA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "14:05",
+            "day_of_journey": 1,
+            "departure_time": "14:07",
+            "distance_km": 132.0,
+            "sequence_number": 2,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "17:55",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 441.0,
+            "sequence_number": 3,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "19:34",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 598.0,
+            "sequence_number": 4,
+            "station_code": "BRE",
+            "station_name": "BHARWARI"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 635.0,
+            "sequence_number": 5,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "21:38",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 718.0,
+            "sequence_number": 6,
+            "station_code": "BDL",
+            "station_name": "VINDHYACHAL"
+        },
+        {
+            "arrival_time": "23:18",
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 788.0,
+            "sequence_number": 7,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "23:43",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 804.0,
+            "sequence_number": 8,
+            "station_code": "CDMR",
+            "station_name": "CHANDAULI MJHWR"
+        },
+        {
+            "arrival_time": "00:06",
+            "day_of_journey": 2,
+            "departure_time": "00:08",
+            "distance_km": 841.0,
+            "sequence_number": 9,
+            "station_code": "BBU",
+            "station_name": "BHABUA ROAD"
+        },
+        {
+            "arrival_time": "00:24",
+            "day_of_journey": 2,
+            "departure_time": "00:26",
+            "distance_km": 864.0,
+            "sequence_number": 10,
+            "station_code": "KTQ",
+            "station_name": "KUDRA"
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 2,
+            "departure_time": "00:47",
+            "distance_km": 889.0,
+            "sequence_number": 11,
+            "station_code": "SSM",
+            "station_name": "SASARAM"
+        },
+        {
+            "arrival_time": "01:02",
+            "day_of_journey": 2,
+            "departure_time": "01:04",
+            "distance_km": 907.0,
+            "sequence_number": 12,
+            "station_code": "DOS",
+            "station_name": "DEHRI ON SONE"
+        },
+        {
+            "arrival_time": "01:18",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 923.0,
+            "sequence_number": 13,
+            "station_code": "AUBR",
+            "station_name": "ANUGRAHA N ROAD"
+        },
+        {
+            "arrival_time": "01:40",
+            "day_of_journey": 2,
+            "departure_time": "01:42",
+            "distance_km": 954.0,
+            "sequence_number": 14,
+            "station_code": "RFJ",
+            "station_name": "RAFIGANJ"
+        },
+        {
+            "arrival_time": "01:54",
+            "day_of_journey": 2,
+            "departure_time": "01:56",
+            "distance_km": 970.0,
+            "sequence_number": 15,
+            "station_code": "GRRU",
+            "station_name": "GURARU"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 992.0,
+            "sequence_number": 16,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        }
+    ],
+    "train_name": "MAHABODHI EXP",
+    "train_number": "12398",
+    "type": "SUPERFAST"
+}

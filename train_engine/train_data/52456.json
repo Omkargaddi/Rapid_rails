@@ -1,0 +1,91 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_52456.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "52456-SML-KLK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SML",
+            "station_name": "SHIMLA"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:11",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "TVI",
+            "station_name": "TARADEVI"
+        },
+        {
+            "arrival_time": "19:46",
+            "day_of_journey": 1,
+            "departure_time": "19:47",
+            "distance_km": 23.0,
+            "sequence_number": 3,
+            "station_code": "KEJ",
+            "station_name": "KATHLEEGHAT"
+        },
+        {
+            "arrival_time": "20:26",
+            "day_of_journey": 1,
+            "departure_time": "20:28",
+            "distance_km": 37.0,
+            "sequence_number": 4,
+            "station_code": "KDZ",
+            "station_name": "KANDAGHAT"
+        },
+        {
+            "arrival_time": "21:04",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 49.0,
+            "sequence_number": 5,
+            "station_code": "SOL",
+            "station_name": "SOLAN"
+        },
+        {
+            "arrival_time": "21:19",
+            "day_of_journey": 1,
+            "departure_time": "21:24",
+            "distance_km": 53.0,
+            "sequence_number": 6,
+            "station_code": "BOF",
+            "station_name": "BAROG"
+        },
+        {
+            "arrival_time": "21:48",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 63.0,
+            "sequence_number": 7,
+            "station_code": "DMP",
+            "station_name": "DHARAMPUR HIMACHAL"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 96.0,
+            "sequence_number": 8,
+            "station_code": "KLK",
+            "station_name": "KALKA"
+        }
+    ],
+    "train_name": "HIMALYAN QUEEN",
+    "train_number": "52456",
+    "type": "PASSENGER"
+}

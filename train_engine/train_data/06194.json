@@ -1,0 +1,111 @@
+{
+    "classes_available": [
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_06194.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "06194-PTJ-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PTJ",
+            "station_name": "PODANUR JN"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:12",
+            "distance_km": 43.0,
+            "sequence_number": 2,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "01:12",
+            "day_of_journey": 2,
+            "departure_time": "01:17",
+            "distance_km": 94.0,
+            "sequence_number": 3,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 153.0,
+            "sequence_number": 4,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 278.0,
+            "sequence_number": 5,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 362.0,
+            "sequence_number": 6,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "08:08",
+            "day_of_journey": 2,
+            "departure_time": "08:10",
+            "distance_km": 423.0,
+            "sequence_number": 7,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 449.0,
+            "sequence_number": 8,
+            "station_code": "TRL",
+            "station_name": "TIRUVALLUR"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 2,
+            "departure_time": "09:10",
+            "distance_km": 485.0,
+            "sequence_number": 9,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 492.0,
+            "sequence_number": 10,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "PTJ-MAS TOD SPL",
+    "train_number": "06194",
+    "type": "TRAIN ON DEMAND"
+}

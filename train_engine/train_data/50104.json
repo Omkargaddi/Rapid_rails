@@ -1,0 +1,129 @@
+{
+    "classes_available": [
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_50104.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "50104-RN-DIVA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 1,
+            "departure_time": "05:46",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "BOKE",
+            "station_name": "BHOKE"
+        },
+        {
+            "arrival_time": "06:01",
+            "day_of_journey": 1,
+            "departure_time": "06:02",
+            "distance_km": 20.0,
+            "sequence_number": 3,
+            "station_code": "UKC",
+            "station_name": "UKSHI"
+        },
+        {
+            "arrival_time": "06:12",
+            "day_of_journey": 1,
+            "departure_time": "06:13",
+            "distance_km": 33.0,
+            "sequence_number": 4,
+            "station_code": "SGR",
+            "station_name": "SANGAMESHWAR ROAD"
+        },
+        {
+            "arrival_time": "06:21",
+            "day_of_journey": 1,
+            "departure_time": "06:22",
+            "distance_km": 41.0,
+            "sequence_number": 5,
+            "station_code": "KDVI",
+            "station_name": "KADAVAI"
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 1,
+            "departure_time": "06:31",
+            "distance_km": 47.0,
+            "sequence_number": 6,
+            "station_code": "AVRD",
+            "station_name": "ARAVALI ROAD"
+        },
+        {
+            "arrival_time": "11:14",
+            "day_of_journey": 1,
+            "departure_time": "11:15",
+            "distance_km": 232.0,
+            "sequence_number": 24,
+            "station_code": "KASU",
+            "station_name": "KASU"
+        },
+        {
+            "arrival_time": "11:24",
+            "day_of_journey": 1,
+            "departure_time": "11:25",
+            "distance_km": 246.0,
+            "sequence_number": 25,
+            "station_code": "PEN",
+            "station_name": "PEN"
+        },
+        {
+            "arrival_time": "11:34",
+            "day_of_journey": 1,
+            "departure_time": "11:35",
+            "distance_km": 256.0,
+            "sequence_number": 26,
+            "station_code": "JITE",
+            "station_name": "JITE"
+        },
+        {
+            "arrival_time": "11:44",
+            "day_of_journey": 1,
+            "departure_time": "11:45",
+            "distance_km": 266.0,
+            "sequence_number": 27,
+            "station_code": "APTA",
+            "station_name": "APTA"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:08",
+            "distance_km": 281.0,
+            "sequence_number": 28,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 309.0,
+            "sequence_number": 29,
+            "station_code": "DIVA",
+            "station_name": "DIVA"
+        }
+    ],
+    "train_name": "RN DIVA PASS",
+    "train_number": "50104",
+    "type": "PASSENGER"
+}

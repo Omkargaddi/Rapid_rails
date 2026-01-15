@@ -1,0 +1,97 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17620.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "17620-NED-CPSN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 30.0,
+            "sequence_number": 2,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "13:08",
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 59.0,
+            "sequence_number": 3,
+            "station_code": "PBN",
+            "station_name": "PARBHANI JN"
+        },
+        {
+            "arrival_time": "13:29",
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 86.0,
+            "sequence_number": 4,
+            "station_code": "MVO",
+            "station_name": "MANWATH ROAD"
+        },
+        {
+            "arrival_time": "13:44",
+            "day_of_journey": 1,
+            "departure_time": "13:45",
+            "distance_km": 102.0,
+            "sequence_number": 5,
+            "station_code": "SELU",
+            "station_name": "SELU"
+        },
+        {
+            "arrival_time": "14:09",
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 128.0,
+            "sequence_number": 6,
+            "station_code": "PTU",
+            "station_name": "PARTUR"
+        },
+        {
+            "arrival_time": "15:03",
+            "day_of_journey": 1,
+            "departure_time": "15:05",
+            "distance_km": 173.0,
+            "sequence_number": 7,
+            "station_code": "J",
+            "station_name": "JALNA"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 236.0,
+            "sequence_number": 8,
+            "station_code": "CPSN",
+            "station_name": "CHHATRAPATI SAMBHAJINAGAR"
+        }
+    ],
+    "train_name": "NED CPSN EXP",
+    "train_number": "17620",
+    "type": "MAIL EXPRESS"
+}

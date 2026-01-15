@@ -1,0 +1,207 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15206.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15206-JBP-LJN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 38.0,
+            "sequence_number": 2,
+            "station_code": "SHR",
+            "station_name": "SIHORA ROAD"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 91.0,
+            "sequence_number": 3,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "22:10",
+            "day_of_journey": 1,
+            "departure_time": "22:12",
+            "distance_km": 108.0,
+            "sequence_number": 4,
+            "station_code": "JKE",
+            "station_name": "JUKEHI"
+        },
+        {
+            "arrival_time": "22:48",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 154.0,
+            "sequence_number": 5,
+            "station_code": "MYR",
+            "station_name": "MAIHAR"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 1,
+            "departure_time": "23:02",
+            "distance_km": 168.0,
+            "sequence_number": 6,
+            "station_code": "UHR",
+            "station_name": "UNCHHERA"
+        },
+        {
+            "arrival_time": "23:25",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 189.0,
+            "sequence_number": 7,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "23:53",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 209.0,
+            "sequence_number": 8,
+            "station_code": "JTW",
+            "station_name": "JAITWAR"
+        },
+        {
+            "arrival_time": "00:13",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 230.0,
+            "sequence_number": 9,
+            "station_code": "MJG",
+            "station_name": "MAJHAGAWAN"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:07",
+            "distance_km": 294.0,
+            "sequence_number": 10,
+            "station_code": "CKTD",
+            "station_name": "CHITRAKOT"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:52",
+            "distance_km": 331.0,
+            "sequence_number": 11,
+            "station_code": "ATE",
+            "station_name": "ATARRA"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:11",
+            "distance_km": 343.0,
+            "sequence_number": 12,
+            "station_code": "KHU",
+            "station_name": "KHURHAND"
+        },
+        {
+            "arrival_time": "03:43",
+            "day_of_journey": 2,
+            "departure_time": "03:48",
+            "distance_km": 362.0,
+            "sequence_number": 13,
+            "station_code": "BNDA",
+            "station_name": "BANDA JN"
+        },
+        {
+            "arrival_time": "04:26",
+            "day_of_journey": 2,
+            "departure_time": "04:28",
+            "distance_km": 402.0,
+            "sequence_number": 14,
+            "station_code": "RGU",
+            "station_name": "RAGAUL"
+        },
+        {
+            "arrival_time": "04:43",
+            "day_of_journey": 2,
+            "departure_time": "04:45",
+            "distance_km": 419.0,
+            "sequence_number": 15,
+            "station_code": "BSZ",
+            "station_name": "BHARWA SUMERPUR"
+        },
+        {
+            "arrival_time": "05:04",
+            "day_of_journey": 2,
+            "departure_time": "05:06",
+            "distance_km": 443.0,
+            "sequence_number": 16,
+            "station_code": "HAR",
+            "station_name": "HAMIRPUR ROAD"
+        },
+        {
+            "arrival_time": "05:21",
+            "day_of_journey": 2,
+            "departure_time": "05:23",
+            "distance_km": 458.0,
+            "sequence_number": 17,
+            "station_code": "GTM",
+            "station_name": "GHATAMPUR"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 505.0,
+            "sequence_number": 18,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "07:56",
+            "day_of_journey": 2,
+            "departure_time": "07:58",
+            "distance_km": 523.0,
+            "sequence_number": 19,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "09:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 579.0,
+            "sequence_number": 20,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        }
+    ],
+    "train_name": "CHITRAKOOT EXP",
+    "train_number": "15206",
+    "type": "MAIL EXPRESS"
+}

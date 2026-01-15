@@ -1,0 +1,157 @@
+{
+    "classes_available": [
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13116.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "13116-JPE-SDAH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JPE",
+            "station_name": "JALPAIGURI ROAD"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 34.0,
+            "sequence_number": 2,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 1,
+            "departure_time": "22:02",
+            "distance_km": 90.0,
+            "sequence_number": 3,
+            "station_code": "AUB",
+            "station_name": "ALUABARI ROAD"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:32",
+            "distance_km": 121.0,
+            "sequence_number": 4,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "23:20",
+            "day_of_journey": 1,
+            "departure_time": "23:22",
+            "distance_km": 178.0,
+            "sequence_number": 5,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "00:30",
+            "day_of_journey": 2,
+            "departure_time": "00:32",
+            "distance_km": 231.0,
+            "sequence_number": 6,
+            "station_code": "SM",
+            "station_name": "SAMSI"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 266.0,
+            "sequence_number": 7,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "02:02",
+            "day_of_journey": 2,
+            "departure_time": "02:04",
+            "distance_km": 301.0,
+            "sequence_number": 8,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "02:46",
+            "day_of_journey": 2,
+            "departure_time": "02:48",
+            "distance_km": 348.0,
+            "sequence_number": 9,
+            "station_code": "JRLE",
+            "station_name": "JANGIPUR ROAD"
+        },
+        {
+            "arrival_time": "03:32",
+            "day_of_journey": 2,
+            "departure_time": "03:37",
+            "distance_km": 383.0,
+            "sequence_number": 10,
+            "station_code": "AZ",
+            "station_name": "AZIMGANJ JN"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:02",
+            "distance_km": 401.0,
+            "sequence_number": 11,
+            "station_code": "BPC",
+            "station_name": "BERHAMPORE CRT"
+        },
+        {
+            "arrival_time": "05:12",
+            "day_of_journey": 2,
+            "departure_time": "05:14",
+            "distance_km": 487.0,
+            "sequence_number": 12,
+            "station_code": "KNJ",
+            "station_name": "KRISHNGR CTY JN"
+        },
+        {
+            "arrival_time": "06:08",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 513.0,
+            "sequence_number": 13,
+            "station_code": "RHA",
+            "station_name": "RANAGHAT JN"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": "06:52",
+            "distance_km": 549.0,
+            "sequence_number": 14,
+            "station_code": "NH",
+            "station_name": "NAIHATI JN"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 589.0,
+            "sequence_number": 15,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        }
+    ],
+    "train_name": "SDAH HUMSAFAR EX",
+    "train_number": "13116",
+    "type": "MAIL EXPRESS"
+}

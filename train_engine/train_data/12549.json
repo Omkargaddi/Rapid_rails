@@ -1,0 +1,207 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12549.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12549-DURG-MCTM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 1,
+            "departure_time": "12:55",
+            "distance_km": 36.0,
+            "sequence_number": 2,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "13:43",
+            "day_of_journey": 1,
+            "departure_time": "13:45",
+            "distance_km": 100.0,
+            "sequence_number": 3,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 152.0,
+            "sequence_number": 4,
+            "station_code": "USL",
+            "station_name": "USLAPUR"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:22",
+            "distance_km": 244.0,
+            "sequence_number": 5,
+            "station_code": "PND",
+            "station_name": "PENDRA ROAD"
+        },
+        {
+            "arrival_time": "17:02",
+            "day_of_journey": 1,
+            "departure_time": "17:07",
+            "distance_km": 294.0,
+            "sequence_number": 6,
+            "station_code": "APR",
+            "station_name": "ANUPPUR JN"
+        },
+        {
+            "arrival_time": "17:42",
+            "day_of_journey": 1,
+            "departure_time": "17:44",
+            "distance_km": 335.0,
+            "sequence_number": 7,
+            "station_code": "SDL",
+            "station_name": "SHAHDOL"
+        },
+        {
+            "arrival_time": "18:39",
+            "day_of_journey": 1,
+            "departure_time": "18:41",
+            "distance_km": 402.0,
+            "sequence_number": 8,
+            "station_code": "UMR",
+            "station_name": "UMARIA"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 463.0,
+            "sequence_number": 9,
+            "station_code": "KMZ",
+            "station_name": "KATNI MURWARA"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 649.0,
+            "sequence_number": 10,
+            "station_code": "SGO",
+            "station_name": "SAUGOR"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:18",
+            "distance_km": 868.0,
+            "sequence_number": 11,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "03:18",
+            "day_of_journey": 2,
+            "departure_time": "03:20",
+            "distance_km": 966.0,
+            "sequence_number": 12,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 1085.0,
+            "sequence_number": 13,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 2,
+            "departure_time": "08:02",
+            "distance_km": 1276.0,
+            "sequence_number": 14,
+            "station_code": "DSJ",
+            "station_name": "DELHI SAFDARJUNG"
+        },
+        {
+            "arrival_time": "11:40",
+            "day_of_journey": 2,
+            "departure_time": "11:55",
+            "distance_km": 1485.0,
+            "sequence_number": 15,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "13:23",
+            "day_of_journey": 2,
+            "departure_time": "13:33",
+            "distance_km": 1598.0,
+            "sequence_number": 16,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 2,
+            "departure_time": "14:25",
+            "distance_km": 1651.0,
+            "sequence_number": 17,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 2,
+            "departure_time": "16:13",
+            "distance_km": 1763.0,
+            "sequence_number": 18,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "17:43",
+            "day_of_journey": 2,
+            "departure_time": "17:50",
+            "distance_km": 1863.0,
+            "sequence_number": 19,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1916.0,
+            "sequence_number": 20,
+            "station_code": "MCTM",
+            "station_name": "MARTYR CAPTAIN TUSHAR MAHAJAN"
+        }
+    ],
+    "train_name": "DURG MCTM SF",
+    "train_number": "12549",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,160 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12493.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12493-MRJ-NZM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MRJ",
+            "station_name": "MIRAJ JN."
+        },
+        {
+            "arrival_time": "05:37",
+            "day_of_journey": 1,
+            "departure_time": "05:40",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "SLI",
+            "station_name": "SANGLI"
+        },
+        {
+            "arrival_time": "06:37",
+            "day_of_journey": 1,
+            "departure_time": "06:40",
+            "distance_km": 75.0,
+            "sequence_number": 3,
+            "station_code": "KRD",
+            "station_name": "KARAD"
+        },
+        {
+            "arrival_time": "07:37",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 134.0,
+            "sequence_number": 4,
+            "station_code": "STR",
+            "station_name": "SATARA"
+        },
+        {
+            "arrival_time": "09:13",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 221.0,
+            "sequence_number": 5,
+            "station_code": "JJR",
+            "station_name": "JEJURI"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 279.0,
+            "sequence_number": 6,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "12:03",
+            "day_of_journey": 1,
+            "departure_time": "12:05",
+            "distance_km": 343.0,
+            "sequence_number": 7,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "13:22",
+            "day_of_journey": 1,
+            "departure_time": "13:25",
+            "distance_km": 417.0,
+            "sequence_number": 8,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 1,
+            "departure_time": "14:25",
+            "distance_km": 459.0,
+            "sequence_number": 9,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "15:38",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 580.0,
+            "sequence_number": 10,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "16:52",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 675.0,
+            "sequence_number": 11,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 804.0,
+            "sequence_number": 12,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 1061.0,
+            "sequence_number": 13,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "00:55",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 1328.0,
+            "sequence_number": 14,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1785.0,
+            "sequence_number": 15,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        }
+    ],
+    "train_name": "DARSHAN EXPRESS",
+    "train_number": "12493",
+    "type": "MAIL EXPRESS"
+}

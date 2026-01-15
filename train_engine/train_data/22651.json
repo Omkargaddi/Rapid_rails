@@ -1,0 +1,197 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22651.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22651-MAS-PGT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "TRL",
+            "station_name": "TIRUVALLUR"
+        },
+        {
+            "arrival_time": "22:33",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 69.0,
+            "sequence_number": 3,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "23:28",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 130.0,
+            "sequence_number": 4,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 1,
+            "departure_time": "23:52",
+            "distance_km": 155.0,
+            "sequence_number": 5,
+            "station_code": "GYM",
+            "station_name": "GUDIYATTAM"
+        },
+        {
+            "arrival_time": "00:58",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 214.0,
+            "sequence_number": 6,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "01:39",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 272.0,
+            "sequence_number": 7,
+            "station_code": "MAP",
+            "station_name": "MORAPPUR"
+        },
+        {
+            "arrival_time": "02:35",
+            "day_of_journey": 2,
+            "departure_time": "02:40",
+            "distance_km": 339.0,
+            "sequence_number": 8,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 365.0,
+            "sequence_number": 9,
+            "station_code": "RASP",
+            "station_name": "RASIPURAM"
+        },
+        {
+            "arrival_time": "03:34",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 390.0,
+            "sequence_number": 10,
+            "station_code": "NMKL",
+            "station_name": "NAMAKKAL"
+        },
+        {
+            "arrival_time": "03:54",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 408.0,
+            "sequence_number": 11,
+            "station_code": "MONR",
+            "station_name": "MOHANUR"
+        },
+        {
+            "arrival_time": "04:18",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 424.0,
+            "sequence_number": 12,
+            "station_code": "KRR",
+            "station_name": "KARUR JN."
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 498.0,
+            "sequence_number": 13,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "06:01",
+            "day_of_journey": 2,
+            "departure_time": "06:03",
+            "distance_km": 531.0,
+            "sequence_number": 14,
+            "station_code": "ODC",
+            "station_name": "ODDANCHATRAM"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 556.0,
+            "sequence_number": 15,
+            "station_code": "PLNI",
+            "station_name": "PALANI"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 590.0,
+            "sequence_number": 16,
+            "station_code": "UDT",
+            "station_name": "UDUMALAIPPETTAI"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 2,
+            "departure_time": "07:40",
+            "distance_km": 619.0,
+            "sequence_number": 17,
+            "station_code": "POY",
+            "station_name": "POLLACHI JN."
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 2,
+            "departure_time": "08:30",
+            "distance_km": 673.0,
+            "sequence_number": 18,
+            "station_code": "PGTN",
+            "station_name": "PALGHAT TOWN"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 677.0,
+            "sequence_number": 19,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        }
+    ],
+    "train_name": "MAS PGT EXPRESS",
+    "train_number": "22651",
+    "type": "SUPERFAST"
+}

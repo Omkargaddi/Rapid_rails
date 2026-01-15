@@ -1,0 +1,143 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14318.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "14318-YNRK-LMNR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "YNRK",
+            "station_name": "YOG NAGARI RISHIKESH"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 22.0,
+            "sequence_number": 2,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "08:29",
+            "day_of_journey": 1,
+            "departure_time": "08:34",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 1,
+            "departure_time": "09:55",
+            "distance_km": 98.0,
+            "sequence_number": 4,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "10:23",
+            "day_of_journey": 1,
+            "departure_time": "10:25",
+            "distance_km": 133.0,
+            "sequence_number": 5,
+            "station_code": "DBD",
+            "station_name": "DEOBAND"
+        },
+        {
+            "arrival_time": "10:43",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 157.0,
+            "sequence_number": 6,
+            "station_code": "MOZ",
+            "station_name": "MUZAFFARNAGAR"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 1,
+            "departure_time": "23:52",
+            "distance_km": 917.0,
+            "sequence_number": 24,
+            "station_code": "BRRG",
+            "station_name": "BIYAVRA RAJGARH"
+        },
+        {
+            "arrival_time": "00:16",
+            "day_of_journey": 2,
+            "departure_time": "00:18",
+            "distance_km": 947.0,
+            "sequence_number": 25,
+            "station_code": "PFR",
+            "station_name": "PACHOR ROAD"
+        },
+        {
+            "arrival_time": "00:48",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 1006.0,
+            "sequence_number": 26,
+            "station_code": "SFY",
+            "station_name": "SHAJAPUR"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:07",
+            "distance_km": 1034.0,
+            "sequence_number": 27,
+            "station_code": "MKC",
+            "station_name": "MAKSI JUNCTION"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 1074.0,
+            "sequence_number": 28,
+            "station_code": "Point(2)",
+            "station_name": "UJJAIN JN UJN Train Reversal"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 1115.0,
+            "sequence_number": 29,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1153.0,
+            "sequence_number": 30,
+            "station_code": "LMNR",
+            "station_name": "LAKSHMIBAI NGR"
+        }
+    ],
+    "train_name": "YNRK LMNR EXP",
+    "train_number": "14318",
+    "type": "MAIL EXPRESS"
+}

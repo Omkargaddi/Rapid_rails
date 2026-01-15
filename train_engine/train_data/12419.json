@@ -1,0 +1,179 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12419.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12419-LKO-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "06:45",
+            "day_of_journey": 1,
+            "departure_time": "06:47",
+            "distance_km": 56.0,
+            "sequence_number": 2,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 1,
+            "departure_time": "07:35",
+            "distance_km": 74.0,
+            "sequence_number": 3,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "07:55",
+            "day_of_journey": 1,
+            "departure_time": "07:56",
+            "distance_km": 85.0,
+            "sequence_number": 4,
+            "station_code": "PNKD",
+            "station_name": "PANKI DHAM"
+        },
+        {
+            "arrival_time": "08:19",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 118.0,
+            "sequence_number": 5,
+            "station_code": "RURA",
+            "station_name": "RURA"
+        },
+        {
+            "arrival_time": "08:34",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 137.0,
+            "sequence_number": 6,
+            "station_code": "JJK",
+            "station_name": "JHINJHAK"
+        },
+        {
+            "arrival_time": "08:49",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 157.0,
+            "sequence_number": 7,
+            "station_code": "PHD",
+            "station_name": "PHAPHUND"
+        },
+        {
+            "arrival_time": "09:14",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 193.0,
+            "sequence_number": 8,
+            "station_code": "BNT",
+            "station_name": "BHARTHANA"
+        },
+        {
+            "arrival_time": "09:33",
+            "day_of_journey": 1,
+            "departure_time": "09:35",
+            "distance_km": 213.0,
+            "sequence_number": 9,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "10:06",
+            "day_of_journey": 1,
+            "departure_time": "10:08",
+            "distance_km": 268.0,
+            "sequence_number": 10,
+            "station_code": "SKB",
+            "station_name": "SHIKOHABAD JN"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 1,
+            "departure_time": "10:27",
+            "distance_km": 288.0,
+            "sequence_number": 11,
+            "station_code": "FZD",
+            "station_name": "FIROZABAD"
+        },
+        {
+            "arrival_time": "11:03",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 305.0,
+            "sequence_number": 12,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "11:43",
+            "day_of_journey": 1,
+            "departure_time": "11:45",
+            "distance_km": 353.0,
+            "sequence_number": 13,
+            "station_code": "HRS",
+            "station_name": "HATHRAS JN"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:10",
+            "distance_km": 383.0,
+            "sequence_number": 14,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "12:38",
+            "day_of_journey": 1,
+            "departure_time": "12:40",
+            "distance_km": 426.0,
+            "sequence_number": 15,
+            "station_code": "KRJ",
+            "station_name": "KHURJA JN"
+        },
+        {
+            "arrival_time": "14:13",
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 489.0,
+            "sequence_number": 16,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 514.0,
+            "sequence_number": 17,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "GOMTI EXPRESS",
+    "train_number": "12419",
+    "type": "SUPERFAST"
+}

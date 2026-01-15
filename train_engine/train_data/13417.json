@@ -1,0 +1,177 @@
+{
+    "classes_available": [
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13417.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "13417-DGHA-MLDT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DGHA",
+            "station_name": "DIGHA"
+        },
+        {
+            "arrival_time": "00:13",
+            "day_of_journey": 2,
+            "departure_time": "00:14",
+            "distance_km": 32.0,
+            "sequence_number": 2,
+            "station_code": "KATI",
+            "station_name": "KATHI"
+        },
+        {
+            "arrival_time": "01:03",
+            "day_of_journey": 2,
+            "departure_time": "01:04",
+            "distance_km": 94.0,
+            "sequence_number": 3,
+            "station_code": "TMZ",
+            "station_name": "TAMLUK"
+        },
+        {
+            "arrival_time": "01:33",
+            "day_of_journey": 2,
+            "departure_time": "01:34",
+            "distance_km": 120.0,
+            "sequence_number": 4,
+            "station_code": "PKU",
+            "station_name": "PANSKURA"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 165.0,
+            "sequence_number": 5,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "03:13",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 178.0,
+            "sequence_number": 6,
+            "station_code": "MDN",
+            "station_name": "MIDNAPORE"
+        },
+        {
+            "arrival_time": "04:18",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 250.0,
+            "sequence_number": 7,
+            "station_code": "VSU",
+            "station_name": "BISHNUPUR"
+        },
+        {
+            "arrival_time": "04:43",
+            "day_of_journey": 2,
+            "departure_time": "04:45",
+            "distance_km": 280.0,
+            "sequence_number": 8,
+            "station_code": "BQA",
+            "station_name": "BANKURA"
+        },
+        {
+            "arrival_time": "05:55",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 333.0,
+            "sequence_number": 9,
+            "station_code": "ADRA",
+            "station_name": "ADRA"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 2,
+            "departure_time": "07:40",
+            "distance_km": 375.0,
+            "sequence_number": 10,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 2,
+            "departure_time": "08:11",
+            "distance_km": 400.0,
+            "sequence_number": 11,
+            "station_code": "UDL",
+            "station_name": "ANDAL JN."
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 2,
+            "departure_time": "08:50",
+            "distance_km": 417.0,
+            "sequence_number": 12,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 2,
+            "departure_time": "09:57",
+            "distance_km": 493.0,
+            "sequence_number": 13,
+            "station_code": "SURI",
+            "station_name": "SIURI"
+        },
+        {
+            "arrival_time": "11:26",
+            "day_of_journey": 2,
+            "departure_time": "11:31",
+            "distance_km": 540.0,
+            "sequence_number": 14,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "12:14",
+            "day_of_journey": 2,
+            "departure_time": "12:16",
+            "distance_km": 595.0,
+            "sequence_number": 15,
+            "station_code": "PKR",
+            "station_name": "PAKAUR"
+        },
+        {
+            "arrival_time": "13:20",
+            "day_of_journey": 2,
+            "departure_time": "13:22",
+            "distance_km": 628.0,
+            "sequence_number": 16,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "14:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 662.0,
+            "sequence_number": 17,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        }
+    ],
+    "train_name": "DGHA MLDT EXP",
+    "train_number": "13417",
+    "type": "MAIL EXPRESS"
+}

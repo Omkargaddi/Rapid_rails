@@ -1,0 +1,126 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13330.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13330-PNBE-DHN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 1,
+            "departure_time": "23:47",
+            "distance_km": 30.0,
+            "sequence_number": 2,
+            "station_code": "TEA",
+            "station_name": "TAREGNA"
+        },
+        {
+            "arrival_time": "00:02",
+            "day_of_journey": 2,
+            "departure_time": "00:04",
+            "distance_km": 45.0,
+            "sequence_number": 3,
+            "station_code": "JHD",
+            "station_name": "JEHANABAD"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 92.0,
+            "sequence_number": 4,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "02:51",
+            "day_of_journey": 2,
+            "departure_time": "02:53",
+            "distance_km": 168.0,
+            "sequence_number": 5,
+            "station_code": "KQR",
+            "station_name": "KODERMA"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:11",
+            "distance_km": 194.0,
+            "sequence_number": 6,
+            "station_code": "PSB",
+            "station_name": "PARSABAD"
+        },
+        {
+            "arrival_time": "03:24",
+            "day_of_journey": 2,
+            "departure_time": "03:26",
+            "distance_km": 216.0,
+            "sequence_number": 7,
+            "station_code": "HZD",
+            "station_name": "HAZARIBAGH RD"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 2,
+            "departure_time": "03:47",
+            "distance_km": 243.0,
+            "sequence_number": 8,
+            "station_code": "PNME",
+            "station_name": "PARASNATH"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 261.0,
+            "sequence_number": 9,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:32",
+            "distance_km": 282.0,
+            "sequence_number": 10,
+            "station_code": "TET",
+            "station_name": "TETULMARI"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 291.0,
+            "sequence_number": 11,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        }
+    ],
+    "train_name": "GANGADAMODAR EX",
+    "train_number": "13330",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,122 @@
+{
+    "classes_available": [
+        "CC",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18511.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "18511-KRPU-VSKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KRPU",
+            "station_name": "KORAPUT JN."
+        },
+        {
+            "arrival_time": "07:53",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 19.0,
+            "sequence_number": 2,
+            "station_code": "DMNJ",
+            "station_name": "DAMAN JODI"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 61.0,
+            "sequence_number": 3,
+            "station_code": "LKMR",
+            "station_name": "LAKSHMIPUR ROAD"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 83.0,
+            "sequence_number": 4,
+            "station_code": "TKRI",
+            "station_name": "TIKIRI"
+        },
+        {
+            "arrival_time": "10:53",
+            "day_of_journey": 1,
+            "departure_time": "10:55",
+            "distance_km": 164.0,
+            "sequence_number": 5,
+            "station_code": "SPRD",
+            "station_name": "SINGAPUR ROAD (SPRD)"
+        },
+        {
+            "arrival_time": "11:10",
+            "day_of_journey": 1,
+            "departure_time": "11:15",
+            "distance_km": 173.0,
+            "sequence_number": 6,
+            "station_code": "RGDA",
+            "station_name": "RAYAGADA"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 220.0,
+            "sequence_number": 7,
+            "station_code": "PVP",
+            "station_name": "PARVATIPURAM"
+        },
+        {
+            "arrival_time": "12:18",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 244.0,
+            "sequence_number": 8,
+            "station_code": "VBL",
+            "station_name": "BOBBILI"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 1,
+            "departure_time": "13:20",
+            "distance_km": 297.0,
+            "sequence_number": 9,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "13:58",
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 350.0,
+            "sequence_number": 10,
+            "station_code": "SCM",
+            "station_name": "SIMHACHALAM"
+        },
+        {
+            "arrival_time": "14:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 358.0,
+            "sequence_number": 11,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        }
+    ],
+    "train_name": "INTERCITY EXP",
+    "train_number": "18511",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,196 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15648.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "15648-GHY-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 48.0,
+            "sequence_number": 3,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 112.0,
+            "sequence_number": 4,
+            "station_code": "BPRD",
+            "station_name": "BARPETA ROAD"
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 157.0,
+            "sequence_number": 5,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 266.0,
+            "sequence_number": 6,
+            "station_code": "NOQ",
+            "station_name": "NEW ALIPURDUAR"
+        },
+        {
+            "arrival_time": "00:00",
+            "day_of_journey": 3,
+            "departure_time": "00:05",
+            "distance_km": 1663.0,
+            "sequence_number": 41,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 3,
+            "departure_time": "01:30",
+            "distance_km": 1754.0,
+            "sequence_number": 42,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "03:23",
+            "day_of_journey": 3,
+            "departure_time": "03:25",
+            "distance_km": 1931.0,
+            "sequence_number": 43,
+            "station_code": "PPI",
+            "station_name": "PIPARIYA"
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 3,
+            "departure_time": "05:20",
+            "distance_km": 1999.0,
+            "sequence_number": 44,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "06:08",
+            "day_of_journey": 3,
+            "departure_time": "06:10",
+            "distance_km": 2074.0,
+            "sequence_number": 45,
+            "station_code": "HD",
+            "station_name": "HARDA"
+        },
+        {
+            "arrival_time": "07:55",
+            "day_of_journey": 3,
+            "departure_time": "07:57",
+            "distance_km": 2181.0,
+            "sequence_number": 46,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 3,
+            "departure_time": "08:55",
+            "distance_km": 2250.0,
+            "sequence_number": 47,
+            "station_code": "BAU",
+            "station_name": "BURHANPUR"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 3,
+            "departure_time": "09:55",
+            "distance_km": 2305.0,
+            "sequence_number": 48,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "12:23",
+            "day_of_journey": 3,
+            "departure_time": "12:25",
+            "distance_km": 2489.0,
+            "sequence_number": 49,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 3,
+            "departure_time": "13:40",
+            "distance_km": 2562.0,
+            "sequence_number": 50,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "16:27",
+            "day_of_journey": 3,
+            "departure_time": "16:30",
+            "distance_km": 2696.0,
+            "sequence_number": 51,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "17:07",
+            "day_of_journey": 3,
+            "departure_time": "17:10",
+            "distance_km": 2716.0,
+            "sequence_number": 52,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2732.0,
+            "sequence_number": 53,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "GHY LTT EXPRESS",
+    "train_number": "15648",
+    "type": "MAIL EXPRESS"
+}

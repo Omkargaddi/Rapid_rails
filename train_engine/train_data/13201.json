@@ -1,0 +1,180 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13201.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13201-RGD-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RGD",
+            "station_name": "RAJGIR"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 1,
+            "departure_time": "20:57",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "NLD",
+            "station_name": "NALANDA"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:12",
+            "distance_km": 21.0,
+            "sequence_number": 3,
+            "station_code": "BEHS",
+            "station_name": "BIHAR SHARIF"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:52",
+            "distance_km": 51.0,
+            "sequence_number": 4,
+            "station_code": "BKP",
+            "station_name": "BAKHTIYARPUR JN"
+        },
+        {
+            "arrival_time": "22:09",
+            "day_of_journey": 1,
+            "departure_time": "22:11",
+            "distance_km": 74.0,
+            "sequence_number": 5,
+            "station_code": "FUT",
+            "station_name": "FATUHA"
+        },
+        {
+            "arrival_time": "22:22",
+            "day_of_journey": 1,
+            "departure_time": "22:24",
+            "distance_km": 86.0,
+            "sequence_number": 6,
+            "station_code": "PNC",
+            "station_name": "PATNA SAHEB"
+        },
+        {
+            "arrival_time": "01:38",
+            "day_of_journey": 3,
+            "departure_time": "01:40",
+            "distance_km": 1381.0,
+            "sequence_number": 58,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 3,
+            "departure_time": "02:57",
+            "distance_km": 1474.0,
+            "sequence_number": 59,
+            "station_code": "CSN",
+            "station_name": "CHALISGAON JN"
+        },
+        {
+            "arrival_time": "03:29",
+            "day_of_journey": 3,
+            "departure_time": "03:30",
+            "distance_km": 1516.0,
+            "sequence_number": 60,
+            "station_code": "NGN",
+            "station_name": "NANDGAON"
+        },
+        {
+            "arrival_time": "04:02",
+            "day_of_journey": 3,
+            "departure_time": "04:05",
+            "distance_km": 1541.0,
+            "sequence_number": 61,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "04:39",
+            "day_of_journey": 3,
+            "departure_time": "04:40",
+            "distance_km": 1583.0,
+            "sequence_number": 62,
+            "station_code": "NR",
+            "station_name": "NIPHAD"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 3,
+            "departure_time": "05:25",
+            "distance_km": 1614.0,
+            "sequence_number": 63,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "05:34",
+            "day_of_journey": 3,
+            "departure_time": "05:35",
+            "distance_km": 1620.0,
+            "sequence_number": 64,
+            "station_code": "DVL",
+            "station_name": "DEVLALI"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 3,
+            "departure_time": "08:02",
+            "distance_km": 1681.0,
+            "sequence_number": 65,
+            "station_code": "KSRA",
+            "station_name": "KASARA"
+        },
+        {
+            "arrival_time": "09:02",
+            "day_of_journey": 3,
+            "departure_time": "09:05",
+            "distance_km": 1748.0,
+            "sequence_number": 66,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 3,
+            "departure_time": "09:32",
+            "distance_km": 1768.0,
+            "sequence_number": 67,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1785.0,
+            "sequence_number": 68,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "RGD LTT EXP",
+    "train_number": "13201",
+    "type": "MAIL EXPRESS"
+}

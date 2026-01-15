@@ -1,0 +1,189 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12868.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12868-PDY-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PDY",
+            "station_name": "PONDICHERRY"
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 38.0,
+            "sequence_number": 2,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "15:56",
+            "day_of_journey": 1,
+            "departure_time": "15:58",
+            "distance_km": 105.0,
+            "sequence_number": 3,
+            "station_code": "TNM",
+            "station_name": "TIRUVANNAMALAI"
+        },
+        {
+            "arrival_time": "17:23",
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 188.0,
+            "sequence_number": 4,
+            "station_code": "VLR",
+            "station_name": "VELLORE CANTONMENT"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 198.0,
+            "sequence_number": 5,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 302.0,
+            "sequence_number": 6,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        },
+        {
+            "arrival_time": "19:55",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 312.0,
+            "sequence_number": 7,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "21:48",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 433.0,
+            "sequence_number": 8,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 688.0,
+            "sequence_number": 9,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "04:58",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 837.0,
+            "sequence_number": 10,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "07:48",
+            "day_of_journey": 2,
+            "departure_time": "07:50",
+            "distance_km": 1020.0,
+            "sequence_number": 11,
+            "station_code": "DVD",
+            "station_name": "DUVVADA"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 2,
+            "departure_time": "08:45",
+            "distance_km": 1038.0,
+            "sequence_number": 12,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 2,
+            "departure_time": "09:40",
+            "distance_km": 1099.0,
+            "sequence_number": 13,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 2,
+            "departure_time": "15:00",
+            "distance_km": 1461.0,
+            "sequence_number": 14,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 2,
+            "departure_time": "15:25",
+            "distance_km": 1480.0,
+            "sequence_number": 15,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "19:14",
+            "day_of_journey": 2,
+            "departure_time": "19:16",
+            "distance_km": 1682.0,
+            "sequence_number": 16,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 2,
+            "departure_time": "21:03",
+            "distance_km": 1803.0,
+            "sequence_number": 17,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1919.0,
+            "sequence_number": 18,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "PDY HWH SF EXP",
+    "train_number": "12868",
+    "type": "SUPERFAST"
+}

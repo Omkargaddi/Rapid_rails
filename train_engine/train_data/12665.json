@@ -1,0 +1,141 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12665.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12665-HWH-CAPE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 116.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "19:00",
+            "day_of_journey": 1,
+            "departure_time": "19:02",
+            "distance_km": 237.0,
+            "sequence_number": 3,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:02",
+            "distance_km": 296.0,
+            "sequence_number": 4,
+            "station_code": "BHC",
+            "station_name": "BHADRAKH"
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 411.0,
+            "sequence_number": 5,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 439.0,
+            "sequence_number": 6,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 3,
+            "departure_time": "04:45",
+            "distance_km": 2162.0,
+            "sequence_number": 24,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 3,
+            "departure_time": "05:20",
+            "distance_km": 2205.0,
+            "sequence_number": 25,
+            "station_code": "VPT",
+            "station_name": "VIRUDUNAGAR JN"
+        },
+        {
+            "arrival_time": "05:38",
+            "day_of_journey": 3,
+            "departure_time": "05:40",
+            "distance_km": 2232.0,
+            "sequence_number": 26,
+            "station_code": "SRT",
+            "station_name": "SATUR"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 3,
+            "departure_time": "06:00",
+            "distance_km": 2253.0,
+            "sequence_number": 27,
+            "station_code": "CVP",
+            "station_name": "KOVILPATTI"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 3,
+            "departure_time": "07:20",
+            "distance_km": 2318.0,
+            "sequence_number": 28,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 3,
+            "departure_time": "08:50",
+            "distance_km": 2392.0,
+            "sequence_number": 29,
+            "station_code": "NCJ",
+            "station_name": "NAGERCOIL JUNCTION"
+        },
+        {
+            "arrival_time": "09:45",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2407.0,
+            "sequence_number": 30,
+            "station_code": "CAPE",
+            "station_name": "KANNIYAKUMARI"
+        }
+    ],
+    "train_name": "HWH CAPE SF EXP",
+    "train_number": "12665",
+    "type": "SUPERFAST"
+}

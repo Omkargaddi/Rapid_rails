@@ -1,0 +1,233 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12507.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12507-TVC-SCL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 1,
+            "departure_time": "17:53",
+            "distance_km": 64.0,
+            "sequence_number": 2,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "18:33",
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 105.0,
+            "sequence_number": 3,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "18:44",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 113.0,
+            "sequence_number": 4,
+            "station_code": "MVLK",
+            "station_name": "MAVELIKARA"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 1,
+            "departure_time": "18:57",
+            "distance_km": 126.0,
+            "sequence_number": 5,
+            "station_code": "CNGR",
+            "station_name": "CHENGANNUR"
+        },
+        {
+            "arrival_time": "19:06",
+            "day_of_journey": 1,
+            "departure_time": "19:07",
+            "distance_km": 135.0,
+            "sequence_number": 6,
+            "station_code": "TRVL",
+            "station_name": "TIRUVALLA"
+        },
+        {
+            "arrival_time": "19:13",
+            "day_of_journey": 3,
+            "departure_time": "19:15",
+            "distance_km": 3043.0,
+            "sequence_number": 41,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 3,
+            "departure_time": "21:00",
+            "distance_km": 3130.0,
+            "sequence_number": 42,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 3,
+            "departure_time": "22:10",
+            "distance_km": 3195.0,
+            "sequence_number": 43,
+            "station_code": "DQG",
+            "station_name": "DHUPGURI"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 3,
+            "departure_time": "23:05",
+            "distance_km": 3256.0,
+            "sequence_number": 44,
+            "station_code": "NCB",
+            "station_name": "NEW COOCH BEHAR"
+        },
+        {
+            "arrival_time": "23:25",
+            "day_of_journey": 3,
+            "departure_time": "23:27",
+            "distance_km": 3275.0,
+            "sequence_number": 45,
+            "station_code": "NOQ",
+            "station_name": "NEW ALIPURDUAR"
+        },
+        {
+            "arrival_time": "00:25",
+            "day_of_journey": 4,
+            "departure_time": "00:27",
+            "distance_km": 3353.0,
+            "sequence_number": 46,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 4,
+            "departure_time": "01:25",
+            "distance_km": 3384.0,
+            "sequence_number": 47,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 4,
+            "departure_time": "02:02",
+            "distance_km": 3429.0,
+            "sequence_number": 48,
+            "station_code": "BPRD",
+            "station_name": "BARPETA ROAD"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 4,
+            "departure_time": "03:05",
+            "distance_km": 3494.0,
+            "sequence_number": 49,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 4,
+            "departure_time": "04:32",
+            "distance_km": 3535.0,
+            "sequence_number": 50,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 4,
+            "departure_time": "05:00",
+            "distance_km": 3541.0,
+            "sequence_number": 51,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 4,
+            "departure_time": "06:52",
+            "distance_km": 3677.0,
+            "sequence_number": 52,
+            "station_code": "HJI",
+            "station_name": "HOJAI"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 4,
+            "departure_time": "08:10",
+            "distance_km": 3722.0,
+            "sequence_number": 53,
+            "station_code": "Point(2)",
+            "station_name": "LUMDING JN LMG Train Reversal"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 4,
+            "departure_time": "09:37",
+            "distance_km": 3786.0,
+            "sequence_number": 54,
+            "station_code": "MBG",
+            "station_name": "MAIBANG"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 4,
+            "departure_time": "10:55",
+            "distance_km": 3821.0,
+            "sequence_number": 55,
+            "station_code": "NHLG",
+            "station_name": "NEW HAFLONG"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 4,
+            "departure_time": "14:15",
+            "distance_km": 3892.0,
+            "sequence_number": 56,
+            "station_code": "Point(3)",
+            "station_name": "BADARPUR JN. BPB Train Reversal"
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 4,
+            "departure_time": null,
+            "distance_km": 3921.0,
+            "sequence_number": 57,
+            "station_code": "SCL",
+            "station_name": "SILCHAR"
+        }
+    ],
+    "train_name": "ARONAI EXPRESS",
+    "train_number": "12507",
+    "type": "SUPERFAST"
+}

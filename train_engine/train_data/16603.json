@@ -1,0 +1,143 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16603.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16603-MAQ-TVC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAQ",
+            "station_name": "MANGALORE CENTRAL"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 46.0,
+            "sequence_number": 2,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "18:44",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 69.0,
+            "sequence_number": 3,
+            "station_code": "KZE",
+            "station_name": "KANHANGAD"
+        },
+        {
+            "arrival_time": "18:53",
+            "day_of_journey": 1,
+            "departure_time": "18:54",
+            "distance_km": 78.0,
+            "sequence_number": 4,
+            "station_code": "NLE",
+            "station_name": "NILESHWAR"
+        },
+        {
+            "arrival_time": "19:00",
+            "day_of_journey": 1,
+            "departure_time": "19:01",
+            "distance_km": 83.0,
+            "sequence_number": 5,
+            "station_code": "CHV",
+            "station_name": "CHARVATTUR"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 484.0,
+            "sequence_number": 23,
+            "station_code": "AMPA",
+            "station_name": "AMBALAPPUZHA"
+        },
+        {
+            "arrival_time": "03:27",
+            "day_of_journey": 2,
+            "departure_time": "03:28",
+            "distance_km": 502.0,
+            "sequence_number": 24,
+            "station_code": "HAD",
+            "station_name": "HARIPAD"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 2,
+            "departure_time": "03:47",
+            "distance_km": 515.0,
+            "sequence_number": 25,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:01",
+            "distance_km": 529.0,
+            "sequence_number": 26,
+            "station_code": "KPY",
+            "station_name": "KARUNAGAPPALLI"
+        },
+        {
+            "arrival_time": "04:27",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 556.0,
+            "sequence_number": 27,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "04:41",
+            "day_of_journey": 2,
+            "departure_time": "04:42",
+            "distance_km": 569.0,
+            "sequence_number": 28,
+            "station_code": "PVU",
+            "station_name": "PARAVUR"
+        },
+        {
+            "arrival_time": "04:52",
+            "day_of_journey": 2,
+            "departure_time": "04:53",
+            "distance_km": 580.0,
+            "sequence_number": 29,
+            "station_code": "VAK",
+            "station_name": "VARKALA"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 620.0,
+            "sequence_number": 30,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        }
+    ],
+    "train_name": "MAVELI EXPRESS",
+    "train_number": "16603",
+    "type": "MAIL EXPRESS"
+}

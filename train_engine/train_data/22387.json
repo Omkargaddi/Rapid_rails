@@ -1,0 +1,182 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22387.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22387-HWH-DHN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:15",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 1,
+            "departure_time": "06:39",
+            "distance_km": 22.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "SHE",
+            "station_name": "SEORAPHULI"
+        },
+        {
+            "arrival_time": "06:56",
+            "day_of_journey": 1,
+            "departure_time": "06:58",
+            "distance_km": 39.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "07:48",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 107.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "08:22",
+            "day_of_journey": 1,
+            "departure_time": "08:23",
+            "distance_km": 144.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MNAE",
+            "station_name": "MANKAR"
+        },
+        {
+            "arrival_time": "08:32",
+            "day_of_journey": 1,
+            "departure_time": "08:34",
+            "distance_km": 154.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "PAN",
+            "station_name": "PANAGARH"
+        },
+        {
+            "arrival_time": "08:47",
+            "day_of_journey": 1,
+            "departure_time": "08:49",
+            "distance_km": 169.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "08:57",
+            "day_of_journey": 1,
+            "departure_time": "08:58",
+            "distance_km": 178.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "OYR",
+            "station_name": "WARIA"
+        },
+        {
+            "arrival_time": "09:03",
+            "day_of_journey": 1,
+            "departure_time": "09:04",
+            "distance_km": 185.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "UDL",
+            "station_name": "ANDAL JN."
+        },
+        {
+            "arrival_time": "09:13",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 193.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "RNG",
+            "station_name": "RANIGANJ"
+        },
+        {
+            "arrival_time": "09:31",
+            "day_of_journey": 1,
+            "departure_time": "09:34",
+            "distance_km": 211.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "09:48",
+            "day_of_journey": 1,
+            "departure_time": "09:49",
+            "distance_km": 220.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "STN",
+            "station_name": "SITARAMPUR"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 1,
+            "departure_time": "09:56",
+            "distance_km": 224.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "ULT",
+            "station_name": "KULTI"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": "10:01",
+            "distance_km": 227.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "BRR",
+            "station_name": "BARAKAR"
+        },
+        {
+            "arrival_time": "10:04",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 229.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "KMME",
+            "station_name": "KUMARDUBI"
+        },
+        {
+            "arrival_time": "11:18",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 268.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        }
+    ],
+    "train_name": "BLACKDIAMOND EX",
+    "train_number": "22387",
+    "type": "SUPERFAST "
+}

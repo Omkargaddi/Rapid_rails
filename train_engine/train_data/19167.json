@@ -1,0 +1,297 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19167.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "19167-ADI-BCY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "23:18",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 3.0,
+            "sequence_number": 2,
+            "station_code": "MAN",
+            "station_name": "MANINAGAR"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:42",
+            "distance_km": 28.0,
+            "sequence_number": 3,
+            "station_code": "MHD",
+            "station_name": "MAHEMADAVAD KHEDA ROAD"
+        },
+        {
+            "arrival_time": "23:55",
+            "day_of_journey": 1,
+            "departure_time": "23:57",
+            "distance_km": 46.0,
+            "sequence_number": 4,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:12",
+            "distance_km": 64.0,
+            "sequence_number": 5,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "00:52",
+            "day_of_journey": 2,
+            "departure_time": "00:57",
+            "distance_km": 95.0,
+            "sequence_number": 6,
+            "station_code": "CYI",
+            "station_name": "CHHAYAPURI"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:07",
+            "distance_km": 161.0,
+            "sequence_number": 7,
+            "station_code": "GDA",
+            "station_name": "GODHRA JN"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "02:57",
+            "distance_km": 233.0,
+            "sequence_number": 8,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "03:21",
+            "day_of_journey": 2,
+            "departure_time": "03:23",
+            "distance_km": 266.0,
+            "sequence_number": 9,
+            "station_code": "MGN",
+            "station_name": "MEGHNAGAR"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 347.0,
+            "sequence_number": 10,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "05:19",
+            "day_of_journey": 2,
+            "departure_time": "05:21",
+            "distance_km": 374.0,
+            "sequence_number": 11,
+            "station_code": "KUH",
+            "station_name": "KHACHROD"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 2,
+            "departure_time": "05:45",
+            "distance_km": 388.0,
+            "sequence_number": 12,
+            "station_code": "NAD",
+            "station_name": "NAGDA JN"
+        },
+        {
+            "arrival_time": "20:35",
+            "day_of_journey": 2,
+            "departure_time": "20:37",
+            "distance_km": 1115.0,
+            "sequence_number": 36,
+            "station_code": "KPI",
+            "station_name": "KALPI"
+        },
+        {
+            "arrival_time": "20:52",
+            "day_of_journey": 2,
+            "departure_time": "20:54",
+            "distance_km": 1129.0,
+            "sequence_number": 37,
+            "station_code": "PHN",
+            "station_name": "POKHRAYAN"
+        },
+        {
+            "arrival_time": "23:25",
+            "day_of_journey": 2,
+            "departure_time": "23:30",
+            "distance_km": 1187.0,
+            "sequence_number": 38,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "23:56",
+            "day_of_journey": 2,
+            "departure_time": "23:58",
+            "distance_km": 1204.0,
+            "sequence_number": 39,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 3,
+            "departure_time": "01:10",
+            "distance_km": 1261.0,
+            "sequence_number": 40,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "01:46",
+            "day_of_journey": 3,
+            "departure_time": "01:48",
+            "distance_km": 1289.0,
+            "sequence_number": 41,
+            "station_code": "BBK",
+            "station_name": "BARABANKI JN"
+        },
+        {
+            "arrival_time": "02:21",
+            "day_of_journey": 3,
+            "departure_time": "02:23",
+            "distance_km": 1327.0,
+            "sequence_number": 42,
+            "station_code": "DYD",
+            "station_name": "DARYABAD"
+        },
+        {
+            "arrival_time": "02:41",
+            "day_of_journey": 3,
+            "departure_time": "02:43",
+            "distance_km": 1350.0,
+            "sequence_number": 43,
+            "station_code": "RDL",
+            "station_name": "RUDAULI"
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 3,
+            "departure_time": "03:04",
+            "distance_km": 1373.0,
+            "sequence_number": 44,
+            "station_code": "SLW",
+            "station_name": "SOHWAL"
+        },
+        {
+            "arrival_time": "03:25",
+            "day_of_journey": 3,
+            "departure_time": "03:35",
+            "distance_km": 1388.0,
+            "sequence_number": 45,
+            "station_code": "AYC",
+            "station_name": "AYODHYA CANTT"
+        },
+        {
+            "arrival_time": "03:51",
+            "day_of_journey": 3,
+            "departure_time": "03:53",
+            "distance_km": 1396.0,
+            "sequence_number": 46,
+            "station_code": "AY",
+            "station_name": "AYODHYA DHAM JN"
+        },
+        {
+            "arrival_time": "04:23",
+            "day_of_journey": 3,
+            "departure_time": "04:24",
+            "distance_km": 1427.0,
+            "sequence_number": 47,
+            "station_code": "GGJ",
+            "station_name": "GOSHAINGANJ"
+        },
+        {
+            "arrival_time": "04:46",
+            "day_of_journey": 3,
+            "departure_time": "04:48",
+            "distance_km": 1449.0,
+            "sequence_number": 48,
+            "station_code": "ABP",
+            "station_name": "AKBARPUR"
+        },
+        {
+            "arrival_time": "05:08",
+            "day_of_journey": 3,
+            "departure_time": "05:10",
+            "distance_km": 1468.0,
+            "sequence_number": 49,
+            "station_code": "MLPR",
+            "station_name": "MALIPUR"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 3,
+            "departure_time": "05:55",
+            "distance_km": 1493.0,
+            "sequence_number": 50,
+            "station_code": "SHG",
+            "station_name": "SHAHGANJ JN"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 3,
+            "departure_time": "06:45",
+            "distance_km": 1527.0,
+            "sequence_number": 51,
+            "station_code": "JNU",
+            "station_name": "JAUNPUR JN"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 3,
+            "departure_time": "09:40",
+            "distance_km": 1584.0,
+            "sequence_number": 52,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1588.0,
+            "sequence_number": 53,
+            "station_code": "BCY",
+            "station_name": "VARANASI CITY"
+        }
+    ],
+    "train_name": "SABARMATI EXP",
+    "train_number": "19167",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,138 @@
+{
+    "classes_available": [
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15601.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15601-DBB-GHY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DBB",
+            "station_name": "DHUBRI"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 1,
+            "departure_time": "07:36",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "GUP",
+            "station_name": "GAURIPUR"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 1,
+            "departure_time": "08:05",
+            "distance_km": 20.0,
+            "sequence_number": 3,
+            "station_code": "GKJ",
+            "station_name": "GOLAKGANJ JN"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 1,
+            "departure_time": "08:21",
+            "distance_km": 25.0,
+            "sequence_number": 4,
+            "station_code": "MTJR",
+            "station_name": "MOTERJHAR"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 1,
+            "departure_time": "08:31",
+            "distance_km": 32.0,
+            "sequence_number": 5,
+            "station_code": "BSI",
+            "station_name": "BASBARI"
+        },
+        {
+            "arrival_time": "08:41",
+            "day_of_journey": 1,
+            "departure_time": "08:42",
+            "distance_km": 40.0,
+            "sequence_number": 6,
+            "station_code": "MONJ",
+            "station_name": "MONGLAJHORA"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 1,
+            "departure_time": "08:54",
+            "distance_km": 49.0,
+            "sequence_number": 7,
+            "station_code": "TPK",
+            "station_name": "TIPKAI"
+        },
+        {
+            "arrival_time": "09:04",
+            "day_of_journey": 1,
+            "departure_time": "09:05",
+            "distance_km": 59.0,
+            "sequence_number": 8,
+            "station_code": "SPX",
+            "station_name": "SAPATGRAM"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 1,
+            "departure_time": "09:20",
+            "distance_km": 67.0,
+            "sequence_number": 9,
+            "station_code": "FKM",
+            "station_name": "FAKIRAGRAM JN"
+        },
+        {
+            "arrival_time": "09:32",
+            "day_of_journey": 1,
+            "departure_time": "09:33",
+            "distance_km": 77.0,
+            "sequence_number": 10,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 108.0,
+            "sequence_number": 11,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 1,
+            "departure_time": "14:25",
+            "distance_km": 284.0,
+            "sequence_number": 12,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 290.0,
+            "sequence_number": 13,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        }
+    ],
+    "train_name": "DBB-GHY EXPRESS",
+    "train_number": "15601",
+    "type": "MAIL EXPRESS"
+}

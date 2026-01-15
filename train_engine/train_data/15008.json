@@ -1,0 +1,180 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15008.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15008-LJN-BCY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        },
+        {
+            "arrival_time": "23:26",
+            "day_of_journey": 1,
+            "departure_time": "23:28",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "LC",
+            "station_name": "LUCKNOW CITY"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 1,
+            "departure_time": "23:48",
+            "distance_km": 12.0,
+            "sequence_number": 3,
+            "station_code": "BNZ",
+            "station_name": "BADSHAHNAGAR"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:22",
+            "distance_km": 36.0,
+            "sequence_number": 4,
+            "station_code": "BBK",
+            "station_name": "BARABANKI JN"
+        },
+        {
+            "arrival_time": "00:46",
+            "day_of_journey": 2,
+            "departure_time": "00:48",
+            "distance_km": 64.0,
+            "sequence_number": 5,
+            "station_code": "BUW",
+            "station_name": "BURHWAL JN"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 125.0,
+            "sequence_number": 6,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "08:33",
+            "day_of_journey": 2,
+            "departure_time": "08:35",
+            "distance_km": 369.0,
+            "sequence_number": 24,
+            "station_code": "LRD",
+            "station_name": "LAR ROAD"
+        },
+        {
+            "arrival_time": "08:58",
+            "day_of_journey": 2,
+            "departure_time": "09:00",
+            "distance_km": 382.0,
+            "sequence_number": 25,
+            "station_code": "BLTR",
+            "station_name": "BELTHARA ROAD"
+        },
+        {
+            "arrival_time": "09:18",
+            "day_of_journey": 2,
+            "departure_time": "09:20",
+            "distance_km": 396.0,
+            "sequence_number": 26,
+            "station_code": "KER",
+            "station_name": "KIRIHRAPUR"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 2,
+            "departure_time": "09:37",
+            "distance_km": 409.0,
+            "sequence_number": 27,
+            "station_code": "IAA",
+            "station_name": "INDARA JN"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": "09:55",
+            "distance_km": 417.0,
+            "sequence_number": 28,
+            "station_code": "MAU",
+            "station_name": "MAU JN"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 2,
+            "departure_time": "10:22",
+            "distance_km": 438.0,
+            "sequence_number": 29,
+            "station_code": "DLR",
+            "station_name": "DULLAHAPUR"
+        },
+        {
+            "arrival_time": "10:32",
+            "day_of_journey": 2,
+            "departure_time": "10:34",
+            "distance_km": 447.0,
+            "sequence_number": 30,
+            "station_code": "JKN",
+            "station_name": "JAKHANIAN"
+        },
+        {
+            "arrival_time": "10:46",
+            "day_of_journey": 2,
+            "departure_time": "10:48",
+            "distance_km": 457.0,
+            "sequence_number": 31,
+            "station_code": "SDT",
+            "station_name": "SADAT"
+        },
+        {
+            "arrival_time": "11:08",
+            "day_of_journey": 2,
+            "departure_time": "11:10",
+            "distance_km": 475.0,
+            "sequence_number": 32,
+            "station_code": "ARJ",
+            "station_name": "AUNRIHAR JN."
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 2,
+            "departure_time": "11:47",
+            "distance_km": 500.0,
+            "sequence_number": 33,
+            "station_code": "SRNT",
+            "station_name": "SARNATH"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 506.0,
+            "sequence_number": 34,
+            "station_code": "BCY",
+            "station_name": "VARANASI CITY"
+        }
+    ],
+    "train_name": "LJN BCY EXPRESS",
+    "train_number": "15008",
+    "type": "MAIL EXPRESS"
+}

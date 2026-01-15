@@ -1,0 +1,212 @@
+{
+    "classes_available": [
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_53172.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "53172-LGL-SDAH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LGL",
+            "station_name": "LALGOLA"
+        },
+        {
+            "arrival_time": "22:19",
+            "day_of_journey": 1,
+            "departure_time": "22:23",
+            "distance_km": 2.0,
+            "sequence_number": 2,
+            "station_code": "KRP",
+            "station_name": "KRISHNAPUR"
+        },
+        {
+            "arrival_time": "22:29",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 8.0,
+            "sequence_number": 3,
+            "station_code": "PRTL",
+            "station_name": "PIRTALA"
+        },
+        {
+            "arrival_time": "22:36",
+            "day_of_journey": 1,
+            "departure_time": "22:37",
+            "distance_km": 12.0,
+            "sequence_number": 4,
+            "station_code": "BQG",
+            "station_name": "BHAGWANGOLA"
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 1,
+            "departure_time": "22:44",
+            "distance_km": 19.0,
+            "sequence_number": 5,
+            "station_code": "SBNM",
+            "station_name": "SUBARNAMRIGI"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "22:51",
+            "distance_km": 24.0,
+            "sequence_number": 6,
+            "station_code": "JJG",
+            "station_name": "JIAGANJ"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "01:51",
+            "distance_km": 147.0,
+            "sequence_number": 24,
+            "station_code": "BIJ",
+            "station_name": "BIRNAGAR"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:18",
+            "distance_km": 155.0,
+            "sequence_number": 25,
+            "station_code": "RHA",
+            "station_name": "RANAGHAT JN"
+        },
+        {
+            "arrival_time": "02:24",
+            "day_of_journey": 2,
+            "departure_time": "02:25",
+            "distance_km": 160.0,
+            "sequence_number": 26,
+            "station_code": "PDX",
+            "station_name": "PAYRADANGA"
+        },
+        {
+            "arrival_time": "02:31",
+            "day_of_journey": 2,
+            "departure_time": "02:32",
+            "distance_km": 166.0,
+            "sequence_number": 27,
+            "station_code": "CDH",
+            "station_name": "CHAKDAHA"
+        },
+        {
+            "arrival_time": "02:37",
+            "day_of_journey": 2,
+            "departure_time": "02:38",
+            "distance_km": 171.0,
+            "sequence_number": 28,
+            "station_code": "SMX",
+            "station_name": "SIMURALI"
+        },
+        {
+            "arrival_time": "02:43",
+            "day_of_journey": 2,
+            "departure_time": "02:44",
+            "distance_km": 175.0,
+            "sequence_number": 29,
+            "station_code": "MPJ",
+            "station_name": "MADANPUR"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:51",
+            "distance_km": 180.0,
+            "sequence_number": 30,
+            "station_code": "KYI",
+            "station_name": "KALYANI"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "02:59",
+            "distance_km": 183.0,
+            "sequence_number": 31,
+            "station_code": "KPA",
+            "station_name": "KANCHRAPARA"
+        },
+        {
+            "arrival_time": "03:04",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 186.0,
+            "sequence_number": 32,
+            "station_code": "HLR",
+            "station_name": "HALISAHAR"
+        },
+        {
+            "arrival_time": "03:14",
+            "day_of_journey": 2,
+            "departure_time": "03:19",
+            "distance_km": 190.0,
+            "sequence_number": 33,
+            "station_code": "NH",
+            "station_name": "NAIHATI JN"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:41",
+            "distance_km": 206.0,
+            "sequence_number": 34,
+            "station_code": "BP",
+            "station_name": "BARRACKPORE"
+        },
+        {
+            "arrival_time": "03:49",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 212.0,
+            "sequence_number": 35,
+            "station_code": "SEP",
+            "station_name": "SODPUR"
+        },
+        {
+            "arrival_time": "03:56",
+            "day_of_journey": 2,
+            "departure_time": "03:57",
+            "distance_km": 217.0,
+            "sequence_number": 36,
+            "station_code": "BLH",
+            "station_name": "BELGHARIA"
+        },
+        {
+            "arrival_time": "04:07",
+            "day_of_journey": 2,
+            "departure_time": "04:09",
+            "distance_km": 221.0,
+            "sequence_number": 37,
+            "station_code": "DDJ",
+            "station_name": "DUM DUM"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 231.0,
+            "sequence_number": 38,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        }
+    ],
+    "train_name": "LGL SDAH PASS",
+    "train_number": "53172",
+    "type": "PASSENGER"
+}

@@ -1,0 +1,85 @@
+{
+    "classes_available": [
+        "EC",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12011.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12011-NDLS-KLK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 44.0,
+            "sequence_number": 2,
+            "station_code": "SNP",
+            "station_name": "SONIPAT"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 89.0,
+            "sequence_number": 3,
+            "station_code": "PNP",
+            "station_name": "PANIPAT JN"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 1,
+            "departure_time": "09:32",
+            "distance_km": 157.0,
+            "sequence_number": 4,
+            "station_code": "KKDE",
+            "station_name": "KURUKSHETRA JN"
+        },
+        {
+            "arrival_time": "10:22",
+            "day_of_journey": 1,
+            "departure_time": "10:24",
+            "distance_km": 198.0,
+            "sequence_number": 5,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "10:59",
+            "day_of_journey": 1,
+            "departure_time": "11:07",
+            "distance_km": 243.0,
+            "sequence_number": 6,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "11:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 268.0,
+            "sequence_number": 7,
+            "station_code": "KLK",
+            "station_name": "KALKA"
+        }
+    ],
+    "train_name": "KLK SHATABADI",
+    "train_number": "12011",
+    "type": "SHATABDI"
+}

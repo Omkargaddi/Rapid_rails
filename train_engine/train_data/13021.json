@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13021.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13021-HWH-RXL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 1,
+            "departure_time": "16:14",
+            "distance_km": 20.0,
+            "sequence_number": 2,
+            "station_code": "SRP",
+            "station_name": "SERAMPORE"
+        },
+        {
+            "arrival_time": "16:19",
+            "day_of_journey": 1,
+            "departure_time": "16:24",
+            "distance_km": 22.0,
+            "sequence_number": 3,
+            "station_code": "SHE",
+            "station_name": "SEORAPHULI"
+        },
+        {
+            "arrival_time": "16:34",
+            "day_of_journey": 1,
+            "departure_time": "16:36",
+            "distance_km": 32.0,
+            "sequence_number": 4,
+            "station_code": "CGR",
+            "station_name": "CHANDAN NAGAR"
+        },
+        {
+            "arrival_time": "16:53",
+            "day_of_journey": 1,
+            "departure_time": "16:58",
+            "distance_km": 39.0,
+            "sequence_number": 5,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "18:08",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 107.0,
+            "sequence_number": 6,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 2,
+            "departure_time": "06:12",
+            "distance_km": 617.0,
+            "sequence_number": 41,
+            "station_code": "PPA",
+            "station_name": "PIPRA"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 2,
+            "departure_time": "06:33",
+            "distance_km": 638.0,
+            "sequence_number": 42,
+            "station_code": "BMKI",
+            "station_name": "BAPUDM MOTIHARI"
+        },
+        {
+            "arrival_time": "07:12",
+            "day_of_journey": 2,
+            "departure_time": "07:35",
+            "distance_km": 660.0,
+            "sequence_number": 43,
+            "station_code": "SGL",
+            "station_name": "SAGAULI JN"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 2,
+            "departure_time": "08:00",
+            "distance_km": 674.0,
+            "sequence_number": 44,
+            "station_code": "RGH",
+            "station_name": "RAMGARHWA"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 689.0,
+            "sequence_number": 45,
+            "station_code": "RXL",
+            "station_name": "RAXAUL JN"
+        }
+    ],
+    "train_name": "MITHILA EXPRESS",
+    "train_number": "13021",
+    "type": "MAIL EXPRESS"
+}

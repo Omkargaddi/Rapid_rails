@@ -1,0 +1,179 @@
+{
+    "classes_available": [
+        "3E",
+        "CC",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12482.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12482-SGNR-DLI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SGNR",
+            "station_name": "SHRI GANGANAGAR"
+        },
+        {
+            "arrival_time": "06:49",
+            "day_of_journey": 1,
+            "departure_time": "06:51",
+            "distance_km": 53.0,
+            "sequence_number": 2,
+            "station_code": "ABS",
+            "station_name": "ABOHAR"
+        },
+        {
+            "arrival_time": "07:12",
+            "day_of_journey": 1,
+            "departure_time": "07:14",
+            "distance_km": 83.0,
+            "sequence_number": 3,
+            "station_code": "MOT",
+            "station_name": "MALOUT"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 99.0,
+            "sequence_number": 4,
+            "station_code": "GDB",
+            "station_name": "GIDDARBAHA"
+        },
+        {
+            "arrival_time": "08:15",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 127.0,
+            "sequence_number": 5,
+            "station_code": "BTI",
+            "station_name": "BATHINDA"
+        },
+        {
+            "arrival_time": "09:04",
+            "day_of_journey": 1,
+            "departure_time": "09:06",
+            "distance_km": 160.0,
+            "sequence_number": 6,
+            "station_code": "MAUR",
+            "station_name": "MAUR"
+        },
+        {
+            "arrival_time": "09:20",
+            "day_of_journey": 1,
+            "departure_time": "09:22",
+            "distance_km": 179.0,
+            "sequence_number": 7,
+            "station_code": "MSZ",
+            "station_name": "MANSA"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 1,
+            "departure_time": "09:37",
+            "distance_km": 195.0,
+            "sequence_number": 8,
+            "station_code": "BLZ",
+            "station_name": "BUDHLADA"
+        },
+        {
+            "arrival_time": "10:02",
+            "day_of_journey": 1,
+            "departure_time": "10:04",
+            "distance_km": 225.0,
+            "sequence_number": 9,
+            "station_code": "JHL",
+            "station_name": "JAKHAL JN"
+        },
+        {
+            "arrival_time": "10:11",
+            "day_of_journey": 1,
+            "departure_time": "10:13",
+            "distance_km": 237.0,
+            "sequence_number": 10,
+            "station_code": "TUN",
+            "station_name": "TOHANA"
+        },
+        {
+            "arrival_time": "10:31",
+            "day_of_journey": 1,
+            "departure_time": "10:33",
+            "distance_km": 263.0,
+            "sequence_number": 11,
+            "station_code": "NRW",
+            "station_name": "NARWANA JN"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:02",
+            "distance_km": 297.0,
+            "sequence_number": 12,
+            "station_code": "JIND",
+            "station_name": "JIND JN"
+        },
+        {
+            "arrival_time": "11:43",
+            "day_of_journey": 1,
+            "departure_time": "11:45",
+            "distance_km": 354.0,
+            "sequence_number": 13,
+            "station_code": "ROK",
+            "station_name": "ROHTAK JN"
+        },
+        {
+            "arrival_time": "12:02",
+            "day_of_journey": 1,
+            "departure_time": "12:04",
+            "distance_km": 376.0,
+            "sequence_number": 14,
+            "station_code": "SPZ",
+            "station_name": "SAMPLA"
+        },
+        {
+            "arrival_time": "12:18",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 394.0,
+            "sequence_number": 15,
+            "station_code": "BGZ",
+            "station_name": "BAHADURGARH"
+        },
+        {
+            "arrival_time": "12:52",
+            "day_of_journey": 1,
+            "departure_time": "12:54",
+            "distance_km": 413.0,
+            "sequence_number": 16,
+            "station_code": "SSB",
+            "station_name": "SHAKURBASTI"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 424.0,
+            "sequence_number": 17,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        }
+    ],
+    "train_name": "INTERCITY EXP",
+    "train_number": "12482",
+    "type": "SUPERFAST"
+}

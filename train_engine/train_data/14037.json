@@ -1,0 +1,170 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14037.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "14037-SCL-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SCL",
+            "station_name": "SILCHAR"
+        },
+        {
+            "arrival_time": "20:35",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 30.0,
+            "sequence_number": 2,
+            "station_code": "BPB",
+            "station_name": "BADARPUR JN."
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 1,
+            "departure_time": "22:48",
+            "distance_km": 101.0,
+            "sequence_number": 3,
+            "station_code": "NHLG",
+            "station_name": "NEW HAFLONG"
+        },
+        {
+            "arrival_time": "01:45",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 199.0,
+            "sequence_number": 4,
+            "station_code": "Point(2)",
+            "station_name": "LUMDING JN LMG Train Reversal"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": "06:05",
+            "distance_km": 380.0,
+            "sequence_number": 5,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 2,
+            "departure_time": "08:02",
+            "distance_km": 511.0,
+            "sequence_number": 6,
+            "station_code": "GLPT",
+            "station_name": "GOALPARA TOWN"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 2,
+            "departure_time": "09:20",
+            "distance_km": 563.0,
+            "sequence_number": 7,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 2,
+            "departure_time": "13:45",
+            "distance_km": 817.0,
+            "sequence_number": 8,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 2,
+            "departure_time": "14:50",
+            "distance_km": 904.0,
+            "sequence_number": 9,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "17:10",
+            "day_of_journey": 2,
+            "departure_time": "17:20",
+            "distance_km": 1002.0,
+            "sequence_number": 10,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "20:05",
+            "day_of_journey": 2,
+            "departure_time": "20:15",
+            "distance_km": 1182.0,
+            "sequence_number": 11,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "22:25",
+            "day_of_journey": 2,
+            "departure_time": "22:35",
+            "distance_km": 1290.0,
+            "sequence_number": 12,
+            "station_code": "PPTA",
+            "station_name": "PATLIPUTRA"
+        },
+        {
+            "arrival_time": "01:48",
+            "day_of_journey": 3,
+            "departure_time": "01:55",
+            "distance_km": 1494.0,
+            "sequence_number": 13,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 3,
+            "departure_time": "04:05",
+            "distance_km": 1647.0,
+            "sequence_number": 14,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 3,
+            "departure_time": "06:30",
+            "distance_km": 1841.0,
+            "sequence_number": 15,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "12:45",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2282.0,
+            "sequence_number": 16,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "PORVOTR S KRNTI",
+    "train_number": "14037",
+    "type": "MAIL EXPRESS"
+}

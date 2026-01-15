@@ -1,0 +1,179 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19252.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19252-OKHA-VRL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "OKHA",
+            "station_name": "OKHA"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": "20:26",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "MTHP",
+            "station_name": "MITHAPUR"
+        },
+        {
+            "arrival_time": "20:41",
+            "day_of_journey": 1,
+            "departure_time": "20:46",
+            "distance_km": 29.0,
+            "sequence_number": 3,
+            "station_code": "DWK",
+            "station_name": "DWARKA"
+        },
+        {
+            "arrival_time": "21:17",
+            "day_of_journey": 1,
+            "departure_time": "21:18",
+            "distance_km": 71.0,
+            "sequence_number": 4,
+            "station_code": "BHTA",
+            "station_name": "BHATIYA"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:52",
+            "distance_km": 113.0,
+            "sequence_number": 5,
+            "station_code": "KMBL",
+            "station_name": "KHAMBHALIYA"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 167.0,
+            "sequence_number": 6,
+            "station_code": "JAM",
+            "station_name": "JAMNAGAR"
+        },
+        {
+            "arrival_time": "22:58",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 176.0,
+            "sequence_number": 7,
+            "station_code": "HAPA",
+            "station_name": "HAPA"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 249.0,
+            "sequence_number": 8,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "01:25",
+            "day_of_journey": 2,
+            "departure_time": "01:26",
+            "distance_km": 255.0,
+            "sequence_number": 9,
+            "station_code": "BKNG",
+            "station_name": "BHAKTI NAGAR"
+        },
+        {
+            "arrival_time": "02:09",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 290.0,
+            "sequence_number": 10,
+            "station_code": "GDL",
+            "station_name": "GONDAL"
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 2,
+            "departure_time": "02:26",
+            "distance_km": 307.0,
+            "sequence_number": 11,
+            "station_code": "VRR",
+            "station_name": "VIRPUR"
+        },
+        {
+            "arrival_time": "02:38",
+            "day_of_journey": 2,
+            "departure_time": "02:39",
+            "distance_km": 320.0,
+            "sequence_number": 12,
+            "station_code": "NUD",
+            "station_name": "NAVAGADH"
+        },
+        {
+            "arrival_time": "02:46",
+            "day_of_journey": 2,
+            "departure_time": "02:48",
+            "distance_km": 326.0,
+            "sequence_number": 13,
+            "station_code": "JLR",
+            "station_name": "JETALSAR JN"
+        },
+        {
+            "arrival_time": "03:12",
+            "day_of_journey": 2,
+            "departure_time": "03:14",
+            "distance_km": 352.0,
+            "sequence_number": 14,
+            "station_code": "JND",
+            "station_name": "JUNAGADH JN"
+        },
+        {
+            "arrival_time": "03:42",
+            "day_of_journey": 2,
+            "departure_time": "03:43",
+            "distance_km": 388.0,
+            "sequence_number": 15,
+            "station_code": "KSD",
+            "station_name": "KESHOD"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:01",
+            "distance_km": 404.0,
+            "sequence_number": 16,
+            "station_code": "MLHA",
+            "station_name": "MALIYA HATINA"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 434.0,
+            "sequence_number": 17,
+            "station_code": "VRL",
+            "station_name": "VERAVAL"
+        }
+    ],
+    "train_name": "OKHA SMNH EXP",
+    "train_number": "19252",
+    "type": "MAIL EXPRESS"
+}

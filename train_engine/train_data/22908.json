@@ -1,0 +1,188 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22908.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "22908-HAPA-MAO",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HAPA",
+            "station_name": "HAPA"
+        },
+        {
+            "arrival_time": "22:55",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 73.0,
+            "sequence_number": 2,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "00:37",
+            "day_of_journey": 2,
+            "departure_time": "00:39",
+            "distance_km": 189.0,
+            "sequence_number": 3,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "01:48",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 254.0,
+            "sequence_number": 4,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 319.0,
+            "sequence_number": 5,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "04:01",
+            "day_of_journey": 2,
+            "departure_time": "04:03",
+            "distance_km": 365.0,
+            "sequence_number": 6,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "04:18",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 383.0,
+            "sequence_number": 7,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "04:56",
+            "day_of_journey": 2,
+            "departure_time": "05:01",
+            "distance_km": 417.0,
+            "sequence_number": 8,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 488.0,
+            "sequence_number": 9,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "06:57",
+            "day_of_journey": 2,
+            "departure_time": "07:02",
+            "distance_km": 547.0,
+            "sequence_number": 10,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "08:08",
+            "day_of_journey": 2,
+            "departure_time": "08:10",
+            "distance_km": 641.0,
+            "sequence_number": 11,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 2,
+            "departure_time": "10:00",
+            "distance_km": 762.0,
+            "sequence_number": 12,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "11:17",
+            "day_of_journey": 2,
+            "departure_time": "11:20",
+            "distance_km": 828.0,
+            "sequence_number": 13,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "14:02",
+            "day_of_journey": 2,
+            "departure_time": "14:04",
+            "distance_km": 1004.0,
+            "sequence_number": 14,
+            "station_code": "KHED",
+            "station_name": "KHED"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 2,
+            "departure_time": "16:05",
+            "distance_km": 1109.0,
+            "sequence_number": 15,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 2,
+            "departure_time": "18:42",
+            "distance_km": 1248.0,
+            "sequence_number": 16,
+            "station_code": "KUDL",
+            "station_name": "KUDAL"
+        },
+        {
+            "arrival_time": "19:28",
+            "day_of_journey": 2,
+            "departure_time": "19:30",
+            "distance_km": 1302.0,
+            "sequence_number": 17,
+            "station_code": "THVM",
+            "station_name": "THIVIM"
+        },
+        {
+            "arrival_time": "21:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1348.0,
+            "sequence_number": 18,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        }
+    ],
+    "train_name": "HAPA MAO SF EXP",
+    "train_number": "22908",
+    "type": "SUPERFAST"
+}

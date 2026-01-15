@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16345.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16345-LTT-TVC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "11:57",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "12:37",
+            "day_of_journey": 1,
+            "departure_time": "12:40",
+            "distance_km": 53.0,
+            "sequence_number": 3,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 131.0,
+            "sequence_number": 4,
+            "station_code": "ROHA",
+            "station_name": "ROHA"
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 1,
+            "departure_time": "15:27",
+            "distance_km": 229.0,
+            "sequence_number": 5,
+            "station_code": "KHED",
+            "station_name": "KHED"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 2,
+            "departure_time": "12:25",
+            "distance_km": 1305.0,
+            "sequence_number": 40,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "12:59",
+            "day_of_journey": 2,
+            "departure_time": "13:00",
+            "distance_km": 1338.0,
+            "sequence_number": 41,
+            "station_code": "SRTL",
+            "station_name": "CHERTHALA"
+        },
+        {
+            "arrival_time": "13:48",
+            "day_of_journey": 2,
+            "departure_time": "13:51",
+            "distance_km": 1362.0,
+            "sequence_number": 42,
+            "station_code": "ALLP",
+            "station_name": "ALAPPUZHA"
+        },
+        {
+            "arrival_time": "14:02",
+            "day_of_journey": 2,
+            "departure_time": "14:03",
+            "distance_km": 1374.0,
+            "sequence_number": 43,
+            "station_code": "AMPA",
+            "station_name": "AMBALAPPUZHA"
+        },
+        {
+            "arrival_time": "14:19",
+            "day_of_journey": 2,
+            "departure_time": "14:20",
+            "distance_km": 1392.0,
+            "sequence_number": 44,
+            "station_code": "HAD",
+            "station_name": "HARIPAD"
+        },
+        {
+            "arrival_time": "14:38",
+            "day_of_journey": 2,
+            "departure_time": "14:40",
+            "distance_km": 1405.0,
+            "sequence_number": 45,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 2,
+            "departure_time": "15:01",
+            "distance_km": 1419.0,
+            "sequence_number": 46,
+            "station_code": "KPY",
+            "station_name": "KARUNAGAPPALLI"
+        },
+        {
+            "arrival_time": "16:02",
+            "day_of_journey": 2,
+            "departure_time": "16:05",
+            "distance_km": 1446.0,
+            "sequence_number": 47,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "16:39",
+            "day_of_journey": 2,
+            "departure_time": "16:40",
+            "distance_km": 1469.0,
+            "sequence_number": 48,
+            "station_code": "VAK",
+            "station_name": "VARKALA"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1510.0,
+            "sequence_number": 49,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        }
+    ],
+    "train_name": "NETRAVATI EXP",
+    "train_number": "16345",
+    "type": "MAIL EXPRESS"
+}

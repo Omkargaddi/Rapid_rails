@@ -1,0 +1,98 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "LDS",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12131.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12131-DR-SNSI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 24.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "22:22",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 44.0,
+            "sequence_number": 3,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "00:00",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 128.0,
+            "sequence_number": 4,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "00:47",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 178.0,
+            "sequence_number": 5,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "01:40",
+            "day_of_journey": 2,
+            "departure_time": "01:43",
+            "distance_km": 251.0,
+            "sequence_number": 6,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "02:42",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 295.0,
+            "sequence_number": 7,
+            "station_code": "KPG",
+            "station_name": "KOPARGAON"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 336.0,
+            "sequence_number": 8,
+            "station_code": "SNSI",
+            "station_name": "SAINAGAR SHIRDI"
+        }
+    ],
+    "train_name": "DR SAINAGAR EXP",
+    "train_number": "12131",
+    "type": "SUPERFAST"
+}

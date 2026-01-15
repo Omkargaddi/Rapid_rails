@@ -1,0 +1,123 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12958.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12958-NDLS-SBIB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 15.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "DEC",
+            "station_name": "DELHI CANTT"
+        },
+        {
+            "arrival_time": "20:41",
+            "day_of_journey": 1,
+            "departure_time": "20:43",
+            "distance_km": 32.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "GGN",
+            "station_name": "GURGAON"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 308.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 442.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "03:48",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 648.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "FA",
+            "station_name": "FALNA"
+        },
+        {
+            "arrival_time": "04:53",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 747.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "ABR",
+            "station_name": "ABU ROAD"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 800.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "PNU",
+            "station_name": "PALANPUR JN"
+        },
+        {
+            "arrival_time": "06:48",
+            "day_of_journey": 2,
+            "departure_time": "06:50",
+            "distance_km": 865.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "MSH",
+            "station_name": "MAHESANA JN"
+        },
+        {
+            "arrival_time": "08:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 927.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "SBIB",
+            "station_name": "SABARMATI BG"
+        }
+    ],
+    "train_name": "SWRAN J RAJDHANI",
+    "train_number": "12958",
+    "type": "RAJDHANI "
+}

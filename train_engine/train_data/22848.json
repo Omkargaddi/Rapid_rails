@@ -1,0 +1,241 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22848.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22848-LTT-VSKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "00:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "00:57",
+            "day_of_journey": 1,
+            "departure_time": "01:00",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "03:32",
+            "day_of_journey": 1,
+            "departure_time": "03:35",
+            "distance_km": 171.0,
+            "sequence_number": 3,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "04:23",
+            "day_of_journey": 1,
+            "departure_time": "04:25",
+            "distance_km": 244.0,
+            "sequence_number": 4,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 1,
+            "departure_time": "06:55",
+            "distance_km": 428.0,
+            "sequence_number": 5,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 1,
+            "departure_time": "08:55",
+            "distance_km": 568.0,
+            "sequence_number": 6,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "10:17",
+            "day_of_journey": 1,
+            "departure_time": "10:20",
+            "distance_km": 647.0,
+            "sequence_number": 7,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "11:32",
+            "day_of_journey": 1,
+            "departure_time": "11:35",
+            "distance_km": 742.0,
+            "sequence_number": 8,
+            "station_code": "WR",
+            "station_name": "WARDHA JN"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 821.0,
+            "sequence_number": 9,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "15:13",
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 951.0,
+            "sequence_number": 10,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 1087.0,
+            "sequence_number": 11,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "18:05",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 1123.0,
+            "sequence_number": 12,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 1178.0,
+            "sequence_number": 13,
+            "station_code": "MSMD",
+            "station_name": "MAHASAMUND"
+        },
+        {
+            "arrival_time": "19:57",
+            "day_of_journey": 1,
+            "departure_time": "19:59",
+            "distance_km": 1209.0,
+            "sequence_number": 14,
+            "station_code": "BGBR",
+            "station_name": "BAGBAHRA"
+        },
+        {
+            "arrival_time": "20:16",
+            "day_of_journey": 1,
+            "departure_time": "20:18",
+            "distance_km": 1230.0,
+            "sequence_number": 15,
+            "station_code": "KRAR",
+            "station_name": "KHARIAR ROAD"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 1294.0,
+            "sequence_number": 16,
+            "station_code": "KBJ",
+            "station_name": "KANTABANJI"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 1327.0,
+            "sequence_number": 17,
+            "station_code": "TIG",
+            "station_name": "TITLAGARH"
+        },
+        {
+            "arrival_time": "22:23",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 1340.0,
+            "sequence_number": 18,
+            "station_code": "KSNG",
+            "station_name": "KESINGA"
+        },
+        {
+            "arrival_time": "23:23",
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 1413.0,
+            "sequence_number": 19,
+            "station_code": "MNGD",
+            "station_name": "MUNIGUDA"
+        },
+        {
+            "arrival_time": "01:25",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 1467.0,
+            "sequence_number": 20,
+            "station_code": "RGDA",
+            "station_name": "RAYAGADA"
+        },
+        {
+            "arrival_time": "02:08",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 1513.0,
+            "sequence_number": 21,
+            "station_code": "PVP",
+            "station_name": "PARVATIPURAM"
+        },
+        {
+            "arrival_time": "02:33",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 1538.0,
+            "sequence_number": 22,
+            "station_code": "VBL",
+            "station_name": "BOBBILI"
+        },
+        {
+            "arrival_time": "03:35",
+            "day_of_journey": 2,
+            "departure_time": "03:40",
+            "distance_km": 1591.0,
+            "sequence_number": 23,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1652.0,
+            "sequence_number": 24,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        }
+    ],
+    "train_name": "LTT VSKP EXPRESS",
+    "train_number": "22848",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,303 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16032.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "16032-SVDK-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "SVDK",
+            "station_name": "SHRI MATA VAISHNO DEVI KATRA"
+        },
+        {
+            "arrival_time": "23:11",
+            "day_of_journey": 1,
+            "departure_time": "23:13",
+            "distance_km": 25.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "MCTM",
+            "station_name": "MARTYR CAPTAIN TUSHAR MAHAJAN"
+        },
+        {
+            "arrival_time": "00:15",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 78.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "01:21",
+            "day_of_journey": 2,
+            "departure_time": "01:23",
+            "distance_km": 154.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "KTHU",
+            "station_name": "KATHUA"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 178.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "02:38",
+            "day_of_journey": 2,
+            "departure_time": "02:40",
+            "distance_km": 217.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "MEX",
+            "station_name": "MUKERIAN"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 290.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "04:28",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 307.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "PGW",
+            "station_name": "PHAGWARA JN"
+        },
+        {
+            "arrival_time": "04:49",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 329.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "PHR",
+            "station_name": "PHILLAUR JN"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 343.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "06:16",
+            "day_of_journey": 2,
+            "departure_time": "06:18",
+            "distance_km": 368.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "AHH",
+            "station_name": "AHMADGARH"
+        },
+        {
+            "arrival_time": "06:36",
+            "day_of_journey": 2,
+            "departure_time": "06:38",
+            "distance_km": 388.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "MET",
+            "station_name": "MALERKOTLA"
+        },
+        {
+            "arrival_time": "18:34",
+            "day_of_journey": 3,
+            "departure_time": "18:35",
+            "distance_km": 2366.0,
+            "platform": null,
+            "sequence_number": 59,
+            "station_code": "MDR",
+            "station_name": "MADHIRA"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 3,
+            "departure_time": "20:50",
+            "distance_km": 2422.0,
+            "platform": null,
+            "sequence_number": 60,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "21:44",
+            "day_of_journey": 3,
+            "departure_time": "21:45",
+            "distance_km": 2453.0,
+            "platform": null,
+            "sequence_number": 61,
+            "station_code": "NGNT",
+            "station_name": "NEW GUNTUR"
+        },
+        {
+            "arrival_time": "23:13",
+            "day_of_journey": 3,
+            "departure_time": "23:15",
+            "distance_km": 2478.0,
+            "platform": null,
+            "sequence_number": 62,
+            "station_code": "TEL",
+            "station_name": "TENALI JN"
+        },
+        {
+            "arrival_time": "23:44",
+            "day_of_journey": 3,
+            "departure_time": "23:45",
+            "distance_km": 2499.0,
+            "platform": null,
+            "sequence_number": 63,
+            "station_code": "NDO",
+            "station_name": "NIDUBROLU"
+        },
+        {
+            "arrival_time": "00:03",
+            "day_of_journey": 4,
+            "departure_time": "00:05",
+            "distance_km": 2520.0,
+            "platform": null,
+            "sequence_number": 64,
+            "station_code": "BPP",
+            "station_name": "BAPATLA"
+        },
+        {
+            "arrival_time": "00:23",
+            "day_of_journey": 4,
+            "departure_time": "00:25",
+            "distance_km": 2535.0,
+            "platform": null,
+            "sequence_number": 65,
+            "station_code": "CLX",
+            "station_name": "CHIRALA"
+        },
+        {
+            "arrival_time": "01:29",
+            "day_of_journey": 4,
+            "departure_time": "01:30",
+            "distance_km": 2584.0,
+            "platform": null,
+            "sequence_number": 66,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "01:54",
+            "day_of_journey": 4,
+            "departure_time": "01:55",
+            "distance_km": 2612.0,
+            "platform": null,
+            "sequence_number": 67,
+            "station_code": "SKM",
+            "station_name": "SINGARAYAKONDA"
+        },
+        {
+            "arrival_time": "02:29",
+            "day_of_journey": 4,
+            "departure_time": "02:30",
+            "distance_km": 2650.0,
+            "platform": null,
+            "sequence_number": 68,
+            "station_code": "KVZ",
+            "station_name": "KAVALI"
+        },
+        {
+            "arrival_time": "02:43",
+            "day_of_journey": 4,
+            "departure_time": "02:45",
+            "distance_km": 2667.0,
+            "platform": null,
+            "sequence_number": 69,
+            "station_code": "BTTR",
+            "station_name": "BITRAGUNTA"
+        },
+        {
+            "arrival_time": "03:14",
+            "day_of_journey": 4,
+            "departure_time": "03:15",
+            "distance_km": 2700.0,
+            "platform": null,
+            "sequence_number": 70,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "04:03",
+            "day_of_journey": 4,
+            "departure_time": "04:05",
+            "distance_km": 2739.0,
+            "platform": null,
+            "sequence_number": 71,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "04:28",
+            "day_of_journey": 4,
+            "departure_time": "04:30",
+            "distance_km": 2766.0,
+            "platform": null,
+            "sequence_number": 72,
+            "station_code": "NYP",
+            "station_name": "NAYUDUPETA"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 4,
+            "departure_time": "04:50",
+            "distance_km": 2794.0,
+            "platform": null,
+            "sequence_number": 73,
+            "station_code": "SPE",
+            "station_name": "SULLURUPETA"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 4,
+            "departure_time": null,
+            "distance_km": 2876.0,
+            "platform": null,
+            "sequence_number": 74,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "ANDAMAN EXPRESS",
+    "train_number": "16032",
+    "type": "MAIL EXPRESS "
+}

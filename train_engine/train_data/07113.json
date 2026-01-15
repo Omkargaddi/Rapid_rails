@@ -1,0 +1,213 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_07113.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "07113-CHZ-QLN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        },
+        {
+            "arrival_time": "11:55",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 12.0,
+            "sequence_number": 2,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "12:18",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 16.0,
+            "sequence_number": 3,
+            "station_code": "BMT",
+            "station_name": "BEGAMPET"
+        },
+        {
+            "arrival_time": "12:28",
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 35.0,
+            "sequence_number": 4,
+            "station_code": "LPI",
+            "station_name": "LINGAMPALLI"
+        },
+        {
+            "arrival_time": "13:18",
+            "day_of_journey": 1,
+            "departure_time": "13:20",
+            "distance_km": 56.0,
+            "sequence_number": 5,
+            "station_code": "SKP",
+            "station_name": "SHANKARPALLI"
+        },
+        {
+            "arrival_time": "13:58",
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 84.0,
+            "sequence_number": 6,
+            "station_code": "VKB",
+            "station_name": "VIKARABAD JN"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 847.0,
+            "sequence_number": 24,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "07:05",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 931.0,
+            "sequence_number": 25,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 2,
+            "departure_time": "08:33",
+            "distance_km": 1056.0,
+            "sequence_number": 26,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 2,
+            "departure_time": "09:45",
+            "distance_km": 1115.0,
+            "sequence_number": 27,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "10:28",
+            "day_of_journey": 2,
+            "departure_time": "10:30",
+            "distance_km": 1165.0,
+            "sequence_number": 28,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "12:00",
+            "day_of_journey": 2,
+            "departure_time": "12:02",
+            "distance_km": 1208.0,
+            "sequence_number": 29,
+            "station_code": "PTJ",
+            "station_name": "PODANUR JN"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 2,
+            "departure_time": "13:05",
+            "distance_km": 1257.0,
+            "sequence_number": 30,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        },
+        {
+            "arrival_time": "15:57",
+            "day_of_journey": 2,
+            "departure_time": "16:00",
+            "distance_km": 1333.0,
+            "sequence_number": 31,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "16:58",
+            "day_of_journey": 2,
+            "departure_time": "17:00",
+            "distance_km": 1388.0,
+            "sequence_number": 32,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "17:30",
+            "day_of_journey": 2,
+            "departure_time": "17:35",
+            "distance_km": 1405.0,
+            "sequence_number": 33,
+            "station_code": "ERN",
+            "station_name": "ERNAKULAM TOWN"
+        },
+        {
+            "arrival_time": "18:37",
+            "day_of_journey": 2,
+            "departure_time": "18:40",
+            "distance_km": 1464.0,
+            "sequence_number": 34,
+            "station_code": "KTYM",
+            "station_name": "KOTTAYAM"
+        },
+        {
+            "arrival_time": "19:06",
+            "day_of_journey": 2,
+            "departure_time": "19:08",
+            "distance_km": 1489.0,
+            "sequence_number": 35,
+            "station_code": "TRVL",
+            "station_name": "TIRUVALLA"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 2,
+            "departure_time": "19:25",
+            "distance_km": 1498.0,
+            "sequence_number": 36,
+            "station_code": "CNGR",
+            "station_name": "CHENGANNUR"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 2,
+            "departure_time": "19:42",
+            "distance_km": 1519.0,
+            "sequence_number": 37,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1559.0,
+            "sequence_number": 38,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        }
+    ],
+    "train_name": "CHZ QLN SPL",
+    "train_number": "07113",
+    "type": "TRAIN ON DEMAND"
+}

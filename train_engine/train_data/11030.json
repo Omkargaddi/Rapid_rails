@@ -1,0 +1,135 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "CC",
+        "SL",
+        "2S",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11030.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11030-KOP-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOP",
+            "station_name": "KOLHAPUR"
+        },
+        {
+            "arrival_time": "08:34",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "VV",
+            "station_name": "VALIVADE"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 1,
+            "departure_time": "08:47",
+            "distance_km": 21.0,
+            "sequence_number": 3,
+            "station_code": "HTK",
+            "station_name": "HATKANANGALE"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 1,
+            "departure_time": "08:54",
+            "distance_km": 26.0,
+            "sequence_number": 4,
+            "station_code": "NMGT",
+            "station_name": "NMG TAMDALGE"
+        },
+        {
+            "arrival_time": "09:04",
+            "day_of_journey": 1,
+            "departure_time": "09:05",
+            "distance_km": 35.0,
+            "sequence_number": 5,
+            "station_code": "JSP",
+            "station_name": "JAYASINGPUR"
+        },
+        {
+            "arrival_time": "09:22",
+            "day_of_journey": 1,
+            "departure_time": "09:25",
+            "distance_km": 47.0,
+            "sequence_number": 6,
+            "station_code": "MRJ",
+            "station_name": "MIRAJ JN."
+        },
+        {
+            "arrival_time": "16:43",
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 360.0,
+            "sequence_number": 24,
+            "station_code": "TGN",
+            "station_name": "TALEGAON"
+        },
+        {
+            "arrival_time": "17:13",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 390.0,
+            "sequence_number": 25,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "18:47",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 465.0,
+            "sequence_number": 26,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "19:07",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 485.0,
+            "sequence_number": 27,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "19:37",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 509.0,
+            "sequence_number": 28,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "20:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 518.0,
+            "sequence_number": 29,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "KOYNA EXPRESS",
+    "train_number": "11030",
+    "type": "MAIL EXPRESS"
+}

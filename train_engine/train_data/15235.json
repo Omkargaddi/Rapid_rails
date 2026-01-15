@@ -1,0 +1,127 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15235.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15235-HWH-DBG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "12:08",
+            "day_of_journey": 1,
+            "departure_time": "12:10",
+            "distance_km": 95.0,
+            "sequence_number": 2,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "13:04",
+            "day_of_journey": 1,
+            "departure_time": "13:06",
+            "distance_km": 157.0,
+            "sequence_number": 3,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "13:54",
+            "day_of_journey": 1,
+            "departure_time": "13:59",
+            "distance_km": 199.0,
+            "sequence_number": 4,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "14:23",
+            "day_of_journey": 1,
+            "departure_time": "14:25",
+            "distance_km": 224.0,
+            "sequence_number": 5,
+            "station_code": "CRJ",
+            "station_name": "CHITTARANJAN"
+        },
+        {
+            "arrival_time": "15:01",
+            "day_of_journey": 1,
+            "departure_time": "15:06",
+            "distance_km": 281.0,
+            "sequence_number": 6,
+            "station_code": "MDP",
+            "station_name": "MADHUPUR JN."
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 310.0,
+            "sequence_number": 7,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 354.0,
+            "sequence_number": 8,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 445.0,
+            "sequence_number": 9,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 496.0,
+            "sequence_number": 10,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 533.0,
+            "sequence_number": 11,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        }
+    ],
+    "train_name": "HWH DBG EXPRESS",
+    "train_number": "15235",
+    "type": "MAIL EXPRESS"
+}

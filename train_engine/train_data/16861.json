@@ -1,0 +1,223 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16861.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16861-PDY-CAPE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PDY",
+            "station_name": "PONDICHERRY"
+        },
+        {
+            "arrival_time": "13:55",
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 38.0,
+            "sequence_number": 2,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "14:44",
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 80.0,
+            "sequence_number": 3,
+            "station_code": "TDPR",
+            "station_name": "TIRUPPADIRIPULIYUR"
+        },
+        {
+            "arrival_time": "14:53",
+            "day_of_journey": 1,
+            "departure_time": "14:54",
+            "distance_km": 84.0,
+            "sequence_number": 4,
+            "station_code": "CUPJ",
+            "station_name": "CUDDALORE PORT JN."
+        },
+        {
+            "arrival_time": "15:26",
+            "day_of_journey": 1,
+            "departure_time": "15:28",
+            "distance_km": 123.0,
+            "sequence_number": 5,
+            "station_code": "CDM",
+            "station_name": "CHIDAMBARAM"
+        },
+        {
+            "arrival_time": "15:43",
+            "day_of_journey": 1,
+            "departure_time": "15:44",
+            "distance_km": 139.0,
+            "sequence_number": 6,
+            "station_code": "SY",
+            "station_name": "SIRKAZHI"
+        },
+        {
+            "arrival_time": "16:23",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 159.0,
+            "sequence_number": 7,
+            "station_code": "MV",
+            "station_name": "MAYILADUTURAI JN"
+        },
+        {
+            "arrival_time": "16:52",
+            "day_of_journey": 1,
+            "departure_time": "16:54",
+            "distance_km": 191.0,
+            "sequence_number": 8,
+            "station_code": "KMU",
+            "station_name": "KUMBAKONAM"
+        },
+        {
+            "arrival_time": "17:42",
+            "day_of_journey": 1,
+            "departure_time": "17:44",
+            "distance_km": 230.0,
+            "sequence_number": 9,
+            "station_code": "TJ",
+            "station_name": "THANJAVUR JN."
+        },
+        {
+            "arrival_time": "19:00",
+            "day_of_journey": 1,
+            "departure_time": "19:05",
+            "distance_km": 280.0,
+            "sequence_number": 10,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "19:43",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 332.0,
+            "sequence_number": 11,
+            "station_code": "PDKT",
+            "station_name": "PUDUKKOTTAI"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 369.0,
+            "sequence_number": 12,
+            "station_code": "KKDI",
+            "station_name": "KARAIKKUDI JN"
+        },
+        {
+            "arrival_time": "21:28",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 410.0,
+            "sequence_number": 13,
+            "station_code": "SVGA",
+            "station_name": "SIVAGANGA"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 430.0,
+            "sequence_number": 14,
+            "station_code": "MNM",
+            "station_name": "MANAMADURAI JN"
+        },
+        {
+            "arrival_time": "22:38",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 475.0,
+            "sequence_number": 15,
+            "station_code": "APK",
+            "station_name": "ARUPPUKKOTTAI"
+        },
+        {
+            "arrival_time": "23:13",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 497.0,
+            "sequence_number": 16,
+            "station_code": "VPT",
+            "station_name": "VIRUDUNAGAR JN"
+        },
+        {
+            "arrival_time": "23:33",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 523.0,
+            "sequence_number": 17,
+            "station_code": "SRT",
+            "station_name": "SATUR"
+        },
+        {
+            "arrival_time": "23:53",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 545.0,
+            "sequence_number": 18,
+            "station_code": "CVP",
+            "station_name": "KOVILPATTI"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 610.0,
+            "sequence_number": 19,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 2,
+            "departure_time": "01:44",
+            "distance_km": 652.0,
+            "sequence_number": 20,
+            "station_code": "VLY",
+            "station_name": "VALLIYUR"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 683.0,
+            "sequence_number": 21,
+            "station_code": "NCJ",
+            "station_name": "NAGERCOIL JUNCTION"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 699.0,
+            "sequence_number": 22,
+            "station_code": "CAPE",
+            "station_name": "KANNIYAKUMARI"
+        }
+    ],
+    "train_name": "PDY CAPE EXP",
+    "train_number": "16861",
+    "type": "MAIL EXPRESS"
+}

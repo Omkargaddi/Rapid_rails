@@ -1,0 +1,143 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12638.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12638-MDU-MS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 40.0,
+            "sequence_number": 2,
+            "station_code": "KQN",
+            "station_name": "KODAIKANAL ROAD"
+        },
+        {
+            "arrival_time": "22:09",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 55.0,
+            "sequence_number": 3,
+            "station_code": "ABI",
+            "station_name": "AMBATURAI"
+        },
+        {
+            "arrival_time": "22:25",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 66.0,
+            "sequence_number": 4,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "23:04",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 124.0,
+            "sequence_number": 5,
+            "station_code": "MPA",
+            "station_name": "MANAPARAI"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 160.0,
+            "sequence_number": 6,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "01:14",
+            "day_of_journey": 2,
+            "departure_time": "01:16",
+            "distance_km": 283.0,
+            "sequence_number": 7,
+            "station_code": "VRI",
+            "station_name": "VRIDDHACHALAM JN"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 338.0,
+            "sequence_number": 8,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "03:14",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 405.0,
+            "sequence_number": 9,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "03:43",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 441.0,
+            "sequence_number": 10,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "04:13",
+            "day_of_journey": 2,
+            "departure_time": "04:15",
+            "distance_km": 471.0,
+            "sequence_number": 11,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        },
+        {
+            "arrival_time": "04:33",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 489.0,
+            "sequence_number": 12,
+            "station_code": "MBM",
+            "station_name": "MAMBALAM"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 496.0,
+            "sequence_number": 13,
+            "station_code": "MS",
+            "station_name": "CHENNAI EGMORE"
+        }
+    ],
+    "train_name": "PANDIAN SF EXP",
+    "train_number": "12638",
+    "type": "SUPERFAST"
+}

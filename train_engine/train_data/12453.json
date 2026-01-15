@@ -1,0 +1,122 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12453.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12453-RNC-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:02",
+            "distance_km": 66.0,
+            "sequence_number": 2,
+            "station_code": "LAD",
+            "station_name": "LOHARDAGA BS"
+        },
+        {
+            "arrival_time": "20:22",
+            "day_of_journey": 1,
+            "departure_time": "20:24",
+            "distance_km": 210.0,
+            "sequence_number": 3,
+            "station_code": "DTO",
+            "station_name": "DALTONGANJ"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 244.0,
+            "sequence_number": 4,
+            "station_code": "GHD",
+            "station_name": "GARWA ROAD JN"
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 1,
+            "departure_time": "21:47",
+            "distance_km": 288.0,
+            "sequence_number": 5,
+            "station_code": "NUQ",
+            "station_name": "NAGAR UNTARI"
+        },
+        {
+            "arrival_time": "22:36",
+            "day_of_journey": 1,
+            "departure_time": "22:38",
+            "distance_km": 343.0,
+            "sequence_number": 6,
+            "station_code": "RNQ",
+            "station_name": "RENUKUT"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 2,
+            "departure_time": "00:06",
+            "distance_km": 385.0,
+            "sequence_number": 7,
+            "station_code": "CPU",
+            "station_name": "CHOPAN"
+        },
+        {
+            "arrival_time": "00:48",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 412.0,
+            "sequence_number": 8,
+            "station_code": "SBDR",
+            "station_name": "SONBHADRA"
+        },
+        {
+            "arrival_time": "03:33",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 608.0,
+            "sequence_number": 9,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 802.0,
+            "sequence_number": 10,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "11:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1243.0,
+            "sequence_number": 11,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "RNC NDLS RAJ EX",
+    "train_number": "12453",
+    "type": "RAJDHANI"
+}

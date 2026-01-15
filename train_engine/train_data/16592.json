@@ -1,0 +1,279 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16592.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16592-MYS-UBL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        },
+        {
+            "arrival_time": "19:09",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 20.0,
+            "sequence_number": 2,
+            "station_code": "PANP",
+            "station_name": "PANDAVAPURA"
+        },
+        {
+            "arrival_time": "19:31",
+            "day_of_journey": 1,
+            "departure_time": "19:32",
+            "distance_km": 45.0,
+            "sequence_number": 3,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "19:49",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 65.0,
+            "sequence_number": 4,
+            "station_code": "MAD",
+            "station_name": "MADDUR"
+        },
+        {
+            "arrival_time": "20:04",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 83.0,
+            "sequence_number": 5,
+            "station_code": "CPT",
+            "station_name": "CHANNAPATNA"
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 1,
+            "departure_time": "20:16",
+            "distance_km": 94.0,
+            "sequence_number": 6,
+            "station_code": "RMGM",
+            "station_name": "RAMANAGARAM"
+        },
+        {
+            "arrival_time": "20:26",
+            "day_of_journey": 1,
+            "departure_time": "20:27",
+            "distance_km": 109.0,
+            "sequence_number": 7,
+            "station_code": "BID",
+            "station_name": "BIDADI"
+        },
+        {
+            "arrival_time": "20:42",
+            "day_of_journey": 1,
+            "departure_time": "20:43",
+            "distance_km": 126.0,
+            "sequence_number": 8,
+            "station_code": "KGI",
+            "station_name": "KENGERI"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 138.0,
+            "sequence_number": 9,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 144.0,
+            "sequence_number": 10,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        },
+        {
+            "arrival_time": "22:25",
+            "day_of_journey": 1,
+            "departure_time": "22:27",
+            "distance_km": 154.0,
+            "sequence_number": 11,
+            "station_code": "YNK",
+            "station_name": "YELAHANKA JN."
+        },
+        {
+            "arrival_time": "22:46",
+            "day_of_journey": 1,
+            "departure_time": "22:47",
+            "distance_km": 175.0,
+            "sequence_number": 12,
+            "station_code": "DBU",
+            "station_name": "DODBALLAPUR"
+        },
+        {
+            "arrival_time": "23:18",
+            "day_of_journey": 1,
+            "departure_time": "23:19",
+            "distance_km": 214.0,
+            "sequence_number": 13,
+            "station_code": "GBD",
+            "station_name": "GAURIBIDANUR"
+        },
+        {
+            "arrival_time": "23:39",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 237.0,
+            "sequence_number": 14,
+            "station_code": "HUP",
+            "station_name": "HINDUPUR"
+        },
+        {
+            "arrival_time": "00:09",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 275.0,
+            "sequence_number": 15,
+            "station_code": "PKD",
+            "station_name": "PENUKONDA"
+        },
+        {
+            "arrival_time": "01:40",
+            "day_of_journey": 2,
+            "departure_time": "01:45",
+            "distance_km": 316.0,
+            "sequence_number": 16,
+            "station_code": "DMM",
+            "station_name": "DHARMAVARAM JN"
+        },
+        {
+            "arrival_time": "02:08",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 350.0,
+            "sequence_number": 17,
+            "station_code": "ATP",
+            "station_name": "ANANTAPUR"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 417.0,
+            "sequence_number": 18,
+            "station_code": "GTL",
+            "station_name": "GUNTAKAL JN"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 465.0,
+            "sequence_number": 19,
+            "station_code": "BAY",
+            "station_name": "BALLARI JN."
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 497.0,
+            "sequence_number": 20,
+            "station_code": "TNGL",
+            "station_name": "TORANAGALLU"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 530.0,
+            "sequence_number": 21,
+            "station_code": "HPT",
+            "station_name": "HOSAPETE JUNCTION"
+        },
+        {
+            "arrival_time": "07:14",
+            "day_of_journey": 2,
+            "departure_time": "07:15",
+            "distance_km": 536.0,
+            "sequence_number": 22,
+            "station_code": "MRB",
+            "station_name": "MUNIRABAD"
+        },
+        {
+            "arrival_time": "07:24",
+            "day_of_journey": 2,
+            "departure_time": "07:25",
+            "distance_km": 547.0,
+            "sequence_number": 23,
+            "station_code": "GIN",
+            "station_name": "GINIGERA"
+        },
+        {
+            "arrival_time": "07:43",
+            "day_of_journey": 2,
+            "departure_time": "07:45",
+            "distance_km": 558.0,
+            "sequence_number": 24,
+            "station_code": "KBL",
+            "station_name": "KOPPAL"
+        },
+        {
+            "arrival_time": "07:59",
+            "day_of_journey": 2,
+            "departure_time": "08:00",
+            "distance_km": 570.0,
+            "sequence_number": 25,
+            "station_code": "BNP",
+            "station_name": "BHANAPUR"
+        },
+        {
+            "arrival_time": "08:43",
+            "day_of_journey": 2,
+            "departure_time": "08:45",
+            "distance_km": 615.0,
+            "sequence_number": 26,
+            "station_code": "GDG",
+            "station_name": "GADAG JN"
+        },
+        {
+            "arrival_time": "09:09",
+            "day_of_journey": 2,
+            "departure_time": "09:10",
+            "distance_km": 638.0,
+            "sequence_number": 27,
+            "station_code": "NGR",
+            "station_name": "ANNIGERI"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 673.0,
+            "sequence_number": 28,
+            "station_code": "UBL",
+            "station_name": "SSS HUBBALLI JN"
+        }
+    ],
+    "train_name": "HAMPI EXPRESS",
+    "train_number": "16592",
+    "type": "MAIL EXPRESS"
+}

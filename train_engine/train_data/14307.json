@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14307.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14307-PYGS-BE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "01:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PYGS",
+            "station_name": "PRAYAGRAJ SANGAM"
+        },
+        {
+            "arrival_time": "01:34",
+            "day_of_journey": 1,
+            "departure_time": "01:36",
+            "distance_km": 2.0,
+            "sequence_number": 2,
+            "station_code": "PRG",
+            "station_name": "PRAYAG"
+        },
+        {
+            "arrival_time": "02:26",
+            "day_of_journey": 1,
+            "departure_time": "02:28",
+            "distance_km": 51.0,
+            "sequence_number": 3,
+            "station_code": "KHNM",
+            "station_name": "KUNDA HARNAMGNJ"
+        },
+        {
+            "arrival_time": "02:56",
+            "day_of_journey": 1,
+            "departure_time": "02:58",
+            "distance_km": 81.0,
+            "sequence_number": 4,
+            "station_code": "UCR",
+            "station_name": "UNCHAHAR JN"
+        },
+        {
+            "arrival_time": "03:52",
+            "day_of_journey": 1,
+            "departure_time": "03:57",
+            "distance_km": 119.0,
+            "sequence_number": 5,
+            "station_code": "RBL",
+            "station_name": "RAE BARELI JN"
+        },
+        {
+            "arrival_time": "04:27",
+            "day_of_journey": 1,
+            "departure_time": "04:29",
+            "distance_km": 149.0,
+            "sequence_number": 6,
+            "station_code": "BCN",
+            "station_name": "BACHHRAWAN"
+        },
+        {
+            "arrival_time": "06:15",
+            "day_of_journey": 1,
+            "departure_time": "06:25",
+            "distance_km": 197.0,
+            "sequence_number": 7,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "06:48",
+            "day_of_journey": 1,
+            "departure_time": "06:49",
+            "distance_km": 203.0,
+            "sequence_number": 8,
+            "station_code": "AMG",
+            "station_name": "ALAMNAGAR"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 1,
+            "departure_time": "07:22",
+            "distance_km": 245.0,
+            "sequence_number": 9,
+            "station_code": "SAN",
+            "station_name": "SANDILA"
+        },
+        {
+            "arrival_time": "08:09",
+            "day_of_journey": 1,
+            "departure_time": "08:11",
+            "distance_km": 299.0,
+            "sequence_number": 10,
+            "station_code": "HRI",
+            "station_name": "HARDOI"
+        },
+        {
+            "arrival_time": "08:37",
+            "day_of_journey": 1,
+            "departure_time": "08:39",
+            "distance_km": 331.0,
+            "sequence_number": 11,
+            "station_code": "AJI",
+            "station_name": "ANJHI SHAHABAD"
+        },
+        {
+            "arrival_time": "08:59",
+            "day_of_journey": 1,
+            "departure_time": "09:01",
+            "distance_km": 354.0,
+            "sequence_number": 12,
+            "station_code": "ROZA",
+            "station_name": "ROZA JN"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 1,
+            "departure_time": "09:12",
+            "distance_km": 361.0,
+            "sequence_number": 13,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "09:29",
+            "day_of_journey": 1,
+            "departure_time": "09:31",
+            "distance_km": 380.0,
+            "sequence_number": 14,
+            "station_code": "TLH",
+            "station_name": "TILHAR"
+        },
+        {
+            "arrival_time": "09:46",
+            "day_of_journey": 1,
+            "departure_time": "09:48",
+            "distance_km": 396.0,
+            "sequence_number": 15,
+            "station_code": "BLPU",
+            "station_name": "BILPUR"
+        },
+        {
+            "arrival_time": "10:03",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 412.0,
+            "sequence_number": 16,
+            "station_code": "PMR",
+            "station_name": "PITAMBARPUR"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 432.0,
+            "sequence_number": 17,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        }
+    ],
+    "train_name": "PYGS BE EXP",
+    "train_number": "14307",
+    "type": "MAIL EXPRESS"
+}

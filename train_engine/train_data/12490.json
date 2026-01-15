@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12490.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12490-DDR-SGNR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DDR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "15:22",
+            "day_of_journey": 1,
+            "departure_time": "15:25",
+            "distance_km": 24.0,
+            "sequence_number": 2,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 81.0,
+            "sequence_number": 3,
+            "station_code": "PLG",
+            "station_name": "PALGHAR"
+        },
+        {
+            "arrival_time": "17:03",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 162.0,
+            "sequence_number": 4,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:03",
+            "distance_km": 257.0,
+            "sequence_number": 5,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 1,
+            "departure_time": "21:03",
+            "distance_km": 386.0,
+            "sequence_number": 6,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "13:33",
+            "day_of_journey": 2,
+            "departure_time": "13:35",
+            "distance_km": 1304.0,
+            "sequence_number": 24,
+            "station_code": "LKS",
+            "station_name": "LUNKARANSAR"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 2,
+            "departure_time": "15:25",
+            "distance_km": 1406.0,
+            "sequence_number": 25,
+            "station_code": "SOG",
+            "station_name": "SURATGARH JN"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 2,
+            "departure_time": "16:10",
+            "distance_km": 1461.0,
+            "sequence_number": 26,
+            "station_code": "RSNR",
+            "station_name": "RAI SINGH NAGAR"
+        },
+        {
+            "arrival_time": "16:33",
+            "day_of_journey": 2,
+            "departure_time": "16:35",
+            "distance_km": 1495.0,
+            "sequence_number": 27,
+            "station_code": "SRW",
+            "station_name": "SHRI KARANPUR"
+        },
+        {
+            "arrival_time": "17:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1543.0,
+            "sequence_number": 28,
+            "station_code": "SGNR",
+            "station_name": "SHRI GANGANAGAR"
+        }
+    ],
+    "train_name": "DDR BKN SF EXP",
+    "train_number": "12490",
+    "type": "SUPERFAST"
+}

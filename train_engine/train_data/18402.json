@@ -1,0 +1,87 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18402.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18402-PURI-BGY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:22",
+            "distance_km": 16.0,
+            "sequence_number": 2,
+            "station_code": "SIL",
+            "station_name": "SAKHI GOPAL"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 44.0,
+            "sequence_number": 3,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 63.0,
+            "sequence_number": 4,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "17:53",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 90.0,
+            "sequence_number": 5,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "18:50",
+            "day_of_journey": 1,
+            "departure_time": "18:52",
+            "distance_km": 162.0,
+            "sequence_number": 6,
+            "station_code": "JJKR",
+            "station_name": "JAJPUR K ROAD"
+        },
+        {
+            "arrival_time": "23:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 371.0,
+            "sequence_number": 24,
+            "station_code": "BGY",
+            "station_name": "BANGRIPOSI"
+        }
+    ],
+    "train_name": "PURI-BGY EXPRESS Valid From : 01-Feb-2026",
+    "train_number": "18402",
+    "type": "MAIL EXPRESS"
+}

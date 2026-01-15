@@ -1,0 +1,143 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12789.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12789-KCG-MRDW",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KCG",
+            "station_name": "KACHEGUDA"
+        },
+        {
+            "arrival_time": "07:09",
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 88.0,
+            "sequence_number": 2,
+            "station_code": "JCL",
+            "station_name": "JADCHERLA"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 106.0,
+            "sequence_number": 3,
+            "station_code": "MBNR",
+            "station_name": "MAHBUBNAGAR"
+        },
+        {
+            "arrival_time": "08:39",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 181.0,
+            "sequence_number": 4,
+            "station_code": "GWD",
+            "station_name": "GADWAL"
+        },
+        {
+            "arrival_time": "09:45",
+            "day_of_journey": 1,
+            "departure_time": "09:47",
+            "distance_km": 235.0,
+            "sequence_number": 5,
+            "station_code": "KRNT",
+            "station_name": "KURNOOL CITY"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 289.0,
+            "sequence_number": 6,
+            "station_code": "DHNE",
+            "station_name": "DHONE JN"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 342.0,
+            "sequence_number": 7,
+            "station_code": "GY",
+            "station_name": "GOOTY"
+        },
+        {
+            "arrival_time": "13:33",
+            "day_of_journey": 1,
+            "departure_time": "13:35",
+            "distance_km": 457.0,
+            "sequence_number": 8,
+            "station_code": "YA",
+            "station_name": "YERRAGUNTLA"
+        },
+        {
+            "arrival_time": "14:08",
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 498.0,
+            "sequence_number": 9,
+            "station_code": "HX",
+            "station_name": "CUDDAPAH"
+        },
+        {
+            "arrival_time": "16:40",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 623.0,
+            "sequence_number": 10,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 746.0,
+            "sequence_number": 11,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "20:35",
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 830.0,
+            "sequence_number": 12,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "14:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1687.0,
+            "sequence_number": 36,
+            "station_code": "MRDW",
+            "station_name": "MURDESHWAR"
+        }
+    ],
+    "train_name": "KCG MRDW SF EXP",
+    "train_number": "12789",
+    "type": "SUPERFAST"
+}

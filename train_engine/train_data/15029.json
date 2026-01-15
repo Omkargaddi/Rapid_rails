@@ -1,0 +1,206 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15029.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15029-GKP-PUNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "17:46",
+            "day_of_journey": 1,
+            "departure_time": "17:48",
+            "distance_km": 35.0,
+            "sequence_number": 2,
+            "station_code": "KLD",
+            "station_name": "KHALILABAD"
+        },
+        {
+            "arrival_time": "18:11",
+            "day_of_journey": 1,
+            "departure_time": "18:14",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "19:02",
+            "day_of_journey": 1,
+            "departure_time": "19:04",
+            "distance_km": 126.0,
+            "sequence_number": 4,
+            "station_code": "MUR",
+            "station_name": "MANKAPUR JN"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 154.0,
+            "sequence_number": 5,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 270.0,
+            "sequence_number": 6,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "23:46",
+            "day_of_journey": 1,
+            "departure_time": "23:48",
+            "distance_km": 326.0,
+            "sequence_number": 7,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "00:30",
+            "day_of_journey": 2,
+            "departure_time": "00:35",
+            "distance_km": 344.0,
+            "sequence_number": 8,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "02:02",
+            "day_of_journey": 2,
+            "departure_time": "02:04",
+            "distance_km": 450.0,
+            "sequence_number": 9,
+            "station_code": "ORAI",
+            "station_name": "ORAI"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": "04:23",
+            "distance_km": 564.0,
+            "sequence_number": 10,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 715.0,
+            "sequence_number": 11,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 2,
+            "departure_time": "08:50",
+            "distance_km": 853.0,
+            "sequence_number": 12,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "09:02",
+            "day_of_journey": 2,
+            "departure_time": "09:04",
+            "distance_km": 859.0,
+            "sequence_number": 13,
+            "station_code": "RKMP",
+            "station_name": "RANI KAMALAPATI"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 2,
+            "departure_time": "11:10",
+            "distance_km": 945.0,
+            "sequence_number": 14,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "13:57",
+            "day_of_journey": 2,
+            "departure_time": "14:00",
+            "distance_km": 1127.0,
+            "sequence_number": 15,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 2,
+            "departure_time": "15:50",
+            "distance_km": 1251.0,
+            "sequence_number": 16,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 2,
+            "departure_time": "18:35",
+            "distance_km": 1435.0,
+            "sequence_number": 17,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "19:47",
+            "day_of_journey": 2,
+            "departure_time": "19:50",
+            "distance_km": 1476.0,
+            "sequence_number": 18,
+            "station_code": "KPG",
+            "station_name": "KOPARGAON"
+        },
+        {
+            "arrival_time": "21:57",
+            "day_of_journey": 2,
+            "departure_time": "22:00",
+            "distance_km": 1587.0,
+            "sequence_number": 19,
+            "station_code": "ANG",
+            "station_name": "AHILYANAGAR"
+        },
+        {
+            "arrival_time": "02:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1741.0,
+            "sequence_number": 20,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        }
+    ],
+    "train_name": "GKP PUNE EXP",
+    "train_number": "15029",
+    "type": "MAIL EXPRESS"
+}

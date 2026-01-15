@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17249.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17249-TPTY-CCT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "23:19",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 19.0,
+            "sequence_number": 3,
+            "station_code": "YPD",
+            "station_name": "YERPEDU"
+        },
+        {
+            "arrival_time": "23:28",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 33.0,
+            "sequence_number": 4,
+            "station_code": "KHT",
+            "station_name": "SRI KALAHASTI"
+        },
+        {
+            "arrival_time": "23:39",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 45.0,
+            "sequence_number": 5,
+            "station_code": "YLK",
+            "station_name": "YELLAKARU"
+        },
+        {
+            "arrival_time": "23:49",
+            "day_of_journey": 1,
+            "departure_time": "23:50",
+            "distance_km": 57.0,
+            "sequence_number": 6,
+            "station_code": "VKI",
+            "station_name": "VENKATAGIRI"
+        },
+        {
+            "arrival_time": "23:56",
+            "day_of_journey": 1,
+            "departure_time": "23:57",
+            "distance_km": 65.0,
+            "sequence_number": 7,
+            "station_code": "NDZ",
+            "station_name": "NIDIGALLU"
+        },
+        {
+            "arrival_time": "00:04",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 74.0,
+            "sequence_number": 8,
+            "station_code": "VDD",
+            "station_name": "VENDODU"
+        },
+        {
+            "arrival_time": "00:19",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 83.0,
+            "sequence_number": 9,
+            "station_code": "KQA",
+            "station_name": "KONDAGUNTA"
+        },
+        {
+            "arrival_time": "01:33",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 131.0,
+            "sequence_number": 10,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "02:03",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 165.0,
+            "sequence_number": 11,
+            "station_code": "BTTR",
+            "station_name": "BITRAGUNTA"
+        },
+        {
+            "arrival_time": "02:28",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 182.0,
+            "sequence_number": 12,
+            "station_code": "KVZ",
+            "station_name": "KAVALI"
+        },
+        {
+            "arrival_time": "11:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 598.0,
+            "sequence_number": 36,
+            "station_code": "CCT",
+            "station_name": "KAKINADA TOWN"
+        }
+    ],
+    "train_name": "TPTY CCT EXP",
+    "train_number": "17249",
+    "type": "MAIL EXPRESS"
+}

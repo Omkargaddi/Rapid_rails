@@ -1,0 +1,212 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17011.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17011-HYB-SKZR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HYB",
+            "station_name": "HYDERABAD"
+        },
+        {
+            "arrival_time": "05:08",
+            "day_of_journey": 1,
+            "departure_time": "05:10",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "05:29",
+            "day_of_journey": 1,
+            "departure_time": "05:30",
+            "distance_km": 23.0,
+            "sequence_number": 3,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        },
+        {
+            "arrival_time": "05:59",
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 57.0,
+            "sequence_number": 4,
+            "station_code": "BG",
+            "station_name": "BHONGIR"
+        },
+        {
+            "arrival_time": "06:19",
+            "day_of_journey": 1,
+            "departure_time": "06:20",
+            "distance_km": 80.0,
+            "sequence_number": 5,
+            "station_code": "ALER",
+            "station_name": "ALER"
+        },
+        {
+            "arrival_time": "06:34",
+            "day_of_journey": 1,
+            "departure_time": "06:35",
+            "distance_km": 94.0,
+            "sequence_number": 6,
+            "station_code": "ZN",
+            "station_name": "JANGAON"
+        },
+        {
+            "arrival_time": "06:59",
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 122.0,
+            "sequence_number": 7,
+            "station_code": "GNP",
+            "station_name": "GHANPUR"
+        },
+        {
+            "arrival_time": "07:23",
+            "day_of_journey": 1,
+            "departure_time": "07:25",
+            "distance_km": 142.0,
+            "sequence_number": 8,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "07:49",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 171.0,
+            "sequence_number": 9,
+            "station_code": "OPL",
+            "station_name": "UPPAL"
+        },
+        {
+            "arrival_time": "07:59",
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 183.0,
+            "sequence_number": 10,
+            "station_code": "JMKT",
+            "station_name": "JAMIKUNTA"
+        },
+        {
+            "arrival_time": "08:14",
+            "day_of_journey": 1,
+            "departure_time": "08:15",
+            "distance_km": 200.0,
+            "sequence_number": 11,
+            "station_code": "PTKP",
+            "station_name": "POTKAPALLI"
+        },
+        {
+            "arrival_time": "08:24",
+            "day_of_journey": 1,
+            "departure_time": "08:25",
+            "distance_km": 203.0,
+            "sequence_number": 12,
+            "station_code": "OEA",
+            "station_name": "ODELA"
+        },
+        {
+            "arrival_time": "08:34",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 209.0,
+            "sequence_number": 13,
+            "station_code": "KOLR",
+            "station_name": "KOLNUR"
+        },
+        {
+            "arrival_time": "08:54",
+            "day_of_journey": 1,
+            "departure_time": "08:55",
+            "distance_km": 222.0,
+            "sequence_number": 14,
+            "station_code": "PDPL",
+            "station_name": "PEDDAPALLI"
+        },
+        {
+            "arrival_time": "09:14",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 239.0,
+            "sequence_number": 15,
+            "station_code": "RDM",
+            "station_name": "RAMGUNDAM"
+        },
+        {
+            "arrival_time": "09:29",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 253.0,
+            "sequence_number": 16,
+            "station_code": "MCI",
+            "station_name": "MANCHERAL"
+        },
+        {
+            "arrival_time": "09:37",
+            "day_of_journey": 1,
+            "departure_time": "09:38",
+            "distance_km": 260.0,
+            "sequence_number": 17,
+            "station_code": "RVKH",
+            "station_name": "RAVINDRAKHANI"
+        },
+        {
+            "arrival_time": "09:59",
+            "day_of_journey": 1,
+            "departure_time": "10:00",
+            "distance_km": 273.0,
+            "sequence_number": 18,
+            "station_code": "BPA",
+            "station_name": "BELAMPALLI"
+        },
+        {
+            "arrival_time": "10:09",
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 283.0,
+            "sequence_number": 19,
+            "station_code": "RECH",
+            "station_name": "RECHNI ROAD"
+        },
+        {
+            "arrival_time": "10:24",
+            "day_of_journey": 1,
+            "departure_time": "10:25",
+            "distance_km": 297.0,
+            "sequence_number": 20,
+            "station_code": "ASAF",
+            "station_name": "ASIFABAD ROAD"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 312.0,
+            "sequence_number": 21,
+            "station_code": "SKZR",
+            "station_name": "SIRPUR KAGHAZNAGAR"
+        }
+    ],
+    "train_name": "HYB SKZR EXP",
+    "train_number": "17011",
+    "type": "MAIL EXPRESS"
+}

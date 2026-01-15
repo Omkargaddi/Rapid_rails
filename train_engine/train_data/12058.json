@@ -1,0 +1,184 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12058.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12058-DLPC-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DLPC",
+            "station_name": "DAULATPUR CHAUK"
+        },
+        {
+            "arrival_time": "04:23",
+            "day_of_journey": 1,
+            "departure_time": "04:25",
+            "distance_km": 15.0,
+            "sequence_number": 2,
+            "station_code": "AADR",
+            "station_name": "AMB ANDAURA"
+        },
+        {
+            "arrival_time": "04:55",
+            "day_of_journey": 1,
+            "departure_time": "05:00",
+            "distance_km": 43.0,
+            "sequence_number": 3,
+            "station_code": "UHL",
+            "station_name": "UNA HIMACHAL"
+        },
+        {
+            "arrival_time": "05:17",
+            "day_of_journey": 1,
+            "departure_time": "05:22",
+            "distance_km": 59.0,
+            "sequence_number": 4,
+            "station_code": "NLDM",
+            "station_name": "NANGAL DAM"
+        },
+        {
+            "arrival_time": "05:36",
+            "day_of_journey": 1,
+            "departure_time": "05:38",
+            "distance_km": 80.0,
+            "sequence_number": 5,
+            "station_code": "ANSB",
+            "station_name": "ANANDPUR SAHIB"
+        },
+        {
+            "arrival_time": "05:46",
+            "day_of_journey": 1,
+            "departure_time": "05:48",
+            "distance_km": 87.0,
+            "sequence_number": 6,
+            "station_code": "KART",
+            "station_name": "KIRATPUR SAHIB"
+        },
+        {
+            "arrival_time": "06:09",
+            "day_of_journey": 1,
+            "departure_time": "06:11",
+            "distance_km": 115.0,
+            "sequence_number": 7,
+            "station_code": "RPAR",
+            "station_name": "RUPNAGAR"
+        },
+        {
+            "arrival_time": "06:29",
+            "day_of_journey": 1,
+            "departure_time": "06:31",
+            "distance_km": 140.0,
+            "sequence_number": 8,
+            "station_code": "MRND",
+            "station_name": "MORINDA"
+        },
+        {
+            "arrival_time": "06:47",
+            "day_of_journey": 1,
+            "departure_time": "06:49",
+            "distance_km": 156.0,
+            "sequence_number": 9,
+            "station_code": "KARR",
+            "station_name": "KHARAR"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 1,
+            "departure_time": "07:02",
+            "distance_km": 173.0,
+            "sequence_number": 10,
+            "station_code": "SASN",
+            "station_name": "SAHIBZADA AJIT SINGH NAGAR"
+        },
+        {
+            "arrival_time": "07:33",
+            "day_of_journey": 1,
+            "departure_time": "07:43",
+            "distance_km": 184.0,
+            "sequence_number": 11,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "08:32",
+            "day_of_journey": 1,
+            "departure_time": "08:45",
+            "distance_km": 229.0,
+            "sequence_number": 12,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "09:14",
+            "day_of_journey": 1,
+            "departure_time": "09:16",
+            "distance_km": 270.0,
+            "sequence_number": 13,
+            "station_code": "KKDE",
+            "station_name": "KURUKSHETRA JN"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 1,
+            "departure_time": "09:40",
+            "distance_km": 304.0,
+            "sequence_number": 14,
+            "station_code": "KUN",
+            "station_name": "KARNAL"
+        },
+        {
+            "arrival_time": "10:02",
+            "day_of_journey": 1,
+            "departure_time": "10:04",
+            "distance_km": 338.0,
+            "sequence_number": 15,
+            "station_code": "PNP",
+            "station_name": "PANIPAT JN"
+        },
+        {
+            "arrival_time": "10:32",
+            "day_of_journey": 1,
+            "departure_time": "10:34",
+            "distance_km": 383.0,
+            "sequence_number": 16,
+            "station_code": "SNP",
+            "station_name": "SONIPAT"
+        },
+        {
+            "arrival_time": "11:03",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 423.0,
+            "sequence_number": 17,
+            "station_code": "SZM",
+            "station_name": "SUBZI MANDI"
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 427.0,
+            "sequence_number": 18,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "JANSHATABDI EXP",
+    "train_number": "12058",
+    "type": "JAN SHATABDI"
+}

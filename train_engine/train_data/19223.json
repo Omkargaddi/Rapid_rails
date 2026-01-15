@@ -1,0 +1,323 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19223.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19223-SBIB-JAT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:25",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "SBIB",
+            "station_name": "SABARMATI BG"
+        },
+        {
+            "arrival_time": "10:53",
+            "day_of_journey": 1,
+            "departure_time": "10:58",
+            "distance_km": 23.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "GNC",
+            "station_name": "GANDHINAGAR CAPITAL"
+        },
+        {
+            "arrival_time": "11:16",
+            "day_of_journey": 1,
+            "departure_time": "11:18",
+            "distance_km": 43.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KLL",
+            "station_name": "KALOL"
+        },
+        {
+            "arrival_time": "11:49",
+            "day_of_journey": 1,
+            "departure_time": "11:54",
+            "distance_km": 85.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "MSH",
+            "station_name": "MAHESANA JN"
+        },
+        {
+            "arrival_time": "12:11",
+            "day_of_journey": 1,
+            "departure_time": "12:13",
+            "distance_km": 105.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "UJA",
+            "station_name": "UNJHA"
+        },
+        {
+            "arrival_time": "12:28",
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 120.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "SID",
+            "station_name": "SIDDHPUR"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 150.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "PNU",
+            "station_name": "PALANPUR JN"
+        },
+        {
+            "arrival_time": "14:10",
+            "day_of_journey": 1,
+            "departure_time": "14:20",
+            "distance_km": 203.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "ABR",
+            "station_name": "ABU ROAD"
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 1,
+            "departure_time": "14:57",
+            "distance_km": 246.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "PDWA",
+            "station_name": "PINDWARA"
+        },
+        {
+            "arrival_time": "15:26",
+            "day_of_journey": 1,
+            "departure_time": "15:28",
+            "distance_km": 285.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "JWB",
+            "station_name": "JAWAI BANDH"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 1,
+            "departure_time": "15:47",
+            "distance_km": 301.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "FA",
+            "station_name": "FALNA"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 368.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "MJ",
+            "station_name": "MARWAR JN"
+        },
+        {
+            "arrival_time": "10:26",
+            "day_of_journey": 2,
+            "departure_time": "10:28",
+            "distance_km": 1183.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "MWX",
+            "station_name": "MALLANWALA KHAS"
+        },
+        {
+            "arrival_time": "10:52",
+            "day_of_journey": 2,
+            "departure_time": "10:54",
+            "distance_km": 1201.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "MXH",
+            "station_name": "MAKHU"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 2,
+            "departure_time": "11:22",
+            "distance_km": 1226.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "LNK",
+            "station_name": "LOHIAN KHAS JN"
+        },
+        {
+            "arrival_time": "11:29",
+            "day_of_journey": 2,
+            "departure_time": "11:31",
+            "distance_km": 1231.0,
+            "platform": null,
+            "sequence_number": 39,
+            "station_code": "SQR",
+            "station_name": "SULTANPUR LODI"
+        },
+        {
+            "arrival_time": "11:50",
+            "day_of_journey": 2,
+            "departure_time": "11:51",
+            "distance_km": 1251.0,
+            "platform": null,
+            "sequence_number": 40,
+            "station_code": "RCF",
+            "station_name": "RAIL COACH FACTORY"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 2,
+            "departure_time": "12:00",
+            "distance_km": 1257.0,
+            "platform": null,
+            "sequence_number": 41,
+            "station_code": "KXH",
+            "station_name": "KAPURTHALA"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 2,
+            "departure_time": "12:45",
+            "distance_km": 1277.0,
+            "platform": null,
+            "sequence_number": 42,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "13:31",
+            "day_of_journey": 2,
+            "departure_time": "13:33",
+            "distance_km": 1306.0,
+            "platform": null,
+            "sequence_number": 43,
+            "station_code": "BPRS",
+            "station_name": "BHOGPUR SIRWAL"
+        },
+        {
+            "arrival_time": "13:46",
+            "day_of_journey": 2,
+            "departure_time": "13:48",
+            "distance_km": 1319.0,
+            "platform": null,
+            "sequence_number": 44,
+            "station_code": "TDO",
+            "station_name": "TANDA URMAR"
+        },
+        {
+            "arrival_time": "14:01",
+            "day_of_journey": 2,
+            "departure_time": "14:03",
+            "distance_km": 1334.0,
+            "platform": null,
+            "sequence_number": 45,
+            "station_code": "DZA",
+            "station_name": "DASUYA"
+        },
+        {
+            "arrival_time": "14:18",
+            "day_of_journey": 2,
+            "departure_time": "14:20",
+            "distance_km": 1350.0,
+            "platform": null,
+            "sequence_number": 46,
+            "station_code": "MEX",
+            "station_name": "MUKERIAN"
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 2,
+            "departure_time": "14:57",
+            "distance_km": 1389.0,
+            "platform": null,
+            "sequence_number": 47,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "15:15",
+            "day_of_journey": 2,
+            "departure_time": "15:40",
+            "distance_km": 1393.0,
+            "platform": null,
+            "sequence_number": 48,
+            "station_code": "Point(2)",
+            "station_name": "PATHANKOT PTK Train Reversal"
+        },
+        {
+            "arrival_time": "16:13",
+            "day_of_journey": 2,
+            "departure_time": "16:15",
+            "distance_km": 1416.0,
+            "platform": null,
+            "sequence_number": 49,
+            "station_code": "KTHU",
+            "station_name": "KATHUA"
+        },
+        {
+            "arrival_time": "16:41",
+            "day_of_journey": 2,
+            "departure_time": "16:43",
+            "distance_km": 1445.0,
+            "platform": null,
+            "sequence_number": 50,
+            "station_code": "HRNR",
+            "station_name": "HIRA NAGAR"
+        },
+        {
+            "arrival_time": "16:51",
+            "day_of_journey": 2,
+            "departure_time": "16:53",
+            "distance_km": 1451.0,
+            "platform": null,
+            "sequence_number": 51,
+            "station_code": "GHGL",
+            "station_name": "GHAGWAL"
+        },
+        {
+            "arrival_time": "17:38",
+            "day_of_journey": 2,
+            "departure_time": "17:40",
+            "distance_km": 1471.0,
+            "platform": null,
+            "sequence_number": 52,
+            "station_code": "VJPJ",
+            "station_name": "VIJIYPUR JAMMU"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1492.0,
+            "platform": null,
+            "sequence_number": 53,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        }
+    ],
+    "train_name": "SBIB JAT EXP",
+    "train_number": "19223",
+    "type": "MAIL EXPRESS "
+}

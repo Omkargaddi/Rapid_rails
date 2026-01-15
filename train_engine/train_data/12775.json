@@ -1,0 +1,162 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12775.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12775-CCT-LPI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CCT",
+            "station_name": "KAKINADA TOWN"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 63.0,
+            "sequence_number": 2,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "21:49",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 102.0,
+            "sequence_number": 3,
+            "station_code": "TNKU",
+            "station_name": "TANUKU"
+        },
+        {
+            "arrival_time": "22:29",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 131.0,
+            "sequence_number": 4,
+            "station_code": "BVRT",
+            "station_name": "BHIMAVARAM TOWN"
+        },
+        {
+            "arrival_time": "22:49",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 149.0,
+            "sequence_number": 5,
+            "station_code": "AKVD",
+            "station_name": "AKIVIDU"
+        },
+        {
+            "arrival_time": "23:09",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 166.0,
+            "sequence_number": 6,
+            "station_code": "KKLR",
+            "station_name": "KAIKOLUR"
+        },
+        {
+            "arrival_time": "23:49",
+            "day_of_journey": 1,
+            "departure_time": "23:50",
+            "distance_km": 195.0,
+            "sequence_number": 7,
+            "station_code": "GDV",
+            "station_name": "GUDIVADA JN"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 247.0,
+            "sequence_number": 8,
+            "station_code": "RYP",
+            "station_name": "RAYANAPAD"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 2,
+            "departure_time": "02:19",
+            "distance_km": 336.0,
+            "sequence_number": 9,
+            "station_code": "KMT",
+            "station_name": "KHAMMAM"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 2,
+            "departure_time": "03:47",
+            "distance_km": 445.0,
+            "sequence_number": 10,
+            "station_code": "WL",
+            "station_name": "WARANGAL"
+        },
+        {
+            "arrival_time": "05:59",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 576.0,
+            "sequence_number": 11,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": "06:25",
+            "distance_km": 587.0,
+            "sequence_number": 12,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "06:36",
+            "day_of_journey": 2,
+            "departure_time": "06:37",
+            "distance_km": 592.0,
+            "sequence_number": 13,
+            "station_code": "BMT",
+            "station_name": "BEGAMPET"
+        },
+        {
+            "arrival_time": "06:59",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 602.0,
+            "sequence_number": 14,
+            "station_code": "HTCY",
+            "station_name": "HIGH TECH CITY"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 610.0,
+            "sequence_number": 15,
+            "station_code": "LPI",
+            "station_name": "LINGAMPALLI"
+        }
+    ],
+    "train_name": "COCANADA SF EXP",
+    "train_number": "12775",
+    "type": "SUPERFAST"
+}

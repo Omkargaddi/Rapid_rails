@@ -1,0 +1,245 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12990.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12990-AII-DDR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "21:23",
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 52.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BER",
+            "station_name": "BEAWAR"
+        },
+        {
+            "arrival_time": "22:16",
+            "day_of_journey": 1,
+            "departure_time": "22:18",
+            "distance_km": 119.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "SOD",
+            "station_name": "SOJAT ROAD"
+        },
+        {
+            "arrival_time": "22:35",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 140.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "MJ",
+            "station_name": "MARWAR JN"
+        },
+        {
+            "arrival_time": "23:12",
+            "day_of_journey": 1,
+            "departure_time": "23:14",
+            "distance_km": 191.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "RANI",
+            "station_name": "RANI"
+        },
+        {
+            "arrival_time": "23:26",
+            "day_of_journey": 1,
+            "departure_time": "23:28",
+            "distance_km": 206.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "FA",
+            "station_name": "FALNA"
+        },
+        {
+            "arrival_time": "23:41",
+            "day_of_journey": 1,
+            "departure_time": "23:43",
+            "distance_km": 222.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "JWB",
+            "station_name": "JAWAI BANDH"
+        },
+        {
+            "arrival_time": "00:11",
+            "day_of_journey": 2,
+            "departure_time": "00:13",
+            "distance_km": 261.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "PDWA",
+            "station_name": "PINDWARA"
+        },
+        {
+            "arrival_time": "00:55",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 305.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "ABR",
+            "station_name": "ABU ROAD"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:02",
+            "distance_km": 357.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "PNU",
+            "station_name": "PALANPUR JN"
+        },
+        {
+            "arrival_time": "02:36",
+            "day_of_journey": 2,
+            "departure_time": "02:38",
+            "distance_km": 402.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "UJA",
+            "station_name": "UNJHA"
+        },
+        {
+            "arrival_time": "02:56",
+            "day_of_journey": 2,
+            "departure_time": "02:58",
+            "distance_km": 423.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "MSH",
+            "station_name": "MAHESANA JN"
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 491.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "05:41",
+            "day_of_journey": 2,
+            "departure_time": "05:43",
+            "distance_km": 537.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 555.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 2,
+            "departure_time": "06:40",
+            "distance_km": 589.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "07:36",
+            "day_of_journey": 2,
+            "departure_time": "07:38",
+            "distance_km": 660.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "08:42",
+            "day_of_journey": 2,
+            "departure_time": "08:47",
+            "distance_km": 719.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "09:03",
+            "day_of_journey": 2,
+            "departure_time": "09:05",
+            "distance_km": 748.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "09:43",
+            "day_of_journey": 2,
+            "departure_time": "09:45",
+            "distance_km": 787.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 2,
+            "departure_time": "12:00",
+            "distance_km": 951.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 975.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "DDR",
+            "station_name": "DADAR"
+        }
+    ],
+    "train_name": "AII DDR EXPRESS",
+    "train_number": "12990",
+    "type": "SUPERFAST "
+}

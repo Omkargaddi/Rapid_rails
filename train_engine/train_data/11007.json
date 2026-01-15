@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "EV",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11007.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11007-CSMT-PUNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "07:11",
+            "day_of_journey": 1,
+            "departure_time": "07:13",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "07:33",
+            "day_of_journey": 1,
+            "departure_time": "07:35",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "07:53",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 53.0,
+            "sequence_number": 4,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "08:24",
+            "day_of_journey": 1,
+            "departure_time": "08:25",
+            "distance_km": 86.0,
+            "sequence_number": 5,
+            "station_code": "NRL",
+            "station_name": "NERAL"
+        },
+        {
+            "arrival_time": "08:42",
+            "day_of_journey": 1,
+            "departure_time": "08:44",
+            "distance_km": 100.0,
+            "sequence_number": 6,
+            "station_code": "KJT",
+            "station_name": "KARJAT"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 1,
+            "departure_time": "09:40",
+            "distance_km": 128.0,
+            "sequence_number": 7,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "10:09",
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 157.0,
+            "sequence_number": 8,
+            "station_code": "TGN",
+            "station_name": "TALEGAON"
+        },
+        {
+            "arrival_time": "10:34",
+            "day_of_journey": 1,
+            "departure_time": "10:35",
+            "distance_km": 185.0,
+            "sequence_number": 9,
+            "station_code": "KK",
+            "station_name": "KHADKI"
+        },
+        {
+            "arrival_time": "10:44",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 189.0,
+            "sequence_number": 10,
+            "station_code": "SVJR",
+            "station_name": "SHIVAJI NAGAR"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 192.0,
+            "sequence_number": 11,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        }
+    ],
+    "train_name": "DECCAN EXPRESS",
+    "train_number": "11007",
+    "type": "MAIL EXPRESS"
+}

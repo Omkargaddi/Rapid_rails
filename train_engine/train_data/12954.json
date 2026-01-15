@@ -1,0 +1,153 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12954.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12954-NZM-MMCT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "18:43",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 133.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "20:48",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 350.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 457.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 2,
+            "departure_time": "01:07",
+            "distance_km": 724.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "02:31",
+            "day_of_journey": 2,
+            "departure_time": "02:33",
+            "distance_km": 837.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "04:29",
+            "day_of_journey": 2,
+            "departure_time": "04:39",
+            "distance_km": 981.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "05:26",
+            "day_of_journey": 2,
+            "departure_time": "05:28",
+            "distance_km": 1052.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "06:13",
+            "day_of_journey": 2,
+            "departure_time": "06:18",
+            "distance_km": 1111.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "07:03",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 1179.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "07:23",
+            "day_of_journey": 2,
+            "departure_time": "07:25",
+            "distance_km": 1205.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 2,
+            "departure_time": "09:10",
+            "distance_km": 1343.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "10:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1373.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "MMCT",
+            "station_name": "MUMBAI CENTRAL"
+        }
+    ],
+    "train_name": "AK TEJAS RAJ EX",
+    "train_number": "12954",
+    "type": "RAJDHANI "
+}

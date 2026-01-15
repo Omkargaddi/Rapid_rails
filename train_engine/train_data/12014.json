@@ -1,0 +1,102 @@
+{
+    "classes_available": [
+        "EC",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12014.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12014-ASR-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:55",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        },
+        {
+            "arrival_time": "05:23",
+            "day_of_journey": 1,
+            "departure_time": "05:25",
+            "distance_km": 42.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 1,
+            "departure_time": "06:01",
+            "distance_km": 79.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "06:19",
+            "day_of_journey": 1,
+            "departure_time": "06:21",
+            "distance_km": 100.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "PGW",
+            "station_name": "PHAGWARA JN"
+        },
+        {
+            "arrival_time": "06:57",
+            "day_of_journey": 1,
+            "departure_time": "07:02",
+            "distance_km": 135.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "07:46",
+            "day_of_journey": 1,
+            "departure_time": "07:48",
+            "distance_km": 196.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "SIR",
+            "station_name": "SIRHIND JN"
+        },
+        {
+            "arrival_time": "08:31",
+            "day_of_journey": 1,
+            "departure_time": "08:34",
+            "distance_km": 249.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "11:02",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 447.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "AMRITSAR SHTABDI",
+    "train_number": "12014",
+    "type": "SHATABDI "
+}

@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22894.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22894-HWH-SNSI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 116.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "17:23",
+            "day_of_journey": 1,
+            "departure_time": "17:28",
+            "distance_km": 250.0,
+            "sequence_number": 3,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 313.0,
+            "sequence_number": 4,
+            "station_code": "CKP",
+            "station_name": "CHAKARADHARPUR"
+        },
+        {
+            "arrival_time": "19:52",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 413.0,
+            "sequence_number": 5,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 516.0,
+            "sequence_number": 6,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 587.0,
+            "sequence_number": 7,
+            "station_code": "RIG",
+            "station_name": "RAIGARH"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 720.0,
+            "sequence_number": 8,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 836.0,
+            "sequence_number": 9,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 873.0,
+            "sequence_number": 10,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 1008.0,
+            "sequence_number": 11,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 2,
+            "departure_time": "08:10",
+            "distance_km": 1138.0,
+            "sequence_number": 12,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "12:13",
+            "day_of_journey": 2,
+            "departure_time": "12:15",
+            "distance_km": 1391.0,
+            "sequence_number": 13,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "14:15",
+            "day_of_journey": 2,
+            "departure_time": "14:20",
+            "distance_km": 1532.0,
+            "sequence_number": 14,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 2,
+            "departure_time": "17:05",
+            "distance_km": 1716.0,
+            "sequence_number": 15,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "17:48",
+            "day_of_journey": 2,
+            "departure_time": "17:50",
+            "distance_km": 1757.0,
+            "sequence_number": 16,
+            "station_code": "KPG",
+            "station_name": "KOPARGAON"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1798.0,
+            "sequence_number": 17,
+            "station_code": "SNSI",
+            "station_name": "SAINAGAR SHIRDI"
+        }
+    ],
+    "train_name": "HWH SNSI SF EXP",
+    "train_number": "22894",
+    "type": "SUPERFAST"
+}

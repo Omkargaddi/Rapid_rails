@@ -1,0 +1,215 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18629.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "18629-RNC-GKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        },
+        {
+            "arrival_time": "17:43",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 60.0,
+            "sequence_number": 2,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 113.0,
+            "sequence_number": 3,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "20:21",
+            "day_of_journey": 1,
+            "departure_time": "20:23",
+            "distance_km": 128.0,
+            "sequence_number": 4,
+            "station_code": "CRP",
+            "station_name": "CHANDRAPURA"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 162.0,
+            "sequence_number": 5,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "23:04",
+            "day_of_journey": 1,
+            "departure_time": "23:06",
+            "distance_km": 223.0,
+            "sequence_number": 6,
+            "station_code": "CRJ",
+            "station_name": "CHITTARANJAN"
+        },
+        {
+            "arrival_time": "23:19",
+            "day_of_journey": 1,
+            "departure_time": "23:21",
+            "distance_km": 238.0,
+            "sequence_number": 7,
+            "station_code": "JMT",
+            "station_name": "JAMTARA"
+        },
+        {
+            "arrival_time": "23:47",
+            "day_of_journey": 1,
+            "departure_time": "23:49",
+            "distance_km": 280.0,
+            "sequence_number": 8,
+            "station_code": "MDP",
+            "station_name": "MADHUPUR JN."
+        },
+        {
+            "arrival_time": "00:18",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 309.0,
+            "sequence_number": 9,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 353.0,
+            "sequence_number": 10,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:32",
+            "distance_km": 407.0,
+            "sequence_number": 11,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 441.0,
+            "sequence_number": 12,
+            "station_code": "MKA",
+            "station_name": "MOKAMA"
+        },
+        {
+            "arrival_time": "04:18",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 520.0,
+            "sequence_number": 13,
+            "station_code": "PNC",
+            "station_name": "PATNA SAHEB"
+        },
+        {
+            "arrival_time": "04:53",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 530.0,
+            "sequence_number": 14,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 542.0,
+            "sequence_number": 15,
+            "station_code": "PPTA",
+            "station_name": "PATLIPUTRA"
+        },
+        {
+            "arrival_time": "06:39",
+            "day_of_journey": 2,
+            "departure_time": "06:41",
+            "distance_km": 576.0,
+            "sequence_number": 16,
+            "station_code": "DGA",
+            "station_name": "DIGHWARA"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 2,
+            "departure_time": "07:35",
+            "distance_km": 606.0,
+            "sequence_number": 17,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 2,
+            "departure_time": "08:35",
+            "distance_km": 667.0,
+            "sequence_number": 18,
+            "station_code": "SV",
+            "station_name": "SIWAN JN"
+        },
+        {
+            "arrival_time": "09:28",
+            "day_of_journey": 2,
+            "departure_time": "09:30",
+            "distance_km": 715.0,
+            "sequence_number": 19,
+            "station_code": "BTT",
+            "station_name": "BHATNI JN"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": "09:55",
+            "distance_km": 736.0,
+            "sequence_number": 20,
+            "station_code": "DEOS",
+            "station_name": "DEORIA SADAR"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 786.0,
+            "sequence_number": 21,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        }
+    ],
+    "train_name": "RNC GKP EXPRESS",
+    "train_number": "18629",
+    "type": "MAIL EXPRESS"
+}

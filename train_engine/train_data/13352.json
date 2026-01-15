@@ -1,0 +1,215 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13352.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13352-ALLP-DHN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ALLP",
+            "station_name": "ALAPPUZHA"
+        },
+        {
+            "arrival_time": "06:13",
+            "day_of_journey": 1,
+            "departure_time": "06:14",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "MAKM",
+            "station_name": "MARARIKULAM"
+        },
+        {
+            "arrival_time": "06:24",
+            "day_of_journey": 1,
+            "departure_time": "06:25",
+            "distance_km": 24.0,
+            "sequence_number": 3,
+            "station_code": "SRTL",
+            "station_name": "CHERTHALA"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 1,
+            "departure_time": "06:36",
+            "distance_km": 34.0,
+            "sequence_number": 4,
+            "station_code": "TUVR",
+            "station_name": "TURAVUR"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 1,
+            "departure_time": "07:25",
+            "distance_km": 57.0,
+            "sequence_number": 5,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "07:48",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 76.0,
+            "sequence_number": 6,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "08:47",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 131.0,
+            "sequence_number": 7,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "09:09",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 148.0,
+            "sequence_number": 8,
+            "station_code": "WKI",
+            "station_name": "WADAKANCHERI"
+        },
+        {
+            "arrival_time": "09:54",
+            "day_of_journey": 1,
+            "departure_time": "09:55",
+            "distance_km": 177.0,
+            "sequence_number": 9,
+            "station_code": "OTP",
+            "station_name": "OTTAPPALAM"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 1,
+            "departure_time": "10:35",
+            "distance_km": 208.0,
+            "sequence_number": 10,
+            "station_code": "PGT",
+            "station_name": "PALAKKAD JN"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 263.0,
+            "sequence_number": 11,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 313.0,
+            "sequence_number": 12,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 3,
+            "departure_time": "05:15",
+            "distance_km": 2367.0,
+            "sequence_number": 82,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        },
+        {
+            "arrival_time": "06:15",
+            "day_of_journey": 3,
+            "departure_time": "06:17",
+            "distance_km": 2427.0,
+            "sequence_number": 83,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "06:39",
+            "day_of_journey": 3,
+            "departure_time": "06:40",
+            "distance_km": 2439.0,
+            "sequence_number": 84,
+            "station_code": "JAA",
+            "station_name": "JHALIDA"
+        },
+        {
+            "arrival_time": "07:29",
+            "day_of_journey": 3,
+            "departure_time": "07:30",
+            "distance_km": 2451.0,
+            "sequence_number": 85,
+            "station_code": "KSX",
+            "station_name": "KOTSHILA"
+        },
+        {
+            "arrival_time": "07:39",
+            "day_of_journey": 3,
+            "departure_time": "07:40",
+            "distance_km": 2463.0,
+            "sequence_number": 86,
+            "station_code": "PNW",
+            "station_name": "PUNDAG"
+        },
+        {
+            "arrival_time": "08:05",
+            "day_of_journey": 3,
+            "departure_time": "08:15",
+            "distance_km": 2480.0,
+            "sequence_number": 87,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "08:51",
+            "day_of_journey": 3,
+            "departure_time": "08:53",
+            "distance_km": 2495.0,
+            "sequence_number": 88,
+            "station_code": "CRP",
+            "station_name": "CHANDRAPURA"
+        },
+        {
+            "arrival_time": "09:21",
+            "day_of_journey": 3,
+            "departure_time": "09:23",
+            "distance_km": 2516.0,
+            "sequence_number": 89,
+            "station_code": "KTH",
+            "station_name": "KATRASGARH"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2529.0,
+            "sequence_number": 90,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        }
+    ],
+    "train_name": "ALLP DHN EXPRESS",
+    "train_number": "13352",
+    "type": "MAIL EXPRESS"
+}

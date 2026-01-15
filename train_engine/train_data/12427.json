@@ -1,0 +1,144 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12427.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12427-REWA-ANVT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "REWA",
+            "station_name": "REWA"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 49.0,
+            "sequence_number": 2,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "17:43",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 69.0,
+            "sequence_number": 3,
+            "station_code": "JTW",
+            "station_name": "JAITWAR"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 1,
+            "departure_time": "18:57",
+            "distance_km": 127.0,
+            "sequence_number": 4,
+            "station_code": "MKP",
+            "station_name": "MANIKPUR JN"
+        },
+        {
+            "arrival_time": "19:17",
+            "day_of_journey": 1,
+            "departure_time": "19:18",
+            "distance_km": 150.0,
+            "sequence_number": 5,
+            "station_code": "DBR",
+            "station_name": "DABHAURA"
+        },
+        {
+            "arrival_time": "19:49",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 182.0,
+            "sequence_number": 6,
+            "station_code": "SRJ",
+            "station_name": "SHANKARGARH"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 227.0,
+            "sequence_number": 7,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "21:48",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 284.0,
+            "sequence_number": 8,
+            "station_code": "SRO",
+            "station_name": "SIRATHU"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:32",
+            "distance_km": 344.0,
+            "sequence_number": 9,
+            "station_code": "FTP",
+            "station_name": "FATEHPUR"
+        },
+        {
+            "arrival_time": "23:52",
+            "day_of_journey": 1,
+            "departure_time": "23:57",
+            "distance_km": 422.0,
+            "sequence_number": 10,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "04:03",
+            "day_of_journey": 2,
+            "departure_time": "04:05",
+            "distance_km": 731.0,
+            "sequence_number": 11,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 2,
+            "departure_time": "06:05",
+            "distance_km": 837.0,
+            "sequence_number": 12,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 849.0,
+            "sequence_number": 13,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        }
+    ],
+    "train_name": "REWA ANVT EXP",
+    "train_number": "12427",
+    "type": "SUPERFAST"
+}

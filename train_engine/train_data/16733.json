@@ -1,0 +1,141 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16733.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16733-RMM-OKHA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RMM",
+            "station_name": "RAMESWARAM"
+        },
+        {
+            "arrival_time": "23:08",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "MMM",
+            "station_name": "MANDAPAM"
+        },
+        {
+            "arrival_time": "23:38",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 54.0,
+            "sequence_number": 3,
+            "station_code": "RMD",
+            "station_name": "RAMANATHAPURAM"
+        },
+        {
+            "arrival_time": "00:03",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 90.0,
+            "sequence_number": 4,
+            "station_code": "PMK",
+            "station_name": "PARAMAKKUDI"
+        },
+        {
+            "arrival_time": "00:23",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 114.0,
+            "sequence_number": 5,
+            "station_code": "MNM",
+            "station_name": "MANAMADURAI JN"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 161.0,
+            "sequence_number": 6,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "04:59",
+            "day_of_journey": 4,
+            "departure_time": "05:09",
+            "distance_km": 2899.0,
+            "sequence_number": 41,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "06:36",
+            "day_of_journey": 4,
+            "departure_time": "06:38",
+            "distance_km": 2972.0,
+            "sequence_number": 42,
+            "station_code": "HAPA",
+            "station_name": "HAPA"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 4,
+            "departure_time": "07:03",
+            "distance_km": 2981.0,
+            "sequence_number": 43,
+            "station_code": "JAM",
+            "station_name": "JAMNAGAR"
+        },
+        {
+            "arrival_time": "07:51",
+            "day_of_journey": 4,
+            "departure_time": "07:53",
+            "distance_km": 3035.0,
+            "sequence_number": 44,
+            "station_code": "KMBL",
+            "station_name": "KHAMBHALIYA"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 4,
+            "departure_time": "08:36",
+            "distance_km": 3077.0,
+            "sequence_number": 45,
+            "station_code": "BHTA",
+            "station_name": "BHATIYA"
+        },
+        {
+            "arrival_time": "09:03",
+            "day_of_journey": 4,
+            "departure_time": "09:08",
+            "distance_km": 3119.0,
+            "sequence_number": 46,
+            "station_code": "DWK",
+            "station_name": "DWARKA"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 4,
+            "departure_time": null,
+            "distance_km": 3148.0,
+            "sequence_number": 47,
+            "station_code": "OKHA",
+            "station_name": "OKHA"
+        }
+    ],
+    "train_name": "RMM OKHA EXP",
+    "train_number": "16733",
+    "type": "MAIL EXPRESS"
+}

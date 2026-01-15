@@ -1,0 +1,206 @@
+{
+    "classes_available": [
+        "3E",
+        "CC",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14732.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14732-BTI-DLI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BTI",
+            "station_name": "BATHINDA"
+        },
+        {
+            "arrival_time": "05:28",
+            "day_of_journey": 1,
+            "departure_time": "05:30",
+            "distance_km": 28.0,
+            "sequence_number": 2,
+            "station_code": "RMN",
+            "station_name": "RAMAN"
+        },
+        {
+            "arrival_time": "05:43",
+            "day_of_journey": 1,
+            "departure_time": "05:45",
+            "distance_km": 42.0,
+            "sequence_number": 3,
+            "station_code": "KNL",
+            "station_name": "KALANWALI"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 1,
+            "departure_time": "06:15",
+            "distance_km": 76.0,
+            "sequence_number": 4,
+            "station_code": "SSA",
+            "station_name": "SIRSA"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 1,
+            "departure_time": "06:37",
+            "distance_km": 100.0,
+            "sequence_number": 5,
+            "station_code": "DING",
+            "station_name": "DING"
+        },
+        {
+            "arrival_time": "06:47",
+            "day_of_journey": 1,
+            "departure_time": "06:49",
+            "distance_km": 111.0,
+            "sequence_number": 6,
+            "station_code": "BHT",
+            "station_name": "BHATTU"
+        },
+        {
+            "arrival_time": "07:03",
+            "day_of_journey": 1,
+            "departure_time": "07:05",
+            "distance_km": 128.0,
+            "sequence_number": 7,
+            "station_code": "ADR",
+            "station_name": "MANDI ADAMPUR"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 157.0,
+            "sequence_number": 8,
+            "station_code": "HSR",
+            "station_name": "HISAR"
+        },
+        {
+            "arrival_time": "07:47",
+            "day_of_journey": 1,
+            "departure_time": "07:49",
+            "distance_km": 168.0,
+            "sequence_number": 9,
+            "station_code": "STD",
+            "station_name": "SATROD"
+        },
+        {
+            "arrival_time": "08:01",
+            "day_of_journey": 1,
+            "departure_time": "08:03",
+            "distance_km": 181.0,
+            "sequence_number": 10,
+            "station_code": "HNS",
+            "station_name": "HANSI"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 200.0,
+            "sequence_number": 11,
+            "station_code": "BWK",
+            "station_name": "BAWANI KHERA"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 1,
+            "departure_time": "09:00",
+            "distance_km": 223.0,
+            "sequence_number": 12,
+            "station_code": "BNWC",
+            "station_name": "BHIWANI CITY"
+        },
+        {
+            "arrival_time": "09:19",
+            "day_of_journey": 1,
+            "departure_time": "09:21",
+            "distance_km": 246.0,
+            "sequence_number": 13,
+            "station_code": "KLNK",
+            "station_name": "KALANAUR KALAN"
+        },
+        {
+            "arrival_time": "10:26",
+            "day_of_journey": 1,
+            "departure_time": "10:28",
+            "distance_km": 267.0,
+            "sequence_number": 14,
+            "station_code": "ROK",
+            "station_name": "ROHTAK JN"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 1,
+            "departure_time": "10:47",
+            "distance_km": 289.0,
+            "sequence_number": 15,
+            "station_code": "SPZ",
+            "station_name": "SAMPLA"
+        },
+        {
+            "arrival_time": "11:01",
+            "day_of_journey": 1,
+            "departure_time": "11:03",
+            "distance_km": 307.0,
+            "sequence_number": 16,
+            "station_code": "BGZ",
+            "station_name": "BAHADURGARH"
+        },
+        {
+            "arrival_time": "11:14",
+            "day_of_journey": 1,
+            "departure_time": "11:16",
+            "distance_km": 320.0,
+            "sequence_number": 17,
+            "station_code": "NNO",
+            "station_name": "NANGLOI"
+        },
+        {
+            "arrival_time": "11:33",
+            "day_of_journey": 1,
+            "departure_time": "11:35",
+            "distance_km": 327.0,
+            "sequence_number": 18,
+            "station_code": "SSB",
+            "station_name": "SHAKURBASTI"
+        },
+        {
+            "arrival_time": "11:47",
+            "day_of_journey": 1,
+            "departure_time": "11:49",
+            "distance_km": 334.0,
+            "sequence_number": 19,
+            "station_code": "DKZ",
+            "station_name": "DELHI KISHANGNJ"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 337.0,
+            "sequence_number": 20,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        }
+    ],
+    "train_name": "KISAN EXPRESS",
+    "train_number": "14732",
+    "type": "MAIL EXPRESS"
+}

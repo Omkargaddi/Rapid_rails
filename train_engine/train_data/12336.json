@@ -1,0 +1,173 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12336.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12336-LTT-BGP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:05",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "08:37",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 37.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "10:27",
+            "day_of_journey": 1,
+            "departure_time": "10:32",
+            "distance_km": 120.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 1,
+            "departure_time": "11:20",
+            "distance_km": 171.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 244.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "14:45",
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 428.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "15:38",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 482.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BAU",
+            "station_name": "BURHANPUR"
+        },
+        {
+            "arrival_time": "16:47",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 551.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "17:58",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 658.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "HD",
+            "station_name": "HARDA"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 734.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "20:18",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 801.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "PPI",
+            "station_name": "PIPARIYA"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 979.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "16:31",
+            "day_of_journey": 2,
+            "departure_time": "16:33",
+            "distance_km": 1868.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "BUP",
+            "station_name": "BARIARPUR"
+        },
+        {
+            "arrival_time": "16:49",
+            "day_of_journey": 2,
+            "departure_time": "16:51",
+            "distance_km": 1885.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "SGG",
+            "station_name": "SULTANGANJ"
+        },
+        {
+            "arrival_time": "17:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1910.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "BGP",
+            "station_name": "BHAGALPUR"
+        }
+    ],
+    "train_name": "LTT BHAGALPUR EX",
+    "train_number": "12336",
+    "type": "SUPERFAST "
+}

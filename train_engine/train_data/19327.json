@@ -1,0 +1,166 @@
+{
+    "classes_available": [
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19327.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19327-RTM-UDZ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "17:38",
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 33.0,
+            "sequence_number": 2,
+            "station_code": "JAO",
+            "station_name": "JAORA"
+        },
+        {
+            "arrival_time": "17:57",
+            "day_of_journey": 1,
+            "departure_time": "17:58",
+            "distance_km": 50.0,
+            "sequence_number": 3,
+            "station_code": "DOD",
+            "station_name": "DHODHAR"
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 1,
+            "departure_time": "18:14",
+            "distance_km": 69.0,
+            "sequence_number": 4,
+            "station_code": "DLD",
+            "station_name": "DALAUDA"
+        },
+        {
+            "arrival_time": "18:26",
+            "day_of_journey": 1,
+            "departure_time": "18:28",
+            "distance_km": 84.0,
+            "sequence_number": 5,
+            "station_code": "MDS",
+            "station_name": "MANDASOR"
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": "18:46",
+            "distance_km": 100.0,
+            "sequence_number": 6,
+            "station_code": "PIP",
+            "station_name": "PIPLIA"
+        },
+        {
+            "arrival_time": "19:09",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 108.0,
+            "sequence_number": 7,
+            "station_code": "MLG",
+            "station_name": "MALHARGARH"
+        },
+        {
+            "arrival_time": "19:23",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 133.0,
+            "sequence_number": 8,
+            "station_code": "NMH",
+            "station_name": "NIMACH"
+        },
+        {
+            "arrival_time": "19:46",
+            "day_of_journey": 1,
+            "departure_time": "19:48",
+            "distance_km": 149.0,
+            "sequence_number": 9,
+            "station_code": "JWO",
+            "station_name": "JAWAD ROAD"
+        },
+        {
+            "arrival_time": "19:59",
+            "day_of_journey": 1,
+            "departure_time": "20:01",
+            "distance_km": 160.0,
+            "sequence_number": 10,
+            "station_code": "NBH",
+            "station_name": "NIMBAHERA"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 189.0,
+            "sequence_number": 11,
+            "station_code": "COR",
+            "station_name": "CHITTAURGARH JN."
+        },
+        {
+            "arrival_time": "21:49",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 224.0,
+            "sequence_number": 12,
+            "station_code": "KIN",
+            "station_name": "KAPASAN"
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 1,
+            "departure_time": "22:09",
+            "distance_km": 247.0,
+            "sequence_number": 13,
+            "station_code": "FAN",
+            "station_name": "FATEHNAGAR"
+        },
+        {
+            "arrival_time": "22:25",
+            "day_of_journey": 1,
+            "departure_time": "22:27",
+            "distance_km": 260.0,
+            "sequence_number": 14,
+            "station_code": "MVJ",
+            "station_name": "MAVLI JN"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 299.0,
+            "sequence_number": 15,
+            "station_code": "RPZ",
+            "station_name": "RANA PRATAP NAGAR"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 303.0,
+            "sequence_number": 16,
+            "station_code": "UDZ",
+            "station_name": "UDAIPUR CITY"
+        }
+    ],
+    "train_name": "RTM-UDZ EXPRESS",
+    "train_number": "19327",
+    "type": "MAIL EXPRESS"
+}

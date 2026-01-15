@@ -1,0 +1,168 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14521.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14521-DLI-UMB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "13:24",
+            "day_of_journey": 1,
+            "departure_time": "13:26",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "DSA",
+            "station_name": "DELHI SHAHDARA"
+        },
+        {
+            "arrival_time": "13:55",
+            "day_of_journey": 1,
+            "departure_time": "13:57",
+            "distance_km": 20.0,
+            "sequence_number": 3,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "14:21",
+            "day_of_journey": 1,
+            "departure_time": "14:23",
+            "distance_km": 48.0,
+            "sequence_number": 4,
+            "station_code": "MDNR",
+            "station_name": "MODINAGAR"
+        },
+        {
+            "arrival_time": "14:41",
+            "day_of_journey": 1,
+            "departure_time": "14:43",
+            "distance_km": 67.0,
+            "sequence_number": 5,
+            "station_code": "MTC",
+            "station_name": "MEERUT CITY"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": "14:52",
+            "distance_km": 71.0,
+            "sequence_number": 6,
+            "station_code": "MUT",
+            "station_name": "MEERUT CANT"
+        },
+        {
+            "arrival_time": "15:08",
+            "day_of_journey": 1,
+            "departure_time": "15:10",
+            "distance_km": 91.0,
+            "sequence_number": 7,
+            "station_code": "SKF",
+            "station_name": "SAKHOTI TANDA"
+        },
+        {
+            "arrival_time": "15:18",
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 100.0,
+            "sequence_number": 8,
+            "station_code": "KAT",
+            "station_name": "KHATAULI"
+        },
+        {
+            "arrival_time": "15:34",
+            "day_of_journey": 1,
+            "departure_time": "15:39",
+            "distance_km": 123.0,
+            "sequence_number": 9,
+            "station_code": "MOZ",
+            "station_name": "MUZAFFARNAGAR"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": "16:02",
+            "distance_km": 147.0,
+            "sequence_number": 10,
+            "station_code": "DBD",
+            "station_name": "DEOBAND"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 181.0,
+            "sequence_number": 11,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "17:27",
+            "day_of_journey": 1,
+            "departure_time": "17:32",
+            "distance_km": 211.0,
+            "sequence_number": 12,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "17:36",
+            "day_of_journey": 1,
+            "departure_time": "17:38",
+            "distance_km": 216.0,
+            "sequence_number": 13,
+            "station_code": "JUDW",
+            "station_name": "JAGADHRI WSHOP"
+        },
+        {
+            "arrival_time": "17:49",
+            "day_of_journey": 1,
+            "departure_time": "17:51",
+            "distance_km": 228.0,
+            "sequence_number": 14,
+            "station_code": "MFB",
+            "station_name": "MUSTAFABAD"
+        },
+        {
+            "arrival_time": "17:59",
+            "day_of_journey": 1,
+            "departure_time": "18:01",
+            "distance_km": 237.0,
+            "sequence_number": 15,
+            "station_code": "RAA",
+            "station_name": "BARARA"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 262.0,
+            "sequence_number": 16,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        }
+    ],
+    "train_name": "DLI UMB EXPRESS",
+    "train_number": "14521",
+    "type": "MAIL EXPRESS"
+}

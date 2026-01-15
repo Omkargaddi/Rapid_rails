@@ -1,0 +1,109 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_04854.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "04854-LHU-SIKR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LHU",
+            "station_name": "LOHARU"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 1,
+            "departure_time": "04:37",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "SRGH",
+            "station_name": "SURAJGARH"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 1,
+            "departure_time": "04:50",
+            "distance_km": 29.0,
+            "sequence_number": 3,
+            "station_code": "CRWA",
+            "station_name": "CHIRAWA"
+        },
+        {
+            "arrival_time": "05:04",
+            "day_of_journey": 1,
+            "departure_time": "05:06",
+            "distance_km": 43.0,
+            "sequence_number": 4,
+            "station_code": "RSH",
+            "station_name": "RATANSHAHAR"
+        },
+        {
+            "arrival_time": "05:19",
+            "day_of_journey": 1,
+            "departure_time": "05:21",
+            "distance_km": 57.0,
+            "sequence_number": 5,
+            "station_code": "JJN",
+            "station_name": "JHUNJHUNU"
+        },
+        {
+            "arrival_time": "05:32",
+            "day_of_journey": 1,
+            "departure_time": "05:34",
+            "distance_km": 69.0,
+            "sequence_number": 6,
+            "station_code": "NUA",
+            "station_name": "NUA"
+        },
+        {
+            "arrival_time": "05:47",
+            "day_of_journey": 1,
+            "departure_time": "05:49",
+            "distance_km": 84.0,
+            "sequence_number": 7,
+            "station_code": "DOB",
+            "station_name": "DUNDLOD MUKANDGARH"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 1,
+            "departure_time": "05:59",
+            "distance_km": 90.0,
+            "sequence_number": 8,
+            "station_code": "BWPL",
+            "station_name": "BALWANT PURA"
+        },
+        {
+            "arrival_time": "06:04",
+            "day_of_journey": 1,
+            "departure_time": "06:06",
+            "distance_km": 94.0,
+            "sequence_number": 9,
+            "station_code": "NWH",
+            "station_name": "NAWALGARH"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 122.0,
+            "sequence_number": 10,
+            "station_code": "SIKR",
+            "station_name": "SIKAR JN"
+        }
+    ],
+    "train_name": "LHU-SIKR DMU",
+    "train_number": "04854",
+    "type": "DMU"
+}

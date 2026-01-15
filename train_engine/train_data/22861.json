@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22861.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22861-HWH-KBJ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "08:06",
+            "day_of_journey": 1,
+            "departure_time": "08:08",
+            "distance_km": 116.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 154.0,
+            "sequence_number": 3,
+            "station_code": "JGM",
+            "station_name": "JHARGRAM"
+        },
+        {
+            "arrival_time": "09:01",
+            "day_of_journey": 1,
+            "departure_time": "09:03",
+            "distance_km": 183.0,
+            "sequence_number": 4,
+            "station_code": "CKU",
+            "station_name": "CHAKULIA"
+        },
+        {
+            "arrival_time": "09:22",
+            "day_of_journey": 1,
+            "departure_time": "09:24",
+            "distance_km": 214.0,
+            "sequence_number": 5,
+            "station_code": "GTS",
+            "station_name": "GHATSILA"
+        },
+        {
+            "arrival_time": "09:42",
+            "day_of_journey": 1,
+            "departure_time": "09:44",
+            "distance_km": 231.0,
+            "sequence_number": 6,
+            "station_code": "RHE",
+            "station_name": "RAKHA MINES"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:41",
+            "distance_km": 664.0,
+            "sequence_number": 24,
+            "station_code": "LSX",
+            "station_name": "LOISINGHA"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 683.0,
+            "sequence_number": 25,
+            "station_code": "BLGR",
+            "station_name": "BALANGIR"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "18:31",
+            "distance_km": 717.0,
+            "sequence_number": 26,
+            "station_code": "SFC",
+            "station_name": "SAINTALA"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 746.0,
+            "sequence_number": 27,
+            "station_code": "TIG",
+            "station_name": "TITLAGARH"
+        },
+        {
+            "arrival_time": "20:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 779.0,
+            "sequence_number": 28,
+            "station_code": "KBJ",
+            "station_name": "KANTABANJI"
+        }
+    ],
+    "train_name": "KBJ ISPAT EXP",
+    "train_number": "22861",
+    "type": "SUPERFAST"
+}

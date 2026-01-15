@@ -1,0 +1,51 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_25036.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "25036-RMR-MB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RMR",
+            "station_name": "RAMNAGAR"
+        },
+        {
+            "arrival_time": "10:17",
+            "day_of_journey": 1,
+            "departure_time": "10:22",
+            "distance_km": 27.0,
+            "sequence_number": 2,
+            "station_code": "KPV",
+            "station_name": "KASHIPUR"
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 76.0,
+            "sequence_number": 3,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        }
+    ],
+    "train_name": "RMR DLI LINK EX",
+    "train_number": "25036",
+    "type": "MAIL EXPRESS"
+}

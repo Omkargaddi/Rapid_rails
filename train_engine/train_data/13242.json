@@ -1,0 +1,171 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13242.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13242-RJPB-BAKA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RJPB",
+            "station_name": "RAJENDRA NAGAR"
+        },
+        {
+            "arrival_time": "00:24",
+            "day_of_journey": 2,
+            "departure_time": "00:26",
+            "distance_km": 43.0,
+            "sequence_number": 2,
+            "station_code": "BKP",
+            "station_name": "BAKHTIYARPUR JN"
+        },
+        {
+            "arrival_time": "00:56",
+            "day_of_journey": 2,
+            "departure_time": "00:58",
+            "distance_km": 94.0,
+            "sequence_number": 3,
+            "station_code": "HTZ",
+            "station_name": "HATHIDAH JN"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 121.0,
+            "sequence_number": 4,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "02:35",
+            "day_of_journey": 2,
+            "departure_time": "02:37",
+            "distance_km": 144.0,
+            "sequence_number": 5,
+            "station_code": "AHA",
+            "station_name": "ABHAIPUR"
+        },
+        {
+            "arrival_time": "03:12",
+            "day_of_journey": 2,
+            "departure_time": "03:17",
+            "distance_km": 165.0,
+            "sequence_number": 6,
+            "station_code": "JMP",
+            "station_name": "JAMALPUR JN"
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 2,
+            "departure_time": "03:31",
+            "distance_km": 176.0,
+            "sequence_number": 7,
+            "station_code": "BUP",
+            "station_name": "BARIARPUR"
+        },
+        {
+            "arrival_time": "03:47",
+            "day_of_journey": 2,
+            "departure_time": "03:49",
+            "distance_km": 194.0,
+            "sequence_number": 8,
+            "station_code": "SGG",
+            "station_name": "SULTANGANJ"
+        },
+        {
+            "arrival_time": "04:32",
+            "day_of_journey": 2,
+            "departure_time": "04:42",
+            "distance_km": 218.0,
+            "sequence_number": 9,
+            "station_code": "BGP",
+            "station_name": "BHAGALPUR"
+        },
+        {
+            "arrival_time": "04:56",
+            "day_of_journey": 2,
+            "departure_time": "04:57",
+            "distance_km": 230.0,
+            "sequence_number": 10,
+            "station_code": "HPLE",
+            "station_name": "HATPURAINI"
+        },
+        {
+            "arrival_time": "05:14",
+            "day_of_journey": 2,
+            "departure_time": "05:16",
+            "distance_km": 244.0,
+            "sequence_number": 11,
+            "station_code": "DWLE",
+            "station_name": "DHAUNI"
+        },
+        {
+            "arrival_time": "05:26",
+            "day_of_journey": 2,
+            "departure_time": "05:27",
+            "distance_km": 251.0,
+            "sequence_number": 12,
+            "station_code": "PNSA",
+            "station_name": "PUNSIA"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:37",
+            "distance_km": 255.0,
+            "sequence_number": 13,
+            "station_code": "BHLE",
+            "station_name": "BARAHAT"
+        },
+        {
+            "arrival_time": "05:44",
+            "day_of_journey": 2,
+            "departure_time": "05:45",
+            "distance_km": 259.0,
+            "sequence_number": 14,
+            "station_code": "TELY",
+            "station_name": "TELIA"
+        },
+        {
+            "arrival_time": "05:57",
+            "day_of_journey": 2,
+            "departure_time": "05:58",
+            "distance_km": 264.0,
+            "sequence_number": 15,
+            "station_code": "MRHA",
+            "station_name": "MURAHARA"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 270.0,
+            "sequence_number": 16,
+            "station_code": "BAKA",
+            "station_name": "BANKA"
+        }
+    ],
+    "train_name": "RJPB BANKA EXP",
+    "train_number": "13242",
+    "type": "MAIL EXPRESS"
+}

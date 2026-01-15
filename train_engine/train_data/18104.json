@@ -1,0 +1,278 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18104.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "18104-ASR-TATA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        },
+        {
+            "arrival_time": "13:13",
+            "day_of_journey": 1,
+            "departure_time": "13:15",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "13:52",
+            "day_of_journey": 1,
+            "departure_time": "13:58",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "14:52",
+            "day_of_journey": 1,
+            "departure_time": "15:02",
+            "distance_km": 135.0,
+            "sequence_number": 4,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "16:40",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 249.0,
+            "sequence_number": 5,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 300.0,
+            "sequence_number": 6,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 330.0,
+            "sequence_number": 7,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 1,
+            "departure_time": "18:57",
+            "distance_km": 365.0,
+            "sequence_number": 8,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "19:14",
+            "day_of_journey": 1,
+            "departure_time": "19:16",
+            "distance_km": 383.0,
+            "sequence_number": 9,
+            "station_code": "LRJ",
+            "station_name": "LAKSAR JN"
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 523.0,
+            "sequence_number": 10,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "22:47",
+            "day_of_journey": 1,
+            "departure_time": "22:52",
+            "distance_km": 613.0,
+            "sequence_number": 11,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 848.0,
+            "sequence_number": 12,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "05:06",
+            "day_of_journey": 2,
+            "departure_time": "05:11",
+            "distance_km": 976.0,
+            "sequence_number": 13,
+            "station_code": "AYC",
+            "station_name": "AYODHYA CANTT"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": "06:42",
+            "distance_km": 1081.0,
+            "sequence_number": 14,
+            "station_code": "SHG",
+            "station_name": "SHAHGANJ JN"
+        },
+        {
+            "arrival_time": "07:33",
+            "day_of_journey": 2,
+            "departure_time": "07:35",
+            "distance_km": 1114.0,
+            "sequence_number": 15,
+            "station_code": "JNU",
+            "station_name": "JAUNPUR JN"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 2,
+            "departure_time": "09:25",
+            "distance_km": 1172.0,
+            "sequence_number": 16,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "10:35",
+            "day_of_journey": 2,
+            "departure_time": "10:40",
+            "distance_km": 1190.0,
+            "sequence_number": 17,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 2,
+            "departure_time": "11:22",
+            "distance_km": 1243.0,
+            "sequence_number": 18,
+            "station_code": "BBU",
+            "station_name": "BHABUA ROAD"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 2,
+            "departure_time": "12:00",
+            "distance_km": 1291.0,
+            "sequence_number": 19,
+            "station_code": "SSM",
+            "station_name": "SASARAM"
+        },
+        {
+            "arrival_time": "12:13",
+            "day_of_journey": 2,
+            "departure_time": "12:15",
+            "distance_km": 1309.0,
+            "sequence_number": 20,
+            "station_code": "DOS",
+            "station_name": "DEHRI ON SONE"
+        },
+        {
+            "arrival_time": "12:28",
+            "day_of_journey": 2,
+            "departure_time": "12:30",
+            "distance_km": 1325.0,
+            "sequence_number": 21,
+            "station_code": "AUBR",
+            "station_name": "ANUGRAHA N ROAD"
+        },
+        {
+            "arrival_time": "12:48",
+            "day_of_journey": 2,
+            "departure_time": "12:50",
+            "distance_km": 1356.0,
+            "sequence_number": 22,
+            "station_code": "RFJ",
+            "station_name": "RAFIGANJ"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 2,
+            "departure_time": "13:55",
+            "distance_km": 1394.0,
+            "sequence_number": 23,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "15:14",
+            "day_of_journey": 2,
+            "departure_time": "15:16",
+            "distance_km": 1470.0,
+            "sequence_number": 24,
+            "station_code": "KQR",
+            "station_name": "KODERMA"
+        },
+        {
+            "arrival_time": "16:17",
+            "day_of_journey": 2,
+            "departure_time": "16:22",
+            "distance_km": 1563.0,
+            "sequence_number": 25,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 2,
+            "departure_time": "17:40",
+            "distance_km": 1596.0,
+            "sequence_number": 26,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 2,
+            "departure_time": "19:00",
+            "distance_km": 1656.0,
+            "sequence_number": 27,
+            "station_code": "PRR",
+            "station_name": "PURULIA JN."
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1746.0,
+            "sequence_number": 28,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        }
+    ],
+    "train_name": "ASR TATA EXP",
+    "train_number": "18104",
+    "type": "MAIL EXPRESS"
+}

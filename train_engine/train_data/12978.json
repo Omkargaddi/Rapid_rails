@@ -1,0 +1,171 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12978.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12978-AII-ERS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 1,
+            "departure_time": "10:42",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 134.0,
+            "sequence_number": 3,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "12:27",
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 141.0,
+            "sequence_number": 4,
+            "station_code": "DPA",
+            "station_name": "DURGAPURA"
+        },
+        {
+            "arrival_time": "14:25",
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 265.0,
+            "sequence_number": 5,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "15:55",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 373.0,
+            "sequence_number": 6,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "18:44",
+            "day_of_journey": 2,
+            "departure_time": "18:46",
+            "distance_km": 2076.0,
+            "sequence_number": 24,
+            "station_code": "UD",
+            "station_name": "UDUPI"
+        },
+        {
+            "arrival_time": "20:35",
+            "day_of_journey": 2,
+            "departure_time": "20:40",
+            "distance_km": 2143.0,
+            "sequence_number": 25,
+            "station_code": "MAJN",
+            "station_name": "MANGALORE JUNCTION"
+        },
+        {
+            "arrival_time": "21:19",
+            "day_of_journey": 2,
+            "departure_time": "21:20",
+            "distance_km": 2190.0,
+            "sequence_number": 26,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "22:32",
+            "day_of_journey": 2,
+            "departure_time": "22:35",
+            "distance_km": 2276.0,
+            "sequence_number": 27,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 2,
+            "departure_time": "23:50",
+            "distance_km": 2365.0,
+            "sequence_number": 28,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "00:23",
+            "day_of_journey": 3,
+            "departure_time": "00:25",
+            "distance_km": 2406.0,
+            "sequence_number": 29,
+            "station_code": "TIR",
+            "station_name": "TIRUR"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 3,
+            "departure_time": "01:20",
+            "distance_km": 2451.0,
+            "sequence_number": 30,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "01:55",
+            "day_of_journey": 3,
+            "departure_time": "01:58",
+            "distance_km": 2485.0,
+            "sequence_number": 31,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "02:56",
+            "day_of_journey": 3,
+            "departure_time": "02:58",
+            "distance_km": 2540.0,
+            "sequence_number": 32,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2559.0,
+            "sequence_number": 33,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        }
+    ],
+    "train_name": "MARU SAGAR EXP",
+    "train_number": "12978",
+    "type": "SUPERFAST"
+}

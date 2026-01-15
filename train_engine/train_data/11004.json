@@ -1,0 +1,213 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11004.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11004-SWV-DR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SWV",
+            "station_name": "SAWANTWADI ROAD"
+        },
+        {
+            "arrival_time": "20:14",
+            "day_of_journey": 1,
+            "departure_time": "20:16",
+            "distance_km": 21.0,
+            "sequence_number": 2,
+            "station_code": "KUDL",
+            "station_name": "KUDAL"
+        },
+        {
+            "arrival_time": "20:28",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 31.0,
+            "sequence_number": 3,
+            "station_code": "SNDD",
+            "station_name": "SINDHUDURG"
+        },
+        {
+            "arrival_time": "20:45",
+            "day_of_journey": 1,
+            "departure_time": "20:47",
+            "distance_km": 49.0,
+            "sequence_number": 4,
+            "station_code": "KKW",
+            "station_name": "KANKAVLI"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 64.0,
+            "sequence_number": 5,
+            "station_code": "NAN",
+            "station_name": "NANDGAON ROAD"
+        },
+        {
+            "arrival_time": "21:12",
+            "day_of_journey": 1,
+            "departure_time": "21:14",
+            "distance_km": 80.0,
+            "sequence_number": 6,
+            "station_code": "VBW",
+            "station_name": "VAIBHAVWADI ROAD"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:42",
+            "distance_km": 97.0,
+            "sequence_number": 7,
+            "station_code": "RAJP",
+            "station_name": "RAJAPUR ROAD"
+        },
+        {
+            "arrival_time": "21:56",
+            "day_of_journey": 1,
+            "departure_time": "21:58",
+            "distance_km": 113.0,
+            "sequence_number": 8,
+            "station_code": "VID",
+            "station_name": "VILAVADE"
+        },
+        {
+            "arrival_time": "22:12",
+            "day_of_journey": 1,
+            "departure_time": "22:14",
+            "distance_km": 129.0,
+            "sequence_number": 9,
+            "station_code": "ADVI",
+            "station_name": "ADAVALI"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 160.0,
+            "sequence_number": 10,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "23:38",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 194.0,
+            "sequence_number": 11,
+            "station_code": "SGR",
+            "station_name": "SANGAMESHWAR ROAD"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 1,
+            "departure_time": "23:52",
+            "distance_km": 207.0,
+            "sequence_number": 12,
+            "station_code": "AVRD",
+            "station_name": "ARAVALI ROAD"
+        },
+        {
+            "arrival_time": "00:02",
+            "day_of_journey": 2,
+            "departure_time": "00:04",
+            "distance_km": 218.0,
+            "sequence_number": 13,
+            "station_code": "SVX",
+            "station_name": "SAWARDA"
+        },
+        {
+            "arrival_time": "00:22",
+            "day_of_journey": 2,
+            "departure_time": "00:24",
+            "distance_km": 236.0,
+            "sequence_number": 14,
+            "station_code": "CHI",
+            "station_name": "CHIPLUN"
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 2,
+            "departure_time": "00:42",
+            "distance_km": 266.0,
+            "sequence_number": 15,
+            "station_code": "KHED",
+            "station_name": "KHED"
+        },
+        {
+            "arrival_time": "01:38",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 317.0,
+            "sequence_number": 16,
+            "station_code": "VEER",
+            "station_name": "VEER"
+        },
+        {
+            "arrival_time": "01:56",
+            "day_of_journey": 2,
+            "departure_time": "01:58",
+            "distance_km": 334.0,
+            "sequence_number": 17,
+            "station_code": "MNI",
+            "station_name": "MANGAON"
+        },
+        {
+            "arrival_time": "03:12",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 364.0,
+            "sequence_number": 18,
+            "station_code": "ROHA",
+            "station_name": "ROHA"
+        },
+        {
+            "arrival_time": "04:27",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 441.0,
+            "sequence_number": 19,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 478.0,
+            "sequence_number": 20,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 503.0,
+            "sequence_number": 21,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        }
+    ],
+    "train_name": "TUTARI EXPRESS",
+    "train_number": "11004",
+    "type": "MAIL EXPRESS"
+}

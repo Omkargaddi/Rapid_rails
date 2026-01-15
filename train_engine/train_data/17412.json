@@ -1,0 +1,180 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17412.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17412-KOP-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOP",
+            "station_name": "KOLHAPUR"
+        },
+        {
+            "arrival_time": "21:13",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 21.0,
+            "sequence_number": 2,
+            "station_code": "HTK",
+            "station_name": "HATKANANGALE"
+        },
+        {
+            "arrival_time": "21:29",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 35.0,
+            "sequence_number": 3,
+            "station_code": "JSP",
+            "station_name": "JAYASINGPUR"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 47.0,
+            "sequence_number": 4,
+            "station_code": "MRJ",
+            "station_name": "MIRAJ JN."
+        },
+        {
+            "arrival_time": "22:07",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 54.0,
+            "sequence_number": 5,
+            "station_code": "SLI",
+            "station_name": "SANGLI"
+        },
+        {
+            "arrival_time": "22:38",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 88.0,
+            "sequence_number": 6,
+            "station_code": "KOV",
+            "station_name": "KIRLOSKARVADI"
+        },
+        {
+            "arrival_time": "22:49",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 96.0,
+            "sequence_number": 7,
+            "station_code": "TKR",
+            "station_name": "TAKARI"
+        },
+        {
+            "arrival_time": "23:12",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 122.0,
+            "sequence_number": 8,
+            "station_code": "KRD",
+            "station_name": "KARAD"
+        },
+        {
+            "arrival_time": "00:12",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 181.0,
+            "sequence_number": 9,
+            "station_code": "STR",
+            "station_name": "SATARA"
+        },
+        {
+            "arrival_time": "03:25",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 326.0,
+            "sequence_number": 10,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "04:27",
+            "day_of_journey": 2,
+            "departure_time": "04:29",
+            "distance_km": 390.0,
+            "sequence_number": 11,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "04:34",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 394.0,
+            "sequence_number": 12,
+            "station_code": "KAD",
+            "station_name": "KHANDALA"
+        },
+        {
+            "arrival_time": "05:08",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 418.0,
+            "sequence_number": 13,
+            "station_code": "KJT",
+            "station_name": "KARJAT"
+        },
+        {
+            "arrival_time": "05:57",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 465.0,
+            "sequence_number": 14,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "06:12",
+            "day_of_journey": 2,
+            "departure_time": "06:15",
+            "distance_km": 485.0,
+            "sequence_number": 15,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "06:52",
+            "day_of_journey": 2,
+            "departure_time": "06:55",
+            "distance_km": 509.0,
+            "sequence_number": 16,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 518.0,
+            "sequence_number": 17,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "MAHALAXMI EXP",
+    "train_number": "17412",
+    "type": "MAIL EXPRESS"
+}

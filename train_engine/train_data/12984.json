@@ -1,0 +1,191 @@
+{
+    "classes_available": [
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12984.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12984-CDG-AII",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:38",
+            "distance_km": 45.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "21:07",
+            "day_of_journey": 1,
+            "departure_time": "21:09",
+            "distance_km": 86.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KKDE",
+            "station_name": "KURUKSHETRA JN"
+        },
+        {
+            "arrival_time": "21:32",
+            "day_of_journey": 1,
+            "departure_time": "21:34",
+            "distance_km": 120.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "KUN",
+            "station_name": "KARNAL"
+        },
+        {
+            "arrival_time": "22:18",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 154.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "PNP",
+            "station_name": "PANIPAT JN"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 193.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "GHNA",
+            "station_name": "GOHANA"
+        },
+        {
+            "arrival_time": "23:53",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 225.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "ROK",
+            "station_name": "ROHTAK JN"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 275.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BNW",
+            "station_name": "BHIWANI JN."
+        },
+        {
+            "arrival_time": "01:27",
+            "day_of_journey": 2,
+            "departure_time": "01:29",
+            "distance_km": 302.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "CKD",
+            "station_name": "CHARKHI DADRI"
+        },
+        {
+            "arrival_time": "02:38",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 357.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "RE",
+            "station_name": "REWARI JN."
+        },
+        {
+            "arrival_time": "03:47",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 431.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "AWR",
+            "station_name": "ALWAR JUNCTION"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:52",
+            "distance_km": 521.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "DO",
+            "station_name": "DAUSA JUNCTION"
+        },
+        {
+            "arrival_time": "05:24",
+            "day_of_journey": 2,
+            "departure_time": "05:26",
+            "distance_km": 571.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "GTJT",
+            "station_name": "GETOR JAGATPURA"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 582.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "07:08",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 636.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "07:46",
+            "day_of_journey": 2,
+            "departure_time": "07:48",
+            "distance_km": 691.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 716.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        }
+    ],
+    "train_name": "CDG AII G RATH",
+    "train_number": "12984",
+    "type": "GARIB RATH "
+}

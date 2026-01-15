@@ -1,0 +1,240 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15629.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15629-TBM-SHTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        },
+        {
+            "arrival_time": "19:05",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "MS",
+            "station_name": "CHENNAI EGMORE"
+        },
+        {
+            "arrival_time": "22:23",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 205.0,
+            "sequence_number": 3,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "23:53",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 321.0,
+            "sequence_number": 4,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 459.0,
+            "sequence_number": 5,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "02:59",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 519.0,
+            "sequence_number": 6,
+            "station_code": "EE",
+            "station_name": "ELURU"
+        },
+        {
+            "arrival_time": "04:53",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 609.0,
+            "sequence_number": 7,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 2,
+            "departure_time": "09:10",
+            "distance_km": 809.0,
+            "sequence_number": 8,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        },
+        {
+            "arrival_time": "13:10",
+            "day_of_journey": 2,
+            "departure_time": "13:15",
+            "distance_km": 1086.0,
+            "sequence_number": 9,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 2,
+            "departure_time": "15:25",
+            "distance_km": 1233.0,
+            "sequence_number": 10,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 2,
+            "departure_time": "15:50",
+            "distance_km": 1252.0,
+            "sequence_number": 11,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "16:25",
+            "day_of_journey": 2,
+            "departure_time": "16:30",
+            "distance_km": 1279.0,
+            "sequence_number": 12,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 3,
+            "departure_time": "16:50",
+            "distance_km": 2608.0,
+            "sequence_number": 36,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 3,
+            "departure_time": "17:45",
+            "distance_km": 2639.0,
+            "sequence_number": 37,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 3,
+            "departure_time": "20:05",
+            "distance_km": 2749.0,
+            "sequence_number": 38,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 3,
+            "departure_time": "22:05",
+            "distance_km": 2790.0,
+            "sequence_number": 39,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        },
+        {
+            "arrival_time": "22:25",
+            "day_of_journey": 3,
+            "departure_time": "22:35",
+            "distance_km": 2796.0,
+            "sequence_number": 40,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        },
+        {
+            "arrival_time": "23:33",
+            "day_of_journey": 3,
+            "departure_time": "23:35",
+            "distance_km": 2854.0,
+            "sequence_number": 41,
+            "station_code": "JID",
+            "station_name": "JAGI ROAD"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 4,
+            "departure_time": "00:12",
+            "distance_km": 2887.0,
+            "sequence_number": 42,
+            "station_code": "CPK",
+            "station_name": "CHAPARMUKH JN"
+        },
+        {
+            "arrival_time": "00:44",
+            "day_of_journey": 4,
+            "departure_time": "00:46",
+            "distance_km": 2908.0,
+            "sequence_number": 43,
+            "station_code": "SCE",
+            "station_name": "SENCHOA JN"
+        },
+        {
+            "arrival_time": "00:56",
+            "day_of_journey": 4,
+            "departure_time": "00:58",
+            "distance_km": 2914.0,
+            "sequence_number": 44,
+            "station_code": "NGAN",
+            "station_name": "NAGAON"
+        },
+        {
+            "arrival_time": "01:26",
+            "day_of_journey": 4,
+            "departure_time": "01:28",
+            "distance_km": 2941.0,
+            "sequence_number": 45,
+            "station_code": "AONI",
+            "station_name": "AMONI"
+        },
+        {
+            "arrival_time": "01:49",
+            "day_of_journey": 4,
+            "departure_time": "01:51",
+            "distance_km": 2955.0,
+            "sequence_number": 46,
+            "station_code": "JKB",
+            "station_name": "JAKHALABANDHA"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 4,
+            "departure_time": null,
+            "distance_km": 2963.0,
+            "sequence_number": 47,
+            "station_code": "SHTT",
+            "station_name": "SILGHAT TOWN"
+        }
+    ],
+    "train_name": "NAGAON EXPRESS",
+    "train_number": "15629",
+    "type": "MAIL EXPRESS"
+}

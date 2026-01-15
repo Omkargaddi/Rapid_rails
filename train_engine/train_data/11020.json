@@ -1,0 +1,223 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11020.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11020-BBSN-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BBSN",
+            "station_name": "BHUBANESWAR NEW JN"
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "MCS",
+            "station_name": "MANCHESWAR"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 13.0,
+            "sequence_number": 3,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "15:35",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 32.0,
+            "sequence_number": 4,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:22",
+            "distance_km": 103.0,
+            "sequence_number": 5,
+            "station_code": "BALU",
+            "station_name": "BALUGAN"
+        },
+        {
+            "arrival_time": "16:58",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 157.0,
+            "sequence_number": 6,
+            "station_code": "CAP",
+            "station_name": "CHATRAPUR"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 179.0,
+            "sequence_number": 7,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "17:51",
+            "day_of_journey": 1,
+            "departure_time": "17:53",
+            "distance_km": 203.0,
+            "sequence_number": 8,
+            "station_code": "IPM",
+            "station_name": "ICHCHPURAM"
+        },
+        {
+            "arrival_time": "18:11",
+            "day_of_journey": 1,
+            "departure_time": "18:13",
+            "distance_km": 221.0,
+            "sequence_number": 9,
+            "station_code": "SPT",
+            "station_name": "SOMPETA"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 253.0,
+            "sequence_number": 10,
+            "station_code": "PSA",
+            "station_name": "PALASA"
+        },
+        {
+            "arrival_time": "19:53",
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 325.0,
+            "sequence_number": 11,
+            "station_code": "CHE",
+            "station_name": "SRIKAKULAM ROAD"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 395.0,
+            "sequence_number": 12,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 2,
+            "departure_time": "17:30",
+            "distance_km": 1492.0,
+            "sequence_number": 36,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "18:53",
+            "day_of_journey": 2,
+            "departure_time": "18:55",
+            "distance_km": 1605.0,
+            "sequence_number": 37,
+            "station_code": "JEUR",
+            "station_name": "JEUR"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 2,
+            "departure_time": "21:40",
+            "distance_km": 1680.0,
+            "sequence_number": 38,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 2,
+            "departure_time": "23:40",
+            "distance_km": 1755.0,
+            "sequence_number": 39,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 3,
+            "departure_time": "00:42",
+            "distance_km": 1819.0,
+            "sequence_number": 40,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "01:30",
+            "day_of_journey": 3,
+            "departure_time": "01:32",
+            "distance_km": 1847.0,
+            "sequence_number": 41,
+            "station_code": "KJT",
+            "station_name": "KARJAT"
+        },
+        {
+            "arrival_time": "02:04",
+            "day_of_journey": 3,
+            "departure_time": "02:07",
+            "distance_km": 1893.0,
+            "sequence_number": 42,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 3,
+            "departure_time": "02:23",
+            "distance_km": 1913.0,
+            "sequence_number": 43,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "02:40",
+            "day_of_journey": 3,
+            "departure_time": "02:43",
+            "distance_km": 1938.0,
+            "sequence_number": 44,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1947.0,
+            "sequence_number": 45,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "KONARK EXPRESS",
+    "train_number": "11020",
+    "type": "MAIL EXPRESS"
+}

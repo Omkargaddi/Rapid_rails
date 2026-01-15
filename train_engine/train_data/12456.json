@@ -1,0 +1,245 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12456.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12456-BKN-DEE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BKN",
+            "station_name": "BIKANER JN"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 1,
+            "departure_time": "16:57",
+            "distance_km": 4.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "LGH",
+            "station_name": "LALGARH JN"
+        },
+        {
+            "arrival_time": "17:55",
+            "day_of_journey": 1,
+            "departure_time": "17:57",
+            "distance_km": 79.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "LKS",
+            "station_name": "LUNKARANSAR"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 181.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SOG",
+            "station_name": "SURATGARH JN"
+        },
+        {
+            "arrival_time": "19:51",
+            "day_of_journey": 1,
+            "departure_time": "19:53",
+            "distance_km": 207.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "JES",
+            "station_name": "JAITSAR"
+        },
+        {
+            "arrival_time": "20:16",
+            "day_of_journey": 1,
+            "departure_time": "20:18",
+            "distance_km": 237.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "RSNR",
+            "station_name": "RAI SINGH NAGAR"
+        },
+        {
+            "arrival_time": "20:31",
+            "day_of_journey": 1,
+            "departure_time": "20:33",
+            "distance_km": 251.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "GJS",
+            "station_name": "GAJSINGHPUR"
+        },
+        {
+            "arrival_time": "20:48",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 271.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "SRW",
+            "station_name": "SHRI KARANPUR"
+        },
+        {
+            "arrival_time": "21:07",
+            "day_of_journey": 1,
+            "departure_time": "21:09",
+            "distance_km": 294.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "KESR",
+            "station_name": "KESRI SINGHPUR"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 318.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "SGNR",
+            "station_name": "SHRI GANGANAGAR"
+        },
+        {
+            "arrival_time": "23:19",
+            "day_of_journey": 1,
+            "departure_time": "23:21",
+            "distance_km": 372.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "ABS",
+            "station_name": "ABOHAR"
+        },
+        {
+            "arrival_time": "23:42",
+            "day_of_journey": 1,
+            "departure_time": "23:44",
+            "distance_km": 401.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "MOT",
+            "station_name": "MALOUT"
+        },
+        {
+            "arrival_time": "23:58",
+            "day_of_journey": 2,
+            "departure_time": "00:00",
+            "distance_km": 417.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "GDB",
+            "station_name": "GIDDARBAHA"
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 445.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "BTI",
+            "station_name": "BATHINDA"
+        },
+        {
+            "arrival_time": "01:22",
+            "day_of_journey": 2,
+            "departure_time": "01:24",
+            "distance_km": 477.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "PUL",
+            "station_name": "RAMPURA PHUL"
+        },
+        {
+            "arrival_time": "01:48",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 510.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "BNN",
+            "station_name": "BARNALA"
+        },
+        {
+            "arrival_time": "02:26",
+            "day_of_journey": 2,
+            "departure_time": "02:28",
+            "distance_km": 540.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "DUI",
+            "station_name": "DHURI JN"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:07",
+            "distance_km": 556.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "SAG",
+            "station_name": "SANGRUR"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:02",
+            "distance_km": 606.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "JHL",
+            "station_name": "JAKHAL JN"
+        },
+        {
+            "arrival_time": "04:53",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 678.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "JIND",
+            "station_name": "JIND JN"
+        },
+        {
+            "arrival_time": "05:37",
+            "day_of_journey": 2,
+            "departure_time": "05:39",
+            "distance_km": 736.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "ROK",
+            "station_name": "ROHTAK JN"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 804.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        }
+    ],
+    "train_name": "BKN DEE SF EXP",
+    "train_number": "12456",
+    "type": "SUPERFAST "
+}

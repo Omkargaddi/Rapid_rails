@@ -1,0 +1,176 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22479.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22479-NDLS-LNK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "07:26",
+            "day_of_journey": 1,
+            "departure_time": "07:28",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "SSB",
+            "station_name": "SHAKURBASTI"
+        },
+        {
+            "arrival_time": "07:44",
+            "day_of_journey": 1,
+            "departure_time": "07:46",
+            "distance_km": 31.0,
+            "sequence_number": 3,
+            "station_code": "BGZ",
+            "station_name": "BAHADURGARH"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 71.0,
+            "sequence_number": 4,
+            "station_code": "ROK",
+            "station_name": "ROHTAK JN"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 1,
+            "departure_time": "09:02",
+            "distance_km": 128.0,
+            "sequence_number": 5,
+            "station_code": "JIND",
+            "station_name": "JIND JN"
+        },
+        {
+            "arrival_time": "09:27",
+            "day_of_journey": 1,
+            "departure_time": "09:29",
+            "distance_km": 162.0,
+            "sequence_number": 6,
+            "station_code": "NRW",
+            "station_name": "NARWANA JN"
+        },
+        {
+            "arrival_time": "09:49",
+            "day_of_journey": 1,
+            "departure_time": "09:51",
+            "distance_km": 188.0,
+            "sequence_number": 7,
+            "station_code": "TUN",
+            "station_name": "TOHANA"
+        },
+        {
+            "arrival_time": "10:16",
+            "day_of_journey": 1,
+            "departure_time": "10:18",
+            "distance_km": 200.0,
+            "sequence_number": 8,
+            "station_code": "JHL",
+            "station_name": "JAKHAL JN"
+        },
+        {
+            "arrival_time": "10:32",
+            "day_of_journey": 1,
+            "departure_time": "10:34",
+            "distance_km": 216.0,
+            "sequence_number": 9,
+            "station_code": "LHA",
+            "station_name": "LEHRA GAGA"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:02",
+            "distance_km": 250.0,
+            "sequence_number": 10,
+            "station_code": "SAG",
+            "station_name": "SANGRUR"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 1,
+            "departure_time": "11:22",
+            "distance_km": 266.0,
+            "sequence_number": 11,
+            "station_code": "DUI",
+            "station_name": "DHURI JN"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 1,
+            "departure_time": "12:35",
+            "distance_km": 328.0,
+            "sequence_number": 12,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 385.0,
+            "sequence_number": 13,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "13:58",
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 406.0,
+            "sequence_number": 14,
+            "station_code": "KXH",
+            "station_name": "KAPURTHALA"
+        },
+        {
+            "arrival_time": "14:08",
+            "day_of_journey": 1,
+            "departure_time": "14:09",
+            "distance_km": 412.0,
+            "sequence_number": 15,
+            "station_code": "RCF",
+            "station_name": "RAIL COACH FACTORY"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 1,
+            "departure_time": "14:32",
+            "distance_km": 431.0,
+            "sequence_number": 16,
+            "station_code": "SQR",
+            "station_name": "SULTANPUR LODI"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 437.0,
+            "sequence_number": 17,
+            "station_code": "LNK",
+            "station_name": "LOHIAN KHAS JN"
+        }
+    ],
+    "train_name": "SARBAT DA BHALA",
+    "train_number": "22479",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,165 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12578.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12578-MYS-DBG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        },
+        {
+            "arrival_time": "11:11",
+            "day_of_journey": 1,
+            "departure_time": "11:12",
+            "distance_km": 45.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "12:13",
+            "day_of_journey": 1,
+            "departure_time": "12:14",
+            "distance_km": 126.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KGI",
+            "station_name": "KENGERI"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 1,
+            "departure_time": "13:50",
+            "distance_km": 138.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "14:01",
+            "day_of_journey": 1,
+            "departure_time": "14:02",
+            "distance_km": 143.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BNC",
+            "station_name": "BANGALORE CANT"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 278.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 362.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "18:43",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 423.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 486.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 623.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "00:03",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 778.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 916.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "14:15",
+            "day_of_journey": 3,
+            "departure_time": "14:20",
+            "distance_km": 2989.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 3026.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        }
+    ],
+    "train_name": "BAGMATI EXP",
+    "train_number": "12578",
+    "type": "SUPERFAST "
+}

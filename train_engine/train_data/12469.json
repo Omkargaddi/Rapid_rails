@@ -1,0 +1,153 @@
+{
+    "classes_available": [
+        "1A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12469.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12469-CNB-JAT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "14:28",
+            "day_of_journey": 1,
+            "departure_time": "14:30",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "16:17",
+            "day_of_journey": 1,
+            "departure_time": "16:52",
+            "distance_km": 117.0,
+            "sequence_number": 3,
+            "station_code": "BLM",
+            "station_name": "BALAMU JN"
+        },
+        {
+            "arrival_time": "17:16",
+            "day_of_journey": 1,
+            "departure_time": "17:18",
+            "distance_km": 150.0,
+            "sequence_number": 4,
+            "station_code": "HRI",
+            "station_name": "HARDOI"
+        },
+        {
+            "arrival_time": "18:21",
+            "day_of_journey": 1,
+            "departure_time": "18:23",
+            "distance_km": 213.0,
+            "sequence_number": 5,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 284.0,
+            "sequence_number": 6,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 374.0,
+            "sequence_number": 7,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "23:15",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 514.0,
+            "sequence_number": 8,
+            "station_code": "LRJ",
+            "station_name": "LAKSAR JN"
+        },
+        {
+            "arrival_time": "00:35",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 567.0,
+            "sequence_number": 9,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "02:03",
+            "day_of_journey": 2,
+            "departure_time": "02:16",
+            "distance_km": 648.0,
+            "sequence_number": 10,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "03:44",
+            "day_of_journey": 2,
+            "departure_time": "03:54",
+            "distance_km": 762.0,
+            "sequence_number": 11,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "04:46",
+            "day_of_journey": 2,
+            "departure_time": "04:51",
+            "distance_km": 814.0,
+            "sequence_number": 12,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 927.0,
+            "sequence_number": 13,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1026.0,
+            "sequence_number": 14,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        }
+    ],
+    "train_name": "CNB JAT SF EXP",
+    "train_number": "12469",
+    "type": "MAIL EXPRESS"
+}

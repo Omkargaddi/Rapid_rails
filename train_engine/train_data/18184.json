@@ -1,0 +1,152 @@
+{
+    "classes_available": [
+        "3A",
+        "3E",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18184.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18184-BXR-TATA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "03:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "03:46",
+            "day_of_journey": 1,
+            "departure_time": "03:48",
+            "distance_km": 16.0,
+            "sequence_number": 2,
+            "station_code": "DURE",
+            "station_name": "DUMRAON"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 1,
+            "departure_time": "04:02",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "RPR",
+            "station_name": "RAGHUNATHPUR"
+        },
+        {
+            "arrival_time": "04:13",
+            "day_of_journey": 1,
+            "departure_time": "04:15",
+            "distance_km": 47.0,
+            "sequence_number": 4,
+            "station_code": "BEA",
+            "station_name": "BIHIYA"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 1,
+            "departure_time": "04:40",
+            "distance_km": 69.0,
+            "sequence_number": 5,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "04:56",
+            "day_of_journey": 1,
+            "departure_time": "04:58",
+            "distance_km": 91.0,
+            "sequence_number": 6,
+            "station_code": "BTA",
+            "station_name": "BIHTA"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 1,
+            "departure_time": "05:30",
+            "distance_km": 108.0,
+            "sequence_number": 7,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 1,
+            "departure_time": "05:55",
+            "distance_km": 118.0,
+            "sequence_number": 8,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 120.0,
+            "sequence_number": 9,
+            "station_code": "RJPB",
+            "station_name": "RAJENDRA NAGAR"
+        },
+        {
+            "arrival_time": "06:16",
+            "day_of_journey": 1,
+            "departure_time": "06:18",
+            "distance_km": 128.0,
+            "sequence_number": 10,
+            "station_code": "PNC",
+            "station_name": "PATNA SAHEB"
+        },
+        {
+            "arrival_time": "06:31",
+            "day_of_journey": 1,
+            "departure_time": "06:33",
+            "distance_km": 140.0,
+            "sequence_number": 11,
+            "station_code": "FUT",
+            "station_name": "FATUHA"
+        },
+        {
+            "arrival_time": "06:42",
+            "day_of_journey": 1,
+            "departure_time": "06:44",
+            "distance_km": 148.0,
+            "sequence_number": 12,
+            "station_code": "KOO",
+            "station_name": "KHUSROPUR"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 579.0,
+            "sequence_number": 36,
+            "station_code": "CNI",
+            "station_name": "CHANDIL JN."
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 615.0,
+            "sequence_number": 37,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        }
+    ],
+    "train_name": "BXR TATA EXP",
+    "train_number": "18184",
+    "type": "MAIL EXPRESS"
+}

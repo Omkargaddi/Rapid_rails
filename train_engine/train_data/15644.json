@@ -1,0 +1,107 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15644.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15644-KYQ-PURI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        },
+        {
+            "arrival_time": "00:18",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 124.0,
+            "sequence_number": 2,
+            "station_code": "GLPT",
+            "station_name": "GOALPARA TOWN"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 176.0,
+            "sequence_number": 3,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "03:10",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 288.0,
+            "sequence_number": 4,
+            "station_code": "APDJ",
+            "station_name": "ALIPUR DUAR JN"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 2,
+            "departure_time": "05:47",
+            "distance_km": 401.0,
+            "sequence_number": 5,
+            "station_code": "NMZ",
+            "station_name": "NEW MAL JN"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 2,
+            "departure_time": "07:35",
+            "distance_km": 449.0,
+            "sequence_number": 6,
+            "station_code": "SGUJ",
+            "station_name": "SILIGURI JN"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 3,
+            "departure_time": "05:20",
+            "distance_km": 1461.0,
+            "sequence_number": 24,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 3,
+            "departure_time": "05:45",
+            "distance_km": 1480.0,
+            "sequence_number": 25,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "07:45",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1524.0,
+            "sequence_number": 26,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        }
+    ],
+    "train_name": "KYQ PURI EXP",
+    "train_number": "15644",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,115 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17008.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "17008-DBG-CHZ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "08:13",
+            "day_of_journey": 1,
+            "departure_time": "08:18",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "09:20",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 88.0,
+            "sequence_number": 3,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 1,
+            "departure_time": "10:40",
+            "distance_km": 125.0,
+            "sequence_number": 4,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 1,
+            "departure_time": "12:25",
+            "distance_km": 179.0,
+            "sequence_number": 5,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "12:57",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 223.0,
+            "sequence_number": 6,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 2,
+            "departure_time": "14:36",
+            "distance_km": 1679.0,
+            "sequence_number": 24,
+            "station_code": "MCI",
+            "station_name": "MANCHERAL"
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 2,
+            "departure_time": "14:56",
+            "distance_km": 1693.0,
+            "sequence_number": 25,
+            "station_code": "RDM",
+            "station_name": "RAMGUNDAM"
+        },
+        {
+            "arrival_time": "16:28",
+            "day_of_journey": 2,
+            "departure_time": "16:30",
+            "distance_km": 1790.0,
+            "sequence_number": 26,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1909.0,
+            "sequence_number": 27,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        }
+    ],
+    "train_name": "DBG CHZ EXPRESS",
+    "train_number": "17008",
+    "type": "MAIL EXPRESS"
+}

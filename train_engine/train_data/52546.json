@@ -1,0 +1,64 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_52546.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "52546-GBE-SGUJ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GBE",
+            "station_name": "GAYABARI"
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "TDH",
+            "station_name": "TINDHARIA"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:46",
+            "distance_km": 19.0,
+            "sequence_number": 3,
+            "station_code": "RTG",
+            "station_name": "RANGTONG"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 1,
+            "departure_time": "17:22",
+            "distance_km": 26.0,
+            "sequence_number": 4,
+            "station_code": "SN",
+            "station_name": "SUKNA"
+        },
+        {
+            "arrival_time": "17:55",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 36.0,
+            "sequence_number": 5,
+            "station_code": "SGUJ",
+            "station_name": "SILIGURI JN"
+        }
+    ],
+    "train_name": "JUNGLE SAFARI Valid From : 17-Jan-2026",
+    "train_number": "52546",
+    "type": "PASSENGER"
+}

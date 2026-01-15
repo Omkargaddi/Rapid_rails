@@ -1,0 +1,270 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18626.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18626-HTE-PRNC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HTE",
+            "station_name": "HATIA"
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        },
+        {
+            "arrival_time": "06:13",
+            "day_of_journey": 1,
+            "departure_time": "06:14",
+            "distance_km": 11.0,
+            "sequence_number": 3,
+            "station_code": "NKM",
+            "station_name": "NAMKOM"
+        },
+        {
+            "arrival_time": "06:22",
+            "day_of_journey": 1,
+            "departure_time": "06:23",
+            "distance_km": 18.0,
+            "sequence_number": 4,
+            "station_code": "TIS",
+            "station_name": "TATISILWAI"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 1,
+            "departure_time": "07:12",
+            "distance_km": 67.0,
+            "sequence_number": 5,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 1,
+            "departure_time": "07:26",
+            "distance_km": 79.0,
+            "sequence_number": 6,
+            "station_code": "JAA",
+            "station_name": "JHALIDA"
+        },
+        {
+            "arrival_time": "07:49",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 91.0,
+            "sequence_number": 7,
+            "station_code": "KSX",
+            "station_name": "KOTSHILA"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 1,
+            "departure_time": "08:01",
+            "distance_km": 103.0,
+            "sequence_number": 8,
+            "station_code": "PNW",
+            "station_name": "PUNDAG"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 1,
+            "departure_time": "08:30",
+            "distance_km": 120.0,
+            "sequence_number": 9,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "09:17",
+            "day_of_journey": 1,
+            "departure_time": "09:19",
+            "distance_km": 135.0,
+            "sequence_number": 10,
+            "station_code": "CRP",
+            "station_name": "CHANDRAPURA"
+        },
+        {
+            "arrival_time": "09:27",
+            "day_of_journey": 1,
+            "departure_time": "09:29",
+            "distance_km": 143.0,
+            "sequence_number": 11,
+            "station_code": "TELO",
+            "station_name": "TELO"
+        },
+        {
+            "arrival_time": "09:41",
+            "day_of_journey": 1,
+            "departure_time": "09:46",
+            "distance_km": 152.0,
+            "sequence_number": 12,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "18:48",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 521.0,
+            "sequence_number": 36,
+            "station_code": "NBJU",
+            "station_name": "NEW BARAUNI JN."
+        },
+        {
+            "arrival_time": "19:06",
+            "day_of_journey": 1,
+            "departure_time": "19:08",
+            "distance_km": 535.0,
+            "sequence_number": 37,
+            "station_code": "BGS",
+            "station_name": "BEGUSARAI"
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 547.0,
+            "sequence_number": 38,
+            "station_code": "DPL",
+            "station_name": "DANAULI PHLWRIA"
+        },
+        {
+            "arrival_time": "19:26",
+            "day_of_journey": 1,
+            "departure_time": "19:28",
+            "distance_km": 553.0,
+            "sequence_number": 39,
+            "station_code": "LKN",
+            "station_name": "LAKHMINIA"
+        },
+        {
+            "arrival_time": "19:37",
+            "day_of_journey": 1,
+            "departure_time": "19:39",
+            "distance_km": 562.0,
+            "sequence_number": 40,
+            "station_code": "SKJ",
+            "station_name": "SAHIBPUR KAMAL JN"
+        },
+        {
+            "arrival_time": "20:03",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 575.0,
+            "sequence_number": 41,
+            "station_code": "KGG",
+            "station_name": "KHAGARIA JN."
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 584.0,
+            "sequence_number": 42,
+            "station_code": "MNE",
+            "station_name": "MANSI JN"
+        },
+        {
+            "arrival_time": "20:41",
+            "day_of_journey": 1,
+            "departure_time": "20:43",
+            "distance_km": 592.0,
+            "sequence_number": 43,
+            "station_code": "BHB",
+            "station_name": "BADLA GHAT"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 1,
+            "departure_time": "20:57",
+            "distance_km": 605.0,
+            "sequence_number": 44,
+            "station_code": "KFA",
+            "station_name": "KOPARIA"
+        },
+        {
+            "arrival_time": "21:04",
+            "day_of_journey": 1,
+            "departure_time": "21:06",
+            "distance_km": 612.0,
+            "sequence_number": 45,
+            "station_code": "SBV",
+            "station_name": "S BHAKHTIYARPUR"
+        },
+        {
+            "arrival_time": "21:25",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 628.0,
+            "sequence_number": 46,
+            "station_code": "Point(2)",
+            "station_name": "SAHARSA JN SHC Train Reversal"
+        },
+        {
+            "arrival_time": "22:18",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 650.0,
+            "sequence_number": 47,
+            "station_code": "DMH",
+            "station_name": "DAURAM MADHPURA"
+        },
+        {
+            "arrival_time": "22:38",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 672.0,
+            "sequence_number": 48,
+            "station_code": "MRIJ",
+            "station_name": "MURLIGANJ"
+        },
+        {
+            "arrival_time": "22:57",
+            "day_of_journey": 1,
+            "departure_time": "22:59",
+            "distance_km": 692.0,
+            "sequence_number": 49,
+            "station_code": "BNKI",
+            "station_name": "BANMANKHI JN."
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 723.0,
+            "sequence_number": 50,
+            "station_code": "PRNC",
+            "station_name": "PURNIA COURT"
+        }
+    ],
+    "train_name": "HTE PRNC EXP",
+    "train_number": "18626",
+    "type": "MAIL EXPRESS"
+}

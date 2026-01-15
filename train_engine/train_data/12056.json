@@ -1,0 +1,112 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12056.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12056-DDN-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DDN",
+            "station_name": "DEHRADOON"
+        },
+        {
+            "arrival_time": "06:24",
+            "day_of_journey": 1,
+            "departure_time": "06:29",
+            "distance_km": 52.0,
+            "sequence_number": 2,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "07:07",
+            "day_of_journey": 1,
+            "departure_time": "07:09",
+            "distance_km": 93.0,
+            "sequence_number": 3,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "07:59",
+            "day_of_journey": 1,
+            "departure_time": "08:01",
+            "distance_km": 125.0,
+            "sequence_number": 4,
+            "station_code": "TPZ",
+            "station_name": "TAPRI"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 1,
+            "departure_time": "08:22",
+            "distance_km": 153.0,
+            "sequence_number": 5,
+            "station_code": "DBD",
+            "station_name": "DEOBAND"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 1,
+            "departure_time": "08:42",
+            "distance_km": 176.0,
+            "sequence_number": 6,
+            "station_code": "MOZ",
+            "station_name": "MUZAFFARNAGAR"
+        },
+        {
+            "arrival_time": "09:21",
+            "day_of_journey": 1,
+            "departure_time": "09:23",
+            "distance_km": 232.0,
+            "sequence_number": 7,
+            "station_code": "MTC",
+            "station_name": "MEERUT CITY"
+        },
+        {
+            "arrival_time": "10:16",
+            "day_of_journey": 1,
+            "departure_time": "10:18",
+            "distance_km": 279.0,
+            "sequence_number": 8,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "10:44",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 302.0,
+            "sequence_number": 9,
+            "station_code": "TKJ",
+            "station_name": "TILAK BRIDGE"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 305.0,
+            "sequence_number": 10,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "JANSHATABDI EXP",
+    "train_number": "12056",
+    "type": "JAN SHATABDI"
+}

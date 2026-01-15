@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12631.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12631-MS-TEN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MS",
+            "station_name": "CHENNAI EGMORE"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:17",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        },
+        {
+            "arrival_time": "21:43",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 56.0,
+            "sequence_number": 3,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 91.0,
+            "sequence_number": 4,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "22:33",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 121.0,
+            "sequence_number": 5,
+            "station_code": "TMV",
+            "station_name": "TINDIVANAM"
+        },
+        {
+            "arrival_time": "23:28",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 158.0,
+            "sequence_number": 6,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "00:12",
+            "day_of_journey": 2,
+            "departure_time": "00:14",
+            "distance_km": 213.0,
+            "sequence_number": 7,
+            "station_code": "VRI",
+            "station_name": "VRIDDHACHALAM JN"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 336.0,
+            "sequence_number": 8,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "03:07",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 430.0,
+            "sequence_number": 9,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "03:39",
+            "day_of_journey": 2,
+            "departure_time": "03:40",
+            "distance_km": 475.0,
+            "sequence_number": 10,
+            "station_code": "SDN",
+            "station_name": "SHOLAVANDAN"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:05",
+            "distance_km": 496.0,
+            "sequence_number": 11,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "04:43",
+            "day_of_journey": 2,
+            "departure_time": "04:45",
+            "distance_km": 539.0,
+            "sequence_number": 12,
+            "station_code": "VPT",
+            "station_name": "VIRUDUNAGAR JN"
+        },
+        {
+            "arrival_time": "05:03",
+            "day_of_journey": 2,
+            "departure_time": "05:05",
+            "distance_km": 566.0,
+            "sequence_number": 13,
+            "station_code": "SRT",
+            "station_name": "SATUR"
+        },
+        {
+            "arrival_time": "05:23",
+            "day_of_journey": 2,
+            "departure_time": "05:25",
+            "distance_km": 588.0,
+            "sequence_number": 14,
+            "station_code": "CVP",
+            "station_name": "KOVILPATTI"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 653.0,
+            "sequence_number": 15,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        }
+    ],
+    "train_name": "NELLAI SF EXP",
+    "train_number": "12631",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,116 @@
+{
+    "classes_available": [
+        "3E",
+        "CC",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12411.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12411-CDG-ASR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "07:05",
+            "day_of_journey": 1,
+            "departure_time": "07:07",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "SASN",
+            "station_name": "SAHIBZADA AJIT SINGH NAGAR"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 1,
+            "departure_time": "07:22",
+            "distance_km": 28.0,
+            "sequence_number": 3,
+            "station_code": "KARR",
+            "station_name": "KHARAR"
+        },
+        {
+            "arrival_time": "07:38",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 44.0,
+            "sequence_number": 4,
+            "station_code": "NMDA",
+            "station_name": "NEW MORINDA"
+        },
+        {
+            "arrival_time": "08:03",
+            "day_of_journey": 1,
+            "departure_time": "08:05",
+            "distance_km": 76.0,
+            "sequence_number": 5,
+            "station_code": "SMRL",
+            "station_name": "SAMARALA"
+        },
+        {
+            "arrival_time": "08:52",
+            "day_of_journey": 1,
+            "departure_time": "09:02",
+            "distance_km": 111.0,
+            "sequence_number": 6,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "09:32",
+            "day_of_journey": 1,
+            "departure_time": "09:34",
+            "distance_km": 147.0,
+            "sequence_number": 7,
+            "station_code": "PGW",
+            "station_name": "PHAGWARA JN"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 168.0,
+            "sequence_number": 8,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "10:34",
+            "day_of_journey": 1,
+            "departure_time": "10:36",
+            "distance_km": 204.0,
+            "sequence_number": 9,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "11:24",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 247.0,
+            "sequence_number": 10,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        }
+    ],
+    "train_name": "INTERCITY EXP",
+    "train_number": "12411",
+    "type": "SUPERFAST"
+}

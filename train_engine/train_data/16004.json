@@ -1,0 +1,115 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16004.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16004-NSL-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NSL",
+            "station_name": "NAGARSOL"
+        },
+        {
+            "arrival_time": "14:45",
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 89.0,
+            "sequence_number": 2,
+            "station_code": "CPSN",
+            "station_name": "CHHATRAPATI SAMBHAJINAGAR"
+        },
+        {
+            "arrival_time": "15:58",
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 151.0,
+            "sequence_number": 3,
+            "station_code": "J",
+            "station_name": "JALNA"
+        },
+        {
+            "arrival_time": "17:58",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 266.0,
+            "sequence_number": 4,
+            "station_code": "PBN",
+            "station_name": "PARBHANI JN"
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 294.0,
+            "sequence_number": 5,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 325.0,
+            "sequence_number": 6,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        },
+        {
+            "arrival_time": "13:33",
+            "day_of_journey": 2,
+            "departure_time": "13:35",
+            "distance_km": 1277.0,
+            "sequence_number": 24,
+            "station_code": "TRT",
+            "station_name": "TIRUTTANI"
+        },
+        {
+            "arrival_time": "13:58",
+            "day_of_journey": 2,
+            "departure_time": "14:00",
+            "distance_km": 1290.0,
+            "sequence_number": 25,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 2,
+            "departure_time": "14:50",
+            "distance_km": 1352.0,
+            "sequence_number": 26,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "15:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1359.0,
+            "sequence_number": 27,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "NSL MAS WKLY EXP",
+    "train_number": "16004",
+    "type": "MAIL EXPRESS"
+}

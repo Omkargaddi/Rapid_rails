@@ -1,0 +1,76 @@
+{
+    "classes_available": [
+        "EC",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12005.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12005-NDLS-KLK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 89.0,
+            "sequence_number": 2,
+            "station_code": "PNP",
+            "station_name": "PANIPAT JN"
+        },
+        {
+            "arrival_time": "19:00",
+            "day_of_journey": 1,
+            "departure_time": "19:02",
+            "distance_km": 157.0,
+            "sequence_number": 3,
+            "station_code": "KKDE",
+            "station_name": "KURUKSHETRA JN"
+        },
+        {
+            "arrival_time": "19:50",
+            "day_of_journey": 1,
+            "departure_time": "19:53",
+            "distance_km": 198.0,
+            "sequence_number": 4,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:38",
+            "distance_km": 243.0,
+            "sequence_number": 5,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 268.0,
+            "sequence_number": 6,
+            "station_code": "KLK",
+            "station_name": "KALKA"
+        }
+    ],
+    "train_name": "KALKA SHTBDI EX",
+    "train_number": "12005",
+    "type": "SHATABDI"
+}

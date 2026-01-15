@@ -1,0 +1,269 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16217.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16217-MYS-SNSI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 1,
+            "departure_time": "06:39",
+            "distance_km": 45.0,
+            "sequence_number": 2,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 1,
+            "departure_time": "08:01",
+            "distance_km": 126.0,
+            "sequence_number": 3,
+            "station_code": "KGI",
+            "station_name": "KENGERI"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 138.0,
+            "sequence_number": 4,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 1,
+            "departure_time": "08:52",
+            "distance_km": 144.0,
+            "sequence_number": 5,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        },
+        {
+            "arrival_time": "09:42",
+            "day_of_journey": 1,
+            "departure_time": "09:44",
+            "distance_km": 209.0,
+            "sequence_number": 6,
+            "station_code": "TK",
+            "station_name": "TUMKUR"
+        },
+        {
+            "arrival_time": "10:55",
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 304.0,
+            "sequence_number": 7,
+            "station_code": "ASK",
+            "station_name": "ARSIKERE JN"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 1,
+            "departure_time": "11:37",
+            "distance_km": 349.0,
+            "sequence_number": 8,
+            "station_code": "RRB",
+            "station_name": "BIRUR JN"
+        },
+        {
+            "arrival_time": "12:13",
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 418.0,
+            "sequence_number": 9,
+            "station_code": "JRU",
+            "station_name": "CHIKJAJUR JN"
+        },
+        {
+            "arrival_time": "12:58",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 451.0,
+            "sequence_number": 10,
+            "station_code": "CTA",
+            "station_name": "CHITRADURG"
+        },
+        {
+            "arrival_time": "13:55",
+            "day_of_journey": 1,
+            "departure_time": "13:57",
+            "distance_km": 549.0,
+            "sequence_number": 11,
+            "station_code": "RDG",
+            "station_name": "RAYADURG"
+        },
+        {
+            "arrival_time": "16:41",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 602.0,
+            "sequence_number": 12,
+            "station_code": "BYCH",
+            "station_name": "BELLARYCANT HALT"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 664.0,
+            "sequence_number": 13,
+            "station_code": "HPT",
+            "station_name": "HOSAPETE JUNCTION"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 692.0,
+            "sequence_number": 14,
+            "station_code": "KBL",
+            "station_name": "KOPPAL"
+        },
+        {
+            "arrival_time": "19:35",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 749.0,
+            "sequence_number": 15,
+            "station_code": "GDG",
+            "station_name": "GADAG JN"
+        },
+        {
+            "arrival_time": "20:59",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 816.0,
+            "sequence_number": 16,
+            "station_code": "BDM",
+            "station_name": "BADAMI"
+        },
+        {
+            "arrival_time": "21:28",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 842.0,
+            "sequence_number": 17,
+            "station_code": "BGK",
+            "station_name": "BAGALKOT"
+        },
+        {
+            "arrival_time": "22:26",
+            "day_of_journey": 1,
+            "departure_time": "22:27",
+            "distance_km": 877.0,
+            "sequence_number": 18,
+            "station_code": "LMT",
+            "station_name": "ALMATTI"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 939.0,
+            "sequence_number": 19,
+            "station_code": "BJP",
+            "station_name": "VIJAYAPURA"
+        },
+        {
+            "arrival_time": "00:29",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 975.0,
+            "sequence_number": 20,
+            "station_code": "NBL",
+            "station_name": "NIMBAL"
+        },
+        {
+            "arrival_time": "00:44",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 989.0,
+            "sequence_number": 21,
+            "station_code": "IDR",
+            "station_name": "INDI ROAD"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 1047.0,
+            "sequence_number": 22,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "03:58",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 1126.0,
+            "sequence_number": 23,
+            "station_code": "KWV",
+            "station_name": "KURDUVADI JN."
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 1235.0,
+            "sequence_number": 24,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        },
+        {
+            "arrival_time": "08:07",
+            "day_of_journey": 2,
+            "departure_time": "08:10",
+            "distance_km": 1322.0,
+            "sequence_number": 25,
+            "station_code": "ANG",
+            "station_name": "AHILYANAGAR"
+        },
+        {
+            "arrival_time": "09:12",
+            "day_of_journey": 2,
+            "departure_time": "09:15",
+            "distance_km": 1388.0,
+            "sequence_number": 26,
+            "station_code": "BAP",
+            "station_name": "BELAPUR"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1425.0,
+            "sequence_number": 27,
+            "station_code": "SNSI",
+            "station_name": "SAINAGAR SHIRDI"
+        }
+    ],
+    "train_name": "MYS-SNSI EXPRESS",
+    "train_number": "16217",
+    "type": "MAIL EXPRESS"
+}

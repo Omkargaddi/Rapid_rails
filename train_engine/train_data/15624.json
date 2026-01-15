@@ -1,0 +1,125 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15624.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15624-KYQ-BGKT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 106.0,
+            "sequence_number": 3,
+            "station_code": "BPRD",
+            "station_name": "BARPETA ROAD"
+        },
+        {
+            "arrival_time": "20:10",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 150.0,
+            "sequence_number": 4,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 182.0,
+            "sequence_number": 5,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 260.0,
+            "sequence_number": 6,
+            "station_code": "NOQ",
+            "station_name": "NEW ALIPURDUAR"
+        },
+        {
+            "arrival_time": "17:14",
+            "day_of_journey": 3,
+            "departure_time": "17:16",
+            "distance_km": 2358.0,
+            "sequence_number": 41,
+            "station_code": "CTKT",
+            "station_name": "CHHOTI KHATU"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 3,
+            "departure_time": "17:53",
+            "distance_km": 2388.0,
+            "sequence_number": 42,
+            "station_code": "DNA",
+            "station_name": "DEGANA JN"
+        },
+        {
+            "arrival_time": "18:24",
+            "day_of_journey": 3,
+            "departure_time": "18:29",
+            "distance_km": 2433.0,
+            "sequence_number": 43,
+            "station_code": "MTD",
+            "station_name": "MERTA ROAD JN"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 3,
+            "departure_time": "19:50",
+            "distance_km": 2537.0,
+            "sequence_number": 44,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2540.0,
+            "sequence_number": 45,
+            "station_code": "BGKT",
+            "station_name": "BHAGAT KI KOTHI"
+        }
+    ],
+    "train_name": "KYQ BGKT EXP",
+    "train_number": "15624",
+    "type": "MAIL EXPRESS"
+}

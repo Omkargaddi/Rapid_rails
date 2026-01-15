@@ -1,0 +1,215 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12786.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12786-AP-KCG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AP",
+            "station_name": "ASHOKAPURAM"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 1,
+            "departure_time": "15:46",
+            "distance_km": 51.0,
+            "sequence_number": 3,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "16:23",
+            "day_of_journey": 1,
+            "departure_time": "16:24",
+            "distance_km": 99.0,
+            "sequence_number": 4,
+            "station_code": "RMGM",
+            "station_name": "RAMANAGARAM"
+        },
+        {
+            "arrival_time": "16:49",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 131.0,
+            "sequence_number": 5,
+            "station_code": "KGI",
+            "station_name": "KENGERI"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 143.0,
+            "sequence_number": 6,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "18:11",
+            "day_of_journey": 1,
+            "departure_time": "18:12",
+            "distance_km": 148.0,
+            "sequence_number": 7,
+            "station_code": "BNC",
+            "station_name": "BANGALORE CANT"
+        },
+        {
+            "arrival_time": "18:41",
+            "day_of_journey": 1,
+            "departure_time": "18:43",
+            "distance_km": 170.0,
+            "sequence_number": 8,
+            "station_code": "YNK",
+            "station_name": "YELAHANKA JN."
+        },
+        {
+            "arrival_time": "19:01",
+            "day_of_journey": 1,
+            "departure_time": "19:02",
+            "distance_km": 191.0,
+            "sequence_number": 9,
+            "station_code": "DBU",
+            "station_name": "DODBALLAPUR"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 230.0,
+            "sequence_number": 10,
+            "station_code": "GBD",
+            "station_name": "GAURIBIDANUR"
+        },
+        {
+            "arrival_time": "19:54",
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 254.0,
+            "sequence_number": 11,
+            "station_code": "HUP",
+            "station_name": "HINDUPUR"
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 1,
+            "departure_time": "20:24",
+            "distance_km": 291.0,
+            "sequence_number": 12,
+            "station_code": "PKD",
+            "station_name": "PENUKONDA"
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 332.0,
+            "sequence_number": 13,
+            "station_code": "DMM",
+            "station_name": "DHARMAVARAM JN"
+        },
+        {
+            "arrival_time": "22:18",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 366.0,
+            "sequence_number": 14,
+            "station_code": "ATP",
+            "station_name": "ANANTAPUR"
+        },
+        {
+            "arrival_time": "23:13",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 423.0,
+            "sequence_number": 15,
+            "station_code": "GY",
+            "station_name": "GOOTY"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 477.0,
+            "sequence_number": 16,
+            "station_code": "DHNE",
+            "station_name": "DHONE JN"
+        },
+        {
+            "arrival_time": "01:18",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 530.0,
+            "sequence_number": 17,
+            "station_code": "KRNT",
+            "station_name": "KURNOOL CITY"
+        },
+        {
+            "arrival_time": "02:09",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 585.0,
+            "sequence_number": 18,
+            "station_code": "GWD",
+            "station_name": "GADWAL"
+        },
+        {
+            "arrival_time": "03:18",
+            "day_of_journey": 2,
+            "departure_time": "03:20",
+            "distance_km": 660.0,
+            "sequence_number": 19,
+            "station_code": "MBNR",
+            "station_name": "MAHBUBNAGAR"
+        },
+        {
+            "arrival_time": "03:39",
+            "day_of_journey": 2,
+            "departure_time": "03:40",
+            "distance_km": 677.0,
+            "sequence_number": 20,
+            "station_code": "JCL",
+            "station_name": "JADCHERLA"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 765.0,
+            "sequence_number": 21,
+            "station_code": "KCG",
+            "station_name": "KACHEGUDA"
+        }
+    ],
+    "train_name": "KACHEGUDA EXP",
+    "train_number": "12786",
+    "type": "SUPERFAST"
+}

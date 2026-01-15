@@ -1,0 +1,215 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15930.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15930-NTSK-TBM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NTSK",
+            "station_name": "NEW TINSUKIA"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 1,
+            "departure_time": "07:25",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "DBRG",
+            "station_name": "DIBRUGARH"
+        },
+        {
+            "arrival_time": "08:13",
+            "day_of_journey": 1,
+            "departure_time": "08:15",
+            "distance_km": 104.0,
+            "sequence_number": 3,
+            "station_code": "DMC",
+            "station_name": "DHEMAJI"
+        },
+        {
+            "arrival_time": "09:45",
+            "day_of_journey": 1,
+            "departure_time": "09:50",
+            "distance_km": 173.0,
+            "sequence_number": 4,
+            "station_code": "NLP",
+            "station_name": "NORTH LAKHIMPUR"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 1,
+            "departure_time": "10:30",
+            "distance_km": 203.0,
+            "sequence_number": 5,
+            "station_code": "HMY",
+            "station_name": "HARMUTI"
+        },
+        {
+            "arrival_time": "11:40",
+            "day_of_journey": 1,
+            "departure_time": "11:42",
+            "distance_km": 306.0,
+            "sequence_number": 6,
+            "station_code": "VNE",
+            "station_name": "VISHWANATH CHARIALI"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 1,
+            "departure_time": "12:50",
+            "distance_km": 356.0,
+            "sequence_number": 7,
+            "station_code": "RPAN",
+            "station_name": "RANGAPARA NORTH"
+        },
+        {
+            "arrival_time": "13:02",
+            "day_of_journey": 1,
+            "departure_time": "13:04",
+            "distance_km": 367.0,
+            "sequence_number": 8,
+            "station_code": "NMM",
+            "station_name": "NEW MISAMARI"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 479.0,
+            "sequence_number": 9,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "16:40",
+            "day_of_journey": 1,
+            "departure_time": "16:42",
+            "distance_km": 552.0,
+            "sequence_number": 10,
+            "station_code": "SBE",
+            "station_name": "SORBHOG JN"
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 589.0,
+            "sequence_number": 11,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "19:28",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 620.0,
+            "sequence_number": 12,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "00:25",
+            "day_of_journey": 3,
+            "departure_time": "00:30",
+            "distance_km": 2142.0,
+            "sequence_number": 36,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 3,
+            "departure_time": "05:50",
+            "distance_km": 2419.0,
+            "sequence_number": 37,
+            "station_code": "Point(2)",
+            "station_name": "VISAKHAPATNAM VSKP Train Reversal"
+        },
+        {
+            "arrival_time": "08:39",
+            "day_of_journey": 3,
+            "departure_time": "08:40",
+            "distance_km": 2620.0,
+            "sequence_number": 38,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "10:03",
+            "day_of_journey": 3,
+            "departure_time": "10:05",
+            "distance_km": 2709.0,
+            "sequence_number": 39,
+            "station_code": "EE",
+            "station_name": "ELURU"
+        },
+        {
+            "arrival_time": "11:50",
+            "day_of_journey": 3,
+            "departure_time": "12:00",
+            "distance_km": 2769.0,
+            "sequence_number": 40,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "13:59",
+            "day_of_journey": 3,
+            "departure_time": "14:00",
+            "distance_km": 2907.0,
+            "sequence_number": 41,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "15:34",
+            "day_of_journey": 3,
+            "departure_time": "15:35",
+            "distance_km": 3023.0,
+            "sequence_number": 42,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 3,
+            "departure_time": "19:55",
+            "distance_km": 3203.0,
+            "sequence_number": 43,
+            "station_code": "MS",
+            "station_name": "CHENNAI EGMORE"
+        },
+        {
+            "arrival_time": "20:35",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 3228.0,
+            "sequence_number": 44,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        }
+    ],
+    "train_name": "NTSK TBM EXP",
+    "train_number": "15930",
+    "type": "MAIL EXPRESS"
+}

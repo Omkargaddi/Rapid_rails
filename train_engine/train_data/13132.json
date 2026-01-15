@@ -1,0 +1,42 @@
+{
+    "classes_available": [
+        "1A",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13132.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "13132-NJP-HDB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 57.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "HDB",
+            "station_name": "HALDIBARI"
+        }
+    ],
+    "train_name": "MITALI EXPRESS",
+    "train_number": "13132",
+    "type": "MAIL EXPRESS "
+}

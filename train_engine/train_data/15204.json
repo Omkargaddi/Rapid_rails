@@ -1,0 +1,153 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15204.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15204-LJN-BJU",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        },
+        {
+            "arrival_time": "15:31",
+            "day_of_journey": 1,
+            "departure_time": "15:33",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "LC",
+            "station_name": "LUCKNOW CITY"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "15:53",
+            "distance_km": 12.0,
+            "sequence_number": 3,
+            "station_code": "BNZ",
+            "station_name": "BADSHAHNAGAR"
+        },
+        {
+            "arrival_time": "15:59",
+            "day_of_journey": 1,
+            "departure_time": "16:01",
+            "distance_km": 16.0,
+            "sequence_number": 4,
+            "station_code": "GTNR",
+            "station_name": "GOMTI NAGAR"
+        },
+        {
+            "arrival_time": "16:38",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 36.0,
+            "sequence_number": 5,
+            "station_code": "BBK",
+            "station_name": "BARABANKI JN"
+        },
+        {
+            "arrival_time": "17:04",
+            "day_of_journey": 1,
+            "departure_time": "17:06",
+            "distance_km": 64.0,
+            "sequence_number": 6,
+            "station_code": "BUW",
+            "station_name": "BURHWAL JN"
+        },
+        {
+            "arrival_time": "17:23",
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 79.0,
+            "sequence_number": 7,
+            "station_code": "JLD",
+            "station_name": "JARWAL ROAD"
+        },
+        {
+            "arrival_time": "17:41",
+            "day_of_journey": 1,
+            "departure_time": "17:43",
+            "distance_km": 96.0,
+            "sequence_number": 8,
+            "station_code": "CLJ",
+            "station_name": "COLONELGANJ"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 125.0,
+            "sequence_number": 9,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "18:42",
+            "day_of_journey": 1,
+            "departure_time": "18:44",
+            "distance_km": 153.0,
+            "sequence_number": 10,
+            "station_code": "MUR",
+            "station_name": "MANKAPUR JN"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 167.0,
+            "sequence_number": 11,
+            "station_code": "MSW",
+            "station_name": "MASKANWA"
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 184.0,
+            "sequence_number": 12,
+            "station_code": "BV",
+            "station_name": "BABHNAN"
+        },
+        {
+            "arrival_time": "06:47",
+            "day_of_journey": 2,
+            "departure_time": "06:49",
+            "distance_km": 658.0,
+            "sequence_number": 36,
+            "station_code": "BCA",
+            "station_name": "BACHWARA JN"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 675.0,
+            "sequence_number": 37,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        }
+    ],
+    "train_name": "LJN BJU EXPRESS",
+    "train_number": "15204",
+    "type": "MAIL EXPRESS"
+}

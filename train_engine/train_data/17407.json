@@ -1,0 +1,204 @@
+{
+    "classes_available": [
+        "3A",
+        "SL",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17407.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "17407-TPTY-MQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        },
+        {
+            "arrival_time": "12:28",
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "PAK",
+            "station_name": "PAKALA JN"
+        },
+        {
+            "arrival_time": "12:53",
+            "day_of_journey": 1,
+            "departure_time": "12:55",
+            "distance_km": 72.0,
+            "sequence_number": 3,
+            "station_code": "CTO",
+            "station_name": "CHITTOOR"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 1,
+            "departure_time": "13:55",
+            "distance_km": 104.0,
+            "sequence_number": 4,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "14:18",
+            "day_of_journey": 1,
+            "departure_time": "14:20",
+            "distance_km": 114.0,
+            "sequence_number": 5,
+            "station_code": "VLR",
+            "station_name": "VELLORE CANTONMENT"
+        },
+        {
+            "arrival_time": "14:54",
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 150.0,
+            "sequence_number": 6,
+            "station_code": "ARV",
+            "station_name": "ARNI ROAD"
+        },
+        {
+            "arrival_time": "15:07",
+            "day_of_journey": 1,
+            "departure_time": "15:08",
+            "distance_km": 166.0,
+            "sequence_number": 7,
+            "station_code": "PRL",
+            "station_name": "POLUR"
+        },
+        {
+            "arrival_time": "15:38",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 197.0,
+            "sequence_number": 8,
+            "station_code": "TNM",
+            "station_name": "TIRUVANNAMALAI"
+        },
+        {
+            "arrival_time": "16:09",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 231.0,
+            "sequence_number": 9,
+            "station_code": "TRK",
+            "station_name": "TIRUKKOVILUR"
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 265.0,
+            "sequence_number": 10,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "17:31",
+            "day_of_journey": 1,
+            "departure_time": "17:32",
+            "distance_km": 284.0,
+            "sequence_number": 11,
+            "station_code": "PRT",
+            "station_name": "PANRUTI"
+        },
+        {
+            "arrival_time": "18:09",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 311.0,
+            "sequence_number": 12,
+            "station_code": "CUPJ",
+            "station_name": "CUDDALORE PORT JN."
+        },
+        {
+            "arrival_time": "19:14",
+            "day_of_journey": 1,
+            "departure_time": "19:16",
+            "distance_km": 350.0,
+            "sequence_number": 13,
+            "station_code": "CDM",
+            "station_name": "CHIDAMBARAM"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:34",
+            "distance_km": 367.0,
+            "sequence_number": 14,
+            "station_code": "SY",
+            "station_name": "SIRKAZHI"
+        },
+        {
+            "arrival_time": "19:43",
+            "day_of_journey": 1,
+            "departure_time": "19:44",
+            "distance_km": 373.0,
+            "sequence_number": 15,
+            "station_code": "VDL",
+            "station_name": "VAITHISVARANKOIL"
+        },
+        {
+            "arrival_time": "20:13",
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 387.0,
+            "sequence_number": 16,
+            "station_code": "MV",
+            "station_name": "MAYILADUTURAI JN"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:31",
+            "distance_km": 402.0,
+            "sequence_number": 17,
+            "station_code": "PEM",
+            "station_name": "PERALAM JN"
+        },
+        {
+            "arrival_time": "20:53",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 425.0,
+            "sequence_number": 18,
+            "station_code": "TVR",
+            "station_name": "THIRUVARUR JN"
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 1,
+            "departure_time": "21:22",
+            "distance_km": 450.0,
+            "sequence_number": 19,
+            "station_code": "NMJ",
+            "station_name": "NIDAMANGALAM JN."
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 463.0,
+            "sequence_number": 20,
+            "station_code": "MQ",
+            "station_name": "MANNARGUDI"
+        }
+    ],
+    "train_name": "PAMANI EXPRESS",
+    "train_number": "17407",
+    "type": "MAIL EXPRESS"
+}

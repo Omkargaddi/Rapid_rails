@@ -1,0 +1,88 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11045.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "11045-KOP-DHN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOP",
+            "station_name": "KOLHAPUR"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 1,
+            "departure_time": "05:50",
+            "distance_km": 47.0,
+            "sequence_number": 2,
+            "station_code": "MRJ",
+            "station_name": "MIRAJ JN."
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 1,
+            "departure_time": "06:52",
+            "distance_km": 93.0,
+            "sequence_number": 3,
+            "station_code": "KVK",
+            "station_name": "KAVATHE MAHANKAL"
+        },
+        {
+            "arrival_time": "07:06",
+            "day_of_journey": 1,
+            "departure_time": "07:08",
+            "distance_km": 109.0,
+            "sequence_number": 4,
+            "station_code": "DLGN",
+            "station_name": "DHALGAON"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 1,
+            "departure_time": "07:21",
+            "distance_km": 127.0,
+            "sequence_number": 5,
+            "station_code": "JTRD",
+            "station_name": "JATH ROAD"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 1,
+            "departure_time": "07:36",
+            "distance_km": 154.0,
+            "sequence_number": 6,
+            "station_code": "SGLA",
+            "station_name": "SANGOLA"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2520.0,
+            "sequence_number": 41,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        }
+    ],
+    "train_name": "KOP-DHN EXP",
+    "train_number": "11045",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,304 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12872.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12872-TIG-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TIG",
+            "station_name": "TITLAGARH"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 1,
+            "departure_time": "05:46",
+            "distance_km": 29.0,
+            "sequence_number": 2,
+            "station_code": "SFC",
+            "station_name": "SAINTALA"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 1,
+            "departure_time": "06:15",
+            "distance_km": 63.0,
+            "sequence_number": 3,
+            "station_code": "BLGR",
+            "station_name": "BALANGIR"
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 1,
+            "departure_time": "06:31",
+            "distance_km": 82.0,
+            "sequence_number": 4,
+            "station_code": "LSX",
+            "station_name": "LOISINGHA"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 1,
+            "departure_time": "06:52",
+            "distance_km": 106.0,
+            "sequence_number": 5,
+            "station_code": "DJX",
+            "station_name": "DUNGRIPADI"
+        },
+        {
+            "arrival_time": "07:03",
+            "day_of_journey": 1,
+            "departure_time": "07:05",
+            "distance_km": 120.0,
+            "sequence_number": 6,
+            "station_code": "BRPL",
+            "station_name": "BARPALI"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 1,
+            "departure_time": "07:22",
+            "distance_km": 139.0,
+            "sequence_number": 7,
+            "station_code": "BRGA",
+            "station_name": "BARGARH ROAD"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 1,
+            "departure_time": "07:52",
+            "distance_km": 174.0,
+            "sequence_number": 8,
+            "station_code": "HKG",
+            "station_name": "HIRAKUD"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 181.0,
+            "sequence_number": 9,
+            "station_code": "SBP",
+            "station_name": "SAMBALPUR JN."
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 1,
+            "departure_time": "08:42",
+            "distance_km": 204.0,
+            "sequence_number": 10,
+            "station_code": "RGL",
+            "station_name": "RENGALI"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 1,
+            "departure_time": "09:35",
+            "distance_km": 230.0,
+            "sequence_number": 11,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "09:52",
+            "day_of_journey": 1,
+            "departure_time": "09:53",
+            "distance_km": 252.0,
+            "sequence_number": 12,
+            "station_code": "BEH",
+            "station_name": "BAGDIHI"
+        },
+        {
+            "arrival_time": "10:07",
+            "day_of_journey": 1,
+            "departure_time": "10:08",
+            "distance_km": 268.0,
+            "sequence_number": 13,
+            "station_code": "BMB",
+            "station_name": "BAMRA"
+        },
+        {
+            "arrival_time": "10:19",
+            "day_of_journey": 1,
+            "departure_time": "10:20",
+            "distance_km": 284.0,
+            "sequence_number": 14,
+            "station_code": "GPH",
+            "station_name": "GARPOS"
+        },
+        {
+            "arrival_time": "10:33",
+            "day_of_journey": 1,
+            "departure_time": "10:35",
+            "distance_km": 303.0,
+            "sequence_number": 15,
+            "station_code": "GP",
+            "station_name": "RAJ GANGPUR"
+        },
+        {
+            "arrival_time": "10:57",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 333.0,
+            "sequence_number": 16,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "11:38",
+            "day_of_journey": 1,
+            "departure_time": "11:39",
+            "distance_km": 373.0,
+            "sequence_number": 17,
+            "station_code": "MOU",
+            "station_name": "MANOHARPUR"
+        },
+        {
+            "arrival_time": "12:06",
+            "day_of_journey": 1,
+            "departure_time": "12:07",
+            "distance_km": 400.0,
+            "sequence_number": 18,
+            "station_code": "GOL",
+            "station_name": "GOILKERA"
+        },
+        {
+            "arrival_time": "12:19",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 413.0,
+            "sequence_number": 19,
+            "station_code": "SWR",
+            "station_name": "SONUA"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 1,
+            "departure_time": "12:42",
+            "distance_km": 434.0,
+            "sequence_number": 20,
+            "station_code": "CKP",
+            "station_name": "CHAKARADHARPUR"
+        },
+        {
+            "arrival_time": "12:58",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 454.0,
+            "sequence_number": 21,
+            "station_code": "RKSN",
+            "station_name": "RAJKHARSAWAN JN."
+        },
+        {
+            "arrival_time": "13:14",
+            "day_of_journey": 1,
+            "departure_time": "13:16",
+            "distance_km": 469.0,
+            "sequence_number": 22,
+            "station_code": "SINI",
+            "station_name": "SINI JN"
+        },
+        {
+            "arrival_time": "13:45",
+            "day_of_journey": 1,
+            "departure_time": "13:50",
+            "distance_km": 496.0,
+            "sequence_number": 23,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "14:23",
+            "day_of_journey": 1,
+            "departure_time": "14:24",
+            "distance_km": 515.0,
+            "sequence_number": 24,
+            "station_code": "RHE",
+            "station_name": "RAKHA MINES"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 1,
+            "departure_time": "14:31",
+            "distance_km": 522.0,
+            "sequence_number": 25,
+            "station_code": "GUD",
+            "station_name": "GALUDIH"
+        },
+        {
+            "arrival_time": "14:37",
+            "day_of_journey": 1,
+            "departure_time": "14:39",
+            "distance_km": 532.0,
+            "sequence_number": 26,
+            "station_code": "GTS",
+            "station_name": "GHATSILA"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": "15:02",
+            "distance_km": 563.0,
+            "sequence_number": 27,
+            "station_code": "CKU",
+            "station_name": "CHAKULIA"
+        },
+        {
+            "arrival_time": "15:22",
+            "day_of_journey": 1,
+            "departure_time": "15:24",
+            "distance_km": 592.0,
+            "sequence_number": 28,
+            "station_code": "JGM",
+            "station_name": "JHARGRAM"
+        },
+        {
+            "arrival_time": "16:05",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 630.0,
+            "sequence_number": 29,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "17:34",
+            "day_of_journey": 1,
+            "departure_time": "17:35",
+            "distance_km": 739.0,
+            "sequence_number": 30,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 746.0,
+            "sequence_number": 31,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "TIG ISPAT EXP",
+    "train_number": "12872",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,125 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11110.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11110-LJN-VGLJ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        },
+        {
+            "arrival_time": "17:32",
+            "day_of_journey": 1,
+            "departure_time": "17:34",
+            "distance_km": 56.0,
+            "sequence_number": 2,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 74.0,
+            "sequence_number": 3,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "18:33",
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 78.0,
+            "sequence_number": 4,
+            "station_code": "GOY",
+            "station_name": "GOVINDPURI"
+        },
+        {
+            "arrival_time": "19:23",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 132.0,
+            "sequence_number": 5,
+            "station_code": "PHN",
+            "station_name": "POKHRAYAN"
+        },
+        {
+            "arrival_time": "19:39",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 146.0,
+            "sequence_number": 6,
+            "station_code": "KPI",
+            "station_name": "KALPI"
+        },
+        {
+            "arrival_time": "20:05",
+            "day_of_journey": 1,
+            "departure_time": "20:07",
+            "distance_km": 180.0,
+            "sequence_number": 7,
+            "station_code": "ORAI",
+            "station_name": "ORAI"
+        },
+        {
+            "arrival_time": "20:26",
+            "day_of_journey": 1,
+            "departure_time": "20:27",
+            "distance_km": 204.0,
+            "sequence_number": 8,
+            "station_code": "AIT",
+            "station_name": "AIT"
+        },
+        {
+            "arrival_time": "20:51",
+            "day_of_journey": 1,
+            "departure_time": "20:52",
+            "distance_km": 238.0,
+            "sequence_number": 9,
+            "station_code": "MOTH",
+            "station_name": "MOTH"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:11",
+            "distance_km": 262.0,
+            "sequence_number": 10,
+            "station_code": "CGN",
+            "station_name": "CHIRGAON"
+        },
+        {
+            "arrival_time": "22:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 293.0,
+            "sequence_number": 11,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        }
+    ],
+    "train_name": "JHS INTERCITY",
+    "train_number": "11110",
+    "type": "MAIL EXPRESS"
+}

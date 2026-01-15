@@ -1,0 +1,242 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12146.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12146-PURI-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        },
+        {
+            "arrival_time": "22:23",
+            "day_of_journey": 1,
+            "departure_time": "22:28",
+            "distance_km": 44.0,
+            "sequence_number": 2,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 63.0,
+            "sequence_number": 3,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "23:25",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 90.0,
+            "sequence_number": 4,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "00:21",
+            "day_of_journey": 2,
+            "departure_time": "00:23",
+            "distance_km": 148.0,
+            "sequence_number": 5,
+            "station_code": "DNKL",
+            "station_name": "DHENKANAL"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 202.0,
+            "sequence_number": 6,
+            "station_code": "TLHR",
+            "station_name": "TALCHER"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "02:57",
+            "distance_km": 221.0,
+            "sequence_number": 7,
+            "station_code": "ANGL",
+            "station_name": "ANGUL"
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 377.0,
+            "sequence_number": 8,
+            "station_code": "SBP",
+            "station_name": "SAMBALPUR JN."
+        },
+        {
+            "arrival_time": "06:02",
+            "day_of_journey": 2,
+            "departure_time": "06:04",
+            "distance_km": 419.0,
+            "sequence_number": 9,
+            "station_code": "BRGA",
+            "station_name": "BARGARH ROAD"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 495.0,
+            "sequence_number": 10,
+            "station_code": "BLGR",
+            "station_name": "BALANGIR"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 2,
+            "departure_time": "08:20",
+            "distance_km": 558.0,
+            "sequence_number": 11,
+            "station_code": "Point(2)",
+            "station_name": "TITLAGARH TIG Train Reversal"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 2,
+            "departure_time": "09:00",
+            "distance_km": 592.0,
+            "sequence_number": 12,
+            "station_code": "KBJ",
+            "station_name": "KANTABANJI"
+        },
+        {
+            "arrival_time": "09:52",
+            "day_of_journey": 2,
+            "departure_time": "09:54",
+            "distance_km": 656.0,
+            "sequence_number": 13,
+            "station_code": "KRAR",
+            "station_name": "KHARIAR ROAD"
+        },
+        {
+            "arrival_time": "11:10",
+            "day_of_journey": 2,
+            "departure_time": "11:12",
+            "distance_km": 708.0,
+            "sequence_number": 14,
+            "station_code": "MSMD",
+            "station_name": "MAHASAMUND"
+        },
+        {
+            "arrival_time": "12:30",
+            "day_of_journey": 2,
+            "departure_time": "12:40",
+            "distance_km": 763.0,
+            "sequence_number": 15,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 2,
+            "departure_time": "13:40",
+            "distance_km": 800.0,
+            "sequence_number": 16,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "15:23",
+            "day_of_journey": 2,
+            "departure_time": "15:25",
+            "distance_km": 935.0,
+            "sequence_number": 17,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 2,
+            "departure_time": "17:45",
+            "distance_km": 1066.0,
+            "sequence_number": 18,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "20:37",
+            "day_of_journey": 2,
+            "departure_time": "20:40",
+            "distance_km": 1240.0,
+            "sequence_number": 19,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "21:37",
+            "day_of_journey": 2,
+            "departure_time": "21:40",
+            "distance_km": 1319.0,
+            "sequence_number": 20,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 2,
+            "departure_time": "23:50",
+            "distance_km": 1459.0,
+            "sequence_number": 21,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "03:25",
+            "day_of_journey": 3,
+            "departure_time": "03:30",
+            "distance_km": 1716.0,
+            "sequence_number": 22,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "06:17",
+            "day_of_journey": 3,
+            "departure_time": "06:20",
+            "distance_km": 1850.0,
+            "sequence_number": 23,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1887.0,
+            "sequence_number": 24,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "PURI LTT SF",
+    "train_number": "12146",
+    "type": "SUPERFAST"
+}

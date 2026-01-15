@@ -1,0 +1,132 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12066.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12066-DEE-AII",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 1,
+            "departure_time": "16:32",
+            "distance_km": 10.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "DEC",
+            "station_name": "DELHI CANTT"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 27.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "GGN",
+            "station_name": "GURGAON"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 1,
+            "departure_time": "17:37",
+            "distance_km": 78.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "RE",
+            "station_name": "REWARI JN."
+        },
+        {
+            "arrival_time": "18:19",
+            "day_of_journey": 1,
+            "departure_time": "18:21",
+            "distance_km": 130.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "NNL",
+            "station_name": "NARNAUL"
+        },
+        {
+            "arrival_time": "18:57",
+            "day_of_journey": 1,
+            "departure_time": "18:59",
+            "distance_km": 180.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "NMK",
+            "station_name": "NIM KA THANA"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:27",
+            "distance_km": 216.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SMPR",
+            "station_name": "SHRI MADHOPUR"
+        },
+        {
+            "arrival_time": "19:39",
+            "day_of_journey": 1,
+            "departure_time": "19:42",
+            "distance_km": 226.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "RGS",
+            "station_name": "RINGAS JN"
+        },
+        {
+            "arrival_time": "20:36",
+            "day_of_journey": 1,
+            "departure_time": "20:38",
+            "distance_km": 293.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "21:17",
+            "day_of_journey": 1,
+            "departure_time": "21:19",
+            "distance_km": 348.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 373.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        }
+    ],
+    "train_name": "JANSHATABDI EXP",
+    "train_number": "12066",
+    "type": "JAN SHATABDI "
+}

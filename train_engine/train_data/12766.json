@@ -1,0 +1,263 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12766.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12766-AMI-TPTY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "AMI",
+            "station_name": "AMRAVATI"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 1,
+            "departure_time": "07:02",
+            "distance_km": 9.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 88.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "09:14",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 169.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "WHM",
+            "station_name": "WASHIM"
+        },
+        {
+            "arrival_time": "09:54",
+            "day_of_journey": 1,
+            "departure_time": "09:55",
+            "distance_km": 217.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "HNL",
+            "station_name": "HINGOLI DECCAN"
+        },
+        {
+            "arrival_time": "10:44",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 275.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BMF",
+            "station_name": "BASMAT"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 297.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "Point(2)",
+            "station_name": "PURNA JN PAU Train Reversal"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 1,
+            "departure_time": "12:25",
+            "distance_km": 327.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        },
+        {
+            "arrival_time": "13:03",
+            "day_of_journey": 1,
+            "departure_time": "13:05",
+            "distance_km": 350.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "MUE",
+            "station_name": "MUDKHED"
+        },
+        {
+            "arrival_time": "13:39",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 399.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "DAB",
+            "station_name": "DHARMABAD"
+        },
+        {
+            "arrival_time": "14:18",
+            "day_of_journey": 1,
+            "departure_time": "14:20",
+            "distance_km": 438.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "NZB",
+            "station_name": "NIZAMABAD JN."
+        },
+        {
+            "arrival_time": "15:08",
+            "day_of_journey": 1,
+            "departure_time": "15:10",
+            "distance_km": 490.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "KMC",
+            "station_name": "KAMAREDDI"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 603.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "KCG",
+            "station_name": "KACHEGUDA"
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 709.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "MBNR",
+            "station_name": "MAHBUBNAGAR"
+        },
+        {
+            "arrival_time": "20:14",
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 784.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "GWD",
+            "station_name": "GADWAL"
+        },
+        {
+            "arrival_time": "21:23",
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 838.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "KRNT",
+            "station_name": "KURNOOL CITY"
+        },
+        {
+            "arrival_time": "22:45",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 892.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "DHNE",
+            "station_name": "DHONE JN"
+        },
+        {
+            "arrival_time": "00:28",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 1003.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "ATP",
+            "station_name": "ANANTAPUR"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 1036.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "DMM",
+            "station_name": "DHARMAVARAM JN"
+        },
+        {
+            "arrival_time": "01:58",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 1104.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "KRY",
+            "station_name": "KADIRI"
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 1181.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "MPL",
+            "station_name": "MADANAPALLE RD"
+        },
+        {
+            "arrival_time": "03:48",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 1223.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "PIL",
+            "station_name": "PILER"
+        },
+        {
+            "arrival_time": "04:38",
+            "day_of_journey": 2,
+            "departure_time": "04:40",
+            "distance_km": 1264.0,
+            "platform": null,
+            "sequence_number": 23,
+            "station_code": "PAK",
+            "station_name": "PAKALA JN"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1306.0,
+            "platform": null,
+            "sequence_number": 24,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        }
+    ],
+    "train_name": "AMI TPTY EXP",
+    "train_number": "12766",
+    "type": "SUPERFAST "
+}

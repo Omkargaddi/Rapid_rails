@@ -1,0 +1,168 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14315.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14315-BE-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "05:14",
+            "day_of_journey": 1,
+            "departure_time": "05:15",
+            "distance_km": 18.0,
+            "sequence_number": 2,
+            "station_code": "BTO",
+            "station_name": "BHITAURA"
+        },
+        {
+            "arrival_time": "05:27",
+            "day_of_journey": 1,
+            "departure_time": "05:28",
+            "distance_km": 32.0,
+            "sequence_number": 3,
+            "station_code": "NRS",
+            "station_name": "NAGARIA SADAT"
+        },
+        {
+            "arrival_time": "05:51",
+            "day_of_journey": 1,
+            "departure_time": "05:53",
+            "distance_km": 63.0,
+            "sequence_number": 4,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 1,
+            "departure_time": "06:45",
+            "distance_km": 91.0,
+            "sequence_number": 5,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "07:12",
+            "day_of_journey": 1,
+            "departure_time": "07:14",
+            "distance_km": 121.0,
+            "sequence_number": 6,
+            "station_code": "AMRO",
+            "station_name": "AMROHA"
+        },
+        {
+            "arrival_time": "07:33",
+            "day_of_journey": 1,
+            "departure_time": "07:35",
+            "distance_km": 144.0,
+            "sequence_number": 7,
+            "station_code": "GJL",
+            "station_name": "GAJRAULA JN"
+        },
+        {
+            "arrival_time": "07:53",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 165.0,
+            "sequence_number": 8,
+            "station_code": "GMS",
+            "station_name": "GARHMUKTESAR"
+        },
+        {
+            "arrival_time": "08:26",
+            "day_of_journey": 1,
+            "departure_time": "08:28",
+            "distance_km": 195.0,
+            "sequence_number": 9,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 206.0,
+            "sequence_number": 10,
+            "station_code": "PKW",
+            "station_name": "PILKHUA"
+        },
+        {
+            "arrival_time": "09:28",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 232.0,
+            "sequence_number": 11,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "09:41",
+            "day_of_journey": 1,
+            "departure_time": "09:42",
+            "distance_km": 238.0,
+            "sequence_number": 12,
+            "station_code": "SBB",
+            "station_name": "SAHIBABAD"
+        },
+        {
+            "arrival_time": "09:51",
+            "day_of_journey": 1,
+            "departure_time": "09:52",
+            "distance_km": 244.0,
+            "sequence_number": 13,
+            "station_code": "ANVR",
+            "station_name": "ANAND VIHAR"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": "10:01",
+            "distance_km": 254.0,
+            "sequence_number": 14,
+            "station_code": "TKJ",
+            "station_name": "TILAK BRIDGE"
+        },
+        {
+            "arrival_time": "10:06",
+            "day_of_journey": 1,
+            "departure_time": "10:07",
+            "distance_km": 256.0,
+            "sequence_number": 15,
+            "station_code": "CSB",
+            "station_name": "SHIVAJI BRIDGE"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 257.0,
+            "sequence_number": 16,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "INTERCITY EXP",
+    "train_number": "14315",
+    "type": "MAIL EXPRESS"
+}

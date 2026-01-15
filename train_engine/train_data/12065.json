@@ -1,0 +1,121 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12065.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12065-AII-DEE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 1,
+            "departure_time": "06:02",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "06:42",
+            "day_of_journey": 1,
+            "departure_time": "06:44",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "07:37",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 146.0,
+            "sequence_number": 4,
+            "station_code": "RGS",
+            "station_name": "RINGAS JN"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 1,
+            "departure_time": "07:52",
+            "distance_km": 156.0,
+            "sequence_number": 5,
+            "station_code": "SMPR",
+            "station_name": "SHRI MADHOPUR"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 193.0,
+            "sequence_number": 6,
+            "station_code": "NMK",
+            "station_name": "NIM KA THANA"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 1,
+            "departure_time": "08:57",
+            "distance_km": 243.0,
+            "sequence_number": 7,
+            "station_code": "NNL",
+            "station_name": "NARNAUL"
+        },
+        {
+            "arrival_time": "09:58",
+            "day_of_journey": 1,
+            "departure_time": "10:00",
+            "distance_km": 295.0,
+            "sequence_number": 8,
+            "station_code": "RE",
+            "station_name": "REWARI JN."
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 1,
+            "departure_time": "10:42",
+            "distance_km": 346.0,
+            "sequence_number": 9,
+            "station_code": "GGN",
+            "station_name": "GURGAON"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:02",
+            "distance_km": 363.0,
+            "sequence_number": 10,
+            "station_code": "DEC",
+            "station_name": "DELHI CANTT"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 373.0,
+            "sequence_number": 11,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        }
+    ],
+    "train_name": "DEE JAN SHATBDI",
+    "train_number": "12065",
+    "type": "JAN SHATABDI"
+}

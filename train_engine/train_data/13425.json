@@ -1,0 +1,143 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13425.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "13425-MLDT-ST",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "13:17",
+            "day_of_journey": 1,
+            "departure_time": "13:19",
+            "distance_km": 35.0,
+            "sequence_number": 2,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "13:59",
+            "day_of_journey": 1,
+            "departure_time": "14:01",
+            "distance_km": 68.0,
+            "sequence_number": 3,
+            "station_code": "PKR",
+            "station_name": "PAKAUR"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 122.0,
+            "sequence_number": 4,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "15:29",
+            "day_of_journey": 1,
+            "departure_time": "15:31",
+            "distance_km": 169.0,
+            "sequence_number": 5,
+            "station_code": "SURI",
+            "station_name": "SIURI"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 1,
+            "departure_time": "17:35",
+            "distance_km": 246.0,
+            "sequence_number": 6,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "19:07",
+            "day_of_journey": 2,
+            "departure_time": "19:10",
+            "distance_km": 1660.0,
+            "sequence_number": 24,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "20:13",
+            "day_of_journey": 2,
+            "departure_time": "20:15",
+            "distance_km": 1750.0,
+            "sequence_number": 25,
+            "station_code": "MKU",
+            "station_name": "MALKAPUR"
+        },
+        {
+            "arrival_time": "21:25",
+            "day_of_journey": 2,
+            "departure_time": "21:30",
+            "distance_km": 1800.0,
+            "sequence_number": 26,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 2,
+            "departure_time": "22:05",
+            "distance_km": 1825.0,
+            "sequence_number": 27,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "23:13",
+            "day_of_journey": 2,
+            "departure_time": "23:15",
+            "distance_km": 1880.0,
+            "sequence_number": 28,
+            "station_code": "AN",
+            "station_name": "AMALNER"
+        },
+        {
+            "arrival_time": "00:55",
+            "day_of_journey": 3,
+            "departure_time": "01:00",
+            "distance_km": 1975.0,
+            "sequence_number": 29,
+            "station_code": "NDB",
+            "station_name": "NANDURBAR"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2135.0,
+            "sequence_number": 30,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        }
+    ],
+    "train_name": "MLDT ST EXPRESS",
+    "train_number": "13425",
+    "type": "MAIL EXPRESS"
+}

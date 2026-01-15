@@ -1,0 +1,188 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19665.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19665-KURJ-UDZ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KURJ",
+            "station_name": "KHAJURAHO"
+        },
+        {
+            "arrival_time": "09:51",
+            "day_of_journey": 1,
+            "departure_time": "09:52",
+            "distance_km": 34.0,
+            "sequence_number": 2,
+            "station_code": "SPDM",
+            "station_name": "SINGHPUR DUMRA"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "MBA",
+            "station_name": "MAHOBA"
+        },
+        {
+            "arrival_time": "11:03",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 86.0,
+            "sequence_number": 4,
+            "station_code": "KLAR",
+            "station_name": "KULPAHAR"
+        },
+        {
+            "arrival_time": "11:28",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 117.0,
+            "sequence_number": 5,
+            "station_code": "HPP",
+            "station_name": "HARPALPUR"
+        },
+        {
+            "arrival_time": "11:48",
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 138.0,
+            "sequence_number": 6,
+            "station_code": "MRPR",
+            "station_name": "MAU RANIPUR"
+        },
+        {
+            "arrival_time": "22:13",
+            "day_of_journey": 1,
+            "departure_time": "22:16",
+            "distance_km": 655.0,
+            "sequence_number": 24,
+            "station_code": "GADJ",
+            "station_name": "GANDHINAGAR JAIPUR"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 660.0,
+            "sequence_number": 25,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "23:38",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 715.0,
+            "sequence_number": 26,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "00:21",
+            "day_of_journey": 2,
+            "departure_time": "00:23",
+            "distance_km": 770.0,
+            "sequence_number": 27,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 795.0,
+            "sequence_number": 28,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:37",
+            "distance_km": 818.0,
+            "sequence_number": 29,
+            "station_code": "NSD",
+            "station_name": "NASIRABAD"
+        },
+        {
+            "arrival_time": "02:04",
+            "day_of_journey": 2,
+            "departure_time": "02:06",
+            "distance_km": 860.0,
+            "sequence_number": 30,
+            "station_code": "BJNR",
+            "station_name": "BIJAINAGAR"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 927.0,
+            "sequence_number": 31,
+            "station_code": "BHL",
+            "station_name": "BHILWARA"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 981.0,
+            "sequence_number": 32,
+            "station_code": "Point(2)",
+            "station_name": "CHITTAURGARH JN. COR Train Reversal"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": "05:17",
+            "distance_km": 1052.0,
+            "sequence_number": 33,
+            "station_code": "MVJ",
+            "station_name": "MAVLI JN"
+        },
+        {
+            "arrival_time": "06:13",
+            "day_of_journey": 2,
+            "departure_time": "06:15",
+            "distance_km": 1091.0,
+            "sequence_number": 34,
+            "station_code": "RPZ",
+            "station_name": "RANA PRATAP NAGAR"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1095.0,
+            "sequence_number": 35,
+            "station_code": "UDZ",
+            "station_name": "UDAIPUR CITY"
+        }
+    ],
+    "train_name": "KURJ UDZ EXP",
+    "train_number": "19665",
+    "type": "MAIL EXPRESS"
+}

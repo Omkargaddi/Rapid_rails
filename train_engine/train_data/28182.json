@@ -1,0 +1,133 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_28182.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "28182-KIR-TATA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "15:15",
+            "day_of_journey": 1,
+            "departure_time": "15:17",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "SMO",
+            "station_name": "SEMAPUR"
+        },
+        {
+            "arrival_time": "15:26",
+            "day_of_journey": 1,
+            "departure_time": "15:28",
+            "distance_km": 22.0,
+            "sequence_number": 3,
+            "station_code": "CRR",
+            "station_name": "KARAGOLA ROAD"
+        },
+        {
+            "arrival_time": "15:41",
+            "day_of_journey": 1,
+            "departure_time": "15:43",
+            "distance_km": 39.0,
+            "sequence_number": 4,
+            "station_code": "KUE",
+            "station_name": "KURSELA"
+        },
+        {
+            "arrival_time": "15:58",
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 57.0,
+            "sequence_number": 5,
+            "station_code": "NNA",
+            "station_name": "NAUGACHIA"
+        },
+        {
+            "arrival_time": "16:11",
+            "day_of_journey": 1,
+            "departure_time": "16:13",
+            "distance_km": 73.0,
+            "sequence_number": 6,
+            "station_code": "THB",
+            "station_name": "THANA BIHPUR JN"
+        },
+        {
+            "arrival_time": "00:41",
+            "day_of_journey": 2,
+            "departure_time": "00:43",
+            "distance_km": 398.0,
+            "sequence_number": 24,
+            "station_code": "CRJ",
+            "station_name": "CHITTARANJAN"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 423.0,
+            "sequence_number": 25,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 473.0,
+            "sequence_number": 26,
+            "station_code": "ANR",
+            "station_name": "ANARA"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 499.0,
+            "sequence_number": 27,
+            "station_code": "PRR",
+            "station_name": "PURULIA JN."
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": "04:16",
+            "distance_km": 531.0,
+            "sequence_number": 28,
+            "station_code": "BBM",
+            "station_name": "BARABHUM"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 589.0,
+            "sequence_number": 29,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        }
+    ],
+    "train_name": "KIR TATA SPECIAL",
+    "train_number": "28182",
+    "type": "MAIL EXPRESS"
+}

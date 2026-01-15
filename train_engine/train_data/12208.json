@@ -1,0 +1,156 @@
+{
+    "classes_available": [
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12208.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12208-JAT-KGM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 100.0,
+            "sequence_number": 2,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 212.0,
+            "sequence_number": 3,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 2,
+            "departure_time": "04:05",
+            "distance_km": 265.0,
+            "sequence_number": 4,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 2,
+            "departure_time": "06:05",
+            "distance_km": 378.0,
+            "sequence_number": 5,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "06:43",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 429.0,
+            "sequence_number": 6,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 459.0,
+            "sequence_number": 7,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 2,
+            "departure_time": "08:30",
+            "distance_km": 512.0,
+            "sequence_number": 8,
+            "station_code": "LRJ",
+            "station_name": "LAKSAR JN"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 2,
+            "departure_time": "10:35",
+            "distance_km": 652.0,
+            "sequence_number": 9,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 2,
+            "departure_time": "11:20",
+            "distance_km": 679.0,
+            "sequence_number": 10,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "11:38",
+            "day_of_journey": 2,
+            "departure_time": "11:40",
+            "distance_km": 706.0,
+            "sequence_number": 11,
+            "station_code": "BLQR",
+            "station_name": "BILASPUR ROAD"
+        },
+        {
+            "arrival_time": "11:48",
+            "day_of_journey": 2,
+            "departure_time": "11:50",
+            "distance_km": 724.0,
+            "sequence_number": 12,
+            "station_code": "RUPC",
+            "station_name": "RUDRAPUR CITY"
+        },
+        {
+            "arrival_time": "12:19",
+            "day_of_journey": 2,
+            "departure_time": "12:24",
+            "distance_km": 746.0,
+            "sequence_number": 13,
+            "station_code": "LKU",
+            "station_name": "LALKUA JN."
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 2,
+            "departure_time": "13:05",
+            "distance_km": 762.0,
+            "sequence_number": 14,
+            "station_code": "HDW",
+            "station_name": "HALDWANI"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 768.0,
+            "sequence_number": 15,
+            "station_code": "KGM",
+            "station_name": "KATHGODAM"
+        }
+    ],
+    "train_name": "KGM GARIB RATH",
+    "train_number": "12208",
+    "type": "GARIB RATH"
+}

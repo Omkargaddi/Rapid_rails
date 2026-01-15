@@ -1,0 +1,90 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12581.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12581-BNRS-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BNRS",
+            "station_name": "BANARAS"
+        },
+        {
+            "arrival_time": "23:56",
+            "day_of_journey": 1,
+            "departure_time": "23:58",
+            "distance_km": 56.0,
+            "sequence_number": 2,
+            "station_code": "GYN",
+            "station_name": "GYANPUR ROAD"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 121.0,
+            "sequence_number": 3,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 318.0,
+            "sequence_number": 4,
+            "station_code": "GOY",
+            "station_name": "GOVINDPURI"
+        },
+        {
+            "arrival_time": "06:23",
+            "day_of_journey": 2,
+            "departure_time": "06:25",
+            "distance_km": 545.0,
+            "sequence_number": 5,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 2,
+            "departure_time": "08:55",
+            "distance_km": 730.0,
+            "sequence_number": 6,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "09:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 755.0,
+            "sequence_number": 7,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "BNRS NDLS SFEXP",
+    "train_number": "12581",
+    "type": "SUPERFAST"
+}

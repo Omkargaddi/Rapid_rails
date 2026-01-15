@@ -1,0 +1,132 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12239.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12239-MMCT-HSR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MMCT",
+            "station_name": "MUMBAI CENTRAL"
+        },
+        {
+            "arrival_time": "03:26",
+            "day_of_journey": 2,
+            "departure_time": "03:36",
+            "distance_km": 392.0,
+            "sequence_number": 2,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 649.0,
+            "sequence_number": 3,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 2,
+            "departure_time": "10:05",
+            "distance_km": 916.0,
+            "sequence_number": 4,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 2,
+            "departure_time": "11:50",
+            "distance_km": 1023.0,
+            "sequence_number": 5,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 2,
+            "departure_time": "13:50",
+            "distance_km": 1155.0,
+            "sequence_number": 6,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 2,
+            "departure_time": "14:38",
+            "distance_km": 1212.0,
+            "sequence_number": 7,
+            "station_code": "RGS",
+            "station_name": "RINGAS JN"
+        },
+        {
+            "arrival_time": "15:35",
+            "day_of_journey": 2,
+            "departure_time": "15:40",
+            "distance_km": 1262.0,
+            "sequence_number": 8,
+            "station_code": "SIKR",
+            "station_name": "SIKAR JN"
+        },
+        {
+            "arrival_time": "16:33",
+            "day_of_journey": 2,
+            "departure_time": "16:35",
+            "distance_km": 1326.0,
+            "sequence_number": 9,
+            "station_code": "JJN",
+            "station_name": "JHUNJHUNU"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 2,
+            "departure_time": "17:38",
+            "distance_km": 1384.0,
+            "sequence_number": 10,
+            "station_code": "LHU",
+            "station_name": "LOHARU"
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 2,
+            "departure_time": "19:00",
+            "distance_km": 1434.0,
+            "sequence_number": 11,
+            "station_code": "Point(2)",
+            "station_name": "SADULPUR JN SDLP Train Reversal"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1504.0,
+            "sequence_number": 12,
+            "station_code": "HSR",
+            "station_name": "HISAR"
+        }
+    ],
+    "train_name": "MMCT - HSR DURANTO",
+    "train_number": "12239",
+    "type": "DURONTO EXPRESS"
+}

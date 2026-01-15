@@ -1,0 +1,143 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15020.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15020-TPU-DDN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TPU",
+            "station_name": "TANAKPUR"
+        },
+        {
+            "arrival_time": "19:44",
+            "day_of_journey": 1,
+            "departure_time": "19:46",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "BNSA",
+            "station_name": "BANBASA"
+        },
+        {
+            "arrival_time": "20:02",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 24.0,
+            "sequence_number": 3,
+            "station_code": "KHMA",
+            "station_name": "KHATIMA"
+        },
+        {
+            "arrival_time": "20:39",
+            "day_of_journey": 1,
+            "departure_time": "20:44",
+            "distance_km": 63.0,
+            "sequence_number": 4,
+            "station_code": "PBE",
+            "station_name": "PILIBHIT JN"
+        },
+        {
+            "arrival_time": "21:23",
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 102.0,
+            "sequence_number": 5,
+            "station_code": "BPR",
+            "station_name": "BHOJIPURA JN."
+        },
+        {
+            "arrival_time": "22:06",
+            "day_of_journey": 1,
+            "departure_time": "22:08",
+            "distance_km": 119.0,
+            "sequence_number": 6,
+            "station_code": "BC",
+            "station_name": "BAREILLY CITY"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 121.0,
+            "sequence_number": 7,
+            "station_code": "BRY",
+            "station_name": "BAREILLY JN"
+        },
+        {
+            "arrival_time": "00:25",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 190.0,
+            "sequence_number": 8,
+            "station_code": "CH",
+            "station_name": "CHANDAUSI JN"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 234.0,
+            "sequence_number": 9,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:14",
+            "distance_km": 332.0,
+            "sequence_number": 10,
+            "station_code": "NBD",
+            "station_name": "NAJIBABAD JN"
+        },
+        {
+            "arrival_time": "03:54",
+            "day_of_journey": 2,
+            "departure_time": "03:56",
+            "distance_km": 373.0,
+            "sequence_number": 11,
+            "station_code": "LRJ",
+            "station_name": "LAKSAR JN"
+        },
+        {
+            "arrival_time": "04:35",
+            "day_of_journey": 2,
+            "departure_time": "04:45",
+            "distance_km": 400.0,
+            "sequence_number": 12,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 452.0,
+            "sequence_number": 13,
+            "station_code": "DDN",
+            "station_name": "DEHRADOON"
+        }
+    ],
+    "train_name": "TPU DDN EXP",
+    "train_number": "15020",
+    "type": "MAIL EXPRESS"
+}

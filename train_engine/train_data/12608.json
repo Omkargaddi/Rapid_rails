@@ -1,0 +1,141 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12608.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12608-SBC-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 1,
+            "departure_time": "06:37",
+            "distance_km": 4.0,
+            "sequence_number": 2,
+            "station_code": "BNC",
+            "station_name": "BANGALORE CANT"
+        },
+        {
+            "arrival_time": "06:49",
+            "day_of_journey": 1,
+            "departure_time": "06:51",
+            "distance_km": 14.0,
+            "sequence_number": 3,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "07:29",
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 70.0,
+            "sequence_number": 4,
+            "station_code": "BWT",
+            "station_name": "BANGARAPET JN."
+        },
+        {
+            "arrival_time": "07:54",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 102.0,
+            "sequence_number": 5,
+            "station_code": "KPN",
+            "station_name": "KUPPAM"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 140.0,
+            "sequence_number": 6,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 1,
+            "departure_time": "09:07",
+            "distance_km": 172.0,
+            "sequence_number": 7,
+            "station_code": "AB",
+            "station_name": "AMBUR"
+        },
+        {
+            "arrival_time": "09:48",
+            "day_of_journey": 1,
+            "departure_time": "09:50",
+            "distance_km": 224.0,
+            "sequence_number": 8,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "10:08",
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 248.0,
+            "sequence_number": 9,
+            "station_code": "WJR",
+            "station_name": "WALAJAH ROAD"
+        },
+        {
+            "arrival_time": "10:23",
+            "day_of_journey": 1,
+            "departure_time": "10:25",
+            "distance_km": 263.0,
+            "sequence_number": 10,
+            "station_code": "SHU",
+            "station_name": "SHOLINGHUR"
+        },
+        {
+            "arrival_time": "10:43",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 285.0,
+            "sequence_number": 11,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "11:33",
+            "day_of_journey": 1,
+            "departure_time": "11:35",
+            "distance_km": 347.0,
+            "sequence_number": 12,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 354.0,
+            "sequence_number": 13,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "LALBAGH SF EXP",
+    "train_number": "12608",
+    "type": "MAIL EXPRESS"
+}

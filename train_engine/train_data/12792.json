@@ -1,0 +1,133 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12792.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12792-DNR-SC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 1,
+            "departure_time": "12:42",
+            "distance_km": 39.0,
+            "sequence_number": 2,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "13:31",
+            "day_of_journey": 1,
+            "departure_time": "13:33",
+            "distance_km": 108.0,
+            "sequence_number": 3,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 1,
+            "departure_time": "14:02",
+            "distance_km": 144.0,
+            "sequence_number": 4,
+            "station_code": "DLN",
+            "station_name": "DILDARNAGAR JN"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 1,
+            "departure_time": "15:50",
+            "distance_km": 198.0,
+            "sequence_number": 5,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 216.0,
+            "sequence_number": 6,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "16:34",
+            "day_of_journey": 2,
+            "departure_time": "16:35",
+            "distance_km": 1585.0,
+            "sequence_number": 24,
+            "station_code": "MCI",
+            "station_name": "MANCHERAL"
+        },
+        {
+            "arrival_time": "16:44",
+            "day_of_journey": 2,
+            "departure_time": "16:45",
+            "distance_km": 1599.0,
+            "sequence_number": 25,
+            "station_code": "RDM",
+            "station_name": "RAMGUNDAM"
+        },
+        {
+            "arrival_time": "16:59",
+            "day_of_journey": 2,
+            "departure_time": "17:00",
+            "distance_km": 1617.0,
+            "sequence_number": 26,
+            "station_code": "PDPL",
+            "station_name": "PEDDAPALLI"
+        },
+        {
+            "arrival_time": "17:24",
+            "day_of_journey": 2,
+            "departure_time": "17:25",
+            "distance_km": 1655.0,
+            "sequence_number": 27,
+            "station_code": "JMKT",
+            "station_name": "JAMIKUNTA"
+        },
+        {
+            "arrival_time": "18:23",
+            "day_of_journey": 2,
+            "departure_time": "18:25",
+            "distance_km": 1697.0,
+            "sequence_number": 28,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "21:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1827.0,
+            "sequence_number": 29,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        }
+    ],
+    "train_name": "SECUNDERABAD EX",
+    "train_number": "12792",
+    "type": "SUPERFAST"
+}

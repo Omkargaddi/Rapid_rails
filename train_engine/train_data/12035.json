@@ -1,0 +1,256 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12035.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12035-TPU-DLI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TPU",
+            "station_name": "TANAKPUR"
+        },
+        {
+            "arrival_time": "11:34",
+            "day_of_journey": 1,
+            "departure_time": "11:36",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "BNSA",
+            "station_name": "BANBASA"
+        },
+        {
+            "arrival_time": "11:53",
+            "day_of_journey": 1,
+            "departure_time": "11:55",
+            "distance_km": 24.0,
+            "sequence_number": 3,
+            "station_code": "KHMA",
+            "station_name": "KHATIMA"
+        },
+        {
+            "arrival_time": "12:27",
+            "day_of_journey": 1,
+            "departure_time": "12:32",
+            "distance_km": 63.0,
+            "sequence_number": 4,
+            "station_code": "PBE",
+            "station_name": "PILIBHIT JN"
+        },
+        {
+            "arrival_time": "13:29",
+            "day_of_journey": 1,
+            "departure_time": "13:31",
+            "distance_km": 114.0,
+            "sequence_number": 5,
+            "station_code": "IZN",
+            "station_name": "IZZATNAGAR JN"
+        },
+        {
+            "arrival_time": "13:48",
+            "day_of_journey": 1,
+            "departure_time": "13:50",
+            "distance_km": 119.0,
+            "sequence_number": 6,
+            "station_code": "BC",
+            "station_name": "BAREILLY CITY"
+        },
+        {
+            "arrival_time": "14:10",
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 121.0,
+            "sequence_number": 7,
+            "station_code": "BRY",
+            "station_name": "BAREILLY JN"
+        },
+        {
+            "arrival_time": "14:36",
+            "day_of_journey": 1,
+            "departure_time": "14:38",
+            "distance_km": 136.0,
+            "sequence_number": 8,
+            "station_code": "BTG",
+            "station_name": "BASHARATGANJ"
+        },
+        {
+            "arrival_time": "14:46",
+            "day_of_journey": 1,
+            "departure_time": "14:47",
+            "distance_km": 141.0,
+            "sequence_number": 9,
+            "station_code": "NSU",
+            "station_name": "NISUI"
+        },
+        {
+            "arrival_time": "14:56",
+            "day_of_journey": 1,
+            "departure_time": "14:58",
+            "distance_km": 148.0,
+            "sequence_number": 10,
+            "station_code": "AO",
+            "station_name": "AONLA"
+        },
+        {
+            "arrival_time": "15:11",
+            "day_of_journey": 1,
+            "departure_time": "15:13",
+            "distance_km": 160.0,
+            "sequence_number": 11,
+            "station_code": "KEG",
+            "station_name": "KARENGI"
+        },
+        {
+            "arrival_time": "15:21",
+            "day_of_journey": 1,
+            "departure_time": "15:23",
+            "distance_km": 166.0,
+            "sequence_number": 12,
+            "station_code": "DUB",
+            "station_name": "DABTARA"
+        },
+        {
+            "arrival_time": "15:34",
+            "day_of_journey": 1,
+            "departure_time": "15:36",
+            "distance_km": 176.0,
+            "sequence_number": 13,
+            "station_code": "AFR",
+            "station_name": "ASAFPUR"
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 1,
+            "departure_time": "16:20",
+            "distance_km": 190.0,
+            "sequence_number": 14,
+            "station_code": "CH",
+            "station_name": "CHANDAUSI JN"
+        },
+        {
+            "arrival_time": "16:41",
+            "day_of_journey": 1,
+            "departure_time": "16:43",
+            "distance_km": 210.0,
+            "sequence_number": 15,
+            "station_code": "RJK",
+            "station_name": "RAJA KA SAHASPR"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 234.0,
+            "sequence_number": 16,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "17:58",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 264.0,
+            "sequence_number": 17,
+            "station_code": "AMRO",
+            "station_name": "AMROHA"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 287.0,
+            "sequence_number": 18,
+            "station_code": "GJL",
+            "station_name": "GAJRAULA JN"
+        },
+        {
+            "arrival_time": "18:38",
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 308.0,
+            "sequence_number": 19,
+            "station_code": "GMS",
+            "station_name": "GARHMUKTESAR"
+        },
+        {
+            "arrival_time": "18:50",
+            "day_of_journey": 1,
+            "departure_time": "18:52",
+            "distance_km": 317.0,
+            "sequence_number": 20,
+            "station_code": "SMBL",
+            "station_name": "SIMBHOOLI"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:12",
+            "distance_km": 338.0,
+            "sequence_number": 21,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:27",
+            "distance_km": 349.0,
+            "sequence_number": 22,
+            "station_code": "PKW",
+            "station_name": "PILKHUA"
+        },
+        {
+            "arrival_time": "20:41",
+            "day_of_journey": 1,
+            "departure_time": "20:43",
+            "distance_km": 375.0,
+            "sequence_number": 23,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "20:54",
+            "day_of_journey": 1,
+            "departure_time": "20:56",
+            "distance_km": 381.0,
+            "sequence_number": 24,
+            "station_code": "SBB",
+            "station_name": "SAHIBABAD"
+        },
+        {
+            "arrival_time": "21:08",
+            "day_of_journey": 1,
+            "departure_time": "21:10",
+            "distance_km": 389.0,
+            "sequence_number": 25,
+            "station_code": "DSA",
+            "station_name": "DELHI SHAHDARA"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 395.0,
+            "sequence_number": 26,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        }
+    ],
+    "train_name": "PURNAGIRI JANST",
+    "train_number": "12035",
+    "type": "JAN SHATABDI"
+}

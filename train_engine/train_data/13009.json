@@ -1,0 +1,269 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13009.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13009-HWH-YNRK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "20:46",
+            "day_of_journey": 1,
+            "departure_time": "20:53",
+            "distance_km": 20.0,
+            "sequence_number": 2,
+            "station_code": "SRP",
+            "station_name": "SERAMPORE"
+        },
+        {
+            "arrival_time": "21:06",
+            "day_of_journey": 1,
+            "departure_time": "21:07",
+            "distance_km": 32.0,
+            "sequence_number": 3,
+            "station_code": "CGR",
+            "station_name": "CHANDAN NAGAR"
+        },
+        {
+            "arrival_time": "21:18",
+            "day_of_journey": 1,
+            "departure_time": "21:23",
+            "distance_km": 39.0,
+            "sequence_number": 4,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 1,
+            "departure_time": "22:17",
+            "distance_km": 107.0,
+            "sequence_number": 5,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "23:01",
+            "day_of_journey": 1,
+            "departure_time": "23:03",
+            "distance_km": 154.0,
+            "sequence_number": 6,
+            "station_code": "PAN",
+            "station_name": "PANAGARH"
+        },
+        {
+            "arrival_time": "23:13",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 169.0,
+            "sequence_number": 7,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "23:32",
+            "day_of_journey": 1,
+            "departure_time": "23:34",
+            "distance_km": 193.0,
+            "sequence_number": 8,
+            "station_code": "RNG",
+            "station_name": "RANIGANJ"
+        },
+        {
+            "arrival_time": "23:51",
+            "day_of_journey": 1,
+            "departure_time": "23:56",
+            "distance_km": 211.0,
+            "sequence_number": 9,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "00:16",
+            "day_of_journey": 2,
+            "departure_time": "00:18",
+            "distance_km": 227.0,
+            "sequence_number": 10,
+            "station_code": "BRR",
+            "station_name": "BARAKAR"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 268.0,
+            "sequence_number": 11,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "01:52",
+            "day_of_journey": 2,
+            "departure_time": "01:57",
+            "distance_km": 298.0,
+            "sequence_number": 12,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "23:48",
+            "day_of_journey": 2,
+            "departure_time": "23:50",
+            "distance_km": 1196.0,
+            "sequence_number": 59,
+            "station_code": "TLH",
+            "station_name": "TILHAR"
+        },
+        {
+            "arrival_time": "00:16",
+            "day_of_journey": 3,
+            "departure_time": "00:18",
+            "distance_km": 1228.0,
+            "sequence_number": 60,
+            "station_code": "PMR",
+            "station_name": "PITAMBARPUR"
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 3,
+            "departure_time": "00:40",
+            "distance_km": 1248.0,
+            "sequence_number": 61,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "01:08",
+            "day_of_journey": 3,
+            "departure_time": "01:10",
+            "distance_km": 1280.0,
+            "sequence_number": 62,
+            "station_code": "NRS",
+            "station_name": "NAGARIA SADAT"
+        },
+        {
+            "arrival_time": "01:34",
+            "day_of_journey": 3,
+            "departure_time": "01:36",
+            "distance_km": 1311.0,
+            "sequence_number": 63,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 3,
+            "departure_time": "02:30",
+            "distance_km": 1339.0,
+            "sequence_number": 64,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 3,
+            "departure_time": "03:11",
+            "distance_km": 1385.0,
+            "sequence_number": 65,
+            "station_code": "SEO",
+            "station_name": "SEOHARA"
+        },
+        {
+            "arrival_time": "03:23",
+            "day_of_journey": 3,
+            "departure_time": "03:25",
+            "distance_km": 1398.0,
+            "sequence_number": 66,
+            "station_code": "DPR",
+            "station_name": "DHAMPUR"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 3,
+            "departure_time": "03:42",
+            "distance_km": 1415.0,
+            "sequence_number": 67,
+            "station_code": "NGG",
+            "station_name": "NAGINA"
+        },
+        {
+            "arrival_time": "04:02",
+            "day_of_journey": 3,
+            "departure_time": "04:07",
+            "distance_km": 1437.0,
+            "sequence_number": 68,
+            "station_code": "NBD",
+            "station_name": "NAJIBABAD JN"
+        },
+        {
+            "arrival_time": "04:42",
+            "day_of_journey": 3,
+            "departure_time": "04:47",
+            "distance_km": 1478.0,
+            "sequence_number": 69,
+            "station_code": "LRJ",
+            "station_name": "LAKSAR JN"
+        },
+        {
+            "arrival_time": "05:07",
+            "day_of_journey": 3,
+            "departure_time": "05:09",
+            "distance_km": 1502.0,
+            "sequence_number": 70,
+            "station_code": "JWP",
+            "station_name": "JWALAPUR"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 3,
+            "departure_time": "05:30",
+            "distance_km": 1505.0,
+            "sequence_number": 71,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "05:51",
+            "day_of_journey": 3,
+            "departure_time": "05:53",
+            "distance_km": 1517.0,
+            "sequence_number": 72,
+            "station_code": "RWL",
+            "station_name": "RAIWALA"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1528.0,
+            "sequence_number": 73,
+            "station_code": "YNRK",
+            "station_name": "YOG NAGARI RISHIKESH"
+        }
+    ],
+    "train_name": "DOON EXPRESS",
+    "train_number": "13009",
+    "type": "MAIL EXPRESS"
+}

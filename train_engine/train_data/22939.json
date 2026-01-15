@@ -1,0 +1,117 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22939.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22939-OKHA-BSP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "OKHA",
+            "station_name": "OKHA"
+        },
+        {
+            "arrival_time": "19:31",
+            "day_of_journey": 1,
+            "departure_time": "19:36",
+            "distance_km": 29.0,
+            "sequence_number": 2,
+            "station_code": "DWK",
+            "station_name": "DWARKA"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 1,
+            "departure_time": "20:42",
+            "distance_km": 113.0,
+            "sequence_number": 3,
+            "station_code": "KMBL",
+            "station_name": "KHAMBHALIYA"
+        },
+        {
+            "arrival_time": "21:33",
+            "day_of_journey": 1,
+            "departure_time": "21:38",
+            "distance_km": 167.0,
+            "sequence_number": 4,
+            "station_code": "JAM",
+            "station_name": "JAMNAGAR"
+        },
+        {
+            "arrival_time": "21:52",
+            "day_of_journey": 1,
+            "departure_time": "21:54",
+            "distance_km": 176.0,
+            "sequence_number": 5,
+            "station_code": "HAPA",
+            "station_name": "HAPA"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 249.0,
+            "sequence_number": 6,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 2,
+            "departure_time": "21:50",
+            "distance_km": 1581.0,
+            "sequence_number": 24,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 3,
+            "departure_time": "00:10",
+            "distance_km": 1716.0,
+            "sequence_number": 25,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 3,
+            "departure_time": "00:50",
+            "distance_km": 1753.0,
+            "sequence_number": 26,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1868.0,
+            "sequence_number": 27,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        }
+    ],
+    "train_name": "OKHA BSP SF EXP",
+    "train_number": "22939",
+    "type": "SUPERFAST"
+}

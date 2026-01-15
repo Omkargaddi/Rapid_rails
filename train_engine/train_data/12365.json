@@ -1,0 +1,139 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12365.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12365-PNBE-RNC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 1,
+            "departure_time": "06:37",
+            "distance_km": 30.0,
+            "sequence_number": 2,
+            "station_code": "TEA",
+            "station_name": "TAREGNA"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 1,
+            "departure_time": "06:52",
+            "distance_km": 45.0,
+            "sequence_number": 3,
+            "station_code": "JHD",
+            "station_name": "JEHANABAD"
+        },
+        {
+            "arrival_time": "07:55",
+            "day_of_journey": 1,
+            "departure_time": "08:15",
+            "distance_km": 92.0,
+            "sequence_number": 4,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "08:43",
+            "day_of_journey": 1,
+            "departure_time": "08:45",
+            "distance_km": 124.0,
+            "sequence_number": 5,
+            "station_code": "PRP",
+            "station_name": "PAHARPUR"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 1,
+            "departure_time": "09:17",
+            "distance_km": 168.0,
+            "sequence_number": 6,
+            "station_code": "KQR",
+            "station_name": "KODERMA"
+        },
+        {
+            "arrival_time": "09:44",
+            "day_of_journey": 1,
+            "departure_time": "09:46",
+            "distance_km": 216.0,
+            "sequence_number": 7,
+            "station_code": "HZD",
+            "station_name": "HAZARIBAGH RD"
+        },
+        {
+            "arrival_time": "10:05",
+            "day_of_journey": 1,
+            "departure_time": "10:07",
+            "distance_km": 243.0,
+            "sequence_number": 8,
+            "station_code": "PNME",
+            "station_name": "PARASNATH"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 1,
+            "departure_time": "10:30",
+            "distance_km": 261.0,
+            "sequence_number": 9,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 1,
+            "departure_time": "10:52",
+            "distance_km": 278.0,
+            "sequence_number": 10,
+            "station_code": "CRP",
+            "station_name": "CHANDRAPURA"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 293.0,
+            "sequence_number": 11,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "12:18",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 346.0,
+            "sequence_number": 12,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "13:55",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 409.0,
+            "sequence_number": 13,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        }
+    ],
+    "train_name": "RNC JANSHATABDI",
+    "train_number": "12365",
+    "type": "JAN SHATABDI"
+}

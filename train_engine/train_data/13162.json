@@ -1,0 +1,164 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13162.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13162-BLGT-KOAA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BLGT",
+            "station_name": "BALURGHAT"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 20.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "RMPB",
+            "station_name": "RAMPUR."
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 1,
+            "departure_time": "06:20",
+            "distance_km": 32.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "GRMP",
+            "station_name": "GANGA RAMPUR"
+        },
+        {
+            "arrival_time": "06:31",
+            "day_of_journey": 1,
+            "departure_time": "06:33",
+            "distance_km": 45.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BNDP",
+            "station_name": "BUNIADPUR"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 1,
+            "departure_time": "06:57",
+            "distance_km": 73.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "GZO",
+            "station_name": "GAZOLE"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 1,
+            "departure_time": "07:12",
+            "distance_km": 87.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "EKI",
+            "station_name": "EKLAKHI"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 106.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "08:32",
+            "day_of_journey": 1,
+            "departure_time": "08:34",
+            "distance_km": 141.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "09:14",
+            "day_of_journey": 1,
+            "departure_time": "09:16",
+            "distance_km": 174.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "PKR",
+            "station_name": "PAKAUR"
+        },
+        {
+            "arrival_time": "09:36",
+            "day_of_journey": 1,
+            "departure_time": "09:37",
+            "distance_km": 197.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "MRR",
+            "station_name": "MURARAI"
+        },
+        {
+            "arrival_time": "10:06",
+            "day_of_journey": 1,
+            "departure_time": "10:11",
+            "distance_km": 228.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "11:19",
+            "day_of_journey": 1,
+            "departure_time": "11:22",
+            "distance_km": 289.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "12:14",
+            "day_of_journey": 1,
+            "departure_time": "12:16",
+            "distance_km": 340.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "14:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 441.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        }
+    ],
+    "train_name": "BLGT KOAA EXP",
+    "train_number": "13162",
+    "type": "MAIL EXPRESS "
+}

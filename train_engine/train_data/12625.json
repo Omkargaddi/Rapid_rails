@@ -1,0 +1,206 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12625.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12625-TVC-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        },
+        {
+            "arrival_time": "12:51",
+            "day_of_journey": 1,
+            "departure_time": "12:52",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "VAK",
+            "station_name": "VARKALA"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 1,
+            "departure_time": "13:18",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "13:51",
+            "day_of_journey": 1,
+            "departure_time": "13:53",
+            "distance_km": 105.0,
+            "sequence_number": 4,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "14:02",
+            "day_of_journey": 1,
+            "departure_time": "14:03",
+            "distance_km": 113.0,
+            "sequence_number": 5,
+            "station_code": "MVLK",
+            "station_name": "MAVELIKARA"
+        },
+        {
+            "arrival_time": "14:15",
+            "day_of_journey": 1,
+            "departure_time": "14:17",
+            "distance_km": 126.0,
+            "sequence_number": 6,
+            "station_code": "CNGR",
+            "station_name": "CHENGANNUR"
+        },
+        {
+            "arrival_time": "14:26",
+            "day_of_journey": 1,
+            "departure_time": "14:27",
+            "distance_km": 135.0,
+            "sequence_number": 7,
+            "station_code": "TRVL",
+            "station_name": "TIRUVALLA"
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 1,
+            "departure_time": "14:36",
+            "distance_km": 143.0,
+            "sequence_number": 8,
+            "station_code": "CGY",
+            "station_name": "CHANGANASSERI"
+        },
+        {
+            "arrival_time": "14:55",
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 160.0,
+            "sequence_number": 9,
+            "station_code": "KTYM",
+            "station_name": "KOTTAYAM"
+        },
+        {
+            "arrival_time": "15:23",
+            "day_of_journey": 1,
+            "departure_time": "15:24",
+            "distance_km": 185.0,
+            "sequence_number": 10,
+            "station_code": "VARD",
+            "station_name": "VAIKAM ROAD"
+        },
+        {
+            "arrival_time": "16:05",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 220.0,
+            "sequence_number": 11,
+            "station_code": "ERN",
+            "station_name": "ERNAKULAM TOWN"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 1,
+            "departure_time": "16:32",
+            "distance_km": 237.0,
+            "sequence_number": 12,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 3,
+            "departure_time": "05:45",
+            "distance_km": 2471.0,
+            "sequence_number": 36,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 3,
+            "departure_time": "07:30",
+            "distance_km": 2622.0,
+            "sequence_number": 37,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 3,
+            "departure_time": "08:42",
+            "distance_km": 2720.0,
+            "sequence_number": 38,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "10:10",
+            "day_of_journey": 3,
+            "departure_time": "10:15",
+            "distance_km": 2839.0,
+            "sequence_number": 39,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 3,
+            "departure_time": "10:52",
+            "distance_km": 2892.0,
+            "sequence_number": 40,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "12:30",
+            "day_of_journey": 3,
+            "departure_time": "12:32",
+            "distance_km": 3005.0,
+            "sequence_number": 41,
+            "station_code": "FDB",
+            "station_name": "FARIDABAD"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 3,
+            "departure_time": "12:52",
+            "distance_km": 3025.0,
+            "sequence_number": 42,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 3033.0,
+            "sequence_number": 43,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "KERALA SF EXP",
+    "train_number": "12625",
+    "type": "SUPERFAST"
+}

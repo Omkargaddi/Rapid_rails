@@ -1,0 +1,234 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12321.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12321-HWH-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "00:32",
+            "day_of_journey": 2,
+            "departure_time": "00:34",
+            "distance_km": 95.0,
+            "sequence_number": 2,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:22",
+            "distance_km": 142.0,
+            "sequence_number": 3,
+            "station_code": "PAN",
+            "station_name": "PANAGARH"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:37",
+            "distance_km": 157.0,
+            "sequence_number": 4,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "01:54",
+            "day_of_journey": 2,
+            "departure_time": "01:56",
+            "distance_km": 181.0,
+            "sequence_number": 5,
+            "station_code": "RNG",
+            "station_name": "RANIGANJ"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 199.0,
+            "sequence_number": 6,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "02:33",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 215.0,
+            "sequence_number": 7,
+            "station_code": "BRR",
+            "station_name": "BARAKAR"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 257.0,
+            "sequence_number": 8,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "04:09",
+            "day_of_journey": 2,
+            "departure_time": "04:14",
+            "distance_km": 287.0,
+            "sequence_number": 9,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "04:28",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 305.0,
+            "sequence_number": 10,
+            "station_code": "PNME",
+            "station_name": "PARASNATH"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:52",
+            "distance_km": 332.0,
+            "sequence_number": 11,
+            "station_code": "HZD",
+            "station_name": "HAZARIBAGH RD"
+        },
+        {
+            "arrival_time": "05:03",
+            "day_of_journey": 2,
+            "departure_time": "05:05",
+            "distance_km": 354.0,
+            "sequence_number": 12,
+            "station_code": "PSB",
+            "station_name": "PARSABAD"
+        },
+        {
+            "arrival_time": "00:35",
+            "day_of_journey": 3,
+            "departure_time": "00:37",
+            "distance_km": 1483.0,
+            "sequence_number": 36,
+            "station_code": "HD",
+            "station_name": "HARDA"
+        },
+        {
+            "arrival_time": "02:22",
+            "day_of_journey": 3,
+            "departure_time": "02:25",
+            "distance_km": 1590.0,
+            "sequence_number": 37,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "03:13",
+            "day_of_journey": 3,
+            "departure_time": "03:15",
+            "distance_km": 1659.0,
+            "sequence_number": 38,
+            "station_code": "BAU",
+            "station_name": "BURHANPUR"
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 3,
+            "departure_time": "04:25",
+            "distance_km": 1714.0,
+            "sequence_number": 39,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 3,
+            "departure_time": "04:52",
+            "distance_km": 1738.0,
+            "sequence_number": 40,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "05:54",
+            "day_of_journey": 3,
+            "departure_time": "05:55",
+            "distance_km": 1830.0,
+            "sequence_number": 41,
+            "station_code": "CSN",
+            "station_name": "CHALISGAON JN"
+        },
+        {
+            "arrival_time": "06:53",
+            "day_of_journey": 3,
+            "departure_time": "06:55",
+            "distance_km": 1898.0,
+            "sequence_number": 42,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "07:55",
+            "day_of_journey": 3,
+            "departure_time": "08:00",
+            "distance_km": 1971.0,
+            "sequence_number": 43,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "11:37",
+            "day_of_journey": 3,
+            "departure_time": "11:40",
+            "distance_km": 2104.0,
+            "sequence_number": 44,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 3,
+            "departure_time": "12:43",
+            "distance_km": 2149.0,
+            "sequence_number": 45,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2158.0,
+            "sequence_number": 46,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "MUMBAI MAIL",
+    "train_number": "12321",
+    "type": "SUPERFAST"
+}

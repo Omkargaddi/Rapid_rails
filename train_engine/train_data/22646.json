@@ -1,0 +1,284 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22646.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22646-TVCN-INDB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:35",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "TVCN",
+            "station_name": "THIRUVANANTHAPURAM NORTH"
+        },
+        {
+            "arrival_time": "07:32",
+            "day_of_journey": 1,
+            "departure_time": "07:35",
+            "distance_km": 58.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 99.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "08:34",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 112.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "HAD",
+            "station_name": "HARIPAD"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 1,
+            "departure_time": "08:51",
+            "distance_km": 130.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "AMPA",
+            "station_name": "AMBALAPPUZHA"
+        },
+        {
+            "arrival_time": "09:02",
+            "day_of_journey": 1,
+            "departure_time": "09:05",
+            "distance_km": 142.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "ALLP",
+            "station_name": "ALAPPUZHA"
+        },
+        {
+            "arrival_time": "09:24",
+            "day_of_journey": 1,
+            "departure_time": "09:25",
+            "distance_km": 166.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SRTL",
+            "station_name": "CHERTHALA"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 1,
+            "departure_time": "10:35",
+            "distance_km": 199.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": "11:07",
+            "distance_km": 219.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "11:17",
+            "day_of_journey": 1,
+            "departure_time": "11:18",
+            "distance_km": 228.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "AFK",
+            "station_name": "ANGAMALI"
+        },
+        {
+            "arrival_time": "11:33",
+            "day_of_journey": 1,
+            "departure_time": "11:34",
+            "distance_km": 243.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "CKI",
+            "station_name": "CHALAKUDI"
+        },
+        {
+            "arrival_time": "11:44",
+            "day_of_journey": 1,
+            "departure_time": "11:45",
+            "distance_km": 250.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "IJK",
+            "station_name": "IRINJALAKUDA"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 2,
+            "departure_time": "12:45",
+            "distance_km": 1789.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "BPQ",
+            "station_name": "BALHARSHAH"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 2,
+            "departure_time": "13:02",
+            "distance_km": 1802.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "CD",
+            "station_name": "CHANDRAPUR"
+        },
+        {
+            "arrival_time": "14:58",
+            "day_of_journey": 2,
+            "departure_time": "15:00",
+            "distance_km": 1921.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "SEGM",
+            "station_name": "SEVAGRAM"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 2,
+            "departure_time": "16:40",
+            "distance_km": 1997.0,
+            "platform": null,
+            "sequence_number": 39,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "17:54",
+            "day_of_journey": 2,
+            "departure_time": "17:55",
+            "distance_km": 2100.0,
+            "platform": null,
+            "sequence_number": 40,
+            "station_code": "PAR",
+            "station_name": "PANDHURNA"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 2,
+            "departure_time": "19:00",
+            "distance_km": 2163.0,
+            "platform": null,
+            "sequence_number": 41,
+            "station_code": "AMLA",
+            "station_name": "AMLA JN"
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 2,
+            "departure_time": "19:20",
+            "distance_km": 2186.0,
+            "platform": null,
+            "sequence_number": 42,
+            "station_code": "BZU",
+            "station_name": "BETUL"
+        },
+        {
+            "arrival_time": "19:55",
+            "day_of_journey": 2,
+            "departure_time": "19:56",
+            "distance_km": 2223.0,
+            "platform": null,
+            "sequence_number": 43,
+            "station_code": "GDYA",
+            "station_name": "GHORADONGRI"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 2,
+            "departure_time": "22:05",
+            "distance_km": 2293.0,
+            "platform": null,
+            "sequence_number": 44,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 2,
+            "departure_time": "23:45",
+            "distance_km": 2384.0,
+            "platform": null,
+            "sequence_number": 45,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 3,
+            "departure_time": "01:12",
+            "distance_km": 2467.0,
+            "platform": null,
+            "sequence_number": 46,
+            "station_code": "SJP",
+            "station_name": "SHUJALPUR"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 3,
+            "departure_time": "03:15",
+            "distance_km": 2571.0,
+            "platform": null,
+            "sequence_number": 47,
+            "station_code": "Point(2)",
+            "station_name": "UJJAIN JN UJN Train Reversal"
+        },
+        {
+            "arrival_time": "03:56",
+            "day_of_journey": 3,
+            "departure_time": "03:58",
+            "distance_km": 2611.0,
+            "platform": null,
+            "sequence_number": 48,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2653.0,
+            "platform": null,
+            "sequence_number": 49,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        }
+    ],
+    "train_name": "AHILYANAGARI EX",
+    "train_number": "22646",
+    "type": "SUPERFAST "
+}

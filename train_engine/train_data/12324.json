@@ -1,0 +1,251 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12324.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12324-BME-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BME",
+            "station_name": "BARMER"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 96.0,
+            "sequence_number": 2,
+            "station_code": "BLT",
+            "station_name": "BALOTRA JN."
+        },
+        {
+            "arrival_time": "19:01",
+            "day_of_journey": 1,
+            "departure_time": "19:06",
+            "distance_km": 129.0,
+            "sequence_number": 3,
+            "station_code": "SMR",
+            "station_name": "SAMDHARI JN"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 209.0,
+            "sequence_number": 4,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        },
+        {
+            "arrival_time": "21:57",
+            "day_of_journey": 1,
+            "departure_time": "22:02",
+            "distance_km": 313.0,
+            "sequence_number": 5,
+            "station_code": "MTD",
+            "station_name": "MERTA ROAD JN"
+        },
+        {
+            "arrival_time": "22:34",
+            "day_of_journey": 1,
+            "departure_time": "22:37",
+            "distance_km": 358.0,
+            "sequence_number": 6,
+            "station_code": "DNA",
+            "station_name": "DEGANA JN"
+        },
+        {
+            "arrival_time": "23:02",
+            "day_of_journey": 1,
+            "departure_time": "23:04",
+            "distance_km": 388.0,
+            "sequence_number": 7,
+            "station_code": "CTKT",
+            "station_name": "CHHOTI KHATU"
+        },
+        {
+            "arrival_time": "23:34",
+            "day_of_journey": 1,
+            "departure_time": "23:37",
+            "distance_km": 424.0,
+            "sequence_number": 8,
+            "station_code": "DIA",
+            "station_name": "DIDWANA"
+        },
+        {
+            "arrival_time": "00:17",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 455.0,
+            "sequence_number": 9,
+            "station_code": "LAU",
+            "station_name": "LADNUN"
+        },
+        {
+            "arrival_time": "00:30",
+            "day_of_journey": 2,
+            "departure_time": "00:33",
+            "distance_km": 465.0,
+            "sequence_number": 10,
+            "station_code": "SUJH",
+            "station_name": "SUJANGARH"
+        },
+        {
+            "arrival_time": "01:30",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 511.0,
+            "sequence_number": 11,
+            "station_code": "RTGH",
+            "station_name": "RATANGARH JN"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 553.0,
+            "sequence_number": 12,
+            "station_code": "CUR",
+            "station_name": "CHURU"
+        },
+        {
+            "arrival_time": "03:10",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 611.0,
+            "sequence_number": 13,
+            "station_code": "SDLP",
+            "station_name": "SADULPUR JN"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 2,
+            "departure_time": "03:58",
+            "distance_km": 661.0,
+            "sequence_number": 14,
+            "station_code": "LHU",
+            "station_name": "LOHARU"
+        },
+        {
+            "arrival_time": "05:49",
+            "day_of_journey": 2,
+            "departure_time": "05:51",
+            "distance_km": 752.0,
+            "sequence_number": 15,
+            "station_code": "RE",
+            "station_name": "REWARI JN."
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 2,
+            "departure_time": "07:50",
+            "distance_km": 835.0,
+            "sequence_number": 16,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 2,
+            "departure_time": "13:45",
+            "distance_km": 1270.0,
+            "sequence_number": 17,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 2,
+            "departure_time": "16:20",
+            "distance_km": 1460.0,
+            "sequence_number": 18,
+            "station_code": "SFG",
+            "station_name": "SUBEDARGANJ"
+        },
+        {
+            "arrival_time": "19:18",
+            "day_of_journey": 2,
+            "departure_time": "19:25",
+            "distance_km": 1617.0,
+            "sequence_number": 19,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 2,
+            "departure_time": "20:32",
+            "distance_km": 1718.0,
+            "sequence_number": 20,
+            "station_code": "SSM",
+            "station_name": "SASARAM"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 2,
+            "departure_time": "22:10",
+            "distance_km": 1821.0,
+            "sequence_number": 21,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "23:23",
+            "day_of_journey": 2,
+            "departure_time": "23:25",
+            "distance_km": 1897.0,
+            "sequence_number": 22,
+            "station_code": "KQR",
+            "station_name": "KODERMA"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 3,
+            "departure_time": "01:20",
+            "distance_km": 2020.0,
+            "sequence_number": 23,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "02:11",
+            "day_of_journey": 3,
+            "departure_time": "02:16",
+            "distance_km": 2079.0,
+            "sequence_number": 24,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2278.0,
+            "sequence_number": 25,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "BME HWH SF EXP",
+    "train_number": "12324",
+    "type": "SUPERFAST"
+}

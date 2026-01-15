@@ -1,0 +1,196 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12226.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12226-DLI-AMH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:02",
+            "distance_km": 20.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "22:13",
+            "day_of_journey": 1,
+            "departure_time": "22:15",
+            "distance_km": 126.0,
+            "sequence_number": 3,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 2,
+            "departure_time": "00:07",
+            "distance_km": 296.0,
+            "sequence_number": 4,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "01:55",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 435.0,
+            "sequence_number": 5,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "02:27",
+            "day_of_journey": 2,
+            "departure_time": "02:28",
+            "distance_km": 453.0,
+            "sequence_number": 6,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 511.0,
+            "sequence_number": 7,
+            "station_code": "ASH",
+            "station_name": "AISHBAGH"
+        },
+        {
+            "arrival_time": "04:17",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 520.0,
+            "sequence_number": 8,
+            "station_code": "BNZ",
+            "station_name": "BADSHAHNAGAR"
+        },
+        {
+            "arrival_time": "05:02",
+            "day_of_journey": 2,
+            "departure_time": "05:04",
+            "distance_km": 545.0,
+            "sequence_number": 9,
+            "station_code": "BBK",
+            "station_name": "BARABANKI JN"
+        },
+        {
+            "arrival_time": "05:53",
+            "day_of_journey": 2,
+            "departure_time": "05:54",
+            "distance_km": 606.0,
+            "sequence_number": 10,
+            "station_code": "RDL",
+            "station_name": "RUDAULI"
+        },
+        {
+            "arrival_time": "06:33",
+            "day_of_journey": 2,
+            "departure_time": "06:35",
+            "distance_km": 644.0,
+            "sequence_number": 11,
+            "station_code": "AYC",
+            "station_name": "AYODHYA CANTT"
+        },
+        {
+            "arrival_time": "06:53",
+            "day_of_journey": 2,
+            "departure_time": "06:55",
+            "distance_km": 651.0,
+            "sequence_number": 12,
+            "station_code": "AY",
+            "station_name": "AYODHYA DHAM JN"
+        },
+        {
+            "arrival_time": "07:22",
+            "day_of_journey": 2,
+            "departure_time": "07:24",
+            "distance_km": 683.0,
+            "sequence_number": 13,
+            "station_code": "GGJ",
+            "station_name": "GOSHAINGANJ"
+        },
+        {
+            "arrival_time": "07:46",
+            "day_of_journey": 2,
+            "departure_time": "07:48",
+            "distance_km": 705.0,
+            "sequence_number": 14,
+            "station_code": "ABP",
+            "station_name": "AKBARPUR"
+        },
+        {
+            "arrival_time": "08:06",
+            "day_of_journey": 2,
+            "departure_time": "08:08",
+            "distance_km": 724.0,
+            "sequence_number": 15,
+            "station_code": "MLPR",
+            "station_name": "MALIPUR"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 2,
+            "departure_time": "09:30",
+            "distance_km": 749.0,
+            "sequence_number": 16,
+            "station_code": "SHG",
+            "station_name": "SHAHGANJ JN"
+        },
+        {
+            "arrival_time": "09:58",
+            "day_of_journey": 2,
+            "departure_time": "10:00",
+            "distance_km": 771.0,
+            "sequence_number": 17,
+            "station_code": "KRND",
+            "station_name": "KHORASON ROAD"
+        },
+        {
+            "arrival_time": "10:11",
+            "day_of_journey": 2,
+            "departure_time": "10:13",
+            "distance_km": 780.0,
+            "sequence_number": 18,
+            "station_code": "SMZ",
+            "station_name": "SARAI MIR"
+        },
+        {
+            "arrival_time": "10:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 806.0,
+            "sequence_number": 19,
+            "station_code": "AMH",
+            "station_name": "AZAMGARH"
+        }
+    ],
+    "train_name": "KAIFIYAT EXP",
+    "train_number": "12226",
+    "type": "SUPERFAST"
+}

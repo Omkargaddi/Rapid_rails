@@ -1,0 +1,215 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12556.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12556-BTI-GKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BTI",
+            "station_name": "BATHINDA"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 1,
+            "departure_time": "15:25",
+            "distance_km": 76.0,
+            "sequence_number": 2,
+            "station_code": "SSA",
+            "station_name": "SIRSA"
+        },
+        {
+            "arrival_time": "15:51",
+            "day_of_journey": 1,
+            "departure_time": "15:53",
+            "distance_km": 111.0,
+            "sequence_number": 3,
+            "station_code": "BHT",
+            "station_name": "BHATTU"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 157.0,
+            "sequence_number": 4,
+            "station_code": "HSR",
+            "station_name": "HISAR"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 217.0,
+            "sequence_number": 5,
+            "station_code": "BNW",
+            "station_name": "BHIWANI JN."
+        },
+        {
+            "arrival_time": "18:31",
+            "day_of_journey": 1,
+            "departure_time": "18:33",
+            "distance_km": 246.0,
+            "sequence_number": 6,
+            "station_code": "KLNK",
+            "station_name": "KALANAUR KALAN"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 267.0,
+            "sequence_number": 7,
+            "station_code": "ROK",
+            "station_name": "ROHTAK JN"
+        },
+        {
+            "arrival_time": "20:03",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 307.0,
+            "sequence_number": 8,
+            "station_code": "BGZ",
+            "station_name": "BAHADURGARH"
+        },
+        {
+            "arrival_time": "20:16",
+            "day_of_journey": 1,
+            "departure_time": "20:18",
+            "distance_km": 320.0,
+            "sequence_number": 9,
+            "station_code": "NNO",
+            "station_name": "NANGLOI"
+        },
+        {
+            "arrival_time": "20:26",
+            "day_of_journey": 1,
+            "departure_time": "20:28",
+            "distance_km": 327.0,
+            "sequence_number": 10,
+            "station_code": "SSB",
+            "station_name": "SHAKURBASTI"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 338.0,
+            "sequence_number": 11,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 779.0,
+            "sequence_number": 12,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "03:36",
+            "day_of_journey": 2,
+            "departure_time": "03:38",
+            "distance_km": 796.0,
+            "sequence_number": 13,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 852.0,
+            "sequence_number": 14,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 881.0,
+            "sequence_number": 15,
+            "station_code": "BBK",
+            "station_name": "BARABANKI JN"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 969.0,
+            "sequence_number": 16,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "07:27",
+            "day_of_journey": 2,
+            "departure_time": "07:29",
+            "distance_km": 997.0,
+            "sequence_number": 17,
+            "station_code": "MUR",
+            "station_name": "MANKAPUR JN"
+        },
+        {
+            "arrival_time": "07:53",
+            "day_of_journey": 2,
+            "departure_time": "07:55",
+            "distance_km": 1028.0,
+            "sequence_number": 18,
+            "station_code": "BV",
+            "station_name": "BABHNAN"
+        },
+        {
+            "arrival_time": "08:19",
+            "day_of_journey": 2,
+            "departure_time": "08:22",
+            "distance_km": 1058.0,
+            "sequence_number": 19,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "08:42",
+            "day_of_journey": 2,
+            "departure_time": "08:44",
+            "distance_km": 1088.0,
+            "sequence_number": 20,
+            "station_code": "KLD",
+            "station_name": "KHALILABAD"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1123.0,
+            "sequence_number": 21,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        }
+    ],
+    "train_name": "GORAKHDHAM EXP",
+    "train_number": "12556",
+    "type": "SUPERFAST"
+}

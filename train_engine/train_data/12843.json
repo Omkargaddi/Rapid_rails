@@ -1,0 +1,232 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12843.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12843-PURI-ADI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        },
+        {
+            "arrival_time": "17:47",
+            "day_of_journey": 1,
+            "departure_time": "17:49",
+            "distance_km": 16.0,
+            "sequence_number": 2,
+            "station_code": "SIL",
+            "station_name": "SAKHI GOPAL"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 44.0,
+            "sequence_number": 3,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "19:06",
+            "day_of_journey": 1,
+            "departure_time": "19:08",
+            "distance_km": 87.0,
+            "sequence_number": 4,
+            "station_code": "KAPG",
+            "station_name": "KALUPARA GHAT"
+        },
+        {
+            "arrival_time": "19:27",
+            "day_of_journey": 1,
+            "departure_time": "19:29",
+            "distance_km": 115.0,
+            "sequence_number": 5,
+            "station_code": "BALU",
+            "station_name": "BALUGAN"
+        },
+        {
+            "arrival_time": "19:42",
+            "day_of_journey": 1,
+            "departure_time": "19:44",
+            "distance_km": 132.0,
+            "sequence_number": 6,
+            "station_code": "KIT",
+            "station_name": "KHALLIKOT"
+        },
+        {
+            "arrival_time": "20:06",
+            "day_of_journey": 1,
+            "departure_time": "20:08",
+            "distance_km": 169.0,
+            "sequence_number": 7,
+            "station_code": "CAP",
+            "station_name": "CHATRAPUR"
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 1,
+            "departure_time": "20:28",
+            "distance_km": 191.0,
+            "sequence_number": 8,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:07",
+            "distance_km": 265.0,
+            "sequence_number": 9,
+            "station_code": "PSA",
+            "station_name": "PALASA"
+        },
+        {
+            "arrival_time": "22:58",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 338.0,
+            "sequence_number": 10,
+            "station_code": "CHE",
+            "station_name": "SRIKAKULAM ROAD"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 407.0,
+            "sequence_number": 11,
+            "station_code": "Point(2)",
+            "station_name": "VIZIANAGRAM JN VZM Train Reversal"
+        },
+        {
+            "arrival_time": "00:58",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 460.0,
+            "sequence_number": 12,
+            "station_code": "VBL",
+            "station_name": "BOBBILI"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 2,
+            "departure_time": "20:00",
+            "distance_km": 1520.0,
+            "sequence_number": 36,
+            "station_code": "MKU",
+            "station_name": "MALKAPUR"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 2,
+            "departure_time": "20:55",
+            "distance_km": 1571.0,
+            "sequence_number": 37,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 2,
+            "departure_time": "21:23",
+            "distance_km": 1595.0,
+            "sequence_number": 38,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 2,
+            "departure_time": "22:05",
+            "distance_km": 1625.0,
+            "sequence_number": 39,
+            "station_code": "DXG",
+            "station_name": "DHARANGAON"
+        },
+        {
+            "arrival_time": "23:54",
+            "day_of_journey": 2,
+            "departure_time": "23:59",
+            "distance_km": 1746.0,
+            "sequence_number": 40,
+            "station_code": "NDB",
+            "station_name": "NANDURBAR"
+        },
+        {
+            "arrival_time": "02:33",
+            "day_of_journey": 3,
+            "departure_time": "02:38",
+            "distance_km": 1906.0,
+            "sequence_number": 41,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "03:16",
+            "day_of_journey": 3,
+            "departure_time": "03:18",
+            "distance_km": 1965.0,
+            "sequence_number": 42,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "04:16",
+            "day_of_journey": 3,
+            "departure_time": "04:21",
+            "distance_km": 2035.0,
+            "sequence_number": 43,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "04:53",
+            "day_of_journey": 3,
+            "departure_time": "04:55",
+            "distance_km": 2069.0,
+            "sequence_number": 44,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "05:14",
+            "day_of_journey": 3,
+            "departure_time": "05:16",
+            "distance_km": 2088.0,
+            "sequence_number": 45,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2133.0,
+            "sequence_number": 46,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        }
+    ],
+    "train_name": "PURI ADI S F",
+    "train_number": "12843",
+    "type": "SUPERFAST"
+}

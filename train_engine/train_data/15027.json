@@ -1,0 +1,223 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15027.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15027-SBP-GKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SBP",
+            "station_name": "SAMBALPUR JN."
+        },
+        {
+            "arrival_time": "09:39",
+            "day_of_journey": 1,
+            "departure_time": "09:41",
+            "distance_km": 23.0,
+            "sequence_number": 2,
+            "station_code": "RGL",
+            "station_name": "RENGALI"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 1,
+            "departure_time": "10:25",
+            "distance_km": 49.0,
+            "sequence_number": 3,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 1,
+            "departure_time": "11:16",
+            "distance_km": 121.0,
+            "sequence_number": 4,
+            "station_code": "GP",
+            "station_name": "RAJ GANGPUR"
+        },
+        {
+            "arrival_time": "11:42",
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 151.0,
+            "sequence_number": 5,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 313.0,
+            "sequence_number": 6,
+            "station_code": "HTE",
+            "station_name": "HATIA"
+        },
+        {
+            "arrival_time": "09:40",
+            "day_of_journey": 2,
+            "departure_time": "09:45",
+            "distance_km": 920.0,
+            "sequence_number": 41,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 2,
+            "departure_time": "10:00",
+            "distance_km": 926.0,
+            "sequence_number": 42,
+            "station_code": "SEE",
+            "station_name": "SONPUR JN"
+        },
+        {
+            "arrival_time": "10:23",
+            "day_of_journey": 2,
+            "departure_time": "10:25",
+            "distance_km": 949.0,
+            "sequence_number": 43,
+            "station_code": "DGA",
+            "station_name": "DIGHWARA"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 2,
+            "departure_time": "11:45",
+            "distance_km": 979.0,
+            "sequence_number": 44,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "12:07",
+            "day_of_journey": 2,
+            "departure_time": "12:09",
+            "distance_km": 999.0,
+            "sequence_number": 45,
+            "station_code": "DDP",
+            "station_name": "DAUDPUR"
+        },
+        {
+            "arrival_time": "12:18",
+            "day_of_journey": 2,
+            "departure_time": "12:20",
+            "distance_km": 1007.0,
+            "sequence_number": 46,
+            "station_code": "EKMA",
+            "station_name": "EKMA"
+        },
+        {
+            "arrival_time": "12:38",
+            "day_of_journey": 2,
+            "departure_time": "12:40",
+            "distance_km": 1022.0,
+            "sequence_number": 47,
+            "station_code": "DDA",
+            "station_name": "DURAUNDHA JN"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 2,
+            "departure_time": "13:05",
+            "distance_km": 1040.0,
+            "sequence_number": 48,
+            "station_code": "SV",
+            "station_name": "SIWAN JN"
+        },
+        {
+            "arrival_time": "13:14",
+            "day_of_journey": 2,
+            "departure_time": "13:16",
+            "distance_km": 1050.0,
+            "sequence_number": 49,
+            "station_code": "ZRDE",
+            "station_name": "JIRADEI"
+        },
+        {
+            "arrival_time": "13:22",
+            "day_of_journey": 2,
+            "departure_time": "13:24",
+            "distance_km": 1061.0,
+            "sequence_number": 50,
+            "station_code": "MW",
+            "station_name": "MAIRWA"
+        },
+        {
+            "arrival_time": "13:33",
+            "day_of_journey": 2,
+            "departure_time": "13:35",
+            "distance_km": 1076.0,
+            "sequence_number": 51,
+            "station_code": "BHTR",
+            "station_name": "BHATPAR RANI"
+        },
+        {
+            "arrival_time": "13:58",
+            "day_of_journey": 2,
+            "departure_time": "14:00",
+            "distance_km": 1089.0,
+            "sequence_number": 52,
+            "station_code": "BTT",
+            "station_name": "BHATNI JN"
+        },
+        {
+            "arrival_time": "14:25",
+            "day_of_journey": 2,
+            "departure_time": "14:30",
+            "distance_km": 1110.0,
+            "sequence_number": 53,
+            "station_code": "DEOS",
+            "station_name": "DEORIA SADAR"
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 2,
+            "departure_time": "14:50",
+            "distance_km": 1125.0,
+            "sequence_number": 54,
+            "station_code": "GB",
+            "station_name": "GAURI BAZAR"
+        },
+        {
+            "arrival_time": "15:03",
+            "day_of_journey": 2,
+            "departure_time": "15:05",
+            "distance_km": 1135.0,
+            "sequence_number": 55,
+            "station_code": "CC",
+            "station_name": "CHAURI CHAURA"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1160.0,
+            "sequence_number": 56,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        }
+    ],
+    "train_name": "MAURYA EXPRESS",
+    "train_number": "15027",
+    "type": "MAIL EXPRESS"
+}

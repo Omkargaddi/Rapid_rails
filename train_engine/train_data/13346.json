@@ -1,0 +1,128 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "CC",
+        "EC",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13346.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13346-SGRL-BSB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "SGRL",
+            "station_name": "SINGRAULI"
+        },
+        {
+            "arrival_time": "06:23",
+            "day_of_journey": 1,
+            "departure_time": "06:25",
+            "distance_km": 51.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "OBR",
+            "station_name": "OBRA DAM"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 63.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "CPU",
+            "station_name": "CHOPAN"
+        },
+        {
+            "arrival_time": "08:22",
+            "day_of_journey": 1,
+            "departure_time": "08:23",
+            "distance_km": 85.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "CUK",
+            "station_name": "CHURK"
+        },
+        {
+            "arrival_time": "08:37",
+            "day_of_journey": 1,
+            "departure_time": "08:42",
+            "distance_km": 89.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "SBDR",
+            "station_name": "SONBHADRA"
+        },
+        {
+            "arrival_time": "09:29",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 124.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "LUSA",
+            "station_name": "LUSA"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": "10:01",
+            "distance_km": 144.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SKGH",
+            "station_name": "SAKTESGARH"
+        },
+        {
+            "arrival_time": "10:55",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 165.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "CAR",
+            "station_name": "CHUNAR"
+        },
+        {
+            "arrival_time": "11:40",
+            "day_of_journey": 1,
+            "departure_time": "11:41",
+            "distance_km": 183.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "NPBR",
+            "station_name": "NARAYANPUR BAZAR"
+        },
+        {
+            "arrival_time": "12:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 208.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        }
+    ],
+    "train_name": "SGRL-BSB INTERCITY EXP",
+    "train_number": "13346",
+    "type": "MAIL EXPRESS "
+}

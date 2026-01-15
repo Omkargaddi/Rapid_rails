@@ -1,0 +1,214 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13044.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "13044-RXL-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RXL",
+            "station_name": "RAXAUL JN"
+        },
+        {
+            "arrival_time": "21:31",
+            "day_of_journey": 1,
+            "departure_time": "21:33",
+            "distance_km": 35.0,
+            "sequence_number": 2,
+            "station_code": "GRH",
+            "station_name": "GHORASAHAN"
+        },
+        {
+            "arrival_time": "21:56",
+            "day_of_journey": 1,
+            "departure_time": "21:58",
+            "distance_km": 54.0,
+            "sequence_number": 3,
+            "station_code": "BGU",
+            "station_name": "BAIRAGNIA"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 86.0,
+            "sequence_number": 4,
+            "station_code": "SMI",
+            "station_name": "SITAMARHI"
+        },
+        {
+            "arrival_time": "23:17",
+            "day_of_journey": 1,
+            "departure_time": "23:19",
+            "distance_km": 111.0,
+            "sequence_number": 5,
+            "station_code": "JNR",
+            "station_name": "JANAKPUR ROAD"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": "23:37",
+            "distance_km": 130.0,
+            "sequence_number": 6,
+            "station_code": "KML",
+            "station_name": "KAMTAUL"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:30",
+            "distance_km": 153.0,
+            "sequence_number": 7,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 158.0,
+            "sequence_number": 8,
+            "station_code": "LSI",
+            "station_name": "LAHERIA SARAI"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 191.0,
+            "sequence_number": 9,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "02:03",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 214.0,
+            "sequence_number": 10,
+            "station_code": "DSS",
+            "station_name": "DALSINGH SARAI"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 242.0,
+            "sequence_number": 11,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "04:08",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 279.0,
+            "sequence_number": 12,
+            "station_code": "KIUL",
+            "station_name": "KIUL JN"
+        },
+        {
+            "arrival_time": "04:28",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 307.0,
+            "sequence_number": 13,
+            "station_code": "JMU",
+            "station_name": "JAMUI"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 333.0,
+            "sequence_number": 14,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "06:07",
+            "day_of_journey": 2,
+            "departure_time": "06:09",
+            "distance_km": 377.0,
+            "sequence_number": 15,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "06:34",
+            "day_of_journey": 2,
+            "departure_time": "06:36",
+            "distance_km": 406.0,
+            "sequence_number": 16,
+            "station_code": "MDP",
+            "station_name": "MADHUPUR JN."
+        },
+        {
+            "arrival_time": "07:48",
+            "day_of_journey": 2,
+            "departure_time": "07:58",
+            "distance_km": 487.0,
+            "sequence_number": 17,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "08:47",
+            "day_of_journey": 2,
+            "departure_time": "08:49",
+            "distance_km": 529.0,
+            "sequence_number": 18,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "09:51",
+            "day_of_journey": 2,
+            "departure_time": "09:53",
+            "distance_km": 591.0,
+            "sequence_number": 19,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "10:47",
+            "day_of_journey": 2,
+            "departure_time": "10:49",
+            "distance_km": 659.0,
+            "sequence_number": 20,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 698.0,
+            "sequence_number": 21,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "RXL HWH EXPRESS",
+    "train_number": "13044",
+    "type": "MAIL EXPRESS"
+}

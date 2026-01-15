@@ -1,0 +1,181 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12312.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12312-KLK-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KLK",
+            "station_name": "KALKA"
+        },
+        {
+            "arrival_time": "00:13",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 16.0,
+            "sequence_number": 2,
+            "station_code": "CNDM",
+            "station_name": "CHANDI MANDIR"
+        },
+        {
+            "arrival_time": "00:28",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 25.0,
+            "sequence_number": 3,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 70.0,
+            "sequence_number": 4,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "02:49",
+            "day_of_journey": 2,
+            "departure_time": "02:51",
+            "distance_km": 111.0,
+            "sequence_number": 5,
+            "station_code": "KKDE",
+            "station_name": "KURUKSHETRA JN"
+        },
+        {
+            "arrival_time": "03:14",
+            "day_of_journey": 2,
+            "departure_time": "03:16",
+            "distance_km": 144.0,
+            "sequence_number": 6,
+            "station_code": "KUN",
+            "station_name": "KARNAL"
+        },
+        {
+            "arrival_time": "03:38",
+            "day_of_journey": 2,
+            "departure_time": "03:40",
+            "distance_km": 179.0,
+            "sequence_number": 7,
+            "station_code": "PNP",
+            "station_name": "PANIPAT JN"
+        },
+        {
+            "arrival_time": "03:54",
+            "day_of_journey": 2,
+            "departure_time": "03:56",
+            "distance_km": 196.0,
+            "sequence_number": 8,
+            "station_code": "SMK",
+            "station_name": "SAMALKHA"
+        },
+        {
+            "arrival_time": "04:07",
+            "day_of_journey": 2,
+            "departure_time": "04:09",
+            "distance_km": 208.0,
+            "sequence_number": 9,
+            "station_code": "GNU",
+            "station_name": "GANAUR"
+        },
+        {
+            "arrival_time": "04:22",
+            "day_of_journey": 2,
+            "departure_time": "04:24",
+            "distance_km": 224.0,
+            "sequence_number": 10,
+            "station_code": "SNP",
+            "station_name": "SONIPAT"
+        },
+        {
+            "arrival_time": "04:42",
+            "day_of_journey": 2,
+            "departure_time": "04:44",
+            "distance_km": 258.0,
+            "sequence_number": 11,
+            "station_code": "ANDI",
+            "station_name": "ADARSH NAGAR DELHI"
+        },
+        {
+            "arrival_time": "05:28",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 264.0,
+            "sequence_number": 12,
+            "station_code": "SZM",
+            "station_name": "SUBZI MANDI"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 3,
+            "departure_time": "02:23",
+            "distance_km": 1423.0,
+            "sequence_number": 36,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "03:17",
+            "day_of_journey": 3,
+            "departure_time": "03:22",
+            "distance_km": 1452.0,
+            "sequence_number": 37,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "04:16",
+            "day_of_journey": 3,
+            "departure_time": "04:21",
+            "distance_km": 1510.0,
+            "sequence_number": 38,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "04:53",
+            "day_of_journey": 3,
+            "departure_time": "04:55",
+            "distance_km": 1552.0,
+            "sequence_number": 39,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "06:14",
+            "day_of_journey": 3,
+            "departure_time": "06:16",
+            "distance_km": 1614.0,
+            "sequence_number": 40,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "08:05",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1709.0,
+            "sequence_number": 41,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "NETAJI EXPRESS",
+    "train_number": "12312",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,85 @@
+{
+    "classes_available": [
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_53520.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "53520-GRD-MDP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GRD",
+            "station_name": "GIRIDIH"
+        },
+        {
+            "arrival_time": "22:17",
+            "day_of_journey": 1,
+            "departure_time": "22:18",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "MMD",
+            "station_name": "MAHESHMUNDA"
+        },
+        {
+            "arrival_time": "22:25",
+            "day_of_journey": 1,
+            "departure_time": "22:26",
+            "distance_km": 20.0,
+            "sequence_number": 3,
+            "station_code": "KBSH",
+            "station_name": "KRISHNA BALLABH SAHA"
+        },
+        {
+            "arrival_time": "22:31",
+            "day_of_journey": 1,
+            "departure_time": "22:32",
+            "distance_km": 25.0,
+            "sequence_number": 4,
+            "station_code": "JGD",
+            "station_name": "JAGADISHPUR"
+        },
+        {
+            "arrival_time": "22:37",
+            "day_of_journey": 1,
+            "departure_time": "22:38",
+            "distance_km": 31.0,
+            "sequence_number": 5,
+            "station_code": "SAPT",
+            "station_name": "TP NO. 7/11 (SUGAPAHARI HALT)"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 1,
+            "departure_time": "22:41",
+            "distance_km": 32.0,
+            "sequence_number": 6,
+            "station_code": "SGPA",
+            "station_name": "TP NO. 6/3 (SUGAPAHARI HALT)"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 38.0,
+            "sequence_number": 7,
+            "station_code": "MDP",
+            "station_name": "MADHUPUR JN."
+        }
+    ],
+    "train_name": "GRD-MDP PASSENGER",
+    "train_number": "53520",
+    "type": "PASSENGER"
+}

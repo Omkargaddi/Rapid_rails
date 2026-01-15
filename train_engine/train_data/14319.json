@@ -1,0 +1,196 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14319.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "14319-INDB-BE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        },
+        {
+            "arrival_time": "17:13",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 82.0,
+            "sequence_number": 3,
+            "station_code": "UJN",
+            "station_name": "UJJAIN JN"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:17",
+            "distance_km": 142.0,
+            "sequence_number": 4,
+            "station_code": "BCH",
+            "station_name": "BERCHHA"
+        },
+        {
+            "arrival_time": "19:52",
+            "day_of_journey": 1,
+            "departure_time": "19:54",
+            "distance_km": 185.0,
+            "sequence_number": 5,
+            "station_code": "SJP",
+            "station_name": "SHUJALPUR"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": "20:27",
+            "distance_km": 227.0,
+            "sequence_number": 6,
+            "station_code": "SEH",
+            "station_name": "SEHORE"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 255.0,
+            "sequence_number": 7,
+            "station_code": "SHRN",
+            "station_name": "SANT HIRDARAM NAGAR"
+        },
+        {
+            "arrival_time": "22:25",
+            "day_of_journey": 1,
+            "departure_time": "22:27",
+            "distance_km": 319.0,
+            "sequence_number": 8,
+            "station_code": "BHS",
+            "station_name": "VIDISHA"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 404.0,
+            "sequence_number": 9,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:13",
+            "distance_km": 555.0,
+            "sequence_number": 10,
+            "station_code": "VGLJ",
+            "station_name": "VIRANGANA LAKSHMIBAI JHANSI JN"
+        },
+        {
+            "arrival_time": "04:25",
+            "day_of_journey": 2,
+            "departure_time": "04:27",
+            "distance_km": 654.0,
+            "sequence_number": 11,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 772.0,
+            "sequence_number": 12,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 775.0,
+            "sequence_number": 13,
+            "station_code": "AF",
+            "station_name": "AGRA FORT"
+        },
+        {
+            "arrival_time": "10:05",
+            "day_of_journey": 2,
+            "departure_time": "10:10",
+            "distance_km": 871.0,
+            "sequence_number": 14,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "11:40",
+            "day_of_journey": 2,
+            "departure_time": "11:45",
+            "distance_km": 926.0,
+            "sequence_number": 15,
+            "station_code": "BBA",
+            "station_name": "BABRALA"
+        },
+        {
+            "arrival_time": "12:27",
+            "day_of_journey": 2,
+            "departure_time": "12:29",
+            "distance_km": 953.0,
+            "sequence_number": 16,
+            "station_code": "BJ",
+            "station_name": "BAHJOI"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 2,
+            "departure_time": "13:10",
+            "distance_km": 969.0,
+            "sequence_number": 17,
+            "station_code": "CH",
+            "station_name": "CHANDAUSI JN"
+        },
+        {
+            "arrival_time": "13:51",
+            "day_of_journey": 2,
+            "departure_time": "13:53",
+            "distance_km": 1012.0,
+            "sequence_number": 18,
+            "station_code": "AO",
+            "station_name": "AONLA"
+        },
+        {
+            "arrival_time": "15:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1036.0,
+            "sequence_number": 19,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        }
+    ],
+    "train_name": "INDB BARELLY EXP",
+    "train_number": "14319",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,152 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12592.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12592-YPR-GKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        },
+        {
+            "arrival_time": "18:46",
+            "day_of_journey": 1,
+            "departure_time": "18:47",
+            "distance_km": 94.0,
+            "sequence_number": 2,
+            "station_code": "HUP",
+            "station_name": "HINDUPUR"
+        },
+        {
+            "arrival_time": "20:28",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 172.0,
+            "sequence_number": 3,
+            "station_code": "DMM",
+            "station_name": "DHARMAVARAM JN"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 206.0,
+            "sequence_number": 4,
+            "station_code": "ATP",
+            "station_name": "ANANTAPUR"
+        },
+        {
+            "arrival_time": "22:10",
+            "day_of_journey": 1,
+            "departure_time": "22:15",
+            "distance_km": 274.0,
+            "sequence_number": 5,
+            "station_code": "GTL",
+            "station_name": "GUNTAKAL JN"
+        },
+        {
+            "arrival_time": "22:58",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 325.0,
+            "sequence_number": 6,
+            "station_code": "AD",
+            "station_name": "ADONI"
+        },
+        {
+            "arrival_time": "23:28",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 366.0,
+            "sequence_number": 7,
+            "station_code": "MALM",
+            "station_name": "MANTHRALAYAM RD"
+        },
+        {
+            "arrival_time": "00:08",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 396.0,
+            "sequence_number": 8,
+            "station_code": "RC",
+            "station_name": "RAICHUR"
+        },
+        {
+            "arrival_time": "05:33",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 682.0,
+            "sequence_number": 9,
+            "station_code": "BMT",
+            "station_name": "BEGAMPET"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 686.0,
+            "sequence_number": 10,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "08:03",
+            "day_of_journey": 2,
+            "departure_time": "08:05",
+            "distance_km": 817.0,
+            "sequence_number": 11,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "09:39",
+            "day_of_journey": 2,
+            "departure_time": "09:40",
+            "distance_km": 915.0,
+            "sequence_number": 12,
+            "station_code": "RDM",
+            "station_name": "RAMGUNDAM"
+        },
+        {
+            "arrival_time": "14:01",
+            "day_of_journey": 3,
+            "departure_time": "14:03",
+            "distance_km": 2479.0,
+            "sequence_number": 36,
+            "station_code": "KLD",
+            "station_name": "KHALILABAD"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2514.0,
+            "sequence_number": 37,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        }
+    ],
+    "train_name": "GORAKHPUR EXP",
+    "train_number": "12592",
+    "type": "SUPERFAST"
+}

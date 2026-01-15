@@ -1,0 +1,112 @@
+{
+    "classes_available": [
+        "EV",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12048.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12048-NLP-GHY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "NLP",
+            "station_name": "NORTH LAKHIMPUR"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "17:47",
+            "distance_km": 30.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "HMY",
+            "station_name": "HARMUTI"
+        },
+        {
+            "arrival_time": "18:52",
+            "day_of_journey": 1,
+            "departure_time": "18:54",
+            "distance_km": 132.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "VNE",
+            "station_name": "VISHWANATH CHARIALI"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:02",
+            "distance_km": 183.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "RPAN",
+            "station_name": "RANGAPARA NORTH"
+        },
+        {
+            "arrival_time": "21:04",
+            "day_of_journey": 1,
+            "departure_time": "21:06",
+            "distance_km": 245.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "ULG",
+            "station_name": "UDALGURI"
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 1,
+            "departure_time": "21:22",
+            "distance_km": 268.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "TNL",
+            "station_name": "TANGLA"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 306.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "23:25",
+            "day_of_journey": 1,
+            "departure_time": "23:27",
+            "distance_km": 347.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 354.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        }
+    ],
+    "train_name": "GHY JANSHATABDI",
+    "train_number": "12048",
+    "type": "JAN SHATABDI "
+}

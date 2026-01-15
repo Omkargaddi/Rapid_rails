@@ -1,0 +1,305 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12137.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12137-CSMT-FZR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        },
+        {
+            "arrival_time": "19:47",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "20:32",
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 53.0,
+            "sequence_number": 3,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "21:42",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 121.0,
+            "sequence_number": 4,
+            "station_code": "KSRA",
+            "station_name": "KASARA"
+        },
+        {
+            "arrival_time": "22:55",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 187.0,
+            "sequence_number": 5,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "00:07",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 260.0,
+            "sequence_number": 6,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "00:53",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 327.0,
+            "sequence_number": 7,
+            "station_code": "CSN",
+            "station_name": "CHALISGAON JN"
+        },
+        {
+            "arrival_time": "02:03",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 420.0,
+            "sequence_number": 8,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "02:40",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 444.0,
+            "sequence_number": 9,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "03:28",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 499.0,
+            "sequence_number": 10,
+            "station_code": "BAU",
+            "station_name": "BURHANPUR"
+        },
+        {
+            "arrival_time": "04:52",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 568.0,
+            "sequence_number": 11,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 2,
+            "departure_time": "05:42",
+            "distance_km": 644.0,
+            "sequence_number": 12,
+            "station_code": "KKN",
+            "station_name": "KHIRKIYA"
+        },
+        {
+            "arrival_time": "21:25",
+            "day_of_journey": 2,
+            "departure_time": "21:40",
+            "distance_km": 1542.0,
+            "sequence_number": 36,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "21:54",
+            "day_of_journey": 2,
+            "departure_time": "21:56",
+            "distance_km": 1546.0,
+            "sequence_number": 37,
+            "station_code": "DKZ",
+            "station_name": "DELHI KISHANGNJ"
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 2,
+            "departure_time": "22:10",
+            "distance_km": 1554.0,
+            "sequence_number": 38,
+            "station_code": "SSB",
+            "station_name": "SHAKURBASTI"
+        },
+        {
+            "arrival_time": "22:26",
+            "day_of_journey": 2,
+            "departure_time": "22:28",
+            "distance_km": 1573.0,
+            "sequence_number": 39,
+            "station_code": "BGZ",
+            "station_name": "BAHADURGARH"
+        },
+        {
+            "arrival_time": "22:56",
+            "day_of_journey": 2,
+            "departure_time": "22:58",
+            "distance_km": 1613.0,
+            "sequence_number": 40,
+            "station_code": "ROK",
+            "station_name": "ROHTAK JN"
+        },
+        {
+            "arrival_time": "23:44",
+            "day_of_journey": 2,
+            "departure_time": "23:46",
+            "distance_km": 1670.0,
+            "sequence_number": 41,
+            "station_code": "JIND",
+            "station_name": "JIND JN"
+        },
+        {
+            "arrival_time": "00:11",
+            "day_of_journey": 3,
+            "departure_time": "00:13",
+            "distance_km": 1704.0,
+            "sequence_number": 42,
+            "station_code": "NRW",
+            "station_name": "NARWANA JN"
+        },
+        {
+            "arrival_time": "00:32",
+            "day_of_journey": 3,
+            "departure_time": "00:34",
+            "distance_km": 1730.0,
+            "sequence_number": 43,
+            "station_code": "TUN",
+            "station_name": "TOHANA"
+        },
+        {
+            "arrival_time": "00:53",
+            "day_of_journey": 3,
+            "departure_time": "00:55",
+            "distance_km": 1742.0,
+            "sequence_number": 44,
+            "station_code": "JHL",
+            "station_name": "JAKHAL JN"
+        },
+        {
+            "arrival_time": "01:06",
+            "day_of_journey": 3,
+            "departure_time": "01:08",
+            "distance_km": 1756.0,
+            "sequence_number": 45,
+            "station_code": "BRZ",
+            "station_name": "BARETA"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 3,
+            "departure_time": "01:22",
+            "distance_km": 1772.0,
+            "sequence_number": 46,
+            "station_code": "BLZ",
+            "station_name": "BUDHLADA"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 3,
+            "departure_time": "01:37",
+            "distance_km": 1788.0,
+            "sequence_number": 47,
+            "station_code": "MSZ",
+            "station_name": "MANSA"
+        },
+        {
+            "arrival_time": "01:51",
+            "day_of_journey": 3,
+            "departure_time": "01:53",
+            "distance_km": 1806.0,
+            "sequence_number": 48,
+            "station_code": "MAUR",
+            "station_name": "MAUR"
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 3,
+            "departure_time": "03:05",
+            "distance_km": 1840.0,
+            "sequence_number": 49,
+            "station_code": "BTI",
+            "station_name": "BATHINDA"
+        },
+        {
+            "arrival_time": "03:17",
+            "day_of_journey": 3,
+            "departure_time": "03:19",
+            "distance_km": 1852.0,
+            "sequence_number": 50,
+            "station_code": "GNA",
+            "station_name": "GONEANA"
+        },
+        {
+            "arrival_time": "03:32",
+            "day_of_journey": 3,
+            "departure_time": "03:34",
+            "distance_km": 1867.0,
+            "sequence_number": 51,
+            "station_code": "GJUT",
+            "station_name": "GANGSAR JAITU"
+        },
+        {
+            "arrival_time": "03:48",
+            "day_of_journey": 3,
+            "departure_time": "03:50",
+            "distance_km": 1883.0,
+            "sequence_number": 52,
+            "station_code": "KKP",
+            "station_name": "KOT KAPURA"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 3,
+            "departure_time": "04:07",
+            "distance_km": 1895.0,
+            "sequence_number": 53,
+            "station_code": "FDK",
+            "station_name": "FARIDKOT"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1928.0,
+            "sequence_number": 54,
+            "station_code": "FZR",
+            "station_name": "FIROZPUR CANT"
+        }
+    ],
+    "train_name": "PUNJAB MAIL",
+    "train_number": "12137",
+    "type": "SUPERFAST"
+}

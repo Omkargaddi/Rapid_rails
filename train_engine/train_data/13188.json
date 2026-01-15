@@ -1,0 +1,115 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13188.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13188-RPH-SDAH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "14:15",
+            "day_of_journey": 1,
+            "departure_time": "14:16",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "TPF",
+            "station_name": "TARAPITH ROAD"
+        },
+        {
+            "arrival_time": "14:26",
+            "day_of_journey": 1,
+            "departure_time": "14:28",
+            "distance_km": 28.0,
+            "sequence_number": 3,
+            "station_code": "SNT",
+            "station_name": "SAINTHIA"
+        },
+        {
+            "arrival_time": "14:48",
+            "day_of_journey": 1,
+            "departure_time": "14:49",
+            "distance_km": 56.0,
+            "sequence_number": 4,
+            "station_code": "PNE",
+            "station_name": "PRANTIK"
+        },
+        {
+            "arrival_time": "14:54",
+            "day_of_journey": 1,
+            "departure_time": "14:56",
+            "distance_km": 60.0,
+            "sequence_number": 5,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "15:11",
+            "day_of_journey": 1,
+            "departure_time": "15:12",
+            "distance_km": 79.0,
+            "sequence_number": 6,
+            "station_code": "GKH",
+            "station_name": "GUSKARA"
+        },
+        {
+            "arrival_time": "16:04",
+            "day_of_journey": 1,
+            "departure_time": "16:06",
+            "distance_km": 112.0,
+            "sequence_number": 7,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "16:56",
+            "day_of_journey": 1,
+            "departure_time": "16:58",
+            "distance_km": 179.0,
+            "sequence_number": 8,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "17:46",
+            "day_of_journey": 1,
+            "departure_time": "17:48",
+            "distance_km": 189.0,
+            "sequence_number": 9,
+            "station_code": "NH",
+            "station_name": "NAIHATI JN"
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 229.0,
+            "sequence_number": 10,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        }
+    ],
+    "train_name": "RPH SDAH EXPRES",
+    "train_number": "13188",
+    "type": "MAIL EXPRESS"
+}

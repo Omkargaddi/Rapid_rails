@@ -1,0 +1,114 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22903.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "22903-BDTS-BHUJ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 19.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "03:19",
+            "day_of_journey": 2,
+            "departure_time": "03:22",
+            "distance_km": 252.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "04:59",
+            "day_of_journey": 2,
+            "departure_time": "05:04",
+            "distance_km": 381.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 2,
+            "departure_time": "06:40",
+            "distance_km": 479.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "08:54",
+            "day_of_journey": 2,
+            "departure_time": "08:56",
+            "distance_km": 641.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "HVD",
+            "station_name": "HALVAD"
+        },
+        {
+            "arrival_time": "10:16",
+            "day_of_journey": 2,
+            "departure_time": "10:18",
+            "distance_km": 727.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SIOB",
+            "station_name": "SAMAKHIALI B G"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 2,
+            "departure_time": "11:40",
+            "distance_km": 780.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "GIMB",
+            "station_name": "GANDHIDHAM BG"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 838.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BHUJ",
+            "station_name": "BHUJ"
+        }
+    ],
+    "train_name": "BHUJ AC SF EXP",
+    "train_number": "22903",
+    "type": "SUPERFAST "
+}

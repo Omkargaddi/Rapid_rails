@@ -1,0 +1,132 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19107.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "19107-BVC-MCTM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BVC",
+            "station_name": "BHAVNAGAR TERMINUS"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 1,
+            "departure_time": "04:49",
+            "distance_km": 20.0,
+            "sequence_number": 2,
+            "station_code": "SOJN",
+            "station_name": "SIHOR GUJARAT"
+        },
+        {
+            "arrival_time": "05:01",
+            "day_of_journey": 1,
+            "departure_time": "05:02",
+            "distance_km": 49.0,
+            "sequence_number": 3,
+            "station_code": "DLJ",
+            "station_name": "DHOLA JN"
+        },
+        {
+            "arrival_time": "05:36",
+            "day_of_journey": 1,
+            "departure_time": "05:38",
+            "distance_km": 92.0,
+            "sequence_number": 4,
+            "station_code": "BTD",
+            "station_name": "BOTAD JN"
+        },
+        {
+            "arrival_time": "06:45",
+            "day_of_journey": 1,
+            "departure_time": "06:46",
+            "distance_km": 167.0,
+            "sequence_number": 5,
+            "station_code": "SRGT",
+            "station_name": "SURENDRANAGAR G"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 1,
+            "departure_time": "08:27",
+            "distance_km": 233.0,
+            "sequence_number": 6,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "08:42",
+            "day_of_journey": 2,
+            "departure_time": "08:44",
+            "distance_km": 1532.0,
+            "sequence_number": 24,
+            "station_code": "SQR",
+            "station_name": "SULTANPUR LODI"
+        },
+        {
+            "arrival_time": "09:13",
+            "day_of_journey": 2,
+            "departure_time": "09:14",
+            "distance_km": 1552.0,
+            "sequence_number": 25,
+            "station_code": "RCF",
+            "station_name": "RAIL COACH FACTORY"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 2,
+            "departure_time": "10:10",
+            "distance_km": 1578.0,
+            "sequence_number": 26,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 2,
+            "departure_time": "12:10",
+            "distance_km": 1690.0,
+            "sequence_number": 27,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 2,
+            "departure_time": "13:50",
+            "distance_km": 1790.0,
+            "sequence_number": 28,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1843.0,
+            "sequence_number": 29,
+            "station_code": "MCTM",
+            "station_name": "MARTYR CAPTAIN TUSHAR MAHAJAN"
+        }
+    ],
+    "train_name": "JANAMBHOOMI EXPRESS",
+    "train_number": "19107",
+    "type": "MAIL EXPRESS"
+}

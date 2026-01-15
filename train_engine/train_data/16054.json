@@ -1,0 +1,105 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16054.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16054-TPTY-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 1,
+            "departure_time": "10:40",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "11:03",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "PUT",
+            "station_name": "PUTTUR"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 1,
+            "departure_time": "11:17",
+            "distance_km": 47.0,
+            "sequence_number": 4,
+            "station_code": "EKM",
+            "station_name": "EKAMBARAKUPPAM"
+        },
+        {
+            "arrival_time": "11:33",
+            "day_of_journey": 1,
+            "departure_time": "11:35",
+            "distance_km": 63.0,
+            "sequence_number": 5,
+            "station_code": "TRT",
+            "station_name": "TIRUTTANI"
+        },
+        {
+            "arrival_time": "11:53",
+            "day_of_journey": 1,
+            "departure_time": "11:55",
+            "distance_km": 76.0,
+            "sequence_number": 6,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "12:18",
+            "day_of_journey": 1,
+            "departure_time": "12:20",
+            "distance_km": 103.0,
+            "sequence_number": 7,
+            "station_code": "TRL",
+            "station_name": "TIRUVALLUR"
+        },
+        {
+            "arrival_time": "12:48",
+            "day_of_journey": 1,
+            "departure_time": "12:50",
+            "distance_km": 139.0,
+            "sequence_number": 8,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 145.0,
+            "sequence_number": 9,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "TPTY MAS EXP",
+    "train_number": "16054",
+    "type": "MAIL EXPRESS"
+}

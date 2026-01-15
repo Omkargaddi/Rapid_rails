@@ -1,0 +1,207 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15232.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15232-G-BJU",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:42",
+            "distance_km": 22.0,
+            "sequence_number": 2,
+            "station_code": "AGN",
+            "station_name": "AMGAON"
+        },
+        {
+            "arrival_time": "21:53",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 37.0,
+            "sequence_number": 3,
+            "station_code": "SKS",
+            "station_name": "SALEKASA"
+        },
+        {
+            "arrival_time": "22:28",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 73.0,
+            "sequence_number": 4,
+            "station_code": "DGG",
+            "station_name": "DONGARGARH"
+        },
+        {
+            "arrival_time": "22:48",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 104.0,
+            "sequence_number": 5,
+            "station_code": "RJN",
+            "station_name": "RAJNANDGAON"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 135.0,
+            "sequence_number": 6,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 2,
+            "departure_time": "21:05",
+            "distance_km": 1077.0,
+            "sequence_number": 24,
+            "station_code": "JNU",
+            "station_name": "JAUNPUR JN"
+        },
+        {
+            "arrival_time": "21:25",
+            "day_of_journey": 2,
+            "departure_time": "21:27",
+            "distance_km": 1094.0,
+            "sequence_number": 25,
+            "station_code": "MFJ",
+            "station_name": "MUFTIGANJ"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 2,
+            "departure_time": "21:42",
+            "distance_km": 1106.0,
+            "sequence_number": 26,
+            "station_code": "KCT",
+            "station_name": "KIRAKAT"
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 2,
+            "departure_time": "22:10",
+            "distance_km": 1137.0,
+            "sequence_number": 27,
+            "station_code": "ARJ",
+            "station_name": "AUNRIHAR JN."
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 2,
+            "departure_time": "22:55",
+            "distance_km": 1177.0,
+            "sequence_number": 28,
+            "station_code": "GCT",
+            "station_name": "GHAZIPUR CITY"
+        },
+        {
+            "arrival_time": "23:12",
+            "day_of_journey": 2,
+            "departure_time": "23:14",
+            "distance_km": 1196.0,
+            "sequence_number": 29,
+            "station_code": "YFP",
+            "station_name": "YUSUFPUR"
+        },
+        {
+            "arrival_time": "00:05",
+            "day_of_journey": 3,
+            "departure_time": "00:10",
+            "distance_km": 1242.0,
+            "sequence_number": 30,
+            "station_code": "BUI",
+            "station_name": "BALLIA"
+        },
+        {
+            "arrival_time": "00:43",
+            "day_of_journey": 3,
+            "departure_time": "00:45",
+            "distance_km": 1279.0,
+            "sequence_number": 31,
+            "station_code": "SIP",
+            "station_name": "SURAIMANPUR"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 3,
+            "departure_time": "02:40",
+            "distance_km": 1307.0,
+            "sequence_number": 32,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 3,
+            "departure_time": "04:05",
+            "distance_km": 1366.0,
+            "sequence_number": 33,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "04:55",
+            "day_of_journey": 3,
+            "departure_time": "05:00",
+            "distance_km": 1420.0,
+            "sequence_number": 34,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 3,
+            "departure_time": "06:35",
+            "distance_km": 1472.0,
+            "sequence_number": 35,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "07:03",
+            "day_of_journey": 3,
+            "departure_time": "07:05",
+            "distance_km": 1495.0,
+            "sequence_number": 36,
+            "station_code": "DSS",
+            "station_name": "DALSINGH SARAI"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1523.0,
+            "sequence_number": 37,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        }
+    ],
+    "train_name": "GONDIA BJU EXP",
+    "train_number": "15232",
+    "type": "MAIL EXPRESS"
+}

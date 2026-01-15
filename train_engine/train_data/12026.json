@@ -1,0 +1,104 @@
+{
+    "classes_available": [
+        "EC",
+        "EV",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12026.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12026-HYB-PUNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HYB",
+            "station_name": "HYDERABAD"
+        },
+        {
+            "arrival_time": "14:51",
+            "day_of_journey": 1,
+            "departure_time": "14:52",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "BMT",
+            "station_name": "BEGAMPET"
+        },
+        {
+            "arrival_time": "15:09",
+            "day_of_journey": 1,
+            "departure_time": "15:10",
+            "distance_km": 26.0,
+            "sequence_number": 3,
+            "station_code": "LPI",
+            "station_name": "LINGAMPALLI"
+        },
+        {
+            "arrival_time": "15:44",
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 75.0,
+            "sequence_number": 4,
+            "station_code": "VKB",
+            "station_name": "VIKARABAD JN"
+        },
+        {
+            "arrival_time": "16:14",
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 117.0,
+            "sequence_number": 5,
+            "station_code": "TDU",
+            "station_name": "TANDUR"
+        },
+        {
+            "arrival_time": "17:17",
+            "day_of_journey": 1,
+            "departure_time": "17:19",
+            "distance_km": 188.0,
+            "sequence_number": 6,
+            "station_code": "WADI",
+            "station_name": "WADI JN."
+        },
+        {
+            "arrival_time": "17:57",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 224.0,
+            "sequence_number": 7,
+            "station_code": "KLBG",
+            "station_name": "KALABURAGI"
+        },
+        {
+            "arrival_time": "19:32",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 337.0,
+            "sequence_number": 8,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 600.0,
+            "sequence_number": 9,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        }
+    ],
+    "train_name": "PUNE SHATABDI",
+    "train_number": "12026",
+    "type": "SHATABDI"
+}

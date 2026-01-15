@@ -1,0 +1,224 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22443.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "22443-CNB-BDTS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "18:03",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 2.0,
+            "sequence_number": 2,
+            "station_code": "CPA",
+            "station_name": "KANPUR ANWRGANJ"
+        },
+        {
+            "arrival_time": "18:49",
+            "day_of_journey": 1,
+            "departure_time": "18:51",
+            "distance_km": 55.0,
+            "sequence_number": 3,
+            "station_code": "BLU",
+            "station_name": "BILHAUR"
+        },
+        {
+            "arrival_time": "19:12",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 80.0,
+            "sequence_number": 4,
+            "station_code": "KJN",
+            "station_name": "KANNAUJ"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 134.0,
+            "sequence_number": 5,
+            "station_code": "FGR",
+            "station_name": "FATEHGARH"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 139.0,
+            "sequence_number": 6,
+            "station_code": "FBD",
+            "station_name": "FARRUKHABAD"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 247.0,
+            "sequence_number": 7,
+            "station_code": "KSJ",
+            "station_name": "KASGANJ"
+        },
+        {
+            "arrival_time": "23:23",
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 310.0,
+            "sequence_number": 8,
+            "station_code": "HTC",
+            "station_name": "HATHRAS CITY"
+        },
+        {
+            "arrival_time": "00:53",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 350.0,
+            "sequence_number": 9,
+            "station_code": "MRT",
+            "station_name": "MATHURA CANT"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 352.0,
+            "sequence_number": 10,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 416.0,
+            "sequence_number": 11,
+            "station_code": "BTE",
+            "station_name": "BHARATPUR JN"
+        },
+        {
+            "arrival_time": "05:08",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 598.0,
+            "sequence_number": 12,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 706.0,
+            "sequence_number": 13,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "09:33",
+            "day_of_journey": 2,
+            "departure_time": "09:35",
+            "distance_km": 931.0,
+            "sequence_number": 14,
+            "station_code": "NAD",
+            "station_name": "NAGDA JN"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 2,
+            "departure_time": "10:30",
+            "distance_km": 972.0,
+            "sequence_number": 15,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "13:20",
+            "day_of_journey": 2,
+            "departure_time": "13:22",
+            "distance_km": 1158.0,
+            "sequence_number": 16,
+            "station_code": "GDA",
+            "station_name": "GODHRA JN"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 2,
+            "departure_time": "14:30",
+            "distance_km": 1230.0,
+            "sequence_number": 17,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "15:41",
+            "day_of_journey": 2,
+            "departure_time": "15:43",
+            "distance_km": 1300.0,
+            "sequence_number": 18,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 2,
+            "departure_time": "16:50",
+            "distance_km": 1359.0,
+            "sequence_number": 19,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "17:58",
+            "day_of_journey": 2,
+            "departure_time": "18:00",
+            "distance_km": 1454.0,
+            "sequence_number": 20,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 2,
+            "departure_time": "20:00",
+            "distance_km": 1592.0,
+            "sequence_number": 21,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1611.0,
+            "sequence_number": 22,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        }
+    ],
+    "train_name": "CNB BDTS EXP",
+    "train_number": "22443",
+    "type": "SUPERFAST"
+}

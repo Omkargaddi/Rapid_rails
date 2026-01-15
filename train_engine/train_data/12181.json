@@ -1,0 +1,252 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12181.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12181-JBP-AII",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "21:03",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 38.0,
+            "sequence_number": 2,
+            "station_code": "SHR",
+            "station_name": "SIHORA ROAD"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 91.0,
+            "sequence_number": 3,
+            "station_code": "KMZ",
+            "station_name": "KATNI MURWARA"
+        },
+        {
+            "arrival_time": "23:15",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 199.0,
+            "sequence_number": 4,
+            "station_code": "DMO",
+            "station_name": "DAMOH"
+        },
+        {
+            "arrival_time": "00:15",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 277.0,
+            "sequence_number": 5,
+            "station_code": "SGO",
+            "station_name": "SAUGOR"
+        },
+        {
+            "arrival_time": "01:18",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 347.0,
+            "sequence_number": 6,
+            "station_code": "MAKR",
+            "station_name": "MALKHERI"
+        },
+        {
+            "arrival_time": "02:32",
+            "day_of_journey": 2,
+            "departure_time": "02:34",
+            "distance_km": 373.0,
+            "sequence_number": 7,
+            "station_code": "MNV",
+            "station_name": "MUNGAOLI"
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 419.0,
+            "sequence_number": 8,
+            "station_code": "ASKN",
+            "station_name": "ASHOK NAGAR"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 463.0,
+            "sequence_number": 9,
+            "station_code": "GUNA",
+            "station_name": "GUNA"
+        },
+        {
+            "arrival_time": "04:33",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 484.0,
+            "sequence_number": 10,
+            "station_code": "RTA",
+            "station_name": "RUTHIYAI JUNCTION"
+        },
+        {
+            "arrival_time": "05:03",
+            "day_of_journey": 2,
+            "departure_time": "05:05",
+            "distance_km": 523.0,
+            "sequence_number": 11,
+            "station_code": "CAG",
+            "station_name": "CHHABRA GUGOR"
+        },
+        {
+            "arrival_time": "05:27",
+            "day_of_journey": 2,
+            "departure_time": "05:28",
+            "distance_km": 552.0,
+            "sequence_number": 12,
+            "station_code": "ATRU",
+            "station_name": "ATRU"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": "05:52",
+            "distance_km": 582.0,
+            "sequence_number": 13,
+            "station_code": "BAZ",
+            "station_name": "BARAN"
+        },
+        {
+            "arrival_time": "06:11",
+            "day_of_journey": 2,
+            "departure_time": "06:12",
+            "distance_km": 603.0,
+            "sequence_number": 14,
+            "station_code": "ATH",
+            "station_name": "ANTAH"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 648.0,
+            "sequence_number": 15,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 2,
+            "departure_time": "08:00",
+            "distance_km": 709.0,
+            "sequence_number": 16,
+            "station_code": "LKE",
+            "station_name": "LAKHERI"
+        },
+        {
+            "arrival_time": "08:13",
+            "day_of_journey": 2,
+            "departure_time": "08:15",
+            "distance_km": 720.0,
+            "sequence_number": 17,
+            "station_code": "IDG",
+            "station_name": "INDARGARH"
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 2,
+            "departure_time": "09:20",
+            "distance_km": 756.0,
+            "sequence_number": 18,
+            "station_code": "Point(2)",
+            "station_name": "SAWAI MADHOPUR JN SWM Train Reversal"
+        },
+        {
+            "arrival_time": "09:45",
+            "day_of_journey": 2,
+            "departure_time": "09:47",
+            "distance_km": 778.0,
+            "sequence_number": 19,
+            "station_code": "CKB",
+            "station_name": "CHAUTH KA BARWARA"
+        },
+        {
+            "arrival_time": "10:16",
+            "day_of_journey": 2,
+            "departure_time": "10:18",
+            "distance_km": 821.0,
+            "sequence_number": 20,
+            "station_code": "BNLW",
+            "station_name": "BANASTHALI NIWAI"
+        },
+        {
+            "arrival_time": "11:02",
+            "day_of_journey": 2,
+            "departure_time": "11:05",
+            "distance_km": 880.0,
+            "sequence_number": 21,
+            "station_code": "DPA",
+            "station_name": "DURGAPURA"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 2,
+            "departure_time": "11:40",
+            "distance_km": 887.0,
+            "sequence_number": 22,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 2,
+            "departure_time": "12:22",
+            "distance_km": 942.0,
+            "sequence_number": 23,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 2,
+            "departure_time": "13:02",
+            "distance_km": 996.0,
+            "sequence_number": 24,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1021.0,
+            "sequence_number": 25,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        }
+    ],
+    "train_name": "DAYODAI EXP",
+    "train_number": "12181",
+    "type": "SUPERFAST"
+}

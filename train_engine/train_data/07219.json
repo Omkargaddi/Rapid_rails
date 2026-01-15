@@ -1,0 +1,233 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_07219.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "07219-NS-TNM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "NS",
+            "station_name": "NARASAPUR"
+        },
+        {
+            "arrival_time": "13:13",
+            "day_of_journey": 1,
+            "departure_time": "13:15",
+            "distance_km": 9.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "PKO",
+            "station_name": "PALAKOLLU"
+        },
+        {
+            "arrival_time": "13:23",
+            "day_of_journey": 1,
+            "departure_time": "13:25",
+            "distance_km": 19.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "VVM",
+            "station_name": "VIRAVASARAM"
+        },
+        {
+            "arrival_time": "13:43",
+            "day_of_journey": 1,
+            "departure_time": "13:45",
+            "distance_km": 29.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BVRM",
+            "station_name": "BHIMAVARAM JN"
+        },
+        {
+            "arrival_time": "13:53",
+            "day_of_journey": 1,
+            "departure_time": "13:55",
+            "distance_km": 33.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BVRT",
+            "station_name": "BHIMAVARAM TOWN"
+        },
+        {
+            "arrival_time": "14:18",
+            "day_of_journey": 1,
+            "departure_time": "14:20",
+            "distance_km": 51.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "AKVD",
+            "station_name": "AKIVIDU"
+        },
+        {
+            "arrival_time": "14:38",
+            "day_of_journey": 1,
+            "departure_time": "14:40",
+            "distance_km": 68.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "KKLR",
+            "station_name": "KAIKOLUR"
+        },
+        {
+            "arrival_time": "15:13",
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 97.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "GDV",
+            "station_name": "GUDIVADA JN"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 142.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "16:58",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 173.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "TEL",
+            "station_name": "TENALI JN"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 216.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "BPP",
+            "station_name": "BAPATLA"
+        },
+        {
+            "arrival_time": "17:43",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 231.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "CLX",
+            "station_name": "CHIRALA"
+        },
+        {
+            "arrival_time": "18:33",
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 280.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "OGL",
+            "station_name": "ONGOLE"
+        },
+        {
+            "arrival_time": "20:03",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 396.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "22:55",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 518.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 527.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        },
+        {
+            "arrival_time": "00:18",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 569.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "PAK",
+            "station_name": "PAKALA JN"
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 599.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "CTO",
+            "station_name": "CHITTOOR"
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 632.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "02:53",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 642.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "VLR",
+            "station_name": "VELLORE CANTONMENT"
+        },
+        {
+            "arrival_time": "04:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 725.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "TNM",
+            "station_name": "TIRUVANNAMALAI"
+        }
+    ],
+    "train_name": "NS TNM SPL",
+    "train_number": "07219",
+    "type": "TRAIN ON DEMAND "
+}

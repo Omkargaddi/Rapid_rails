@@ -1,0 +1,284 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14311.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "14311-BE-BHUJ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:35",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "07:06",
+            "day_of_journey": 1,
+            "departure_time": "07:07",
+            "distance_km": 40.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "MIL",
+            "station_name": "MILAK"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 1,
+            "departure_time": "07:27",
+            "distance_km": 63.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "08:03",
+            "day_of_journey": 1,
+            "departure_time": "08:08",
+            "distance_km": 91.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 1,
+            "departure_time": "08:42",
+            "distance_km": 121.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "AMRO",
+            "station_name": "AMROHA"
+        },
+        {
+            "arrival_time": "09:01",
+            "day_of_journey": 1,
+            "departure_time": "09:03",
+            "distance_km": 144.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "GJL",
+            "station_name": "GAJRAULA JN"
+        },
+        {
+            "arrival_time": "09:42",
+            "day_of_journey": 1,
+            "departure_time": "09:47",
+            "distance_km": 195.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "09:56",
+            "day_of_journey": 1,
+            "departure_time": "09:58",
+            "distance_km": 206.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "PKW",
+            "station_name": "PILKHUA"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 1,
+            "departure_time": "10:52",
+            "distance_km": 232.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 251.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "12:04",
+            "day_of_journey": 1,
+            "departure_time": "12:06",
+            "distance_km": 256.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        },
+        {
+            "arrival_time": "12:23",
+            "day_of_journey": 1,
+            "departure_time": "12:25",
+            "distance_km": 266.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "DEC",
+            "station_name": "DELHI CANTT"
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 997.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "ABR",
+            "station_name": "ABU ROAD"
+        },
+        {
+            "arrival_time": "01:47",
+            "day_of_journey": 2,
+            "departure_time": "01:49",
+            "distance_km": 1050.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "PNU",
+            "station_name": "PALANPUR JN"
+        },
+        {
+            "arrival_time": "02:37",
+            "day_of_journey": 2,
+            "departure_time": "02:39",
+            "distance_km": 1115.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "MSH",
+            "station_name": "MAHESANA JN"
+        },
+        {
+            "arrival_time": "03:35",
+            "day_of_journey": 2,
+            "departure_time": "03:40",
+            "distance_km": 1177.0,
+            "platform": null,
+            "sequence_number": 39,
+            "station_code": "CBCC",
+            "station_name": "CHANDLODIYA B CABIN"
+        },
+        {
+            "arrival_time": "04:25",
+            "day_of_journey": 2,
+            "departure_time": "04:27",
+            "distance_km": 1231.0,
+            "platform": null,
+            "sequence_number": 40,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 2,
+            "departure_time": "05:32",
+            "distance_km": 1297.0,
+            "platform": null,
+            "sequence_number": 41,
+            "station_code": "DHG",
+            "station_name": "DHRANGADHRA"
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 2,
+            "departure_time": "06:02",
+            "distance_km": 1328.0,
+            "platform": null,
+            "sequence_number": 42,
+            "station_code": "HVD",
+            "station_name": "HALVAD"
+        },
+        {
+            "arrival_time": "06:37",
+            "day_of_journey": 2,
+            "departure_time": "06:39",
+            "distance_km": 1373.0,
+            "platform": null,
+            "sequence_number": 43,
+            "station_code": "MALB",
+            "station_name": "MALIYA MIYANA JN."
+        },
+        {
+            "arrival_time": "07:31",
+            "day_of_journey": 2,
+            "departure_time": "07:33",
+            "distance_km": 1413.0,
+            "platform": null,
+            "sequence_number": 44,
+            "station_code": "SIOB",
+            "station_name": "SAMAKHIALI B G"
+        },
+        {
+            "arrival_time": "07:47",
+            "day_of_journey": 2,
+            "departure_time": "07:49",
+            "distance_km": 1429.0,
+            "platform": null,
+            "sequence_number": 45,
+            "station_code": "BCOB",
+            "station_name": "BHACHAU BG"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 2,
+            "departure_time": "09:10",
+            "distance_km": 1467.0,
+            "platform": null,
+            "sequence_number": 46,
+            "station_code": "GIMB",
+            "station_name": "GANDHIDHAM BG"
+        },
+        {
+            "arrival_time": "09:22",
+            "day_of_journey": 2,
+            "departure_time": "09:24",
+            "distance_km": 1475.0,
+            "platform": null,
+            "sequence_number": 47,
+            "station_code": "AI",
+            "station_name": "ADIPUR"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": "09:32",
+            "distance_km": 1483.0,
+            "platform": null,
+            "sequence_number": 48,
+            "station_code": "AJE",
+            "station_name": "ANJAR"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1524.0,
+            "platform": null,
+            "sequence_number": 49,
+            "station_code": "BHUJ",
+            "station_name": "BHUJ"
+        }
+    ],
+    "train_name": "ALA HAZRAT EXP",
+    "train_number": "14311",
+    "type": "MAIL EXPRESS "
+}

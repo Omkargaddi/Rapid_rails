@@ -1,0 +1,138 @@
+{
+    "classes_available": [
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_52453.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "52453-KLK-SML",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KLK",
+            "station_name": "KALKA"
+        },
+        {
+            "arrival_time": "07:48",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 33.0,
+            "sequence_number": 2,
+            "station_code": "DMP",
+            "station_name": "DHARAMPUR HIMACHAL"
+        },
+        {
+            "arrival_time": "08:08",
+            "day_of_journey": 1,
+            "departure_time": "08:09",
+            "distance_km": 39.0,
+            "sequence_number": 3,
+            "station_code": "KMTI",
+            "station_name": "KUMARHATTI"
+        },
+        {
+            "arrival_time": "08:21",
+            "day_of_journey": 1,
+            "departure_time": "08:26",
+            "distance_km": 42.0,
+            "sequence_number": 4,
+            "station_code": "BOF",
+            "station_name": "BAROG"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:39",
+            "distance_km": 46.0,
+            "sequence_number": 5,
+            "station_code": "SOL",
+            "station_name": "SOLAN"
+        },
+        {
+            "arrival_time": "08:59",
+            "day_of_journey": 1,
+            "departure_time": "09:00",
+            "distance_km": 53.0,
+            "sequence_number": 6,
+            "station_code": "SLR",
+            "station_name": "SALOGRA"
+        },
+        {
+            "arrival_time": "09:14",
+            "day_of_journey": 1,
+            "departure_time": "09:18",
+            "distance_km": 58.0,
+            "sequence_number": 7,
+            "station_code": "KDZ",
+            "station_name": "KANDAGHAT"
+        },
+        {
+            "arrival_time": "10:01",
+            "day_of_journey": 1,
+            "departure_time": "10:02",
+            "distance_km": 72.0,
+            "sequence_number": 8,
+            "station_code": "KEJ",
+            "station_name": "KATHLEEGHAT"
+        },
+        {
+            "arrival_time": "10:19",
+            "day_of_journey": 1,
+            "departure_time": "10:20",
+            "distance_km": 78.0,
+            "sequence_number": 9,
+            "station_code": "SGS",
+            "station_name": "SHOGHI"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 1,
+            "departure_time": "10:41",
+            "distance_km": 85.0,
+            "sequence_number": 10,
+            "station_code": "TVI",
+            "station_name": "TARADEVI"
+        },
+        {
+            "arrival_time": "11:02",
+            "day_of_journey": 1,
+            "departure_time": "11:03",
+            "distance_km": 89.0,
+            "sequence_number": 11,
+            "station_code": "JTO",
+            "station_name": "JUTOGH"
+        },
+        {
+            "arrival_time": "11:32",
+            "day_of_journey": 1,
+            "departure_time": "11:33",
+            "distance_km": 93.0,
+            "sequence_number": 12,
+            "station_code": "SHZ",
+            "station_name": "SUMMER HILL"
+        },
+        {
+            "arrival_time": "11:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 96.0,
+            "sequence_number": 13,
+            "station_code": "SML",
+            "station_name": "SHIMLA"
+        }
+    ],
+    "train_name": "KLK SML EXP",
+    "train_number": "52453",
+    "type": "PASSENGER"
+}

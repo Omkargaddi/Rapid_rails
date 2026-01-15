@@ -1,0 +1,105 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19033.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19033-BL-ADI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 1,
+            "departure_time": "04:16",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "DGI",
+            "station_name": "DUNGRI"
+        },
+        {
+            "arrival_time": "04:24",
+            "day_of_journey": 1,
+            "departure_time": "04:26",
+            "distance_km": 18.0,
+            "sequence_number": 3,
+            "station_code": "BIM",
+            "station_name": "BILIMORA JN"
+        },
+        {
+            "arrival_time": "04:32",
+            "day_of_journey": 1,
+            "departure_time": "04:34",
+            "distance_km": 24.0,
+            "sequence_number": 4,
+            "station_code": "AML",
+            "station_name": "AMALSAD"
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 1,
+            "departure_time": "04:42",
+            "distance_km": 39.0,
+            "sequence_number": 5,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "04:49",
+            "day_of_journey": 1,
+            "departure_time": "04:51",
+            "distance_km": 47.0,
+            "sequence_number": 6,
+            "station_code": "MRL",
+            "station_name": "MAROLI"
+        },
+        {
+            "arrival_time": "09:51",
+            "day_of_journey": 1,
+            "departure_time": "09:53",
+            "distance_km": 280.0,
+            "sequence_number": 24,
+            "station_code": "BJD",
+            "station_name": "BAREJADI"
+        },
+        {
+            "arrival_time": "10:04",
+            "day_of_journey": 1,
+            "departure_time": "10:06",
+            "distance_km": 293.0,
+            "sequence_number": 25,
+            "station_code": "MAN",
+            "station_name": "MANINAGAR"
+        },
+        {
+            "arrival_time": "10:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 296.0,
+            "sequence_number": 26,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        }
+    ],
+    "train_name": "GUJARAT QUEEN",
+    "train_number": "19033",
+    "type": "MAIL EXPRESS"
+}

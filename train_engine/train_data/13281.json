@@ -1,0 +1,170 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13281.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "13281-DBRG-RJPB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DBRG",
+            "station_name": "DIBRUGARH"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 1,
+            "departure_time": "06:15",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "NTSK",
+            "station_name": "NEW TINSUKIA"
+        },
+        {
+            "arrival_time": "06:38",
+            "day_of_journey": 1,
+            "departure_time": "06:40",
+            "distance_km": 58.0,
+            "sequence_number": 3,
+            "station_code": "DJG",
+            "station_name": "DULIAJAN"
+        },
+        {
+            "arrival_time": "06:52",
+            "day_of_journey": 1,
+            "departure_time": "06:54",
+            "distance_km": 66.0,
+            "sequence_number": 4,
+            "station_code": "NHK",
+            "station_name": "NAHARKATIYA"
+        },
+        {
+            "arrival_time": "07:06",
+            "day_of_journey": 1,
+            "departure_time": "07:08",
+            "distance_km": 78.0,
+            "sequence_number": 5,
+            "station_code": "NAM",
+            "station_name": "NAMRUP"
+        },
+        {
+            "arrival_time": "08:03",
+            "day_of_journey": 1,
+            "departure_time": "08:05",
+            "distance_km": 144.0,
+            "sequence_number": 6,
+            "station_code": "SLGR",
+            "station_name": "SIMALUGURI JN"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 995.0,
+            "sequence_number": 24,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "02:40",
+            "day_of_journey": 2,
+            "departure_time": "02:42",
+            "distance_km": 1083.0,
+            "sequence_number": 25,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:45",
+            "distance_km": 1181.0,
+            "sequence_number": 26,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 1238.0,
+            "sequence_number": 27,
+            "station_code": "NNA",
+            "station_name": "NAUGACHIA"
+        },
+        {
+            "arrival_time": "08:03",
+            "day_of_journey": 2,
+            "departure_time": "08:05",
+            "distance_km": 1304.0,
+            "sequence_number": 28,
+            "station_code": "KGG",
+            "station_name": "KHAGARIA JN."
+        },
+        {
+            "arrival_time": "08:36",
+            "day_of_journey": 2,
+            "departure_time": "08:38",
+            "distance_km": 1345.0,
+            "sequence_number": 29,
+            "station_code": "BGS",
+            "station_name": "BEGUSARAI"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 2,
+            "departure_time": "09:30",
+            "distance_km": 1358.0,
+            "sequence_number": 30,
+            "station_code": "NBJU",
+            "station_name": "NEW BARAUNI JN."
+        },
+        {
+            "arrival_time": "10:31",
+            "day_of_journey": 2,
+            "departure_time": "10:33",
+            "distance_km": 1377.0,
+            "sequence_number": 31,
+            "station_code": "MKA",
+            "station_name": "MOKAMA"
+        },
+        {
+            "arrival_time": "11:17",
+            "day_of_journey": 2,
+            "departure_time": "11:19",
+            "distance_km": 1421.0,
+            "sequence_number": 32,
+            "station_code": "BKP",
+            "station_name": "BAKHTIYARPUR JN"
+        },
+        {
+            "arrival_time": "12:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1464.0,
+            "sequence_number": 33,
+            "station_code": "RJPB",
+            "station_name": "RAJENDRA NAGAR"
+        }
+    ],
+    "train_name": "DBRG RJPB EXP",
+    "train_number": "13281",
+    "type": "MAIL EXPRESS"
+}

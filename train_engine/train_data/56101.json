@@ -1,0 +1,244 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_56101.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "56101-QLN-NCJ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "15:46",
+            "day_of_journey": 1,
+            "departure_time": "15:47",
+            "distance_km": 9.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "MYY",
+            "station_name": "MAYYANAD"
+        },
+        {
+            "arrival_time": "15:51",
+            "day_of_journey": 1,
+            "departure_time": "15:52",
+            "distance_km": 12.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "PVU",
+            "station_name": "PARAVUR"
+        },
+        {
+            "arrival_time": "16:02",
+            "day_of_journey": 1,
+            "departure_time": "16:03",
+            "distance_km": 23.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "VAK",
+            "station_name": "VARKALA"
+        },
+        {
+            "arrival_time": "16:12",
+            "day_of_journey": 1,
+            "departure_time": "16:13",
+            "distance_km": 33.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "KVU",
+            "station_name": "KADAKAVUR"
+        },
+        {
+            "arrival_time": "16:17",
+            "day_of_journey": 1,
+            "departure_time": "16:18",
+            "distance_km": 36.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "CRY",
+            "station_name": "CHIRAYINKEEZH"
+        },
+        {
+            "arrival_time": "16:31",
+            "day_of_journey": 1,
+            "departure_time": "16:32",
+            "distance_km": 51.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "KZK",
+            "station_name": "KAZHAKUTTAM"
+        },
+        {
+            "arrival_time": "16:39",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 58.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "TVCN",
+            "station_name": "THIRUVANANTHAPURAM NORTH"
+        },
+        {
+            "arrival_time": "17:10",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 64.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        },
+        {
+            "arrival_time": "17:24",
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 71.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "TVCS",
+            "station_name": "THIRUVANANTHAPURAM SOUTH"
+        },
+        {
+            "arrival_time": "17:32",
+            "day_of_journey": 1,
+            "departure_time": "17:33",
+            "distance_km": 77.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "BRAM",
+            "station_name": "BALARAMPURAM"
+        },
+        {
+            "arrival_time": "17:37",
+            "day_of_journey": 1,
+            "departure_time": "17:38",
+            "distance_km": 81.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "NYY",
+            "station_name": "NEYYATTINKARA"
+        },
+        {
+            "arrival_time": "17:42",
+            "day_of_journey": 1,
+            "departure_time": "17:43",
+            "distance_km": 84.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "AMVA",
+            "station_name": "AMARAVILA HALT"
+        },
+        {
+            "arrival_time": "17:47",
+            "day_of_journey": 1,
+            "departure_time": "17:48",
+            "distance_km": 87.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "DAVM",
+            "station_name": "DHANU VACHA PURAM HA"
+        },
+        {
+            "arrival_time": "17:54",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 93.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "PASA",
+            "station_name": "PARASSALA"
+        },
+        {
+            "arrival_time": "18:01",
+            "day_of_journey": 1,
+            "departure_time": "18:02",
+            "distance_km": 99.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "KZTW",
+            "station_name": "KULITTURAI WEST"
+        },
+        {
+            "arrival_time": "18:09",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 102.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "KZT",
+            "station_name": "KULITTHURAI"
+        },
+        {
+            "arrival_time": "18:19",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 108.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "PYD",
+            "station_name": "PALLIYADI"
+        },
+        {
+            "arrival_time": "18:29",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 116.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "ERL",
+            "station_name": "ERANIEL"
+        },
+        {
+            "arrival_time": "18:39",
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 124.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "VRLR",
+            "station_name": "VIRANI ALUR"
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": "18:46",
+            "distance_km": 130.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "NJT",
+            "station_name": "NAGER COIL TOWN"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 135.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "NCJ",
+            "station_name": "NAGERCOIL JUNCTION"
+        }
+    ],
+    "train_name": "QLN-NCJ PASSENGER",
+    "train_number": "56101",
+    "type": "PASSENGER "
+}

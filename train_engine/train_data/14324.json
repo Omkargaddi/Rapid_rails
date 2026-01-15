@@ -1,0 +1,78 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14324.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14324-ROK-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ROK",
+            "station_name": "ROHTAK JN"
+        },
+        {
+            "arrival_time": "14:26",
+            "day_of_journey": 1,
+            "departure_time": "14:28",
+            "distance_km": 40.0,
+            "sequence_number": 2,
+            "station_code": "BGZ",
+            "station_name": "BAHADURGARH"
+        },
+        {
+            "arrival_time": "14:39",
+            "day_of_journey": 1,
+            "departure_time": "14:41",
+            "distance_km": 53.0,
+            "sequence_number": 3,
+            "station_code": "NNO",
+            "station_name": "NANGLOI"
+        },
+        {
+            "arrival_time": "14:57",
+            "day_of_journey": 1,
+            "departure_time": "14:59",
+            "distance_km": 60.0,
+            "sequence_number": 4,
+            "station_code": "SSB",
+            "station_name": "SHAKURBASTI"
+        },
+        {
+            "arrival_time": "15:11",
+            "day_of_journey": 1,
+            "departure_time": "15:13",
+            "distance_km": 67.0,
+            "sequence_number": 5,
+            "station_code": "DKZ",
+            "station_name": "DELHI KISHANGNJ"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 71.0,
+            "sequence_number": 6,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "ROK NDLS EXP",
+    "train_number": "14324",
+    "type": "MAIL EXPRESS"
+}

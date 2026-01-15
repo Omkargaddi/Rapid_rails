@@ -1,0 +1,107 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12347.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12347-HWH-RPH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "12:36",
+            "day_of_journey": 1,
+            "departure_time": "12:37",
+            "distance_km": 34.0,
+            "sequence_number": 2,
+            "station_code": "KQU",
+            "station_name": "KAMARKUNDU"
+        },
+        {
+            "arrival_time": "13:17",
+            "day_of_journey": 1,
+            "departure_time": "13:19",
+            "distance_km": 95.0,
+            "sequence_number": 3,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "13:59",
+            "day_of_journey": 1,
+            "departure_time": "14:01",
+            "distance_km": 128.0,
+            "sequence_number": 4,
+            "station_code": "GKH",
+            "station_name": "GUSKARA"
+        },
+        {
+            "arrival_time": "14:16",
+            "day_of_journey": 1,
+            "departure_time": "14:18",
+            "distance_km": 146.0,
+            "sequence_number": 5,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "14:26",
+            "day_of_journey": 1,
+            "departure_time": "14:28",
+            "distance_km": 151.0,
+            "sequence_number": 6,
+            "station_code": "PNE",
+            "station_name": "PRANTIK"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 1,
+            "departure_time": "14:44",
+            "distance_km": 166.0,
+            "sequence_number": 7,
+            "station_code": "AMP",
+            "station_name": "AHAMADPUR JN."
+        },
+        {
+            "arrival_time": "14:57",
+            "day_of_journey": 1,
+            "departure_time": "14:59",
+            "distance_km": 179.0,
+            "sequence_number": 8,
+            "station_code": "SNT",
+            "station_name": "SAINTHIA"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 207.0,
+            "sequence_number": 9,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        }
+    ],
+    "train_name": "HWH RPH EXPRESS",
+    "train_number": "12347",
+    "type": "SUPERFAST"
+}

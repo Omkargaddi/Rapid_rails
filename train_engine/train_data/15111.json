@@ -1,0 +1,168 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15111.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15111-CPR-BCY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 28.0,
+            "sequence_number": 2,
+            "station_code": "SIP",
+            "station_name": "SURAIMANPUR"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 1,
+            "departure_time": "06:11",
+            "distance_km": 39.0,
+            "sequence_number": 3,
+            "station_code": "ROI",
+            "station_name": "REOTI"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 1,
+            "departure_time": "06:22",
+            "distance_km": 47.0,
+            "sequence_number": 4,
+            "station_code": "STW",
+            "station_name": "SAHATWAR"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 1,
+            "departure_time": "06:45",
+            "distance_km": 65.0,
+            "sequence_number": 5,
+            "station_code": "BUI",
+            "station_name": "BALLIA"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 75.0,
+            "sequence_number": 6,
+            "station_code": "PEP",
+            "station_name": "PHEPHNA JN"
+        },
+        {
+            "arrival_time": "07:12",
+            "day_of_journey": 1,
+            "departure_time": "07:14",
+            "distance_km": 86.0,
+            "sequence_number": 7,
+            "station_code": "CHR",
+            "station_name": "CHILKAHAR"
+        },
+        {
+            "arrival_time": "07:24",
+            "day_of_journey": 1,
+            "departure_time": "07:26",
+            "distance_km": 98.0,
+            "sequence_number": 8,
+            "station_code": "RSR",
+            "station_name": "RASRA"
+        },
+        {
+            "arrival_time": "07:38",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 111.0,
+            "sequence_number": 9,
+            "station_code": "RTP",
+            "station_name": "RATANPURA"
+        },
+        {
+            "arrival_time": "07:55",
+            "day_of_journey": 1,
+            "departure_time": "07:57",
+            "distance_km": 126.0,
+            "sequence_number": 10,
+            "station_code": "IAA",
+            "station_name": "INDARA JN"
+        },
+        {
+            "arrival_time": "08:07",
+            "day_of_journey": 1,
+            "departure_time": "08:12",
+            "distance_km": 134.0,
+            "sequence_number": 11,
+            "station_code": "MAU",
+            "station_name": "MAU JN"
+        },
+        {
+            "arrival_time": "08:33",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 155.0,
+            "sequence_number": 12,
+            "station_code": "DLR",
+            "station_name": "DULLAHAPUR"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 163.0,
+            "sequence_number": 13,
+            "station_code": "JKN",
+            "station_name": "JAKHANIAN"
+        },
+        {
+            "arrival_time": "09:02",
+            "day_of_journey": 1,
+            "departure_time": "09:03",
+            "distance_km": 173.0,
+            "sequence_number": 14,
+            "station_code": "SDT",
+            "station_name": "SADAT"
+        },
+        {
+            "arrival_time": "09:23",
+            "day_of_journey": 1,
+            "departure_time": "09:25",
+            "distance_km": 192.0,
+            "sequence_number": 15,
+            "station_code": "ARJ",
+            "station_name": "AUNRIHAR JN."
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 223.0,
+            "sequence_number": 16,
+            "station_code": "BCY",
+            "station_name": "VARANASI CITY"
+        }
+    ],
+    "train_name": "CPR BCY EXP",
+    "train_number": "15111",
+    "type": "MAIL EXPRESS"
+}

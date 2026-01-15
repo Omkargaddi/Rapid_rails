@@ -1,0 +1,149 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19011.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19011-BL-DHD",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "05:27",
+            "day_of_journey": 1,
+            "departure_time": "05:29",
+            "distance_km": 18.0,
+            "sequence_number": 2,
+            "station_code": "BIM",
+            "station_name": "BILIMORA JN"
+        },
+        {
+            "arrival_time": "05:47",
+            "day_of_journey": 1,
+            "departure_time": "05:49",
+            "distance_km": 39.0,
+            "sequence_number": 3,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "06:16",
+            "day_of_journey": 1,
+            "departure_time": "06:19",
+            "distance_km": 69.0,
+            "sequence_number": 4,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "06:57",
+            "day_of_journey": 1,
+            "departure_time": "06:59",
+            "distance_km": 118.0,
+            "sequence_number": 5,
+            "station_code": "AKV",
+            "station_name": "ANKLESHWAR JN"
+        },
+        {
+            "arrival_time": "07:11",
+            "day_of_journey": 1,
+            "departure_time": "07:13",
+            "distance_km": 128.0,
+            "sequence_number": 6,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "07:42",
+            "day_of_journey": 1,
+            "departure_time": "07:44",
+            "distance_km": 168.0,
+            "sequence_number": 7,
+            "station_code": "MYG",
+            "station_name": "MIYAGAM KARJAN"
+        },
+        {
+            "arrival_time": "08:19",
+            "day_of_journey": 1,
+            "departure_time": "08:24",
+            "distance_km": 198.0,
+            "sequence_number": 8,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 223.0,
+            "sequence_number": 9,
+            "station_code": "SMLA",
+            "station_name": "SAMLAYA JN"
+        },
+        {
+            "arrival_time": "09:13",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 247.0,
+            "sequence_number": 10,
+            "station_code": "DRL",
+            "station_name": "DEROL"
+        },
+        {
+            "arrival_time": "09:36",
+            "day_of_journey": 1,
+            "departure_time": "09:38",
+            "distance_km": 270.0,
+            "sequence_number": 11,
+            "station_code": "GDA",
+            "station_name": "GODHRA JN"
+        },
+        {
+            "arrival_time": "10:02",
+            "day_of_journey": 1,
+            "departure_time": "10:04",
+            "distance_km": 303.0,
+            "sequence_number": 12,
+            "station_code": "PPD",
+            "station_name": "PIPLOD JN"
+        },
+        {
+            "arrival_time": "10:10",
+            "day_of_journey": 1,
+            "departure_time": "10:12",
+            "distance_km": 311.0,
+            "sequence_number": 13,
+            "station_code": "LMK",
+            "station_name": "LIMKHEDA"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 342.0,
+            "sequence_number": 14,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        }
+    ],
+    "train_name": "BL DHD EXPRESS",
+    "train_number": "19011",
+    "type": "MAIL EXPRESS"
+}

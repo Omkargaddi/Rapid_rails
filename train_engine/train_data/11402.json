@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11402.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11402-SOU-PUNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SOU",
+            "station_name": "SUPAUL"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "GEB",
+            "station_name": "GARH BARUARI"
+        },
+        {
+            "arrival_time": "15:35",
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 27.0,
+            "sequence_number": 3,
+            "station_code": "SHC",
+            "station_name": "SAHARSA JN"
+        },
+        {
+            "arrival_time": "16:03",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 44.0,
+            "sequence_number": 4,
+            "station_code": "SBV",
+            "station_name": "S BHAKHTIYARPUR"
+        },
+        {
+            "arrival_time": "17:14",
+            "day_of_journey": 1,
+            "departure_time": "17:16",
+            "distance_km": 72.0,
+            "sequence_number": 5,
+            "station_code": "MNE",
+            "station_name": "MANSI JN"
+        },
+        {
+            "arrival_time": "17:26",
+            "day_of_journey": 1,
+            "departure_time": "17:28",
+            "distance_km": 81.0,
+            "sequence_number": 6,
+            "station_code": "KGG",
+            "station_name": "KHAGARIA JN."
+        },
+        {
+            "arrival_time": "15:15",
+            "day_of_journey": 2,
+            "departure_time": "15:17",
+            "distance_km": 1302.0,
+            "sequence_number": 24,
+            "station_code": "KKN",
+            "station_name": "KHIRKIYA"
+        },
+        {
+            "arrival_time": "16:32",
+            "day_of_journey": 2,
+            "departure_time": "16:35",
+            "distance_km": 1379.0,
+            "sequence_number": 25,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 2,
+            "departure_time": "17:30",
+            "distance_km": 1448.0,
+            "sequence_number": 26,
+            "station_code": "BAU",
+            "station_name": "BURHANPUR"
+        },
+        {
+            "arrival_time": "17:44",
+            "day_of_journey": 2,
+            "departure_time": "17:45",
+            "distance_km": 1468.0,
+            "sequence_number": 27,
+            "station_code": "RV",
+            "station_name": "RAVER"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 2,
+            "departure_time": "18:35",
+            "distance_km": 1502.0,
+            "sequence_number": 28,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 2,
+            "departure_time": "21:20",
+            "distance_km": 1686.0,
+            "sequence_number": 29,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "22:17",
+            "day_of_journey": 2,
+            "departure_time": "22:20",
+            "distance_km": 1728.0,
+            "sequence_number": 30,
+            "station_code": "KPG",
+            "station_name": "KOPARGAON"
+        },
+        {
+            "arrival_time": "22:57",
+            "day_of_journey": 2,
+            "departure_time": "23:00",
+            "distance_km": 1772.0,
+            "sequence_number": 31,
+            "station_code": "BAP",
+            "station_name": "BELAPUR"
+        },
+        {
+            "arrival_time": "00:27",
+            "day_of_journey": 3,
+            "departure_time": "00:30",
+            "distance_km": 1839.0,
+            "sequence_number": 32,
+            "station_code": "ANG",
+            "station_name": "AHILYANAGAR"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 3,
+            "departure_time": "02:20",
+            "distance_km": 1920.0,
+            "sequence_number": 33,
+            "station_code": "DDCC",
+            "station_name": "DAUND CHORD LINE"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1993.0,
+            "sequence_number": 34,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        }
+    ],
+    "train_name": "SOU PUNE EXP",
+    "train_number": "11402",
+    "type": "MAIL EXPRESS"
+}

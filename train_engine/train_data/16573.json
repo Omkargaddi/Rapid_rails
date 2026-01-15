@@ -1,0 +1,115 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16573.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16573-YPR-PDY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:11",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "BAND",
+            "station_name": "BANASWADI"
+        },
+        {
+            "arrival_time": "22:01",
+            "day_of_journey": 1,
+            "departure_time": "22:03",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "HSRA",
+            "station_name": "HOSUR"
+        },
+        {
+            "arrival_time": "23:33",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 156.0,
+            "sequence_number": 4,
+            "station_code": "DPJ",
+            "station_name": "DHARMAPURI"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 223.0,
+            "sequence_number": 5,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "02:19",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 279.0,
+            "sequence_number": 6,
+            "station_code": "ATU",
+            "station_name": "ATTUR"
+        },
+        {
+            "arrival_time": "02:44",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 311.0,
+            "sequence_number": 7,
+            "station_code": "CHSM",
+            "station_name": "CHINNA SALEM"
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 362.0,
+            "sequence_number": 8,
+            "station_code": "VRI",
+            "station_name": "VRIDDHACHALAM JN"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 416.0,
+            "sequence_number": 9,
+            "station_code": "Point(2)",
+            "station_name": "VILLUPURAM JN VM Train Reversal"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 454.0,
+            "sequence_number": 10,
+            "station_code": "PDY",
+            "station_name": "PONDICHERRY"
+        }
+    ],
+    "train_name": "PUDUCHERRY EXP",
+    "train_number": "16573",
+    "type": "MAIL EXPRESS"
+}

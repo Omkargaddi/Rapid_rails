@@ -1,0 +1,170 @@
+{
+    "classes_available": [
+        "3A",
+        "3E",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12992.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12992-JP-UDZ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "14:37",
+            "day_of_journey": 1,
+            "departure_time": "14:39",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "JOB",
+            "station_name": "ASALPURJOBNER"
+        },
+        {
+            "arrival_time": "14:56",
+            "day_of_journey": 1,
+            "departure_time": "14:58",
+            "distance_km": 55.0,
+            "sequence_number": 3,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "15:33",
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 109.0,
+            "sequence_number": 4,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "16:05",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 134.0,
+            "sequence_number": 5,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:37",
+            "distance_km": 158.0,
+            "sequence_number": 6,
+            "station_code": "NSD",
+            "station_name": "NASIRABAD"
+        },
+        {
+            "arrival_time": "17:04",
+            "day_of_journey": 1,
+            "departure_time": "17:06",
+            "distance_km": 199.0,
+            "sequence_number": 7,
+            "station_code": "BJNR",
+            "station_name": "BIJAINAGAR"
+        },
+        {
+            "arrival_time": "17:12",
+            "day_of_journey": 1,
+            "departure_time": "17:13",
+            "distance_km": 202.0,
+            "sequence_number": 8,
+            "station_code": "GBP",
+            "station_name": "GULABPURA"
+        },
+        {
+            "arrival_time": "17:49",
+            "day_of_journey": 1,
+            "departure_time": "17:51",
+            "distance_km": 255.0,
+            "sequence_number": 9,
+            "station_code": "MDL",
+            "station_name": "MANDAL"
+        },
+        {
+            "arrival_time": "18:02",
+            "day_of_journey": 1,
+            "departure_time": "18:07",
+            "distance_km": 266.0,
+            "sequence_number": 10,
+            "station_code": "BHL",
+            "station_name": "BHILWARA"
+        },
+        {
+            "arrival_time": "19:02",
+            "day_of_journey": 1,
+            "departure_time": "19:17",
+            "distance_km": 320.0,
+            "sequence_number": 11,
+            "station_code": "COR",
+            "station_name": "CHITTAURGARH JN."
+        },
+        {
+            "arrival_time": "19:47",
+            "day_of_journey": 1,
+            "departure_time": "19:48",
+            "distance_km": 355.0,
+            "sequence_number": 12,
+            "station_code": "KIN",
+            "station_name": "KAPASAN"
+        },
+        {
+            "arrival_time": "20:06",
+            "day_of_journey": 1,
+            "departure_time": "20:07",
+            "distance_km": 378.0,
+            "sequence_number": 13,
+            "station_code": "FAN",
+            "station_name": "FATEHNAGAR"
+        },
+        {
+            "arrival_time": "20:24",
+            "day_of_journey": 1,
+            "departure_time": "20:26",
+            "distance_km": 392.0,
+            "sequence_number": 14,
+            "station_code": "MVJ",
+            "station_name": "MAVLI JN"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:12",
+            "distance_km": 430.0,
+            "sequence_number": 15,
+            "station_code": "RPZ",
+            "station_name": "RANA PRATAP NAGAR"
+        },
+        {
+            "arrival_time": "21:48",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 434.0,
+            "sequence_number": 16,
+            "station_code": "UDZ",
+            "station_name": "UDAIPUR CITY"
+        }
+    ],
+    "train_name": "JP UDZ EXP",
+    "train_number": "12992",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,188 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12750.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12750-BIDR-MTM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BIDR",
+            "station_name": "BIDAR"
+        },
+        {
+            "arrival_time": "19:59",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 31.0,
+            "sequence_number": 2,
+            "station_code": "ZB",
+            "station_name": "ZAHIRABAD"
+        },
+        {
+            "arrival_time": "20:44",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 91.0,
+            "sequence_number": 3,
+            "station_code": "VKB",
+            "station_name": "VIKARABAD JN"
+        },
+        {
+            "arrival_time": "21:29",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 140.0,
+            "sequence_number": 4,
+            "station_code": "LPI",
+            "station_name": "LINGAMPALLI"
+        },
+        {
+            "arrival_time": "21:41",
+            "day_of_journey": 1,
+            "departure_time": "21:42",
+            "distance_km": 148.0,
+            "sequence_number": 5,
+            "station_code": "HTCY",
+            "station_name": "HIGH TECH CITY"
+        },
+        {
+            "arrival_time": "22:10",
+            "day_of_journey": 1,
+            "departure_time": "22:15",
+            "distance_km": 163.0,
+            "sequence_number": 6,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "23:19",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 246.0,
+            "sequence_number": 7,
+            "station_code": "ZN",
+            "station_name": "JANGAON"
+        },
+        {
+            "arrival_time": "00:15",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 294.0,
+            "sequence_number": 8,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 306.0,
+            "sequence_number": 9,
+            "station_code": "WL",
+            "station_name": "WARANGAL"
+        },
+        {
+            "arrival_time": "01:29",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 367.0,
+            "sequence_number": 10,
+            "station_code": "MABD",
+            "station_name": "MAHBUBABAD"
+        },
+        {
+            "arrival_time": "02:09",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 414.0,
+            "sequence_number": 11,
+            "station_code": "KMT",
+            "station_name": "KHAMMAM"
+        },
+        {
+            "arrival_time": "02:54",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 458.0,
+            "sequence_number": 12,
+            "station_code": "MDR",
+            "station_name": "MADHIRA"
+        },
+        {
+            "arrival_time": "03:34",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 498.0,
+            "sequence_number": 13,
+            "station_code": "KI",
+            "station_name": "KONDAPALLI"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 515.0,
+            "sequence_number": 14,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "05:04",
+            "day_of_journey": 2,
+            "departure_time": "05:05",
+            "distance_km": 558.0,
+            "sequence_number": 15,
+            "station_code": "GDV",
+            "station_name": "GUDIVADA JN"
+        },
+        {
+            "arrival_time": "05:19",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 569.0,
+            "sequence_number": 16,
+            "station_code": "GVL",
+            "station_name": "GUDLAVALLERU"
+        },
+        {
+            "arrival_time": "05:34",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 584.0,
+            "sequence_number": 17,
+            "station_code": "PAV",
+            "station_name": "PEDANA"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 595.0,
+            "sequence_number": 18,
+            "station_code": "MTM",
+            "station_name": "MACHELIPATNAM"
+        }
+    ],
+    "train_name": "BIDR MTM SF EXP",
+    "train_number": "12750",
+    "type": "SUPERFAST"
+}

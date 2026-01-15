@@ -1,0 +1,151 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12377.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12377-SDAH-NOQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        },
+        {
+            "arrival_time": "00:42",
+            "day_of_journey": 2,
+            "departure_time": "00:44",
+            "distance_km": 107.0,
+            "sequence_number": 2,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "01:30",
+            "day_of_journey": 2,
+            "departure_time": "01:32",
+            "distance_km": 159.0,
+            "sequence_number": 3,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "02:22",
+            "day_of_journey": 2,
+            "departure_time": "02:27",
+            "distance_km": 219.0,
+            "sequence_number": 4,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 341.0,
+            "sequence_number": 5,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 376.0,
+            "sequence_number": 6,
+            "station_code": "SM",
+            "station_name": "SAMSI"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": "07:02",
+            "distance_km": 459.0,
+            "sequence_number": 7,
+            "station_code": "DLK",
+            "station_name": "DALKOLHA"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 2,
+            "departure_time": "07:27",
+            "distance_km": 487.0,
+            "sequence_number": 8,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 2,
+            "departure_time": "09:15",
+            "distance_km": 574.0,
+            "sequence_number": 9,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "09:48",
+            "day_of_journey": 2,
+            "departure_time": "09:50",
+            "distance_km": 608.0,
+            "sequence_number": 10,
+            "station_code": "JPE",
+            "station_name": "JALPAIGURI ROAD"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 2,
+            "departure_time": "10:22",
+            "distance_km": 634.0,
+            "sequence_number": 11,
+            "station_code": "NCBD",
+            "station_name": "NEW CHANGRABANDHA"
+        },
+        {
+            "arrival_time": "10:48",
+            "day_of_journey": 2,
+            "departure_time": "10:50",
+            "distance_km": 671.0,
+            "sequence_number": 12,
+            "station_code": "MHBA",
+            "station_name": "MATHABHANGA"
+        },
+        {
+            "arrival_time": "11:18",
+            "day_of_journey": 2,
+            "departure_time": "11:20",
+            "distance_km": 703.0,
+            "sequence_number": 13,
+            "station_code": "NCB",
+            "station_name": "NEW COOCH BEHAR"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 721.0,
+            "sequence_number": 14,
+            "station_code": "NOQ",
+            "station_name": "NEW ALIPURDUAR"
+        }
+    ],
+    "train_name": "PADATIK EXPRESS",
+    "train_number": "12377",
+    "type": "SUPERFAST"
+}

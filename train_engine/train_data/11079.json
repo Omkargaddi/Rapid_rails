@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11079.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "11079-LTT-GKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "16:17",
+            "day_of_journey": 1,
+            "departure_time": "16:20",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 171.0,
+            "sequence_number": 3,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "22:45",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 428.0,
+            "sequence_number": 4,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:05",
+            "distance_km": 551.0,
+            "sequence_number": 5,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:12",
+            "distance_km": 658.0,
+            "sequence_number": 6,
+            "station_code": "HD",
+            "station_name": "HARDA"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 2,
+            "departure_time": "20:00",
+            "distance_km": 1616.0,
+            "sequence_number": 24,
+            "station_code": "PPW",
+            "station_name": "PACHPERWA"
+        },
+        {
+            "arrival_time": "20:16",
+            "day_of_journey": 2,
+            "departure_time": "20:21",
+            "distance_km": 1632.0,
+            "sequence_number": 25,
+            "station_code": "BNY",
+            "station_name": "BARHNI"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 2,
+            "departure_time": "20:57",
+            "distance_km": 1672.0,
+            "sequence_number": 26,
+            "station_code": "SDDN",
+            "station_name": "SIDDHARTH NAGAR"
+        },
+        {
+            "arrival_time": "21:30",
+            "day_of_journey": 2,
+            "departure_time": "21:35",
+            "distance_km": 1704.0,
+            "sequence_number": 27,
+            "station_code": "ANDN",
+            "station_name": "ANAND NAGAR"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1745.0,
+            "sequence_number": 28,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        }
+    ],
+    "train_name": "LTT GKP EXPRESS",
+    "train_number": "11079",
+    "type": "MAIL EXPRESS"
+}

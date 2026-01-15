@@ -1,0 +1,130 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12076.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12076-TVC-CLT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        },
+        {
+            "arrival_time": "06:32",
+            "day_of_journey": 1,
+            "departure_time": "06:33",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "VAK",
+            "station_name": "VARKALA"
+        },
+        {
+            "arrival_time": "06:53",
+            "day_of_journey": 1,
+            "departure_time": "06:55",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "07:27",
+            "day_of_journey": 1,
+            "departure_time": "07:28",
+            "distance_km": 105.0,
+            "sequence_number": 4,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "08:05",
+            "day_of_journey": 1,
+            "departure_time": "08:08",
+            "distance_km": 149.0,
+            "sequence_number": 5,
+            "station_code": "ALLP",
+            "station_name": "ALAPPUZHA"
+        },
+        {
+            "arrival_time": "08:28",
+            "day_of_journey": 1,
+            "departure_time": "08:29",
+            "distance_km": 172.0,
+            "sequence_number": 6,
+            "station_code": "SRTL",
+            "station_name": "CHERTHALA"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 206.0,
+            "sequence_number": 7,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "09:36",
+            "day_of_journey": 1,
+            "departure_time": "09:38",
+            "distance_km": 225.0,
+            "sequence_number": 8,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "10:23",
+            "day_of_journey": 1,
+            "departure_time": "10:25",
+            "distance_km": 280.0,
+            "sequence_number": 9,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 1,
+            "departure_time": "11:28",
+            "distance_km": 314.0,
+            "sequence_number": 10,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:06",
+            "distance_km": 360.0,
+            "sequence_number": 11,
+            "station_code": "TIR",
+            "station_name": "TIRUR"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 401.0,
+            "sequence_number": 12,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        }
+    ],
+    "train_name": "CLT JANSHATABDI",
+    "train_number": "12076",
+    "type": "JAN SHATABDI"
+}

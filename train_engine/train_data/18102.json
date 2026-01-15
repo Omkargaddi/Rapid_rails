@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18102.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "18102-JAT-TATA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "14:38",
+            "day_of_journey": 1,
+            "departure_time": "14:40",
+            "distance_km": 21.0,
+            "sequence_number": 2,
+            "station_code": "VJPJ",
+            "station_name": "VIJIYPUR JAMMU"
+        },
+        {
+            "arrival_time": "15:19",
+            "day_of_journey": 1,
+            "departure_time": "15:21",
+            "distance_km": 47.0,
+            "sequence_number": 3,
+            "station_code": "HRNR",
+            "station_name": "HIRA NAGAR"
+        },
+        {
+            "arrival_time": "16:32",
+            "day_of_journey": 1,
+            "departure_time": "16:57",
+            "distance_km": 100.0,
+            "sequence_number": 4,
+            "station_code": "PTK",
+            "station_name": "PATHANKOT"
+        },
+        {
+            "arrival_time": "17:39",
+            "day_of_journey": 1,
+            "departure_time": "17:41",
+            "distance_km": 124.0,
+            "sequence_number": 5,
+            "station_code": "DNN",
+            "station_name": "DINA NAGAR"
+        },
+        {
+            "arrival_time": "17:56",
+            "day_of_journey": 1,
+            "departure_time": "17:58",
+            "distance_km": 135.0,
+            "sequence_number": 6,
+            "station_code": "GSP",
+            "station_name": "GURDASPUR"
+        },
+        {
+            "arrival_time": "18:11",
+            "day_of_journey": 1,
+            "departure_time": "18:13",
+            "distance_km": 149.0,
+            "sequence_number": 7,
+            "station_code": "DHW",
+            "station_name": "DHARIWAL"
+        },
+        {
+            "arrival_time": "18:39",
+            "day_of_journey": 1,
+            "departure_time": "18:41",
+            "distance_km": 168.0,
+            "sequence_number": 8,
+            "station_code": "BAT",
+            "station_name": "BATALA JN"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 206.0,
+            "sequence_number": 9,
+            "station_code": "Point(2)",
+            "station_name": "AMRITSAR ASR Train Reversal"
+        },
+        {
+            "arrival_time": "20:09",
+            "day_of_journey": 1,
+            "departure_time": "20:11",
+            "distance_km": 225.0,
+            "sequence_number": 10,
+            "station_code": "JNL",
+            "station_name": "JANDIALA"
+        },
+        {
+            "arrival_time": "20:28",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 249.0,
+            "sequence_number": 11,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 285.0,
+            "sequence_number": 12,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 3,
+            "departure_time": "07:05",
+            "distance_km": 1966.0,
+            "sequence_number": 59,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "08:43",
+            "day_of_journey": 3,
+            "departure_time": "08:45",
+            "distance_km": 2033.0,
+            "sequence_number": 60,
+            "station_code": "CNI",
+            "station_name": "CHANDIL JN."
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2070.0,
+            "sequence_number": 61,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        }
+    ],
+    "train_name": "JAT TATA EXPRESS",
+    "train_number": "18102",
+    "type": "MAIL EXPRESS"
+}

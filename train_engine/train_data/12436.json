@@ -1,0 +1,219 @@
+{
+    "classes_available": [
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12436.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12436-ANVT-JYG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        },
+        {
+            "arrival_time": "18:53",
+            "day_of_journey": 1,
+            "departure_time": "18:55",
+            "distance_km": 119.0,
+            "sequence_number": 2,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "22:12",
+            "day_of_journey": 1,
+            "departure_time": "22:17",
+            "distance_km": 428.0,
+            "sequence_number": 3,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "00:23",
+            "day_of_journey": 2,
+            "departure_time": "00:25",
+            "distance_km": 622.0,
+            "sequence_number": 4,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "02:33",
+            "day_of_journey": 2,
+            "departure_time": "02:40",
+            "distance_km": 775.0,
+            "sequence_number": 5,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 2,
+            "departure_time": "03:32",
+            "distance_km": 845.0,
+            "sequence_number": 6,
+            "station_code": "GMR",
+            "station_name": "GAHMAR"
+        },
+        {
+            "arrival_time": "03:51",
+            "day_of_journey": 2,
+            "departure_time": "03:53",
+            "distance_km": 865.0,
+            "sequence_number": 7,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "04:08",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 881.0,
+            "sequence_number": 8,
+            "station_code": "DURE",
+            "station_name": "DUMRAON"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:32",
+            "distance_km": 912.0,
+            "sequence_number": 9,
+            "station_code": "BEA",
+            "station_name": "BIHIYA"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 934.0,
+            "sequence_number": 10,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "05:38",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 973.0,
+            "sequence_number": 11,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 983.0,
+            "sequence_number": 12,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "06:51",
+            "day_of_journey": 2,
+            "departure_time": "06:53",
+            "distance_km": 1028.0,
+            "sequence_number": 13,
+            "station_code": "BKP",
+            "station_name": "BAKHTIYARPUR JN"
+        },
+        {
+            "arrival_time": "07:18",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 1072.0,
+            "sequence_number": 14,
+            "station_code": "MKA",
+            "station_name": "MOKAMA"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 2,
+            "departure_time": "09:10",
+            "distance_km": 1090.0,
+            "sequence_number": 15,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "10:35",
+            "day_of_journey": 2,
+            "departure_time": "10:40",
+            "distance_km": 1141.0,
+            "sequence_number": 16,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "11:13",
+            "day_of_journey": 2,
+            "departure_time": "11:15",
+            "distance_km": 1163.0,
+            "sequence_number": 17,
+            "station_code": "HYT",
+            "station_name": "HAYAGHAT"
+        },
+        {
+            "arrival_time": "11:27",
+            "day_of_journey": 2,
+            "departure_time": "11:30",
+            "distance_km": 1174.0,
+            "sequence_number": 18,
+            "station_code": "LSI",
+            "station_name": "LAHERIA SARAI"
+        },
+        {
+            "arrival_time": "12:00",
+            "day_of_journey": 2,
+            "departure_time": "12:05",
+            "distance_km": 1179.0,
+            "sequence_number": 19,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "12:23",
+            "day_of_journey": 2,
+            "departure_time": "12:25",
+            "distance_km": 1198.0,
+            "sequence_number": 20,
+            "station_code": "SKI",
+            "station_name": "SAKRI JN"
+        },
+        {
+            "arrival_time": "12:38",
+            "day_of_journey": 2,
+            "departure_time": "12:41",
+            "distance_km": 1215.0,
+            "sequence_number": 21,
+            "station_code": "MBI",
+            "station_name": "MADHUBANI"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1247.0,
+            "sequence_number": 22,
+            "station_code": "JYG",
+            "station_name": "JAYNAGAR"
+        }
+    ],
+    "train_name": "JYG GARIB RATH",
+    "train_number": "12436",
+    "type": "GARIB RATH"
+}

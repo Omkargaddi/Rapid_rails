@@ -1,0 +1,134 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22936.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "22936-PIT-BDTS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PIT",
+            "station_name": "PALITANA"
+        },
+        {
+            "arrival_time": "20:37",
+            "day_of_journey": 1,
+            "departure_time": "20:47",
+            "distance_km": 28.0,
+            "sequence_number": 2,
+            "station_code": "SOJN",
+            "station_name": "SIHOR GUJARAT"
+        },
+        {
+            "arrival_time": "20:57",
+            "day_of_journey": 1,
+            "departure_time": "20:58",
+            "distance_km": 35.0,
+            "sequence_number": 3,
+            "station_code": "SGD",
+            "station_name": "SONGADH"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:16",
+            "distance_km": 56.0,
+            "sequence_number": 4,
+            "station_code": "DLJ",
+            "station_name": "DHOLA JN"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:52",
+            "distance_km": 99.0,
+            "sequence_number": 5,
+            "station_code": "BTD",
+            "station_name": "BOTAD JN"
+        },
+        {
+            "arrival_time": "22:48",
+            "day_of_journey": 1,
+            "departure_time": "22:49",
+            "distance_km": 171.0,
+            "sequence_number": 6,
+            "station_code": "JVN",
+            "station_name": "JORAWARNAGAR JN"
+        },
+        {
+            "arrival_time": "01:45",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 306.0,
+            "sequence_number": 7,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "03:28",
+            "day_of_journey": 2,
+            "departure_time": "03:33",
+            "distance_km": 404.0,
+            "sequence_number": 8,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "05:25",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 533.0,
+            "sequence_number": 9,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "06:53",
+            "day_of_journey": 2,
+            "departure_time": "06:55",
+            "distance_km": 628.0,
+            "sequence_number": 10,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "08:37",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 766.0,
+            "sequence_number": 11,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 785.0,
+            "sequence_number": 12,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        }
+    ],
+    "train_name": "PIT BDTS SFAST",
+    "train_number": "22936",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15014.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15014-KGM-JSM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KGM",
+            "station_name": "KATHGODAM"
+        },
+        {
+            "arrival_time": "20:45",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 6.0,
+            "sequence_number": 2,
+            "station_code": "HDW",
+            "station_name": "HALDWANI"
+        },
+        {
+            "arrival_time": "21:23",
+            "day_of_journey": 1,
+            "departure_time": "21:28",
+            "distance_km": 23.0,
+            "sequence_number": 3,
+            "station_code": "LKU",
+            "station_name": "LALKUA JN."
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 1,
+            "departure_time": "22:13",
+            "distance_km": 44.0,
+            "sequence_number": 4,
+            "station_code": "RUPC",
+            "station_name": "RUDRAPUR CITY"
+        },
+        {
+            "arrival_time": "22:28",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 62.0,
+            "sequence_number": 5,
+            "station_code": "BLQR",
+            "station_name": "BILASPUR ROAD"
+        },
+        {
+            "arrival_time": "23:04",
+            "day_of_journey": 1,
+            "departure_time": "23:07",
+            "distance_km": 89.0,
+            "sequence_number": 6,
+            "station_code": "RMU",
+            "station_name": "RAMPUR"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 116.0,
+            "sequence_number": 7,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 220.0,
+            "sequence_number": 8,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 2,
+            "departure_time": "03:17",
+            "distance_km": 257.0,
+            "sequence_number": 9,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "03:28",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 264.0,
+            "sequence_number": 10,
+            "station_code": "SBB",
+            "station_name": "SAHIBABAD"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 277.0,
+            "sequence_number": 11,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "04:44",
+            "day_of_journey": 2,
+            "departure_time": "04:46",
+            "distance_km": 282.0,
+            "sequence_number": 12,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 2,
+            "departure_time": "20:03",
+            "distance_km": 1145.0,
+            "sequence_number": 36,
+            "station_code": "RDRA",
+            "station_name": "RAMDEVRA"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 2,
+            "departure_time": "21:00",
+            "distance_km": 1155.0,
+            "sequence_number": 37,
+            "station_code": "Point(2)",
+            "station_name": "POKRAN POK Train Reversal"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1262.0,
+            "sequence_number": 38,
+            "station_code": "JSM",
+            "station_name": "JAISALMER"
+        }
+    ],
+    "train_name": "RANIKHET EXP",
+    "train_number": "15014",
+    "type": "MAIL EXPRESS"
+}

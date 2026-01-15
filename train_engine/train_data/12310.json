@@ -1,0 +1,86 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12310.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12310-NDLS-RJPB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 441.0,
+            "sequence_number": 2,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "23:51",
+            "day_of_journey": 1,
+            "departure_time": "23:53",
+            "distance_km": 631.0,
+            "sequence_number": 3,
+            "station_code": "SFG",
+            "station_name": "SUBEDARGANJ"
+        },
+        {
+            "arrival_time": "01:53",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 788.0,
+            "sequence_number": 4,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": "04:17",
+            "distance_km": 986.0,
+            "sequence_number": 5,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "04:38",
+            "day_of_journey": 2,
+            "departure_time": "04:45",
+            "distance_km": 996.0,
+            "sequence_number": 6,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 998.0,
+            "sequence_number": 7,
+            "station_code": "RJPB",
+            "station_name": "RAJENDRA NAGAR"
+        }
+    ],
+    "train_name": "RJPB TEJAS RAJ",
+    "train_number": "12310",
+    "type": "RAJDHANI"
+}

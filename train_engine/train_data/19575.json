@@ -1,0 +1,207 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19575.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "19575-OKHA-NDT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "OKHA",
+            "station_name": "OKHA"
+        },
+        {
+            "arrival_time": "08:46",
+            "day_of_journey": 1,
+            "departure_time": "08:51",
+            "distance_km": 29.0,
+            "sequence_number": 2,
+            "station_code": "DWK",
+            "station_name": "DWARKA"
+        },
+        {
+            "arrival_time": "09:57",
+            "day_of_journey": 1,
+            "departure_time": "09:59",
+            "distance_km": 113.0,
+            "sequence_number": 3,
+            "station_code": "KMBL",
+            "station_name": "KHAMBHALIYA"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 167.0,
+            "sequence_number": 4,
+            "station_code": "JAM",
+            "station_name": "JAMNAGAR"
+        },
+        {
+            "arrival_time": "11:19",
+            "day_of_journey": 1,
+            "departure_time": "11:21",
+            "distance_km": 176.0,
+            "sequence_number": 5,
+            "station_code": "HAPA",
+            "station_name": "HAPA"
+        },
+        {
+            "arrival_time": "12:45",
+            "day_of_journey": 1,
+            "departure_time": "12:55",
+            "distance_km": 249.0,
+            "sequence_number": 6,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 1,
+            "departure_time": "13:37",
+            "distance_km": 291.0,
+            "sequence_number": 7,
+            "station_code": "WKR",
+            "station_name": "WANKANER JN"
+        },
+        {
+            "arrival_time": "14:47",
+            "day_of_journey": 1,
+            "departure_time": "14:49",
+            "distance_km": 365.0,
+            "sequence_number": 8,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 495.0,
+            "sequence_number": 9,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "18:11",
+            "day_of_journey": 1,
+            "departure_time": "18:13",
+            "distance_km": 541.0,
+            "sequence_number": 10,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "18:32",
+            "day_of_journey": 1,
+            "departure_time": "18:34",
+            "distance_km": 559.0,
+            "sequence_number": 11,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 590.0,
+            "sequence_number": 12,
+            "station_code": "CYI",
+            "station_name": "CHHAYAPURI"
+        },
+        {
+            "arrival_time": "21:48",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 728.0,
+            "sequence_number": 13,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 842.0,
+            "sequence_number": 14,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "00:08",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 875.0,
+            "sequence_number": 15,
+            "station_code": "JAO",
+            "station_name": "JAORA"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:12",
+            "distance_km": 926.0,
+            "sequence_number": 16,
+            "station_code": "MDS",
+            "station_name": "MANDASOR"
+        },
+        {
+            "arrival_time": "02:19",
+            "day_of_journey": 2,
+            "departure_time": "02:21",
+            "distance_km": 975.0,
+            "sequence_number": 17,
+            "station_code": "NMH",
+            "station_name": "NIMACH"
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 2,
+            "departure_time": "03:40",
+            "distance_km": 1030.0,
+            "sequence_number": 18,
+            "station_code": "COR",
+            "station_name": "CHITTAURGARH JN."
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "05:15",
+            "distance_km": 1102.0,
+            "sequence_number": 19,
+            "station_code": "MVJ",
+            "station_name": "MAVLI JN"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1117.0,
+            "sequence_number": 20,
+            "station_code": "NDT",
+            "station_name": "NATHDWARA"
+        }
+    ],
+    "train_name": "OKHA NDT EXP",
+    "train_number": "19575",
+    "type": "MAIL EXPRESS"
+}

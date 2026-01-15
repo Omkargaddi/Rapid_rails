@@ -1,0 +1,261 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12835.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12835-HTE-SMVB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HTE",
+            "station_name": "HATIA"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 1,
+            "departure_time": "18:26",
+            "distance_km": 93.0,
+            "sequence_number": 2,
+            "station_code": "BANO",
+            "station_name": "BANO"
+        },
+        {
+            "arrival_time": "20:10",
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 164.0,
+            "sequence_number": 3,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "22:25",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 266.0,
+            "sequence_number": 4,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "23:25",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 315.0,
+            "sequence_number": 5,
+            "station_code": "SBP",
+            "station_name": "SAMBALPUR JN."
+        },
+        {
+            "arrival_time": "00:16",
+            "day_of_journey": 2,
+            "departure_time": "00:18",
+            "distance_km": 357.0,
+            "sequence_number": 6,
+            "station_code": "BRGA",
+            "station_name": "BARGARH ROAD"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 433.0,
+            "sequence_number": 7,
+            "station_code": "BLGR",
+            "station_name": "BALANGIR"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 497.0,
+            "sequence_number": 8,
+            "station_code": "TIG",
+            "station_name": "TITLAGARH"
+        },
+        {
+            "arrival_time": "02:38",
+            "day_of_journey": 2,
+            "departure_time": "02:40",
+            "distance_km": 510.0,
+            "sequence_number": 9,
+            "station_code": "KSNG",
+            "station_name": "KESINGA"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 636.0,
+            "sequence_number": 10,
+            "station_code": "RGDA",
+            "station_name": "RAYAGADA"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 2,
+            "departure_time": "06:05",
+            "distance_km": 681.0,
+            "sequence_number": 11,
+            "station_code": "PVPT",
+            "station_name": "PARVATIPURAM TN"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 707.0,
+            "sequence_number": 12,
+            "station_code": "VBL",
+            "station_name": "BOBBILI"
+        },
+        {
+            "arrival_time": "07:15",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 760.0,
+            "sequence_number": 13,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 2,
+            "departure_time": "08:55",
+            "distance_km": 821.0,
+            "sequence_number": 14,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        },
+        {
+            "arrival_time": "11:08",
+            "day_of_journey": 2,
+            "departure_time": "11:10",
+            "distance_km": 972.0,
+            "sequence_number": 15,
+            "station_code": "SLO",
+            "station_name": "SAMALKOT JN"
+        },
+        {
+            "arrival_time": "11:53",
+            "day_of_journey": 2,
+            "departure_time": "11:55",
+            "distance_km": 1022.0,
+            "sequence_number": 16,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 2,
+            "departure_time": "14:40",
+            "distance_km": 1171.0,
+            "sequence_number": 17,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 2,
+            "departure_time": "18:15",
+            "distance_km": 1426.0,
+            "sequence_number": 18,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "18:53",
+            "day_of_journey": 2,
+            "departure_time": "18:55",
+            "distance_km": 1464.0,
+            "sequence_number": 19,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 2,
+            "departure_time": "20:35",
+            "distance_km": 1547.0,
+            "sequence_number": 20,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 2,
+            "departure_time": "21:00",
+            "distance_km": 1557.0,
+            "sequence_number": 21,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        },
+        {
+            "arrival_time": "22:09",
+            "day_of_journey": 2,
+            "departure_time": "22:10",
+            "distance_km": 1629.0,
+            "sequence_number": 22,
+            "station_code": "CTO",
+            "station_name": "CHITTOOR"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 2,
+            "departure_time": "23:10",
+            "distance_km": 1661.0,
+            "sequence_number": 23,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "00:28",
+            "day_of_journey": 3,
+            "departure_time": "00:30",
+            "distance_km": 1745.0,
+            "sequence_number": 24,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 3,
+            "departure_time": "02:27",
+            "distance_km": 1871.0,
+            "sequence_number": 25,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1878.0,
+            "sequence_number": 26,
+            "station_code": "SMVB",
+            "station_name": "SMVT BENGALURU"
+        }
+    ],
+    "train_name": "HTE SMVB EXP",
+    "train_number": "12835",
+    "type": "SUPERFAST"
+}

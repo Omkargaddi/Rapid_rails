@@ -1,0 +1,207 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12810.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12810-HWH-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 1,
+            "departure_time": "21:10",
+            "distance_km": 116.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "23:02",
+            "day_of_journey": 1,
+            "departure_time": "23:07",
+            "distance_km": 250.0,
+            "sequence_number": 3,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "23:55",
+            "day_of_journey": 2,
+            "departure_time": "00:02",
+            "distance_km": 313.0,
+            "sequence_number": 4,
+            "station_code": "CKP",
+            "station_name": "CHAKARADHARPUR"
+        },
+        {
+            "arrival_time": "01:27",
+            "day_of_journey": 2,
+            "departure_time": "01:35",
+            "distance_km": 413.0,
+            "sequence_number": 5,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:25",
+            "distance_km": 516.0,
+            "sequence_number": 6,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "03:43",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 527.0,
+            "sequence_number": 7,
+            "station_code": "BRJN",
+            "station_name": "BRAJRAJNAGAR"
+        },
+        {
+            "arrival_time": "03:54",
+            "day_of_journey": 2,
+            "departure_time": "03:56",
+            "distance_km": 536.0,
+            "sequence_number": 8,
+            "station_code": "BPH",
+            "station_name": "BELPAHAR"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 587.0,
+            "sequence_number": 9,
+            "station_code": "RIG",
+            "station_name": "RAIGARH"
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 2,
+            "departure_time": "05:02",
+            "distance_km": 621.0,
+            "sequence_number": 10,
+            "station_code": "KHS",
+            "station_name": "KHARSIA"
+        },
+        {
+            "arrival_time": "05:13",
+            "day_of_journey": 2,
+            "departure_time": "05:15",
+            "distance_km": 637.0,
+            "sequence_number": 11,
+            "station_code": "SKT",
+            "station_name": "SAKTI"
+        },
+        {
+            "arrival_time": "05:38",
+            "day_of_journey": 2,
+            "departure_time": "05:40",
+            "distance_km": 667.0,
+            "sequence_number": 12,
+            "station_code": "CPH",
+            "station_name": "CHAMPA"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 2,
+            "departure_time": "22:17",
+            "distance_km": 1647.0,
+            "sequence_number": 36,
+            "station_code": "CSN",
+            "station_name": "CHALISGAON JN"
+        },
+        {
+            "arrival_time": "23:18",
+            "day_of_journey": 2,
+            "departure_time": "23:20",
+            "distance_km": 1715.0,
+            "sequence_number": 37,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 3,
+            "departure_time": "00:25",
+            "distance_km": 1788.0,
+            "sequence_number": 38,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "00:30",
+            "day_of_journey": 3,
+            "departure_time": "00:31",
+            "distance_km": 1793.0,
+            "sequence_number": 39,
+            "station_code": "DVL",
+            "station_name": "DEVLALI"
+        },
+        {
+            "arrival_time": "01:32",
+            "day_of_journey": 3,
+            "departure_time": "01:37",
+            "distance_km": 1838.0,
+            "sequence_number": 40,
+            "station_code": "IGP",
+            "station_name": "IGATPURI"
+        },
+        {
+            "arrival_time": "03:07",
+            "day_of_journey": 3,
+            "departure_time": "03:10",
+            "distance_km": 1922.0,
+            "sequence_number": 41,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "03:52",
+            "day_of_journey": 3,
+            "departure_time": "03:55",
+            "distance_km": 1966.0,
+            "sequence_number": 42,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "04:25",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1975.0,
+            "sequence_number": 43,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "HWH CSMT MAIL",
+    "train_number": "12810",
+    "type": "SUPERFAST"
+}

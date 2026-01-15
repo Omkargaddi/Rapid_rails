@@ -1,0 +1,241 @@
+{
+    "classes_available": [
+        "3E",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17201.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17201-GNT-SC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GNT",
+            "station_name": "GUNTUR JN"
+        },
+        {
+            "arrival_time": "06:07",
+            "day_of_journey": 1,
+            "departure_time": "06:08",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "PDKN",
+            "station_name": "PEDAKAKANI HALT"
+        },
+        {
+            "arrival_time": "06:12",
+            "day_of_journey": 1,
+            "departure_time": "06:13",
+            "distance_km": 9.0,
+            "sequence_number": 3,
+            "station_code": "NBR",
+            "station_name": "NAMBURU"
+        },
+        {
+            "arrival_time": "06:23",
+            "day_of_journey": 1,
+            "departure_time": "06:24",
+            "distance_km": 21.0,
+            "sequence_number": 4,
+            "station_code": "MAG",
+            "station_name": "MANGALAGIRI"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 33.0,
+            "sequence_number": 5,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "07:29",
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 49.0,
+            "sequence_number": 6,
+            "station_code": "KI",
+            "station_name": "KONDAPALLI"
+        },
+        {
+            "arrival_time": "07:49",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 73.0,
+            "sequence_number": 7,
+            "station_code": "YP",
+            "station_name": "ERRUPALEM"
+        },
+        {
+            "arrival_time": "08:09",
+            "day_of_journey": 1,
+            "departure_time": "08:10",
+            "distance_km": 89.0,
+            "sequence_number": 8,
+            "station_code": "MDR",
+            "station_name": "MADHIRA"
+        },
+        {
+            "arrival_time": "08:24",
+            "day_of_journey": 1,
+            "departure_time": "08:25",
+            "distance_km": 105.0,
+            "sequence_number": 9,
+            "station_code": "BKL",
+            "station_name": "BONA KALU"
+        },
+        {
+            "arrival_time": "08:44",
+            "day_of_journey": 1,
+            "departure_time": "08:45",
+            "distance_km": 133.0,
+            "sequence_number": 10,
+            "station_code": "KMT",
+            "station_name": "KHAMMAM"
+        },
+        {
+            "arrival_time": "09:09",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 156.0,
+            "sequence_number": 11,
+            "station_code": "DKJ",
+            "station_name": "DORNAKAL JN"
+        },
+        {
+            "arrival_time": "09:19",
+            "day_of_journey": 1,
+            "departure_time": "09:20",
+            "distance_km": 161.0,
+            "sequence_number": 12,
+            "station_code": "GLA",
+            "station_name": "GARLA"
+        },
+        {
+            "arrival_time": "09:34",
+            "day_of_journey": 1,
+            "departure_time": "09:35",
+            "distance_km": 180.0,
+            "sequence_number": 13,
+            "station_code": "MABD",
+            "station_name": "MAHBUBABAD"
+        },
+        {
+            "arrival_time": "09:49",
+            "day_of_journey": 1,
+            "departure_time": "09:50",
+            "distance_km": 195.0,
+            "sequence_number": 14,
+            "station_code": "KDM",
+            "station_name": "KESAMUDRAM"
+        },
+        {
+            "arrival_time": "10:04",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 211.0,
+            "sequence_number": 15,
+            "station_code": "NKD",
+            "station_name": "NEKONDA"
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 1,
+            "departure_time": "10:40",
+            "distance_km": 242.0,
+            "sequence_number": 16,
+            "station_code": "WL",
+            "station_name": "WARANGAL"
+        },
+        {
+            "arrival_time": "10:58",
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 253.0,
+            "sequence_number": 17,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "11:29",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 273.0,
+            "sequence_number": 18,
+            "station_code": "GNP",
+            "station_name": "GHANPUR"
+        },
+        {
+            "arrival_time": "11:49",
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 301.0,
+            "sequence_number": 19,
+            "station_code": "ZN",
+            "station_name": "JANGAON"
+        },
+        {
+            "arrival_time": "12:04",
+            "day_of_journey": 1,
+            "departure_time": "12:05",
+            "distance_km": 315.0,
+            "sequence_number": 20,
+            "station_code": "ALER",
+            "station_name": "ALER"
+        },
+        {
+            "arrival_time": "12:29",
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 338.0,
+            "sequence_number": 21,
+            "station_code": "BG",
+            "station_name": "BHONGIR"
+        },
+        {
+            "arrival_time": "13:04",
+            "day_of_journey": 1,
+            "departure_time": "13:05",
+            "distance_km": 372.0,
+            "sequence_number": 22,
+            "station_code": "CHZ",
+            "station_name": "CHARLAPALLI"
+        },
+        {
+            "arrival_time": "13:14",
+            "day_of_journey": 1,
+            "departure_time": "13:15",
+            "distance_km": 379.0,
+            "sequence_number": 23,
+            "station_code": "MLY",
+            "station_name": "MAULA ALI"
+        },
+        {
+            "arrival_time": "14:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 384.0,
+            "sequence_number": 24,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        }
+    ],
+    "train_name": "GOLCONDA EXP",
+    "train_number": "17201",
+    "type": "MAIL EXPRESS"
+}

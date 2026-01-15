@@ -1,0 +1,238 @@
+{
+    "classes_available": [
+        "3E",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12202.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12202-TVCN-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TVCN",
+            "station_name": "THIRUVANANTHAPURAM NORTH"
+        },
+        {
+            "arrival_time": "10:05",
+            "day_of_journey": 1,
+            "departure_time": "10:08",
+            "distance_km": 58.0,
+            "sequence_number": 2,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "10:42",
+            "day_of_journey": 1,
+            "departure_time": "10:44",
+            "distance_km": 99.0,
+            "sequence_number": 3,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": "11:07",
+            "distance_km": 119.0,
+            "sequence_number": 4,
+            "station_code": "CNGR",
+            "station_name": "CHENGANNUR"
+        },
+        {
+            "arrival_time": "11:16",
+            "day_of_journey": 1,
+            "departure_time": "11:17",
+            "distance_km": 128.0,
+            "sequence_number": 5,
+            "station_code": "TRVL",
+            "station_name": "TIRUVALLA"
+        },
+        {
+            "arrival_time": "11:26",
+            "day_of_journey": 1,
+            "departure_time": "11:27",
+            "distance_km": 136.0,
+            "sequence_number": 6,
+            "station_code": "CGY",
+            "station_name": "CHANGANASSERI"
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 1,
+            "departure_time": "11:48",
+            "distance_km": 154.0,
+            "sequence_number": 7,
+            "station_code": "KTYM",
+            "station_name": "KOTTAYAM"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 1,
+            "departure_time": "12:55",
+            "distance_km": 214.0,
+            "sequence_number": 8,
+            "station_code": "ERN",
+            "station_name": "ERNAKULAM TOWN"
+        },
+        {
+            "arrival_time": "14:09",
+            "day_of_journey": 1,
+            "departure_time": "14:12",
+            "distance_km": 285.0,
+            "sequence_number": 9,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 1,
+            "departure_time": "15:10",
+            "distance_km": 320.0,
+            "sequence_number": 10,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "15:49",
+            "day_of_journey": 1,
+            "departure_time": "15:50",
+            "distance_km": 365.0,
+            "sequence_number": 11,
+            "station_code": "TIR",
+            "station_name": "TIRUR"
+        },
+        {
+            "arrival_time": "16:27",
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 406.0,
+            "sequence_number": 12,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "17:52",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 496.0,
+            "sequence_number": 13,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "19:04",
+            "day_of_journey": 1,
+            "departure_time": "19:05",
+            "distance_km": 581.0,
+            "sequence_number": 14,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "20:05",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 628.0,
+            "sequence_number": 15,
+            "station_code": "MAJN",
+            "station_name": "MANGALORE JUNCTION"
+        },
+        {
+            "arrival_time": "21:38",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 695.0,
+            "sequence_number": 16,
+            "station_code": "UD",
+            "station_name": "UDUPI"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:22",
+            "distance_km": 759.0,
+            "sequence_number": 17,
+            "station_code": "BYNR",
+            "station_name": "MOOKAMBIKA ROAD BYNDOOR (H)"
+        },
+        {
+            "arrival_time": "23:26",
+            "day_of_journey": 1,
+            "departure_time": "23:28",
+            "distance_km": 857.0,
+            "sequence_number": 18,
+            "station_code": "ANKL",
+            "station_name": "ANKOLA"
+        },
+        {
+            "arrival_time": "23:43",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 885.0,
+            "sequence_number": 19,
+            "station_code": "KAWR",
+            "station_name": "KARWAR"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 943.0,
+            "sequence_number": 20,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 1182.0,
+            "sequence_number": 21,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "09:42",
+            "day_of_journey": 2,
+            "departure_time": "09:45",
+            "distance_km": 1463.0,
+            "sequence_number": 22,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "10:58",
+            "day_of_journey": 2,
+            "departure_time": "11:00",
+            "distance_km": 1500.0,
+            "sequence_number": 23,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1517.0,
+            "sequence_number": 24,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "LTT GARIB RATH",
+    "train_number": "12202",
+    "type": "GARIB RATH"
+}

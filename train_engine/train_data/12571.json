@@ -1,0 +1,111 @@
+{
+    "classes_available": [
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12571.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": true,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12571-GKP-ANVT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "19:31",
+            "day_of_journey": 1,
+            "departure_time": "19:33",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "ANDN",
+            "station_name": "ANAND NAGAR"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 72.0,
+            "sequence_number": 3,
+            "station_code": "SDDN",
+            "station_name": "SIDDHARTH NAGAR"
+        },
+        {
+            "arrival_time": "20:44",
+            "day_of_journey": 1,
+            "departure_time": "20:46",
+            "distance_km": 113.0,
+            "sequence_number": 4,
+            "station_code": "BNY",
+            "station_name": "BARHNI"
+        },
+        {
+            "arrival_time": "21:13",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 151.0,
+            "sequence_number": 5,
+            "station_code": "TLR",
+            "station_name": "TULSIPUR"
+        },
+        {
+            "arrival_time": "21:44",
+            "day_of_journey": 1,
+            "departure_time": "21:46",
+            "distance_km": 181.0,
+            "sequence_number": 6,
+            "station_code": "BLP",
+            "station_name": "BALRAMPUR"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 1,
+            "departure_time": "22:45",
+            "distance_km": 220.0,
+            "sequence_number": 7,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 336.0,
+            "sequence_number": 8,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 410.0,
+            "sequence_number": 9,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "08:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 838.0,
+            "sequence_number": 10,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        }
+    ],
+    "train_name": "ANVT HUMSAFAR",
+    "train_number": "12571",
+    "type": "SUPERFAST"
+}

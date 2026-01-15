@@ -1,0 +1,151 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12180.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12180-AF-LJN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:31",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AF",
+            "station_name": "AGRA FORT"
+        },
+        {
+            "arrival_time": "06:42",
+            "day_of_journey": 1,
+            "departure_time": "06:43",
+            "distance_km": 2.0,
+            "sequence_number": 2,
+            "station_code": "JAB",
+            "station_name": "YAMUNA BRIDGE"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 1,
+            "departure_time": "07:12",
+            "distance_km": 22.0,
+            "sequence_number": 3,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 1,
+            "departure_time": "07:29",
+            "distance_km": 39.0,
+            "sequence_number": 4,
+            "station_code": "FZD",
+            "station_name": "FIROZABAD"
+        },
+        {
+            "arrival_time": "07:43",
+            "day_of_journey": 1,
+            "departure_time": "07:44",
+            "distance_km": 59.0,
+            "sequence_number": 5,
+            "station_code": "SKB",
+            "station_name": "SHIKOHABAD JN"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 114.0,
+            "sequence_number": 6,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 1,
+            "departure_time": "08:36",
+            "distance_km": 134.0,
+            "sequence_number": 7,
+            "station_code": "BNT",
+            "station_name": "BHARTHANA"
+        },
+        {
+            "arrival_time": "08:57",
+            "day_of_journey": 1,
+            "departure_time": "08:58",
+            "distance_km": 170.0,
+            "sequence_number": 8,
+            "station_code": "PHD",
+            "station_name": "PHAPHUND"
+        },
+        {
+            "arrival_time": "09:13",
+            "day_of_journey": 1,
+            "departure_time": "09:14",
+            "distance_km": 190.0,
+            "sequence_number": 9,
+            "station_code": "JJK",
+            "station_name": "JHINJHAK"
+        },
+        {
+            "arrival_time": "09:27",
+            "day_of_journey": 1,
+            "departure_time": "09:28",
+            "distance_km": 209.0,
+            "sequence_number": 10,
+            "station_code": "RURA",
+            "station_name": "RURA"
+        },
+        {
+            "arrival_time": "09:49",
+            "day_of_journey": 1,
+            "departure_time": "09:50",
+            "distance_km": 242.0,
+            "sequence_number": 11,
+            "station_code": "PNKD",
+            "station_name": "PANKI DHAM"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 253.0,
+            "sequence_number": 12,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "11:16",
+            "day_of_journey": 1,
+            "departure_time": "11:18",
+            "distance_km": 271.0,
+            "sequence_number": 13,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 327.0,
+            "sequence_number": 14,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        }
+    ],
+    "train_name": "LJN INTERCITY",
+    "train_number": "12180",
+    "type": "SUPERFAST"
+}

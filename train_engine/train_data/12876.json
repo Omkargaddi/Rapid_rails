@@ -1,0 +1,108 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12876.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12876-ANVT-PURI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 1,
+            "departure_time": "09:07",
+            "distance_km": 119.0,
+            "sequence_number": 2,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "09:27",
+            "day_of_journey": 1,
+            "departure_time": "09:29",
+            "distance_km": 149.0,
+            "sequence_number": 3,
+            "station_code": "HRS",
+            "station_name": "HATHRAS JN"
+        },
+        {
+            "arrival_time": "10:13",
+            "day_of_journey": 1,
+            "departure_time": "10:15",
+            "distance_km": 197.0,
+            "sequence_number": 4,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 1,
+            "departure_time": "10:42",
+            "distance_km": 213.0,
+            "sequence_number": 5,
+            "station_code": "FZD",
+            "station_name": "FIROZABAD"
+        },
+        {
+            "arrival_time": "11:34",
+            "day_of_journey": 1,
+            "departure_time": "11:36",
+            "distance_km": 289.0,
+            "sequence_number": 6,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "16:37",
+            "day_of_journey": 2,
+            "departure_time": "16:42",
+            "distance_km": 1849.0,
+            "sequence_number": 41,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "17:10",
+            "day_of_journey": 2,
+            "departure_time": "17:12",
+            "distance_km": 1877.0,
+            "sequence_number": 42,
+            "station_code": "SIL",
+            "station_name": "SAKHI GOPAL"
+        },
+        {
+            "arrival_time": "17:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1893.0,
+            "sequence_number": 43,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        }
+    ],
+    "train_name": "NEELANCHAL EXP",
+    "train_number": "12876",
+    "type": "SUPERFAST"
+}

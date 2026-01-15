@@ -1,0 +1,214 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12742.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12742-PNBE-VSG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "14:41",
+            "day_of_journey": 1,
+            "departure_time": "14:43",
+            "distance_km": 49.0,
+            "sequence_number": 2,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "15:24",
+            "day_of_journey": 1,
+            "departure_time": "15:26",
+            "distance_km": 118.0,
+            "sequence_number": 3,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "17:33",
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 208.0,
+            "sequence_number": 4,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:02",
+            "distance_km": 352.0,
+            "sequence_number": 5,
+            "station_code": "PCOI",
+            "station_name": "PRAYAGRAJ CHHEOKI"
+        },
+        {
+            "arrival_time": "22:45",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 521.0,
+            "sequence_number": 6,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "00:00",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 619.0,
+            "sequence_number": 7,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 710.0,
+            "sequence_number": 8,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 955.0,
+            "sequence_number": 9,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "07:55",
+            "day_of_journey": 2,
+            "departure_time": "07:57",
+            "distance_km": 1138.0,
+            "sequence_number": 10,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": "09:55",
+            "distance_km": 1261.0,
+            "sequence_number": 11,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "12:23",
+            "day_of_journey": 2,
+            "departure_time": "12:25",
+            "distance_km": 1445.0,
+            "sequence_number": 12,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 2,
+            "departure_time": "13:40",
+            "distance_km": 1518.0,
+            "sequence_number": 13,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "16:22",
+            "day_of_journey": 2,
+            "departure_time": "16:25",
+            "distance_km": 1652.0,
+            "sequence_number": 14,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 2,
+            "departure_time": "17:10",
+            "distance_km": 1689.0,
+            "sequence_number": 15,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 2,
+            "departure_time": "21:12",
+            "distance_km": 1894.0,
+            "sequence_number": 16,
+            "station_code": "CHI",
+            "station_name": "CHIPLUN"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 2,
+            "departure_time": "22:35",
+            "distance_km": 1970.0,
+            "sequence_number": 17,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 3,
+            "departure_time": "01:02",
+            "distance_km": 2130.0,
+            "sequence_number": 18,
+            "station_code": "SWV",
+            "station_name": "SAWANTWADI ROAD"
+        },
+        {
+            "arrival_time": "01:30",
+            "day_of_journey": 3,
+            "departure_time": "01:32",
+            "distance_km": 2163.0,
+            "sequence_number": 19,
+            "station_code": "THVM",
+            "station_name": "THIVIM"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 3,
+            "departure_time": "03:10",
+            "distance_km": 2209.0,
+            "sequence_number": 20,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2233.0,
+            "sequence_number": 21,
+            "station_code": "VSG",
+            "station_name": "VASCO DA GAMA"
+        }
+    ],
+    "train_name": "PNBE VSG EXP",
+    "train_number": "12742",
+    "type": "SUPERFAST"
+}

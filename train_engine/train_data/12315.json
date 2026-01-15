@@ -1,0 +1,245 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12315.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12315-KOAA-UDZ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        },
+        {
+            "arrival_time": "14:29",
+            "day_of_journey": 1,
+            "departure_time": "14:31",
+            "distance_km": 100.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "15:52",
+            "day_of_journey": 1,
+            "departure_time": "15:57",
+            "distance_km": 205.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "17:03",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 286.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "MDP",
+            "station_name": "MADHUPUR JN."
+        },
+        {
+            "arrival_time": "17:33",
+            "day_of_journey": 1,
+            "departure_time": "17:35",
+            "distance_km": 315.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 359.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "21:28",
+            "day_of_journey": 1,
+            "departure_time": "21:35",
+            "distance_km": 536.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "01:48",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 744.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:05",
+            "distance_km": 897.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "06:30",
+            "day_of_journey": 2,
+            "departure_time": "06:35",
+            "distance_km": 1094.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "GOY",
+            "station_name": "GOVINDPURI"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 2,
+            "departure_time": "09:20",
+            "distance_km": 1322.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "10:05",
+            "day_of_journey": 2,
+            "departure_time": "10:10",
+            "distance_km": 1346.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "IDH",
+            "station_name": "IDGAH JN"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 2,
+            "departure_time": "13:45",
+            "distance_km": 1569.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "15:55",
+            "day_of_journey": 2,
+            "departure_time": "16:05",
+            "distance_km": 1700.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "18:05",
+            "day_of_journey": 2,
+            "departure_time": "18:15",
+            "distance_km": 1834.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 2,
+            "departure_time": "18:42",
+            "distance_km": 1858.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "NSD",
+            "station_name": "NASIRABAD"
+        },
+        {
+            "arrival_time": "19:23",
+            "day_of_journey": 2,
+            "departure_time": "19:25",
+            "distance_km": 1900.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "BJNR",
+            "station_name": "BIJAINAGAR"
+        },
+        {
+            "arrival_time": "20:10",
+            "day_of_journey": 2,
+            "departure_time": "20:15",
+            "distance_km": 1966.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "BHL",
+            "station_name": "BHILWARA"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 2,
+            "departure_time": "21:15",
+            "distance_km": 2013.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "CNA",
+            "station_name": "CHANDERIA"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 2,
+            "departure_time": "23:12",
+            "distance_km": 2086.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "MVJ",
+            "station_name": "MAVLI JN"
+        },
+        {
+            "arrival_time": "00:06",
+            "day_of_journey": 3,
+            "departure_time": "00:08",
+            "distance_km": 2125.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "RPZ",
+            "station_name": "RANA PRATAP NAGAR"
+        },
+        {
+            "arrival_time": "00:48",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2129.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "UDZ",
+            "station_name": "UDAIPUR CITY"
+        }
+    ],
+    "train_name": "ANANYA EXPRESS",
+    "train_number": "12315",
+    "type": "SUPERFAST "
+}

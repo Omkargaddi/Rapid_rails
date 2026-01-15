@@ -1,0 +1,304 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12489.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12489-SGNR-DDR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "SGNR",
+            "station_name": "SHRI GANGANAGAR"
+        },
+        {
+            "arrival_time": "10:18",
+            "day_of_journey": 1,
+            "departure_time": "10:20",
+            "distance_km": 47.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "SRW",
+            "station_name": "SHRI KARANPUR"
+        },
+        {
+            "arrival_time": "10:43",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 81.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "RSNR",
+            "station_name": "RAI SINGH NAGAR"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 137.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SOG",
+            "station_name": "SURATGARH JN"
+        },
+        {
+            "arrival_time": "13:03",
+            "day_of_journey": 1,
+            "departure_time": "13:05",
+            "distance_km": 239.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "LKS",
+            "station_name": "LUNKARANSAR"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 318.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BKN",
+            "station_name": "BIKANER JN"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 1,
+            "departure_time": "16:53",
+            "distance_km": 435.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "NGO",
+            "station_name": "NAGAUR"
+        },
+        {
+            "arrival_time": "18:08",
+            "day_of_journey": 1,
+            "departure_time": "18:13",
+            "distance_km": 492.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "MTD",
+            "station_name": "MERTA ROAD JN"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 596.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 676.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "SMR",
+            "station_name": "SAMDHARI JN"
+        },
+        {
+            "arrival_time": "21:30",
+            "day_of_journey": 1,
+            "departure_time": "21:33",
+            "distance_km": 702.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "MKSR",
+            "station_name": "MOKALSAR"
+        },
+        {
+            "arrival_time": "21:58",
+            "day_of_journey": 1,
+            "departure_time": "22:01",
+            "distance_km": 735.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "JOR",
+            "station_name": "JALOR"
+        },
+        {
+            "arrival_time": "22:28",
+            "day_of_journey": 1,
+            "departure_time": "22:31",
+            "distance_km": 769.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "MON",
+            "station_name": "MODRAN"
+        },
+        {
+            "arrival_time": "22:52",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 797.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "MBNL",
+            "station_name": "MARWAR BHINMAL"
+        },
+        {
+            "arrival_time": "23:26",
+            "day_of_journey": 1,
+            "departure_time": "23:29",
+            "distance_km": 829.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "RNV",
+            "station_name": "RANIWARA"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 2,
+            "departure_time": "00:03",
+            "distance_km": 864.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "DQN",
+            "station_name": "DHANERA"
+        },
+        {
+            "arrival_time": "00:55",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 899.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "BLDI",
+            "station_name": "BHILDI JN."
+        },
+        {
+            "arrival_time": "01:58",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 950.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "PTN",
+            "station_name": "PATAN"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:52",
+            "distance_km": 990.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "MSH",
+            "station_name": "MAHESANA JN"
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 1059.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "05:41",
+            "day_of_journey": 2,
+            "departure_time": "05:43",
+            "distance_km": 1104.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 1123.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 2,
+            "departure_time": "06:40",
+            "distance_km": 1157.0,
+            "platform": null,
+            "sequence_number": 23,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "08:42",
+            "day_of_journey": 2,
+            "departure_time": "08:47",
+            "distance_km": 1286.0,
+            "platform": null,
+            "sequence_number": 24,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "10:03",
+            "day_of_journey": 2,
+            "departure_time": "10:05",
+            "distance_km": 1381.0,
+            "platform": null,
+            "sequence_number": 25,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "11:08",
+            "day_of_journey": 2,
+            "departure_time": "11:10",
+            "distance_km": 1462.0,
+            "platform": null,
+            "sequence_number": 26,
+            "station_code": "PLG",
+            "station_name": "PALGHAR"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 2,
+            "departure_time": "12:00",
+            "distance_km": 1519.0,
+            "platform": null,
+            "sequence_number": 27,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1543.0,
+            "platform": null,
+            "sequence_number": 28,
+            "station_code": "DDR",
+            "station_name": "DADAR"
+        }
+    ],
+    "train_name": "BKN DDR EXP",
+    "train_number": "12489",
+    "type": "SUPERFAST "
+}

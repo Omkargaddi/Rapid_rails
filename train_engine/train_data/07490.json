@@ -1,0 +1,64 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_07490.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "07490-GTL-KMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GTL",
+            "station_name": "GUNTAKAL JN"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 45.0,
+            "sequence_number": 2,
+            "station_code": "PDL",
+            "station_name": "PENDEKALLU JN"
+        },
+        {
+            "arrival_time": "20:35",
+            "day_of_journey": 1,
+            "departure_time": "20:40",
+            "distance_km": 147.0,
+            "sequence_number": 3,
+            "station_code": "NDL",
+            "station_name": "NANDYAL"
+        },
+        {
+            "arrival_time": "01:40",
+            "day_of_journey": 2,
+            "departure_time": "01:50",
+            "distance_km": 404.0,
+            "sequence_number": 4,
+            "station_code": "GNT",
+            "station_name": "GUNTUR JN"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 537.0,
+            "sequence_number": 5,
+            "station_code": "KMT",
+            "station_name": "KHAMMAM"
+        }
+    ],
+    "train_name": "GTL-KMT Valid From : 17-Jan-2026",
+    "train_number": "07490",
+    "type": "TOURIST TRAIN"
+}

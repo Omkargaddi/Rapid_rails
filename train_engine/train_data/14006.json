@@ -1,0 +1,198 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14006.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14006-ANVT-SMI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        },
+        {
+            "arrival_time": "18:27",
+            "day_of_journey": 1,
+            "departure_time": "18:29",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "18:50",
+            "day_of_journey": 1,
+            "departure_time": "18:52",
+            "distance_km": 29.0,
+            "sequence_number": 3,
+            "station_code": "DER",
+            "station_name": "DADRI"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:27",
+            "distance_km": 75.0,
+            "sequence_number": 4,
+            "station_code": "KRJ",
+            "station_name": "KHURJA JN"
+        },
+        {
+            "arrival_time": "19:55",
+            "day_of_journey": 1,
+            "departure_time": "19:57",
+            "distance_km": 119.0,
+            "sequence_number": 5,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "20:53",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 197.0,
+            "sequence_number": 6,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "00:15",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 428.0,
+            "sequence_number": 7,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "01:08",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 505.0,
+            "sequence_number": 8,
+            "station_code": "FTP",
+            "station_name": "FATEHPUR"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 2,
+            "departure_time": "03:20",
+            "distance_km": 622.0,
+            "sequence_number": 9,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 2,
+            "departure_time": "03:32",
+            "distance_km": 625.0,
+            "sequence_number": 10,
+            "station_code": "PRRB",
+            "station_name": "PRAYAGRAJ RAMBAG"
+        },
+        {
+            "arrival_time": "04:33",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 687.0,
+            "sequence_number": 11,
+            "station_code": "GYN",
+            "station_name": "GYANPUR ROAD"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": "05:21",
+            "distance_km": 740.0,
+            "sequence_number": 12,
+            "station_code": "BHLP",
+            "station_name": "BHULANPUR"
+        },
+        {
+            "arrival_time": "15:36",
+            "day_of_journey": 2,
+            "departure_time": "15:38",
+            "distance_km": 1070.0,
+            "sequence_number": 36,
+            "station_code": "SEE",
+            "station_name": "SONPUR JN"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 2,
+            "departure_time": "15:55",
+            "distance_km": 1076.0,
+            "sequence_number": 37,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "16:18",
+            "day_of_journey": 2,
+            "departure_time": "16:20",
+            "distance_km": 1095.0,
+            "sequence_number": 38,
+            "station_code": "BNR",
+            "station_name": "BHAGWANPUR"
+        },
+        {
+            "arrival_time": "16:28",
+            "day_of_journey": 2,
+            "departure_time": "16:30",
+            "distance_km": 1104.0,
+            "sequence_number": 39,
+            "station_code": "GRL",
+            "station_name": "GORAUL"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 2,
+            "departure_time": "18:45",
+            "distance_km": 1129.0,
+            "sequence_number": 40,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "19:28",
+            "day_of_journey": 2,
+            "departure_time": "19:30",
+            "distance_km": 1171.0,
+            "sequence_number": 41,
+            "station_code": "RUSD",
+            "station_name": "RUNNISAIDPUR"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1194.0,
+            "sequence_number": 42,
+            "station_code": "SMI",
+            "station_name": "SITAMARHI"
+        }
+    ],
+    "train_name": "LICHCHIVI EXP",
+    "train_number": "14006",
+    "type": "MAIL EXPRESS"
+}

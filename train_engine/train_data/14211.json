@@ -1,0 +1,188 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14211.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14211-AGC-NDLS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "05:53",
+            "day_of_journey": 1,
+            "departure_time": "05:55",
+            "distance_km": 4.0,
+            "sequence_number": 2,
+            "station_code": "RKM",
+            "station_name": "RAJA KI MANDI"
+        },
+        {
+            "arrival_time": "06:14",
+            "day_of_journey": 1,
+            "departure_time": "06:15",
+            "distance_km": 31.0,
+            "sequence_number": 3,
+            "station_code": "DDDM",
+            "station_name": "DEEN DAYAL DHAM"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 1,
+            "departure_time": "06:40",
+            "distance_km": 53.0,
+            "sequence_number": 4,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 1,
+            "departure_time": "07:02",
+            "distance_km": 84.0,
+            "sequence_number": 5,
+            "station_code": "CHJ",
+            "station_name": "CHATA"
+        },
+        {
+            "arrival_time": "07:12",
+            "day_of_journey": 1,
+            "departure_time": "07:14",
+            "distance_km": 94.0,
+            "sequence_number": 6,
+            "station_code": "KSV",
+            "station_name": "KOSI KALAN"
+        },
+        {
+            "arrival_time": "07:26",
+            "day_of_journey": 1,
+            "departure_time": "07:28",
+            "distance_km": 107.0,
+            "sequence_number": 7,
+            "station_code": "HDL",
+            "station_name": "HODAL"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 137.0,
+            "sequence_number": 8,
+            "station_code": "PWL",
+            "station_name": "PALWAL"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 1,
+            "departure_time": "08:31",
+            "distance_km": 148.0,
+            "sequence_number": 9,
+            "station_code": "AST",
+            "station_name": "ASAOTI"
+        },
+        {
+            "arrival_time": "08:39",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 158.0,
+            "sequence_number": 10,
+            "station_code": "BVH",
+            "station_name": "BALLABGARH"
+        },
+        {
+            "arrival_time": "08:45",
+            "day_of_journey": 1,
+            "departure_time": "08:46",
+            "distance_km": 162.0,
+            "sequence_number": 11,
+            "station_code": "FDN",
+            "station_name": "FARIDABAD NW TN"
+        },
+        {
+            "arrival_time": "08:51",
+            "day_of_journey": 1,
+            "departure_time": "08:52",
+            "distance_km": 166.0,
+            "sequence_number": 12,
+            "station_code": "FDB",
+            "station_name": "FARIDABAD"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 1,
+            "departure_time": "09:01",
+            "distance_km": 176.0,
+            "sequence_number": 13,
+            "station_code": "TKD",
+            "station_name": "TUGLAKABAD"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 1,
+            "departure_time": "09:09",
+            "distance_km": 183.0,
+            "sequence_number": 14,
+            "station_code": "OKA",
+            "station_name": "OKHLA"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 1,
+            "departure_time": "09:17",
+            "distance_km": 187.0,
+            "sequence_number": 15,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 1,
+            "departure_time": "09:26",
+            "distance_km": 191.0,
+            "sequence_number": 16,
+            "station_code": "TKJ",
+            "station_name": "TILAK BRIDGE"
+        },
+        {
+            "arrival_time": "09:32",
+            "day_of_journey": 1,
+            "departure_time": "09:33",
+            "distance_km": 193.0,
+            "sequence_number": 17,
+            "station_code": "CSB",
+            "station_name": "SHIVAJI BRIDGE"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 194.0,
+            "sequence_number": 18,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        }
+    ],
+    "train_name": "NDLS INTERCITY",
+    "train_number": "14211",
+    "type": "MAIL EXPRESS"
+}

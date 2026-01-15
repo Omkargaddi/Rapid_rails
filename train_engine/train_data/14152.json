@@ -1,0 +1,164 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14152.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "14152-ANVT-CNB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        },
+        {
+            "arrival_time": "22:23",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 119.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "23:18",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 197.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "00:02",
+            "day_of_journey": 2,
+            "departure_time": "00:07",
+            "distance_km": 233.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SKB",
+            "station_name": "SHIKOHABAD JN"
+        },
+        {
+            "arrival_time": "00:55",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 281.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MNQ",
+            "station_name": "MAINPURI"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:17",
+            "distance_km": 295.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BGQ",
+            "station_name": "BHONGAON"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 339.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "FBD",
+            "station_name": "FARRUKHABAD"
+        },
+        {
+            "arrival_time": "03:12",
+            "day_of_journey": 2,
+            "departure_time": "03:14",
+            "distance_km": 344.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "FGR",
+            "station_name": "FATEHGARH"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:42",
+            "distance_km": 376.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "GHJ",
+            "station_name": "GURSAHAIGANJ"
+        },
+        {
+            "arrival_time": "04:03",
+            "day_of_journey": 2,
+            "departure_time": "04:05",
+            "distance_km": 398.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "KJN",
+            "station_name": "KANNAUJ"
+        },
+        {
+            "arrival_time": "04:28",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 423.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "BLU",
+            "station_name": "BILHAUR"
+        },
+        {
+            "arrival_time": "05:23",
+            "day_of_journey": 2,
+            "departure_time": "05:25",
+            "distance_km": 467.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "KAP",
+            "station_name": "KALIANPUR"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 2,
+            "departure_time": "05:47",
+            "distance_km": 476.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "CPA",
+            "station_name": "KANPUR ANWRGANJ"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 478.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        }
+    ],
+    "train_name": "ANVT CNB EXP",
+    "train_number": "14152",
+    "type": "MAIL EXPRESS "
+}

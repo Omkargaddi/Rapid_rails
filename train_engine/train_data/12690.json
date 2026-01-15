@@ -1,0 +1,205 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12690.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12690-CAPE-MAS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CAPE",
+            "station_name": "KANNIYAKUMARI"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 16.0,
+            "sequence_number": 2,
+            "station_code": "NCJ",
+            "station_name": "NAGERCOIL JUNCTION"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 89.0,
+            "sequence_number": 3,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        },
+        {
+            "arrival_time": "23:13",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 154.0,
+            "sequence_number": 4,
+            "station_code": "CVP",
+            "station_name": "KOVILPATTI"
+        },
+        {
+            "arrival_time": "23:32",
+            "day_of_journey": 1,
+            "departure_time": "23:34",
+            "distance_km": 175.0,
+            "sequence_number": 5,
+            "station_code": "SRT",
+            "station_name": "SATUR"
+        },
+        {
+            "arrival_time": "23:55",
+            "day_of_journey": 1,
+            "departure_time": "23:57",
+            "distance_km": 202.0,
+            "sequence_number": 6,
+            "station_code": "VPT",
+            "station_name": "VIRUDUNAGAR JN"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 245.0,
+            "sequence_number": 7,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "01:28",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 286.0,
+            "sequence_number": 8,
+            "station_code": "KQN",
+            "station_name": "KODAIKANAL ROAD"
+        },
+        {
+            "arrival_time": "01:55",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 311.0,
+            "sequence_number": 9,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 406.0,
+            "sequence_number": 10,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "04:28",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 481.0,
+            "sequence_number": 11,
+            "station_code": "KRR",
+            "station_name": "KARUR JN."
+        },
+        {
+            "arrival_time": "05:04",
+            "day_of_journey": 2,
+            "departure_time": "05:05",
+            "distance_km": 515.0,
+            "sequence_number": 12,
+            "station_code": "NMKL",
+            "station_name": "NAMAKKAL"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 567.0,
+            "sequence_number": 13,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "07:04",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 633.0,
+            "sequence_number": 14,
+            "station_code": "MAP",
+            "station_name": "MORAPPUR"
+        },
+        {
+            "arrival_time": "07:44",
+            "day_of_journey": 2,
+            "departure_time": "07:45",
+            "distance_km": 680.0,
+            "sequence_number": 15,
+            "station_code": "TPT",
+            "station_name": "TIRUPATTUR JN"
+        },
+        {
+            "arrival_time": "08:03",
+            "day_of_journey": 2,
+            "departure_time": "08:05",
+            "distance_km": 692.0,
+            "sequence_number": 16,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "09:13",
+            "day_of_journey": 2,
+            "departure_time": "09:15",
+            "distance_km": 775.0,
+            "sequence_number": 17,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "10:03",
+            "day_of_journey": 2,
+            "departure_time": "10:05",
+            "distance_km": 836.0,
+            "sequence_number": 18,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "10:53",
+            "day_of_journey": 2,
+            "departure_time": "10:55",
+            "distance_km": 899.0,
+            "sequence_number": 19,
+            "station_code": "PER",
+            "station_name": "PERAMBUR"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 905.0,
+            "sequence_number": 20,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        }
+    ],
+    "train_name": "NCJ MAS SF EXP",
+    "train_number": "12690",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,84 @@
+{
+    "classes_available": [
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12461.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12461-JU-SBIB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 1,
+            "departure_time": "06:57",
+            "distance_km": 73.0,
+            "sequence_number": 2,
+            "station_code": "PMY",
+            "station_name": "PALI MARWAR"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 1,
+            "departure_time": "08:02",
+            "distance_km": 170.0,
+            "sequence_number": 3,
+            "station_code": "FA",
+            "station_name": "FALNA"
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 268.0,
+            "sequence_number": 4,
+            "station_code": "ABR",
+            "station_name": "ABU ROAD"
+        },
+        {
+            "arrival_time": "10:02",
+            "day_of_journey": 1,
+            "departure_time": "10:04",
+            "distance_km": 321.0,
+            "sequence_number": 5,
+            "station_code": "PNU",
+            "station_name": "PALANPUR JN"
+        },
+        {
+            "arrival_time": "10:49",
+            "day_of_journey": 1,
+            "departure_time": "10:51",
+            "distance_km": 386.0,
+            "sequence_number": 6,
+            "station_code": "MSH",
+            "station_name": "MAHESANA JN"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 448.0,
+            "sequence_number": 7,
+            "station_code": "SBIB",
+            "station_name": "SABARMATI BG"
+        }
+    ],
+    "train_name": "VANDE BHARAT EXP",
+    "train_number": "12461",
+    "type": "VANDE BHARAT"
+}

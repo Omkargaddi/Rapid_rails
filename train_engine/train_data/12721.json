@@ -1,0 +1,115 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12721.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12721-HYB-NZM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HYB",
+            "station_name": "HYDERABAD"
+        },
+        {
+            "arrival_time": "23:20",
+            "day_of_journey": 1,
+            "departure_time": "23:25",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "00:09",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 57.0,
+            "sequence_number": 3,
+            "station_code": "BG",
+            "station_name": "BHONGIR"
+        },
+        {
+            "arrival_time": "00:34",
+            "day_of_journey": 2,
+            "departure_time": "00:35",
+            "distance_km": 94.0,
+            "sequence_number": 4,
+            "station_code": "ZN",
+            "station_name": "JANGAON"
+        },
+        {
+            "arrival_time": "01:18",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 142.0,
+            "sequence_number": 5,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "01:59",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 183.0,
+            "sequence_number": 6,
+            "station_code": "JMKT",
+            "station_name": "JAMIKUNTA"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 3,
+            "departure_time": "01:15",
+            "distance_km": 1537.0,
+            "sequence_number": 41,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "03:01",
+            "day_of_journey": 3,
+            "departure_time": "03:03",
+            "distance_km": 1642.0,
+            "sequence_number": 42,
+            "station_code": "BVH",
+            "station_name": "BALLABGARH"
+        },
+        {
+            "arrival_time": "03:12",
+            "day_of_journey": 3,
+            "departure_time": "03:14",
+            "distance_km": 1650.0,
+            "sequence_number": 43,
+            "station_code": "FDB",
+            "station_name": "FARIDABAD"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1671.0,
+            "sequence_number": 44,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        }
+    ],
+    "train_name": "DAKSHIN SF EXP",
+    "train_number": "12721",
+    "type": "SUPERFAST"
+}

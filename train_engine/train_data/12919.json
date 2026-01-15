@@ -1,0 +1,162 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12919.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12919-DADN-SVDK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DADN",
+            "station_name": "DR. AMBEDKAR NAGAR"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 21.0,
+            "sequence_number": 2,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        },
+        {
+            "arrival_time": "12:51",
+            "day_of_journey": 1,
+            "departure_time": "12:53",
+            "distance_km": 63.0,
+            "sequence_number": 3,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "13:45",
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 103.0,
+            "sequence_number": 4,
+            "station_code": "UJN",
+            "station_name": "UJJAIN JN"
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 1,
+            "departure_time": "14:36",
+            "distance_km": 144.0,
+            "sequence_number": 5,
+            "station_code": "MKC",
+            "station_name": "MAKSI JUNCTION"
+        },
+        {
+            "arrival_time": "10:33",
+            "day_of_journey": 2,
+            "departure_time": "10:36",
+            "distance_km": 1354.0,
+            "sequence_number": 40,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "11:41",
+            "day_of_journey": 2,
+            "departure_time": "11:43",
+            "distance_km": 1412.0,
+            "sequence_number": 41,
+            "station_code": "DZA",
+            "station_name": "DASUYA"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 2,
+            "departure_time": "12:00",
+            "distance_km": 1427.0,
+            "sequence_number": 42,
+            "station_code": "MEX",
+            "station_name": "MUKERIAN"
+        },
+        {
+            "arrival_time": "12:27",
+            "day_of_journey": 2,
+            "departure_time": "12:30",
+            "distance_km": 1467.0,
+            "sequence_number": 43,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "13:08",
+            "day_of_journey": 2,
+            "departure_time": "13:10",
+            "distance_km": 1490.0,
+            "sequence_number": 44,
+            "station_code": "KTHU",
+            "station_name": "KATHUA"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 2,
+            "departure_time": "14:35",
+            "distance_km": 1566.0,
+            "sequence_number": 45,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "15:19",
+            "day_of_journey": 2,
+            "departure_time": "15:21",
+            "distance_km": 1610.0,
+            "sequence_number": 46,
+            "station_code": "RMJK",
+            "station_name": "RAM NAGAR"
+        },
+        {
+            "arrival_time": "15:43",
+            "day_of_journey": 2,
+            "departure_time": "15:45",
+            "distance_km": 1619.0,
+            "sequence_number": 47,
+            "station_code": "MCTM",
+            "station_name": "MARTYR CAPTAIN TUSHAR MAHAJAN"
+        },
+        {
+            "arrival_time": "15:58",
+            "day_of_journey": 2,
+            "departure_time": "16:00",
+            "distance_km": 1629.0,
+            "sequence_number": 48,
+            "station_code": "CRWL",
+            "station_name": "CHAKRAKWALA"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1644.0,
+            "sequence_number": 49,
+            "station_code": "SVDK",
+            "station_name": "SHRI MATA VAISHNO DEVI KATRA"
+        }
+    ],
+    "train_name": "MALWA EXPRESS",
+    "train_number": "12919",
+    "type": "SUPERFAST"
+}

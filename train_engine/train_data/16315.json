@@ -1,0 +1,116 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16315.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16315-MYS-TVCN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        },
+        {
+            "arrival_time": "13:20",
+            "day_of_journey": 1,
+            "departure_time": "13:22",
+            "distance_km": 45.0,
+            "sequence_number": 2,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "13:37",
+            "day_of_journey": 1,
+            "departure_time": "13:38",
+            "distance_km": 65.0,
+            "sequence_number": 3,
+            "station_code": "MAD",
+            "station_name": "MADDUR"
+        },
+        {
+            "arrival_time": "14:02",
+            "day_of_journey": 1,
+            "departure_time": "14:04",
+            "distance_km": 94.0,
+            "sequence_number": 4,
+            "station_code": "RMGM",
+            "station_name": "RAMANAGARAM"
+        },
+        {
+            "arrival_time": "14:29",
+            "day_of_journey": 1,
+            "departure_time": "14:31",
+            "distance_km": 126.0,
+            "sequence_number": 5,
+            "station_code": "KGI",
+            "station_name": "KENGERI"
+        },
+        {
+            "arrival_time": "16:25",
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 138.0,
+            "sequence_number": 6,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 2,
+            "departure_time": "05:46",
+            "distance_km": 852.0,
+            "sequence_number": 24,
+            "station_code": "HAD",
+            "station_name": "HARIPAD"
+        },
+        {
+            "arrival_time": "06:13",
+            "day_of_journey": 2,
+            "departure_time": "06:15",
+            "distance_km": 865.0,
+            "sequence_number": 25,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "07:22",
+            "day_of_journey": 2,
+            "departure_time": "07:25",
+            "distance_km": 906.0,
+            "sequence_number": 26,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 964.0,
+            "sequence_number": 27,
+            "station_code": "TVCN",
+            "station_name": "THIRUVANANTHAPURAM NORTH"
+        }
+    ],
+    "train_name": "MYS TVCN EXP",
+    "train_number": "16315",
+    "type": "MAIL EXPRESS"
+}

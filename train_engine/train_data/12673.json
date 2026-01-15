@@ -1,0 +1,115 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12673.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12673-MAS-CBE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        },
+        {
+            "arrival_time": "22:53",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 69.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "23:43",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 130.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "01:13",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 214.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "02:42",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 339.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 398.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "04:33",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 448.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "05:29",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 496.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "CBF",
+            "station_name": "COIMBATORE NORTH JN."
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 499.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        }
+    ],
+    "train_name": "CHERAN SF EXP",
+    "train_number": "12673",
+    "type": "SUPERFAST "
+}

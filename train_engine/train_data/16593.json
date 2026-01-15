@@ -1,0 +1,214 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16593.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16593-SBC-NED",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "23:31",
+            "day_of_journey": 1,
+            "departure_time": "23:32",
+            "distance_km": 4.0,
+            "sequence_number": 2,
+            "station_code": "BNC",
+            "station_name": "BANGALORE CANT"
+        },
+        {
+            "arrival_time": "00:04",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 27.0,
+            "sequence_number": 3,
+            "station_code": "YNK",
+            "station_name": "YELAHANKA JN."
+        },
+        {
+            "arrival_time": "00:22",
+            "day_of_journey": 2,
+            "departure_time": "00:23",
+            "distance_km": 48.0,
+            "sequence_number": 4,
+            "station_code": "DBU",
+            "station_name": "DODBALLAPUR"
+        },
+        {
+            "arrival_time": "00:54",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 87.0,
+            "sequence_number": 5,
+            "station_code": "GBD",
+            "station_name": "GAURIBIDANUR"
+        },
+        {
+            "arrival_time": "01:12",
+            "day_of_journey": 2,
+            "departure_time": "01:13",
+            "distance_km": 110.0,
+            "sequence_number": 6,
+            "station_code": "HUP",
+            "station_name": "HINDUPUR"
+        },
+        {
+            "arrival_time": "11:24",
+            "day_of_journey": 2,
+            "departure_time": "11:25",
+            "distance_km": 572.0,
+            "sequence_number": 24,
+            "station_code": "SEM",
+            "station_name": "SEDAM"
+        },
+        {
+            "arrival_time": "11:54",
+            "day_of_journey": 2,
+            "departure_time": "11:55",
+            "distance_km": 605.0,
+            "sequence_number": 25,
+            "station_code": "TDU",
+            "station_name": "TANDUR"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 2,
+            "departure_time": "12:50",
+            "distance_km": 648.0,
+            "sequence_number": 26,
+            "station_code": "VKB",
+            "station_name": "VIKARABAD JN"
+        },
+        {
+            "arrival_time": "13:59",
+            "day_of_journey": 2,
+            "departure_time": "14:00",
+            "distance_km": 707.0,
+            "sequence_number": 27,
+            "station_code": "ZB",
+            "station_name": "ZAHIRABAD"
+        },
+        {
+            "arrival_time": "14:33",
+            "day_of_journey": 2,
+            "departure_time": "14:35",
+            "distance_km": 739.0,
+            "sequence_number": 28,
+            "station_code": "BIDR",
+            "station_name": "BIDAR"
+        },
+        {
+            "arrival_time": "15:09",
+            "day_of_journey": 2,
+            "departure_time": "15:10",
+            "distance_km": 776.0,
+            "sequence_number": 29,
+            "station_code": "BHLK",
+            "station_name": "BHALKI"
+        },
+        {
+            "arrival_time": "15:34",
+            "day_of_journey": 2,
+            "departure_time": "15:35",
+            "distance_km": 800.0,
+            "sequence_number": 30,
+            "station_code": "KMNR",
+            "station_name": "KAMALNAGAR"
+        },
+        {
+            "arrival_time": "15:49",
+            "day_of_journey": 2,
+            "departure_time": "15:50",
+            "distance_km": 819.0,
+            "sequence_number": 31,
+            "station_code": "UDGR",
+            "station_name": "UDGIR"
+        },
+        {
+            "arrival_time": "16:49",
+            "day_of_journey": 2,
+            "departure_time": "16:50",
+            "distance_km": 853.0,
+            "sequence_number": 32,
+            "station_code": "LTRR",
+            "station_name": "LATUR ROAD"
+        },
+        {
+            "arrival_time": "17:24",
+            "day_of_journey": 2,
+            "departure_time": "17:25",
+            "distance_km": 880.0,
+            "sequence_number": 33,
+            "station_code": "PNF",
+            "station_name": "PANGAON"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 2,
+            "departure_time": "18:30",
+            "distance_km": 916.0,
+            "sequence_number": 34,
+            "station_code": "Point(2)",
+            "station_name": "PARLI VAIJNATH PRLI Train Reversal"
+        },
+        {
+            "arrival_time": "19:04",
+            "day_of_journey": 2,
+            "departure_time": "19:05",
+            "distance_km": 945.0,
+            "sequence_number": 35,
+            "station_code": "GNH",
+            "station_name": "GANGAKHER"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 2,
+            "departure_time": "21:00",
+            "distance_km": 979.0,
+            "sequence_number": 36,
+            "station_code": "PBN",
+            "station_name": "PARBHANI JN"
+        },
+        {
+            "arrival_time": "21:58",
+            "day_of_journey": 2,
+            "departure_time": "22:00",
+            "distance_km": 1008.0,
+            "sequence_number": 37,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1038.0,
+            "sequence_number": 38,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        }
+    ],
+    "train_name": "SBC NANDED EXP",
+    "train_number": "16593",
+    "type": "MAIL EXPRESS"
+}

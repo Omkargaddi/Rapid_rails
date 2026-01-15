@@ -1,0 +1,150 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18632.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "18632-CPU-RNC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CPU",
+            "station_name": "CHOPAN"
+        },
+        {
+            "arrival_time": "08:52",
+            "day_of_journey": 1,
+            "departure_time": "08:54",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "RNQ",
+            "station_name": "RENUKUT"
+        },
+        {
+            "arrival_time": "09:20",
+            "day_of_journey": 1,
+            "departure_time": "09:22",
+            "distance_km": 63.0,
+            "sequence_number": 3,
+            "station_code": "DXN",
+            "station_name": "DUDDHINAGAR"
+        },
+        {
+            "arrival_time": "09:49",
+            "day_of_journey": 1,
+            "departure_time": "09:51",
+            "distance_km": 97.0,
+            "sequence_number": 4,
+            "station_code": "NUQ",
+            "station_name": "NAGAR UNTARI"
+        },
+        {
+            "arrival_time": "10:01",
+            "day_of_journey": 1,
+            "departure_time": "10:03",
+            "distance_km": 109.0,
+            "sequence_number": 5,
+            "station_code": "RMF",
+            "station_name": "RAMNA"
+        },
+        {
+            "arrival_time": "10:22",
+            "day_of_journey": 1,
+            "departure_time": "10:24",
+            "distance_km": 131.0,
+            "sequence_number": 6,
+            "station_code": "GHQ",
+            "station_name": "GARHWA"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 1,
+            "departure_time": "10:50",
+            "distance_km": 141.0,
+            "sequence_number": 7,
+            "station_code": "GHD",
+            "station_name": "GARWA ROAD JN"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 1,
+            "departure_time": "11:17",
+            "distance_km": 175.0,
+            "sequence_number": 8,
+            "station_code": "DTO",
+            "station_name": "DALTONGANJ"
+        },
+        {
+            "arrival_time": "11:44",
+            "day_of_journey": 1,
+            "departure_time": "11:49",
+            "distance_km": 202.0,
+            "sequence_number": 9,
+            "station_code": "BRWD",
+            "station_name": "BARWADIH JN"
+        },
+        {
+            "arrival_time": "12:16",
+            "day_of_journey": 1,
+            "departure_time": "12:18",
+            "distance_km": 243.0,
+            "sequence_number": 10,
+            "station_code": "LTHR",
+            "station_name": "LATEHAR"
+        },
+        {
+            "arrival_time": "13:33",
+            "day_of_journey": 1,
+            "departure_time": "13:35",
+            "distance_km": 275.0,
+            "sequence_number": 11,
+            "station_code": "TORI",
+            "station_name": "TORI"
+        },
+        {
+            "arrival_time": "14:15",
+            "day_of_journey": 1,
+            "departure_time": "14:17",
+            "distance_km": 319.0,
+            "sequence_number": 12,
+            "station_code": "LAD",
+            "station_name": "LOHARDAGA BS"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 1,
+            "departure_time": "15:06",
+            "distance_km": 373.0,
+            "sequence_number": 13,
+            "station_code": "PIS",
+            "station_name": "PISKA FS"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 386.0,
+            "sequence_number": 14,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        }
+    ],
+    "train_name": "CPU RNC EXP",
+    "train_number": "18632",
+    "type": "MAIL EXPRESS"
+}

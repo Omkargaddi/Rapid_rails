@@ -1,0 +1,186 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16306.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16306-CAN-ERS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "15:08",
+            "day_of_journey": 1,
+            "departure_time": "15:09",
+            "distance_km": 21.0,
+            "sequence_number": 2,
+            "station_code": "TLY",
+            "station_name": "THALASSERY"
+        },
+        {
+            "arrival_time": "15:17",
+            "day_of_journey": 1,
+            "departure_time": "15:18",
+            "distance_km": 30.0,
+            "sequence_number": 3,
+            "station_code": "MAHE",
+            "station_name": "MAHE"
+        },
+        {
+            "arrival_time": "15:29",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 43.0,
+            "sequence_number": 4,
+            "station_code": "BDJ",
+            "station_name": "VADAKARA"
+        },
+        {
+            "arrival_time": "16:07",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 89.0,
+            "sequence_number": 5,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "16:34",
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 115.0,
+            "sequence_number": 6,
+            "station_code": "PGI",
+            "station_name": "PARPANANGADI"
+        },
+        {
+            "arrival_time": "16:42",
+            "day_of_journey": 1,
+            "departure_time": "16:43",
+            "distance_km": 123.0,
+            "sequence_number": 7,
+            "station_code": "TA",
+            "station_name": "TANUR"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "16:51",
+            "distance_km": 131.0,
+            "sequence_number": 8,
+            "station_code": "TIR",
+            "station_name": "TIRUR"
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 1,
+            "departure_time": "17:06",
+            "distance_km": 146.0,
+            "sequence_number": 9,
+            "station_code": "KTU",
+            "station_name": "KUTTIPPURAM"
+        },
+        {
+            "arrival_time": "17:22",
+            "day_of_journey": 1,
+            "departure_time": "17:23",
+            "distance_km": 164.0,
+            "sequence_number": 10,
+            "station_code": "PTB",
+            "station_name": "PATTAMBI"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 176.0,
+            "sequence_number": 11,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "18:33",
+            "day_of_journey": 1,
+            "departure_time": "18:35",
+            "distance_km": 210.0,
+            "sequence_number": 12,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 1,
+            "departure_time": "18:59",
+            "distance_km": 234.0,
+            "sequence_number": 13,
+            "station_code": "IJK",
+            "station_name": "IRINJALAKUDA"
+        },
+        {
+            "arrival_time": "19:06",
+            "day_of_journey": 1,
+            "departure_time": "19:07",
+            "distance_km": 240.0,
+            "sequence_number": 14,
+            "station_code": "CKI",
+            "station_name": "CHALAKUDI"
+        },
+        {
+            "arrival_time": "19:22",
+            "day_of_journey": 1,
+            "departure_time": "19:23",
+            "distance_km": 255.0,
+            "sequence_number": 15,
+            "station_code": "AFK",
+            "station_name": "ANGAMALI"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 264.0,
+            "sequence_number": 16,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 281.0,
+            "sequence_number": 17,
+            "station_code": "ERN",
+            "station_name": "ERNAKULAM TOWN"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 284.0,
+            "sequence_number": 18,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        }
+    ],
+    "train_name": "CAN ERS EXP",
+    "train_number": "16306",
+    "type": "MAIL EXPRESS"
+}

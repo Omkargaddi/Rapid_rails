@@ -1,0 +1,134 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22511.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22511-LTT-KYQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "13:52",
+            "day_of_journey": 1,
+            "departure_time": "13:55",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "16:58",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 244.0,
+            "sequence_number": 3,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 428.0,
+            "sequence_number": 4,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "21:19",
+            "day_of_journey": 1,
+            "departure_time": "21:22",
+            "distance_km": 568.0,
+            "sequence_number": 5,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 821.0,
+            "sequence_number": 6,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 3,
+            "departure_time": "05:00",
+            "distance_km": 2512.0,
+            "sequence_number": 24,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "05:43",
+            "day_of_journey": 3,
+            "departure_time": "05:45",
+            "distance_km": 2519.0,
+            "sequence_number": 25,
+            "station_code": "SGUJ",
+            "station_name": "SILIGURI JN"
+        },
+        {
+            "arrival_time": "08:28",
+            "day_of_journey": 3,
+            "departure_time": "08:30",
+            "distance_km": 2645.0,
+            "sequence_number": 26,
+            "station_code": "HSA",
+            "station_name": "HASIMARA"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 3,
+            "departure_time": "09:20",
+            "distance_km": 2680.0,
+            "sequence_number": 27,
+            "station_code": "APDJ",
+            "station_name": "ALIPUR DUAR JN"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 3,
+            "departure_time": "11:30",
+            "distance_km": 2792.0,
+            "sequence_number": 28,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "15:35",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2968.0,
+            "sequence_number": 29,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        }
+    ],
+    "train_name": "KARMABHOOMI EXP",
+    "train_number": "22511",
+    "type": "SUPERFAST"
+}

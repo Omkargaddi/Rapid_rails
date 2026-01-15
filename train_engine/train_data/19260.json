@@ -1,0 +1,213 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19260.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "19260-BVC-TVCN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:15",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BVC",
+            "station_name": "BHAVNAGAR TERMINUS"
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 1,
+            "departure_time": "10:39",
+            "distance_km": 20.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "SOJN",
+            "station_name": "SIHOR GUJARAT"
+        },
+        {
+            "arrival_time": "10:53",
+            "day_of_journey": 1,
+            "departure_time": "10:54",
+            "distance_km": 49.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "DLJ",
+            "station_name": "DHOLA JN"
+        },
+        {
+            "arrival_time": "11:32",
+            "day_of_journey": 1,
+            "departure_time": "11:34",
+            "distance_km": 92.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BTD",
+            "station_name": "BOTAD JN"
+        },
+        {
+            "arrival_time": "12:26",
+            "day_of_journey": 1,
+            "departure_time": "12:27",
+            "distance_km": 164.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "JVN",
+            "station_name": "JORAWARNAGAR JN"
+        },
+        {
+            "arrival_time": "15:15",
+            "day_of_journey": 1,
+            "departure_time": "15:25",
+            "distance_km": 298.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "16:23",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 344.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "16:41",
+            "day_of_journey": 1,
+            "departure_time": "16:43",
+            "distance_km": 362.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "17:17",
+            "day_of_journey": 1,
+            "departure_time": "17:22",
+            "distance_km": 397.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "18:24",
+            "day_of_journey": 1,
+            "departure_time": "18:26",
+            "distance_km": 476.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "AKV",
+            "station_name": "ANKLESHWAR JN"
+        },
+        {
+            "arrival_time": "19:24",
+            "day_of_journey": 1,
+            "departure_time": "19:34",
+            "distance_km": 526.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "22:25",
+            "day_of_journey": 1,
+            "departure_time": "22:30",
+            "distance_km": 741.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "22:55",
+            "day_of_journey": 2,
+            "departure_time": "23:00",
+            "distance_km": 2056.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "ERN",
+            "station_name": "ERNAKULAM TOWN"
+        },
+        {
+            "arrival_time": "00:07",
+            "day_of_journey": 3,
+            "departure_time": "00:10",
+            "distance_km": 2115.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "KTYM",
+            "station_name": "KOTTAYAM"
+        },
+        {
+            "arrival_time": "00:39",
+            "day_of_journey": 3,
+            "departure_time": "00:40",
+            "distance_km": 2141.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "TRVL",
+            "station_name": "TIRUVALLA"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 3,
+            "departure_time": "00:52",
+            "distance_km": 2150.0,
+            "platform": null,
+            "sequence_number": 39,
+            "station_code": "CNGR",
+            "station_name": "CHENGANNUR"
+        },
+        {
+            "arrival_time": "01:13",
+            "day_of_journey": 3,
+            "departure_time": "01:15",
+            "distance_km": 2170.0,
+            "platform": null,
+            "sequence_number": 40,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "01:57",
+            "day_of_journey": 3,
+            "departure_time": "02:00",
+            "distance_km": 2211.0,
+            "platform": null,
+            "sequence_number": 41,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2269.0,
+            "platform": null,
+            "sequence_number": 42,
+            "station_code": "TVCN",
+            "station_name": "THIRUVANANTHAPURAM NORTH"
+        }
+    ],
+    "train_name": "BVC KCVL EXP",
+    "train_number": "19260",
+    "type": "MAIL EXPRESS "
+}

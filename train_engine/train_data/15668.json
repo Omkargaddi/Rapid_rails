@@ -1,0 +1,196 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15668.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "15668-KYQ-GIMB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 1,
+            "departure_time": "12:37",
+            "distance_km": 124.0,
+            "sequence_number": 2,
+            "station_code": "GLPT",
+            "station_name": "GOALPARA TOWN"
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 176.0,
+            "sequence_number": 3,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 1,
+            "departure_time": "14:32",
+            "distance_km": 207.0,
+            "sequence_number": 4,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 285.0,
+            "sequence_number": 5,
+            "station_code": "NOQ",
+            "station_name": "NEW ALIPURDUAR"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "15:55",
+            "distance_km": 304.0,
+            "sequence_number": 6,
+            "station_code": "NCB",
+            "station_name": "NEW COOCH BEHAR"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 3,
+            "departure_time": "03:02",
+            "distance_km": 2018.0,
+            "sequence_number": 24,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 3,
+            "departure_time": "04:25",
+            "distance_km": 2126.0,
+            "sequence_number": 25,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "07:45",
+            "day_of_journey": 3,
+            "departure_time": "07:55",
+            "distance_km": 2392.0,
+            "sequence_number": 26,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "09:17",
+            "day_of_journey": 3,
+            "departure_time": "09:19",
+            "distance_km": 2505.0,
+            "sequence_number": 27,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "11:16",
+            "day_of_journey": 3,
+            "departure_time": "11:21",
+            "distance_km": 2643.0,
+            "sequence_number": 28,
+            "station_code": "CYI",
+            "station_name": "CHHAYAPURI"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 3,
+            "departure_time": "13:50",
+            "distance_km": 2738.0,
+            "sequence_number": 29,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "14:54",
+            "day_of_journey": 3,
+            "departure_time": "14:56",
+            "distance_km": 2804.0,
+            "sequence_number": 30,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "16:01",
+            "day_of_journey": 3,
+            "departure_time": "16:03",
+            "distance_km": 2868.0,
+            "sequence_number": 31,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "17:07",
+            "day_of_journey": 3,
+            "departure_time": "17:12",
+            "distance_km": 2943.0,
+            "sequence_number": 32,
+            "station_code": "WKR",
+            "station_name": "WANKANER JN"
+        },
+        {
+            "arrival_time": "17:50",
+            "day_of_journey": 3,
+            "departure_time": "17:55",
+            "distance_km": 2971.0,
+            "sequence_number": 33,
+            "station_code": "MVI",
+            "station_name": "MORBI"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 3,
+            "departure_time": "20:02",
+            "distance_km": 3059.0,
+            "sequence_number": 34,
+            "station_code": "SIOB",
+            "station_name": "SAMAKHIALI B G"
+        },
+        {
+            "arrival_time": "20:18",
+            "day_of_journey": 3,
+            "departure_time": "20:20",
+            "distance_km": 3075.0,
+            "sequence_number": 35,
+            "station_code": "BCOB",
+            "station_name": "BHACHAU BG"
+        },
+        {
+            "arrival_time": "21:20",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 3112.0,
+            "sequence_number": 36,
+            "station_code": "GIMB",
+            "station_name": "GANDHIDHAM BG"
+        }
+    ],
+    "train_name": "KYQ GIMB EXP",
+    "train_number": "15668",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19410.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "19410-THE-SBIB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "01:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "THE",
+            "station_name": "THAWE JN"
+        },
+        {
+            "arrival_time": "01:43",
+            "day_of_journey": 1,
+            "departure_time": "01:45",
+            "distance_km": 36.0,
+            "sequence_number": 2,
+            "station_code": "TOI",
+            "station_name": "TAMKUHI ROAD"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 1,
+            "departure_time": "02:32",
+            "distance_km": 68.0,
+            "sequence_number": 3,
+            "station_code": "POU",
+            "station_name": "PADRAUNA"
+        },
+        {
+            "arrival_time": "03:30",
+            "day_of_journey": 1,
+            "departure_time": "03:32",
+            "distance_km": 99.0,
+            "sequence_number": 4,
+            "station_code": "CPJ",
+            "station_name": "KAPTANGANJ JN"
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 1,
+            "departure_time": "04:55",
+            "distance_km": 139.0,
+            "sequence_number": 5,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "05:32",
+            "day_of_journey": 1,
+            "departure_time": "05:34",
+            "distance_km": 173.0,
+            "sequence_number": 6,
+            "station_code": "KLD",
+            "station_name": "KHALILABAD"
+        },
+        {
+            "arrival_time": "23:34",
+            "day_of_journey": 1,
+            "departure_time": "23:36",
+            "distance_km": 1024.0,
+            "sequence_number": 24,
+            "station_code": "DO",
+            "station_name": "DAUSA JUNCTION"
+        },
+        {
+            "arrival_time": "00:13",
+            "day_of_journey": 2,
+            "departure_time": "00:16",
+            "distance_km": 1080.0,
+            "sequence_number": 25,
+            "station_code": "GADJ",
+            "station_name": "GANDHINAGAR JAIPUR"
+        },
+        {
+            "arrival_time": "00:35",
+            "day_of_journey": 2,
+            "departure_time": "00:45",
+            "distance_km": 1085.0,
+            "sequence_number": 26,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "01:58",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 1194.0,
+            "sequence_number": 27,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "02:40",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 1219.0,
+            "sequence_number": 28,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "05:16",
+            "day_of_journey": 2,
+            "departure_time": "05:18",
+            "distance_km": 1426.0,
+            "sequence_number": 29,
+            "station_code": "FA",
+            "station_name": "FALNA"
+        },
+        {
+            "arrival_time": "05:54",
+            "day_of_journey": 2,
+            "departure_time": "05:56",
+            "distance_km": 1480.0,
+            "sequence_number": 30,
+            "station_code": "PDWA",
+            "station_name": "PINDWARA"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 1524.0,
+            "sequence_number": 31,
+            "station_code": "ABR",
+            "station_name": "ABU ROAD"
+        },
+        {
+            "arrival_time": "07:40",
+            "day_of_journey": 2,
+            "departure_time": "07:42",
+            "distance_km": 1577.0,
+            "sequence_number": 32,
+            "station_code": "PNU",
+            "station_name": "PALANPUR JN"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 2,
+            "departure_time": "08:32",
+            "distance_km": 1642.0,
+            "sequence_number": 33,
+            "station_code": "MSH",
+            "station_name": "MAHESANA JN"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1704.0,
+            "sequence_number": 34,
+            "station_code": "SBIB",
+            "station_name": "SABARMATI BG"
+        }
+    ],
+    "train_name": "GKP ADI EXP",
+    "train_number": "19410",
+    "type": "MAIL EXPRESS"
+}

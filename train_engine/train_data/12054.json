@@ -1,0 +1,132 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12054.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12054-ASR-HW",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        },
+        {
+            "arrival_time": "07:18",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 42.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "07:57",
+            "day_of_journey": 1,
+            "departure_time": "08:02",
+            "distance_km": 79.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 1,
+            "departure_time": "08:22",
+            "distance_km": 100.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "PGW",
+            "station_name": "PHAGWARA JN"
+        },
+        {
+            "arrival_time": "09:15",
+            "day_of_journey": 1,
+            "departure_time": "09:20",
+            "distance_km": 143.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "DDL",
+            "station_name": "DHANDARI KALAN"
+        },
+        {
+            "arrival_time": "09:58",
+            "day_of_journey": 1,
+            "departure_time": "10:00",
+            "distance_km": 196.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "SIR",
+            "station_name": "SIRHIND JN"
+        },
+        {
+            "arrival_time": "10:55",
+            "day_of_journey": 1,
+            "departure_time": "11:04",
+            "distance_km": 249.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "11:41",
+            "day_of_journey": 1,
+            "departure_time": "11:43",
+            "distance_km": 300.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "12:13",
+            "day_of_journey": 1,
+            "departure_time": "12:18",
+            "distance_km": 330.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "12:59",
+            "day_of_journey": 1,
+            "departure_time": "13:04",
+            "distance_km": 365.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 406.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        }
+    ],
+    "train_name": "HW JANSHATABDI",
+    "train_number": "12054",
+    "type": "JAN SHATABDI "
+}

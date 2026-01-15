@@ -1,0 +1,132 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15107.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15107-BNRS-LKO",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BNRS",
+            "station_name": "BANARAS"
+        },
+        {
+            "arrival_time": "05:28",
+            "day_of_journey": 1,
+            "departure_time": "05:29",
+            "distance_km": 24.0,
+            "sequence_number": 2,
+            "station_code": "SWPR",
+            "station_name": "SEWAPURI"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 1,
+            "departure_time": "05:50",
+            "distance_km": 46.0,
+            "sequence_number": 3,
+            "station_code": "BOY",
+            "station_name": "BHADOHI"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 76.0,
+            "sequence_number": 4,
+            "station_code": "JNH",
+            "station_name": "JANGHAI JN"
+        },
+        {
+            "arrival_time": "06:49",
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 93.0,
+            "sequence_number": 5,
+            "station_code": "BSE",
+            "station_name": "BADSHAHPUR"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 1,
+            "departure_time": "07:35",
+            "distance_km": 130.0,
+            "sequence_number": 6,
+            "station_code": "MBDP",
+            "station_name": "MAA BELHA DEVI DHAM PRATAPGARH"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 1,
+            "departure_time": "07:59",
+            "distance_km": 150.0,
+            "sequence_number": 7,
+            "station_code": "MCDA",
+            "station_name": "MAA CHANDIKA DEVI DHAM ANTU"
+        },
+        {
+            "arrival_time": "08:11",
+            "day_of_journey": 1,
+            "departure_time": "08:13",
+            "distance_km": 165.0,
+            "sequence_number": 8,
+            "station_code": "AME",
+            "station_name": "AMETHI"
+        },
+        {
+            "arrival_time": "08:26",
+            "day_of_journey": 1,
+            "departure_time": "08:27",
+            "distance_km": 178.0,
+            "sequence_number": 9,
+            "station_code": "GNG",
+            "station_name": "GAURIGANJ"
+        },
+        {
+            "arrival_time": "08:42",
+            "day_of_journey": 1,
+            "departure_time": "08:43",
+            "distance_km": 196.0,
+            "sequence_number": 10,
+            "station_code": "JAIS",
+            "station_name": "JAIS"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 225.0,
+            "sequence_number": 11,
+            "station_code": "RBL",
+            "station_name": "RAE BARELI JN"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 302.0,
+            "sequence_number": 12,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        }
+    ],
+    "train_name": "BNRS LKO EXP",
+    "train_number": "15107",
+    "type": "MAIL EXPRESS"
+}

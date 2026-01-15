@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13402.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13402-DNR-BGP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 10.0,
+            "sequence_number": 2,
+            "station_code": "PNBE",
+            "station_name": "PATNA JN"
+        },
+        {
+            "arrival_time": "16:46",
+            "day_of_journey": 1,
+            "departure_time": "16:48",
+            "distance_km": 12.0,
+            "sequence_number": 3,
+            "station_code": "RJPB",
+            "station_name": "RAJENDRA NAGAR"
+        },
+        {
+            "arrival_time": "16:58",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 20.0,
+            "sequence_number": 4,
+            "station_code": "PNC",
+            "station_name": "PATNA SAHEB"
+        },
+        {
+            "arrival_time": "17:11",
+            "day_of_journey": 1,
+            "departure_time": "17:13",
+            "distance_km": 32.0,
+            "sequence_number": 5,
+            "station_code": "FUT",
+            "station_name": "FATUHA"
+        },
+        {
+            "arrival_time": "17:29",
+            "day_of_journey": 1,
+            "departure_time": "17:31",
+            "distance_km": 55.0,
+            "sequence_number": 6,
+            "station_code": "BKP",
+            "station_name": "BAKHTIYARPUR JN"
+        },
+        {
+            "arrival_time": "21:17",
+            "day_of_journey": 1,
+            "departure_time": "21:18",
+            "distance_km": 193.0,
+            "sequence_number": 24,
+            "station_code": "KPRD",
+            "station_name": "KALYANPUR ROAD"
+        },
+        {
+            "arrival_time": "21:31",
+            "day_of_journey": 1,
+            "departure_time": "21:32",
+            "distance_km": 206.0,
+            "sequence_number": 25,
+            "station_code": "SGG",
+            "station_name": "SULTANGANJ"
+        },
+        {
+            "arrival_time": "21:43",
+            "day_of_journey": 1,
+            "departure_time": "21:44",
+            "distance_km": 216.0,
+            "sequence_number": 26,
+            "station_code": "AKN",
+            "station_name": "AKBARNAGAR"
+        },
+        {
+            "arrival_time": "21:54",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 227.0,
+            "sequence_number": 27,
+            "station_code": "NAT",
+            "station_name": "NATHNAGAR"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 230.0,
+            "sequence_number": 28,
+            "station_code": "BGP",
+            "station_name": "BHAGALPUR"
+        }
+    ],
+    "train_name": "INTERCITY EXP",
+    "train_number": "13402",
+    "type": "MAIL EXPRESS"
+}

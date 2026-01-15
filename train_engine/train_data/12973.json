@@ -1,0 +1,107 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12973.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12973-INDB-JP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        },
+        {
+            "arrival_time": "22:56",
+            "day_of_journey": 1,
+            "departure_time": "22:58",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "DWX",
+            "station_name": "DEWAS"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 82.0,
+            "sequence_number": 3,
+            "station_code": "UJN",
+            "station_name": "UJJAIN JN"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 137.0,
+            "sequence_number": 4,
+            "station_code": "NAD",
+            "station_name": "NAGDA JN"
+        },
+        {
+            "arrival_time": "02:46",
+            "day_of_journey": 2,
+            "departure_time": "02:48",
+            "distance_km": 290.0,
+            "sequence_number": 5,
+            "station_code": "RMA",
+            "station_name": "RAMGANJ MANDI"
+        },
+        {
+            "arrival_time": "03:35",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 362.0,
+            "sequence_number": 6,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 470.0,
+            "sequence_number": 7,
+            "station_code": "Point(2)",
+            "station_name": "SAWAI MADHOPUR JN SWM Train Reversal"
+        },
+        {
+            "arrival_time": "07:17",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 594.0,
+            "sequence_number": 8,
+            "station_code": "DPA",
+            "station_name": "DURGAPURA"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 601.0,
+            "sequence_number": 9,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        }
+    ],
+    "train_name": "INDB JP SF EXP",
+    "train_number": "12973",
+    "type": "SUPERFAST"
+}

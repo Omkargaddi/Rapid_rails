@@ -1,0 +1,99 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12522.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12522-ERS-BJU",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "11:10",
+            "day_of_journey": 1,
+            "departure_time": "11:12",
+            "distance_km": 19.0,
+            "sequence_number": 2,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "11:22",
+            "day_of_journey": 1,
+            "departure_time": "11:23",
+            "distance_km": 29.0,
+            "sequence_number": 3,
+            "station_code": "AFK",
+            "station_name": "ANGAMALI"
+        },
+        {
+            "arrival_time": "11:37",
+            "day_of_journey": 1,
+            "departure_time": "11:38",
+            "distance_km": 44.0,
+            "sequence_number": 4,
+            "station_code": "CKI",
+            "station_name": "CHALAKUDI"
+        },
+        {
+            "arrival_time": "11:47",
+            "day_of_journey": 1,
+            "departure_time": "11:48",
+            "distance_km": 50.0,
+            "sequence_number": 5,
+            "station_code": "IJK",
+            "station_name": "IRINJALAKUDA"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 1,
+            "departure_time": "12:18",
+            "distance_km": 74.0,
+            "sequence_number": 6,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 3,
+            "departure_time": "22:55",
+            "distance_km": 3391.0,
+            "sequence_number": 58,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 4,
+            "departure_time": null,
+            "distance_km": 3442.0,
+            "sequence_number": 59,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        }
+    ],
+    "train_name": "RAPTISAGAR EXP",
+    "train_number": "12522",
+    "type": "SUPERFAST"
+}

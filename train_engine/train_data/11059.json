@@ -1,0 +1,283 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11059.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "11059-LTT-CPR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:55",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "11:13",
+            "day_of_journey": 1,
+            "departure_time": "11:15",
+            "distance_km": 17.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "11:37",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 37.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "14:15",
+            "day_of_journey": 1,
+            "departure_time": "14:20",
+            "distance_km": 171.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "17:30",
+            "day_of_journey": 1,
+            "departure_time": "17:35",
+            "distance_km": 428.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 734.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 979.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 2,
+            "departure_time": "03:50",
+            "distance_km": 1168.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 2,
+            "departure_time": "08:35",
+            "distance_km": 1346.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "09:46",
+            "day_of_journey": 2,
+            "departure_time": "09:48",
+            "distance_km": 1382.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "PLP",
+            "station_name": "PHULPUR"
+        },
+        {
+            "arrival_time": "10:58",
+            "day_of_journey": 2,
+            "departure_time": "11:00",
+            "distance_km": 1405.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "JNH",
+            "station_name": "JANGHAI JN"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 2,
+            "departure_time": "12:00",
+            "distance_km": 1435.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "MAY",
+            "station_name": "MARIAHU"
+        },
+        {
+            "arrival_time": "12:38",
+            "day_of_journey": 2,
+            "departure_time": "12:40",
+            "distance_km": 1453.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "ZBD",
+            "station_name": "ZAFARABAD JN"
+        },
+        {
+            "arrival_time": "13:14",
+            "day_of_journey": 2,
+            "departure_time": "13:16",
+            "distance_km": 1460.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "JNU",
+            "station_name": "JAUNPUR JN"
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 2,
+            "departure_time": "14:50",
+            "distance_km": 1493.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "SHG",
+            "station_name": "SHAHGANJ JN"
+        },
+        {
+            "arrival_time": "15:12",
+            "day_of_journey": 2,
+            "departure_time": "15:14",
+            "distance_km": 1515.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "KRND",
+            "station_name": "KHORASON ROAD"
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 2,
+            "departure_time": "15:27",
+            "distance_km": 1524.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "SMZ",
+            "station_name": "SARAI MIR"
+        },
+        {
+            "arrival_time": "15:55",
+            "day_of_journey": 2,
+            "departure_time": "16:00",
+            "distance_km": 1550.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "AMH",
+            "station_name": "AZAMGARH"
+        },
+        {
+            "arrival_time": "16:16",
+            "day_of_journey": 2,
+            "departure_time": "16:18",
+            "distance_km": 1571.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "MMA",
+            "station_name": "MUHAMMADABAD"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 2,
+            "departure_time": "16:50",
+            "distance_km": 1593.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "MAU",
+            "station_name": "MAU JN"
+        },
+        {
+            "arrival_time": "17:23",
+            "day_of_journey": 2,
+            "departure_time": "17:25",
+            "distance_km": 1628.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "BLTR",
+            "station_name": "BELTHARA ROAD"
+        },
+        {
+            "arrival_time": "17:56",
+            "day_of_journey": 2,
+            "departure_time": "17:58",
+            "distance_km": 1650.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "SRU",
+            "station_name": "SALEMPUR JN"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 2,
+            "departure_time": "18:30",
+            "distance_km": 1661.0,
+            "platform": null,
+            "sequence_number": 23,
+            "station_code": "BTT",
+            "station_name": "BHATNI JN"
+        },
+        {
+            "arrival_time": "19:03",
+            "day_of_journey": 2,
+            "departure_time": "19:05",
+            "distance_km": 1688.0,
+            "platform": null,
+            "sequence_number": 24,
+            "station_code": "MW",
+            "station_name": "MAIRWA"
+        },
+        {
+            "arrival_time": "19:35",
+            "day_of_journey": 2,
+            "departure_time": "19:40",
+            "distance_km": 1709.0,
+            "platform": null,
+            "sequence_number": 25,
+            "station_code": "SV",
+            "station_name": "SIWAN JN"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1770.0,
+            "platform": null,
+            "sequence_number": 26,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        }
+    ],
+    "train_name": "CHHAPRA EXPRESS",
+    "train_number": "11059",
+    "type": "MAIL EXPRESS "
+}

@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13017.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13017-HWH-AZ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "06:29",
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 22.0,
+            "sequence_number": 2,
+            "station_code": "SHE",
+            "station_name": "SEORAPHULI"
+        },
+        {
+            "arrival_time": "06:47",
+            "day_of_journey": 1,
+            "departure_time": "06:49",
+            "distance_km": 39.0,
+            "sequence_number": 3,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 1,
+            "departure_time": "07:37",
+            "distance_km": 107.0,
+            "sequence_number": 4,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "08:13",
+            "day_of_journey": 1,
+            "departure_time": "08:14",
+            "distance_km": 139.0,
+            "sequence_number": 5,
+            "station_code": "GKH",
+            "station_name": "GUSKARA"
+        },
+        {
+            "arrival_time": "08:29",
+            "day_of_journey": 1,
+            "departure_time": "08:31",
+            "distance_km": 158.0,
+            "sequence_number": 6,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "08:37",
+            "day_of_journey": 1,
+            "departure_time": "08:38",
+            "distance_km": 162.0,
+            "sequence_number": 7,
+            "station_code": "PNE",
+            "station_name": "PRANTIK"
+        },
+        {
+            "arrival_time": "08:54",
+            "day_of_journey": 1,
+            "departure_time": "08:55",
+            "distance_km": 177.0,
+            "sequence_number": 8,
+            "station_code": "AMP",
+            "station_name": "AHAMADPUR JN."
+        },
+        {
+            "arrival_time": "09:07",
+            "day_of_journey": 1,
+            "departure_time": "09:08",
+            "distance_km": 191.0,
+            "sequence_number": 9,
+            "station_code": "SNT",
+            "station_name": "SAINTHIA"
+        },
+        {
+            "arrival_time": "09:22",
+            "day_of_journey": 1,
+            "departure_time": "09:23",
+            "distance_km": 206.0,
+            "sequence_number": 10,
+            "station_code": "MLV",
+            "station_name": "MALLARPUR"
+        },
+        {
+            "arrival_time": "09:47",
+            "day_of_journey": 1,
+            "departure_time": "09:57",
+            "distance_km": 218.0,
+            "sequence_number": 11,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "10:23",
+            "day_of_journey": 1,
+            "departure_time": "10:25",
+            "distance_km": 233.0,
+            "sequence_number": 12,
+            "station_code": "NHT",
+            "station_name": "NALHATI JN"
+        },
+        {
+            "arrival_time": "10:43",
+            "day_of_journey": 1,
+            "departure_time": "10:44",
+            "distance_km": 251.0,
+            "sequence_number": 13,
+            "station_code": "MGAE",
+            "station_name": "MORGRAM"
+        },
+        {
+            "arrival_time": "10:52",
+            "day_of_journey": 1,
+            "departure_time": "10:53",
+            "distance_km": 259.0,
+            "sequence_number": 14,
+            "station_code": "SDI",
+            "station_name": "SAGARDIGHI"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 277.0,
+            "sequence_number": 15,
+            "station_code": "AZ",
+            "station_name": "AZIMGANJ JN"
+        }
+    ],
+    "train_name": "GANADEVTA EXP",
+    "train_number": "13017",
+    "type": "MAIL EXPRESS"
+}

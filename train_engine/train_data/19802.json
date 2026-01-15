@@ -1,0 +1,170 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19802.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "19802-DNR-SGAC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DNR",
+            "station_name": "DANAPUR"
+        },
+        {
+            "arrival_time": "13:10",
+            "day_of_journey": 1,
+            "departure_time": "13:12",
+            "distance_km": 39.0,
+            "sequence_number": 2,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "13:56",
+            "day_of_journey": 1,
+            "departure_time": "13:58",
+            "distance_km": 108.0,
+            "sequence_number": 3,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "15:58",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 198.0,
+            "sequence_number": 4,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "17:10",
+            "day_of_journey": 1,
+            "departure_time": "17:12",
+            "distance_km": 268.0,
+            "sequence_number": 5,
+            "station_code": "BDL",
+            "station_name": "VINDHYACHAL"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 1,
+            "departure_time": "18:22",
+            "distance_km": 342.0,
+            "sequence_number": 6,
+            "station_code": "PCOI",
+            "station_name": "PRAYAGRAJ CHHEOKI"
+        },
+        {
+            "arrival_time": "20:53",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 434.0,
+            "sequence_number": 7,
+            "station_code": "MKP",
+            "station_name": "MANIKPUR JN"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 512.0,
+            "sequence_number": 8,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "22:23",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 547.0,
+            "sequence_number": 9,
+            "station_code": "MYR",
+            "station_name": "MAIHAR"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:50",
+            "distance_km": 612.0,
+            "sequence_number": 10,
+            "station_code": "KMZ",
+            "station_name": "KATNI MURWARA"
+        },
+        {
+            "arrival_time": "01:08",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 720.0,
+            "sequence_number": 11,
+            "station_code": "DMO",
+            "station_name": "DAMOH"
+        },
+        {
+            "arrival_time": "02:08",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 797.0,
+            "sequence_number": 12,
+            "station_code": "SGO",
+            "station_name": "SAUGOR"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 984.0,
+            "sequence_number": 13,
+            "station_code": "GUNA",
+            "station_name": "GUNA"
+        },
+        {
+            "arrival_time": "07:53",
+            "day_of_journey": 2,
+            "departure_time": "07:55",
+            "distance_km": 1004.0,
+            "sequence_number": 14,
+            "station_code": "RTA",
+            "station_name": "RUTHIYAI JUNCTION"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 2,
+            "departure_time": "09:10",
+            "distance_km": 1102.0,
+            "sequence_number": 15,
+            "station_code": "BAZ",
+            "station_name": "BARAN"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1166.0,
+            "sequence_number": 16,
+            "station_code": "SGAC",
+            "station_name": "SOGARIYA"
+        }
+    ],
+    "train_name": "DNR SGAC EXP",
+    "train_number": "19802",
+    "type": "MAIL EXPRESS"
+}

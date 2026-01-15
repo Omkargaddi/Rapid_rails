@@ -1,0 +1,111 @@
+{
+    "classes_available": [
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16216.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16216-SBC-MYS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "18:39",
+            "day_of_journey": 1,
+            "departure_time": "18:40",
+            "distance_km": 12.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "KGI",
+            "station_name": "KENGERI"
+        },
+        {
+            "arrival_time": "18:54",
+            "day_of_journey": 1,
+            "departure_time": "18:55",
+            "distance_km": 30.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BID",
+            "station_name": "BIDADI"
+        },
+        {
+            "arrival_time": "19:05",
+            "day_of_journey": 1,
+            "departure_time": "19:06",
+            "distance_km": 44.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "RMGM",
+            "station_name": "RAMANAGARAM"
+        },
+        {
+            "arrival_time": "19:16",
+            "day_of_journey": 1,
+            "departure_time": "19:17",
+            "distance_km": 55.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "CPT",
+            "station_name": "CHANNAPATNA"
+        },
+        {
+            "arrival_time": "19:32",
+            "day_of_journey": 1,
+            "departure_time": "19:33",
+            "distance_km": 74.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "MAD",
+            "station_name": "MADDUR"
+        },
+        {
+            "arrival_time": "19:49",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 93.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "20:10",
+            "day_of_journey": 1,
+            "departure_time": "20:11",
+            "distance_km": 119.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "PANP",
+            "station_name": "PANDAVAPURA"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 138.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        }
+    ],
+    "train_name": "CHAMUNDI EXP",
+    "train_number": "16216",
+    "type": "MAIL EXPRESS "
+}

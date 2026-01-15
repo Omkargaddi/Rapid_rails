@@ -1,0 +1,297 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13150.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13150-APDJ-SDAH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "APDJ",
+            "station_name": "ALIPUR DUAR JN"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": "16:02",
+            "distance_km": 26.0,
+            "sequence_number": 2,
+            "station_code": "HOJ",
+            "station_name": "HAMITONGANJ"
+        },
+        {
+            "arrival_time": "16:13",
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 35.0,
+            "sequence_number": 3,
+            "station_code": "HSA",
+            "station_name": "HASIMARA"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 1,
+            "departure_time": "16:32",
+            "distance_km": 45.0,
+            "sequence_number": 4,
+            "station_code": "MDT",
+            "station_name": "MADARIHAT"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "16:52",
+            "distance_km": 60.0,
+            "sequence_number": 5,
+            "station_code": "DLO",
+            "station_name": "DALGAON"
+        },
+        {
+            "arrival_time": "17:10",
+            "day_of_journey": 1,
+            "departure_time": "17:12",
+            "distance_km": 74.0,
+            "sequence_number": 6,
+            "station_code": "BNQ",
+            "station_name": "BANARHAT"
+        },
+        {
+            "arrival_time": "17:58",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 113.0,
+            "sequence_number": 7,
+            "station_code": "NMZ",
+            "station_name": "NEW MAL JN"
+        },
+        {
+            "arrival_time": "19:50",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 161.0,
+            "sequence_number": 8,
+            "station_code": "SGUJ",
+            "station_name": "SILIGURI JN"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": "20:27",
+            "distance_km": 171.0,
+            "sequence_number": 9,
+            "station_code": "BORA",
+            "station_name": "BAGHDOGRA"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 184.0,
+            "sequence_number": 10,
+            "station_code": "NAK",
+            "station_name": "NAKSALBARI"
+        },
+        {
+            "arrival_time": "21:04",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 205.0,
+            "sequence_number": 11,
+            "station_code": "GAGA",
+            "station_name": "GALGALIA"
+        },
+        {
+            "arrival_time": "21:17",
+            "day_of_journey": 1,
+            "departure_time": "21:19",
+            "distance_km": 217.0,
+            "sequence_number": 12,
+            "station_code": "TKG",
+            "station_name": "THAKURGANJ"
+        },
+        {
+            "arrival_time": "21:38",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 237.0,
+            "sequence_number": 13,
+            "station_code": "AUB",
+            "station_name": "ALUABARI ROAD"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 268.0,
+            "sequence_number": 14,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:32",
+            "distance_km": 296.0,
+            "sequence_number": 15,
+            "station_code": "DLK",
+            "station_name": "DALKOLHA"
+        },
+        {
+            "arrival_time": "22:58",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 325.0,
+            "sequence_number": 16,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "23:28",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 352.0,
+            "sequence_number": 17,
+            "station_code": "KDPR",
+            "station_name": "KUMEDPUR"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:42",
+            "distance_km": 358.0,
+            "sequence_number": 18,
+            "station_code": "HCR",
+            "station_name": "HARISCHANDRPUR"
+        },
+        {
+            "arrival_time": "23:55",
+            "day_of_journey": 1,
+            "departure_time": "23:57",
+            "distance_km": 368.0,
+            "sequence_number": 19,
+            "station_code": "BKRD",
+            "station_name": "BHALUKA ROAD F"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 413.0,
+            "sequence_number": 20,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "01:42",
+            "day_of_journey": 2,
+            "departure_time": "01:47",
+            "distance_km": 448.0,
+            "sequence_number": 21,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 2,
+            "departure_time": "02:27",
+            "distance_km": 481.0,
+            "sequence_number": 22,
+            "station_code": "PKR",
+            "station_name": "PAKAUR"
+        },
+        {
+            "arrival_time": "03:14",
+            "day_of_journey": 2,
+            "departure_time": "03:19",
+            "distance_km": 536.0,
+            "sequence_number": 23,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "03:41",
+            "day_of_journey": 2,
+            "departure_time": "03:43",
+            "distance_km": 563.0,
+            "sequence_number": 24,
+            "station_code": "SNT",
+            "station_name": "SAINTHIA"
+        },
+        {
+            "arrival_time": "03:56",
+            "day_of_journey": 2,
+            "departure_time": "03:58",
+            "distance_km": 577.0,
+            "sequence_number": 25,
+            "station_code": "AMP",
+            "station_name": "AHAMADPUR JN."
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 596.0,
+            "sequence_number": 26,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "05:26",
+            "day_of_journey": 2,
+            "departure_time": "05:28",
+            "distance_km": 647.0,
+            "sequence_number": 27,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "06:11",
+            "day_of_journey": 2,
+            "departure_time": "06:12",
+            "distance_km": 709.0,
+            "sequence_number": 28,
+            "station_code": "KQU",
+            "station_name": "KAMARKUNDU"
+        },
+        {
+            "arrival_time": "07:08",
+            "day_of_journey": 2,
+            "departure_time": "07:10",
+            "distance_km": 738.0,
+            "sequence_number": 29,
+            "station_code": "DAKE",
+            "station_name": "DAKHINESWAR"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 755.0,
+            "sequence_number": 30,
+            "station_code": "SDAH",
+            "station_name": "SEALDAH"
+        }
+    ],
+    "train_name": "KANCHAN KANYA",
+    "train_number": "13150",
+    "type": "MAIL EXPRESS"
+}

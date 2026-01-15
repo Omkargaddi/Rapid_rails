@@ -1,0 +1,112 @@
+{
+    "classes_available": [
+        "EC",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22310.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22310-JMP-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JMP",
+            "station_name": "JAMALPUR JN"
+        },
+        {
+            "arrival_time": "16:05",
+            "day_of_journey": 1,
+            "departure_time": "16:07",
+            "distance_km": 53.0,
+            "sequence_number": 2,
+            "station_code": "BGP",
+            "station_name": "BHAGALPUR"
+        },
+        {
+            "arrival_time": "16:41",
+            "day_of_journey": 1,
+            "departure_time": "16:43",
+            "distance_km": 89.0,
+            "sequence_number": 3,
+            "station_code": "BHLE",
+            "station_name": "BARAHAT"
+        },
+        {
+            "arrival_time": "16:57",
+            "day_of_journey": 1,
+            "departure_time": "16:59",
+            "distance_km": 103.0,
+            "sequence_number": 4,
+            "station_code": "MDLE",
+            "station_name": "MANDAR HILL"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 1,
+            "departure_time": "17:22",
+            "distance_km": 126.0,
+            "sequence_number": 5,
+            "station_code": "HSDA",
+            "station_name": "HANSDIHA"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 1,
+            "departure_time": "17:37",
+            "distance_km": 142.0,
+            "sequence_number": 6,
+            "station_code": "NNHT",
+            "station_name": "NONIHAT"
+        },
+        {
+            "arrival_time": "18:15",
+            "day_of_journey": 1,
+            "departure_time": "18:17",
+            "distance_km": 168.0,
+            "sequence_number": 7,
+            "station_code": "DUMK",
+            "station_name": "DUMKA"
+        },
+        {
+            "arrival_time": "19:07",
+            "day_of_journey": 1,
+            "departure_time": "19:09",
+            "distance_km": 232.0,
+            "sequence_number": 8,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 1,
+            "departure_time": "19:47",
+            "distance_km": 293.0,
+            "sequence_number": 9,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 439.0,
+            "sequence_number": 10,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "VANDE BHARAT EXP",
+    "train_number": "22310",
+    "type": "VANDE BHARAT"
+}

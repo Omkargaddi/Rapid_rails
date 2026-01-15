@@ -1,0 +1,106 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11702.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11702-JBP-R",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "06:08",
+            "day_of_journey": 1,
+            "departure_time": "06:10",
+            "distance_km": 3.0,
+            "sequence_number": 2,
+            "station_code": "MML",
+            "station_name": "MADAN MAHAL"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 123.0,
+            "sequence_number": 3,
+            "station_code": "NIR",
+            "station_name": "NAINPUR JN"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 1,
+            "departure_time": "09:12",
+            "distance_km": 198.0,
+            "sequence_number": 4,
+            "station_code": "BTC",
+            "station_name": "BALAGHAT JN"
+        },
+        {
+            "arrival_time": "10:15",
+            "day_of_journey": 1,
+            "departure_time": "10:35",
+            "distance_km": 238.0,
+            "sequence_number": 5,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "11:33",
+            "day_of_journey": 1,
+            "departure_time": "11:35",
+            "distance_km": 311.0,
+            "sequence_number": 6,
+            "station_code": "DGG",
+            "station_name": "DONGARGARH"
+        },
+        {
+            "arrival_time": "11:58",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 343.0,
+            "sequence_number": 7,
+            "station_code": "RJN",
+            "station_name": "RAJNANDGAON"
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 1,
+            "departure_time": "13:05",
+            "distance_km": 374.0,
+            "sequence_number": 8,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 410.0,
+            "sequence_number": 9,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        }
+    ],
+    "train_name": "JBP R EXP",
+    "train_number": "11702",
+    "type": "MAIL EXPRESS"
+}

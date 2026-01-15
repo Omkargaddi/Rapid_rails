@@ -1,0 +1,179 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12772.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12772-R-SC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 36.0,
+            "sequence_number": 2,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "18:07",
+            "day_of_journey": 1,
+            "departure_time": "18:09",
+            "distance_km": 67.0,
+            "sequence_number": 3,
+            "station_code": "RJN",
+            "station_name": "RAJNANDGAON"
+        },
+        {
+            "arrival_time": "19:28",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 172.0,
+            "sequence_number": 4,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 302.0,
+            "sequence_number": 5,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "22:38",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 378.0,
+            "sequence_number": 6,
+            "station_code": "SEGM",
+            "station_name": "SEVAGRAM"
+        },
+        {
+            "arrival_time": "23:30",
+            "day_of_journey": 1,
+            "departure_time": "23:31",
+            "distance_km": 450.0,
+            "sequence_number": 7,
+            "station_code": "WRR",
+            "station_name": "WARORA"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:12",
+            "distance_km": 497.0,
+            "sequence_number": 8,
+            "station_code": "CD",
+            "station_name": "CHANDRAPUR"
+        },
+        {
+            "arrival_time": "01:25",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 511.0,
+            "sequence_number": 9,
+            "station_code": "BPQ",
+            "station_name": "BALHARSHAH"
+        },
+        {
+            "arrival_time": "02:27",
+            "day_of_journey": 2,
+            "departure_time": "02:28",
+            "distance_km": 581.0,
+            "sequence_number": 10,
+            "station_code": "SKZR",
+            "station_name": "SIRPUR KAGHAZNAGAR"
+        },
+        {
+            "arrival_time": "02:54",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 619.0,
+            "sequence_number": 11,
+            "station_code": "BPA",
+            "station_name": "BELAMPALLI"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 639.0,
+            "sequence_number": 12,
+            "station_code": "MCI",
+            "station_name": "MANCHERAL"
+        },
+        {
+            "arrival_time": "03:24",
+            "day_of_journey": 2,
+            "departure_time": "03:25",
+            "distance_km": 653.0,
+            "sequence_number": 13,
+            "station_code": "RDM",
+            "station_name": "RAMGUNDAM"
+        },
+        {
+            "arrival_time": "04:11",
+            "day_of_journey": 2,
+            "departure_time": "04:12",
+            "distance_km": 709.0,
+            "sequence_number": 14,
+            "station_code": "JMKT",
+            "station_name": "JAMIKUNTA"
+        },
+        {
+            "arrival_time": "05:03",
+            "day_of_journey": 2,
+            "departure_time": "05:05",
+            "distance_km": 751.0,
+            "sequence_number": 15,
+            "station_code": "KZJ",
+            "station_name": "KAZIPET JN"
+        },
+        {
+            "arrival_time": "05:29",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 799.0,
+            "sequence_number": 16,
+            "station_code": "ZN",
+            "station_name": "JANGAON"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 881.0,
+            "sequence_number": 17,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        }
+    ],
+    "train_name": "R SC SF EXPRESS",
+    "train_number": "12772",
+    "type": "SUPERFAST"
+}

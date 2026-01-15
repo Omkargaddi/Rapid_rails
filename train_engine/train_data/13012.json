@@ -1,0 +1,186 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13012.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13012-MLDT-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "04:52",
+            "day_of_journey": 1,
+            "departure_time": "04:54",
+            "distance_km": 35.0,
+            "sequence_number": 2,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "05:03",
+            "day_of_journey": 1,
+            "departure_time": "05:04",
+            "distance_km": 39.0,
+            "sequence_number": 3,
+            "station_code": "TDLE",
+            "station_name": "TILDANGA"
+        },
+        {
+            "arrival_time": "05:39",
+            "day_of_journey": 1,
+            "departure_time": "05:41",
+            "distance_km": 68.0,
+            "sequence_number": 4,
+            "station_code": "PKR",
+            "station_name": "PAKAUR"
+        },
+        {
+            "arrival_time": "05:54",
+            "day_of_journey": 1,
+            "departure_time": "05:55",
+            "distance_km": 79.0,
+            "sequence_number": 5,
+            "station_code": "RJG",
+            "station_name": "RAJGRAM"
+        },
+        {
+            "arrival_time": "06:07",
+            "day_of_journey": 1,
+            "departure_time": "06:08",
+            "distance_km": 91.0,
+            "sequence_number": 6,
+            "station_code": "MRR",
+            "station_name": "MURARAI"
+        },
+        {
+            "arrival_time": "06:22",
+            "day_of_journey": 1,
+            "departure_time": "06:23",
+            "distance_km": 108.0,
+            "sequence_number": 7,
+            "station_code": "NHT",
+            "station_name": "NALHATI JN"
+        },
+        {
+            "arrival_time": "06:42",
+            "day_of_journey": 1,
+            "departure_time": "06:44",
+            "distance_km": 122.0,
+            "sequence_number": 8,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "06:56",
+            "day_of_journey": 1,
+            "departure_time": "06:57",
+            "distance_km": 135.0,
+            "sequence_number": 9,
+            "station_code": "MLV",
+            "station_name": "MALLARPUR"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 1,
+            "departure_time": "07:12",
+            "distance_km": 150.0,
+            "sequence_number": 10,
+            "station_code": "SNT",
+            "station_name": "SAINTHIA"
+        },
+        {
+            "arrival_time": "07:24",
+            "day_of_journey": 1,
+            "departure_time": "07:25",
+            "distance_km": 163.0,
+            "sequence_number": 11,
+            "station_code": "AMP",
+            "station_name": "AHAMADPUR JN."
+        },
+        {
+            "arrival_time": "07:39",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 179.0,
+            "sequence_number": 12,
+            "station_code": "PNE",
+            "station_name": "PRANTIK"
+        },
+        {
+            "arrival_time": "07:46",
+            "day_of_journey": 1,
+            "departure_time": "07:48",
+            "distance_km": 183.0,
+            "sequence_number": 13,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "07:55",
+            "day_of_journey": 1,
+            "departure_time": "07:56",
+            "distance_km": 190.0,
+            "sequence_number": 14,
+            "station_code": "BDH",
+            "station_name": "BHEDIA"
+        },
+        {
+            "arrival_time": "08:07",
+            "day_of_journey": 1,
+            "departure_time": "08:08",
+            "distance_km": 202.0,
+            "sequence_number": 15,
+            "station_code": "GKH",
+            "station_name": "GUSKARA"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 1,
+            "departure_time": "09:02",
+            "distance_km": 234.0,
+            "sequence_number": 16,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "10:13",
+            "day_of_journey": 1,
+            "departure_time": "10:15",
+            "distance_km": 302.0,
+            "sequence_number": 17,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 341.0,
+            "sequence_number": 18,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "HWH INTERCITY",
+    "train_number": "13012",
+    "type": "MAIL EXPRESS"
+}

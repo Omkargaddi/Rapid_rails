@@ -1,0 +1,259 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22102.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22102-MDU-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 66.0,
+            "sequence_number": 2,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 160.0,
+            "sequence_number": 3,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:02",
+            "distance_km": 283.0,
+            "sequence_number": 4,
+            "station_code": "VRI",
+            "station_name": "VRIDDHACHALAM JN"
+        },
+        {
+            "arrival_time": "21:13",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 338.0,
+            "sequence_number": 5,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "21:34",
+            "day_of_journey": 1,
+            "departure_time": "21:35",
+            "distance_km": 405.0,
+            "sequence_number": 6,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "22:38",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 441.0,
+            "sequence_number": 7,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "23:13",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 476.0,
+            "sequence_number": 8,
+            "station_code": "CJ",
+            "station_name": "KANCHIPURAM"
+        },
+        {
+            "arrival_time": "00:03",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 517.0,
+            "sequence_number": 9,
+            "station_code": "TRT",
+            "station_name": "TIRUTTANI"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 573.0,
+            "sequence_number": 10,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "02:09",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 647.0,
+            "sequence_number": 11,
+            "station_code": "RJP",
+            "station_name": "RAZAMPETA"
+        },
+        {
+            "arrival_time": "02:58",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 698.0,
+            "sequence_number": 12,
+            "station_code": "HX",
+            "station_name": "CUDDAPAH"
+        },
+        {
+            "arrival_time": "05:19",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 853.0,
+            "sequence_number": 13,
+            "station_code": "GY",
+            "station_name": "GOOTY"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 881.0,
+            "sequence_number": 14,
+            "station_code": "GTL",
+            "station_name": "GUNTAKAL JN"
+        },
+        {
+            "arrival_time": "06:43",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 933.0,
+            "sequence_number": 15,
+            "station_code": "AD",
+            "station_name": "ADONI"
+        },
+        {
+            "arrival_time": "07:18",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 974.0,
+            "sequence_number": 16,
+            "station_code": "MALM",
+            "station_name": "MANTHRALAYAM RD"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 2,
+            "departure_time": "08:00",
+            "distance_km": 1003.0,
+            "sequence_number": 17,
+            "station_code": "RC",
+            "station_name": "RAICHUR"
+        },
+        {
+            "arrival_time": "10:10",
+            "day_of_journey": 2,
+            "departure_time": "10:15",
+            "distance_km": 1111.0,
+            "sequence_number": 18,
+            "station_code": "WADI",
+            "station_name": "WADI JN."
+        },
+        {
+            "arrival_time": "10:27",
+            "day_of_journey": 2,
+            "departure_time": "10:28",
+            "distance_km": 1121.0,
+            "sequence_number": 19,
+            "station_code": "SDB",
+            "station_name": "SHAHABAD"
+        },
+        {
+            "arrival_time": "10:52",
+            "day_of_journey": 2,
+            "departure_time": "10:55",
+            "distance_km": 1147.0,
+            "sequence_number": 20,
+            "station_code": "KLBG",
+            "station_name": "KALABURAGI"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 2,
+            "departure_time": "12:25",
+            "distance_km": 1260.0,
+            "sequence_number": 21,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 2,
+            "departure_time": "15:10",
+            "distance_km": 1448.0,
+            "sequence_number": 22,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 2,
+            "departure_time": "16:40",
+            "distance_km": 1523.0,
+            "sequence_number": 23,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "19:27",
+            "day_of_journey": 2,
+            "departure_time": "19:30",
+            "distance_km": 1661.0,
+            "sequence_number": 24,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "19:52",
+            "day_of_journey": 2,
+            "departure_time": "19:55",
+            "distance_km": 1682.0,
+            "sequence_number": 25,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1698.0,
+            "sequence_number": 26,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "MDU LTT SF EXP",
+    "train_number": "22102",
+    "type": "SUPERFAST"
+}

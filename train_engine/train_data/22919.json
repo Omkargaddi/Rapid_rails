@@ -1,0 +1,157 @@
+{
+    "classes_available": [
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22919.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "22919-MAS-ADI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 138.0,
+            "sequence_number": 2,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "23:15",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 446.0,
+            "sequence_number": 3,
+            "station_code": "GTL",
+            "station_name": "GUNTAKAL JN"
+        },
+        {
+            "arrival_time": "01:18",
+            "day_of_journey": 2,
+            "departure_time": "01:20",
+            "distance_km": 568.0,
+            "sequence_number": 4,
+            "station_code": "RC",
+            "station_name": "RAICHUR"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:25",
+            "distance_km": 676.0,
+            "sequence_number": 5,
+            "station_code": "WADI",
+            "station_name": "WADI JN."
+        },
+        {
+            "arrival_time": "03:57",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 712.0,
+            "sequence_number": 6,
+            "station_code": "KLBG",
+            "station_name": "KALABURAGI"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 2,
+            "departure_time": "06:40",
+            "distance_km": 825.0,
+            "sequence_number": 7,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 2,
+            "departure_time": "11:05",
+            "distance_km": 1088.0,
+            "sequence_number": 8,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "13:22",
+            "day_of_journey": 2,
+            "departure_time": "13:25",
+            "distance_km": 1226.0,
+            "sequence_number": 9,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 2,
+            "departure_time": "14:25",
+            "distance_km": 1268.0,
+            "sequence_number": 10,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "14:53",
+            "day_of_journey": 2,
+            "departure_time": "14:55",
+            "distance_km": 1307.0,
+            "sequence_number": 11,
+            "station_code": "PLG",
+            "station_name": "PALGHAR"
+        },
+        {
+            "arrival_time": "16:52",
+            "day_of_journey": 2,
+            "departure_time": "16:55",
+            "distance_km": 1483.0,
+            "sequence_number": 12,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 2,
+            "departure_time": "18:30",
+            "distance_km": 1613.0,
+            "sequence_number": 13,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 2,
+            "departure_time": "19:12",
+            "distance_km": 1647.0,
+            "sequence_number": 14,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1711.0,
+            "sequence_number": 15,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        }
+    ],
+    "train_name": "ADI HUMSAFAR",
+    "train_number": "22919",
+    "type": "SUPERFAST"
+}

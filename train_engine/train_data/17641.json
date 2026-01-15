@@ -1,0 +1,122 @@
+{
+    "classes_available": [
+        "3A",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17641.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17641-KCG-NRKR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KCG",
+            "station_name": "KACHEGUDA"
+        },
+        {
+            "arrival_time": "07:19",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "STPD",
+            "station_name": "SITAFAL MANDI"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 9.0,
+            "sequence_number": 3,
+            "station_code": "MJF",
+            "station_name": "MALKAJGIRI"
+        },
+        {
+            "arrival_time": "07:44",
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 19.0,
+            "sequence_number": 4,
+            "station_code": "BMO",
+            "station_name": "BOLARUM"
+        },
+        {
+            "arrival_time": "08:04",
+            "day_of_journey": 1,
+            "departure_time": "08:05",
+            "distance_km": 32.0,
+            "sequence_number": 5,
+            "station_code": "MED",
+            "station_name": "MEDCHAL"
+        },
+        {
+            "arrival_time": "08:44",
+            "day_of_journey": 1,
+            "departure_time": "08:45",
+            "distance_km": 70.0,
+            "sequence_number": 6,
+            "station_code": "WDR",
+            "station_name": "WADIARAM"
+        },
+        {
+            "arrival_time": "20:19",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 614.0,
+            "sequence_number": 24,
+            "station_code": "WLGN",
+            "station_name": "WALGAON"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 637.0,
+            "sequence_number": 25,
+            "station_code": "CNDB",
+            "station_name": "CHANDUR BAZAR"
+        },
+        {
+            "arrival_time": "21:28",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 667.0,
+            "sequence_number": 26,
+            "station_code": "MRSH",
+            "station_name": "MORSHI"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 703.0,
+            "sequence_number": 27,
+            "station_code": "WOC",
+            "station_name": "WARUD ORANGE CITY"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 733.0,
+            "sequence_number": 28,
+            "station_code": "NRKR",
+            "station_name": "NARKHER"
+        }
+    ],
+    "train_name": "KCG NRKR EXP",
+    "train_number": "17641",
+    "type": "MAIL EXPRESS"
+}

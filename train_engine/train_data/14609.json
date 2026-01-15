@@ -1,0 +1,233 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14609.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14609-YNRK-SVDK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "YNRK",
+            "station_name": "YOG NAGARI RISHIKESH"
+        },
+        {
+            "arrival_time": "17:34",
+            "day_of_journey": 1,
+            "departure_time": "17:36",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "VRH",
+            "station_name": "VIRBHADRA"
+        },
+        {
+            "arrival_time": "17:53",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 11.0,
+            "sequence_number": 3,
+            "station_code": "RWL",
+            "station_name": "RAIWALA"
+        },
+        {
+            "arrival_time": "18:05",
+            "day_of_journey": 1,
+            "departure_time": "18:07",
+            "distance_km": 18.0,
+            "sequence_number": 4,
+            "station_code": "MOTC",
+            "station_name": "MOTICHUR"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 1,
+            "departure_time": "18:23",
+            "distance_km": 22.0,
+            "sequence_number": 5,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "19:01",
+            "day_of_journey": 1,
+            "departure_time": "19:03",
+            "distance_km": 64.0,
+            "sequence_number": 6,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "19:55",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 98.0,
+            "sequence_number": 7,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "20:27",
+            "day_of_journey": 1,
+            "departure_time": "20:29",
+            "distance_km": 128.0,
+            "sequence_number": 8,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 179.0,
+            "sequence_number": 9,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 225.0,
+            "sequence_number": 10,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "22:17",
+            "day_of_journey": 1,
+            "departure_time": "22:19",
+            "distance_km": 236.0,
+            "sequence_number": 11,
+            "station_code": "SASN",
+            "station_name": "SAHIBZADA AJIT SINGH NAGAR"
+        },
+        {
+            "arrival_time": "23:55",
+            "day_of_journey": 2,
+            "departure_time": "00:03",
+            "distance_km": 336.0,
+            "sequence_number": 12,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 2,
+            "departure_time": "00:55",
+            "distance_km": 388.0,
+            "sequence_number": 13,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "01:41",
+            "day_of_journey": 2,
+            "departure_time": "01:43",
+            "distance_km": 430.0,
+            "sequence_number": 14,
+            "station_code": "TDO",
+            "station_name": "TANDA URMAR"
+        },
+        {
+            "arrival_time": "01:56",
+            "day_of_journey": 2,
+            "departure_time": "01:58",
+            "distance_km": 446.0,
+            "sequence_number": 15,
+            "station_code": "DZA",
+            "station_name": "DASUYA"
+        },
+        {
+            "arrival_time": "02:13",
+            "day_of_journey": 2,
+            "departure_time": "02:15",
+            "distance_km": 461.0,
+            "sequence_number": 16,
+            "station_code": "MEX",
+            "station_name": "MUKERIAN"
+        },
+        {
+            "arrival_time": "02:48",
+            "day_of_journey": 2,
+            "departure_time": "02:53",
+            "distance_km": 501.0,
+            "sequence_number": 17,
+            "station_code": "PTKC",
+            "station_name": "PATHANKOT CANTT"
+        },
+        {
+            "arrival_time": "03:22",
+            "day_of_journey": 2,
+            "departure_time": "03:24",
+            "distance_km": 524.0,
+            "sequence_number": 18,
+            "station_code": "KTHU",
+            "station_name": "KATHUA"
+        },
+        {
+            "arrival_time": "03:49",
+            "day_of_journey": 2,
+            "departure_time": "03:51",
+            "distance_km": 553.0,
+            "sequence_number": 19,
+            "station_code": "HRNR",
+            "station_name": "HIRA NAGAR"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:07",
+            "distance_km": 568.0,
+            "sequence_number": 20,
+            "station_code": "SMBX",
+            "station_name": "SAMBA"
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 600.0,
+            "sequence_number": 21,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        },
+        {
+            "arrival_time": "05:53",
+            "day_of_journey": 2,
+            "departure_time": "05:55",
+            "distance_km": 653.0,
+            "sequence_number": 22,
+            "station_code": "MCTM",
+            "station_name": "MARTYR CAPTAIN TUSHAR MAHAJAN"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 678.0,
+            "sequence_number": 23,
+            "station_code": "SVDK",
+            "station_name": "SHRI MATA VAISHNO DEVI KATRA"
+        }
+    ],
+    "train_name": "HEMKUNT EXPRESS",
+    "train_number": "14609",
+    "type": "MAIL EXPRESS"
+}

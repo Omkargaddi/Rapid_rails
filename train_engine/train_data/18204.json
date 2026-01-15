@@ -1,0 +1,235 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18204.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "18204-CNB-DURG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "18:32",
+            "day_of_journey": 1,
+            "departure_time": "18:34",
+            "distance_km": 47.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "GTM",
+            "station_name": "GHATAMPUR"
+        },
+        {
+            "arrival_time": "18:49",
+            "day_of_journey": 1,
+            "departure_time": "18:51",
+            "distance_km": 62.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "HAR",
+            "station_name": "HAMIRPUR ROAD"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:12",
+            "distance_km": 86.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BSZ",
+            "station_name": "BHARWA SUMERPUR"
+        },
+        {
+            "arrival_time": "19:33",
+            "day_of_journey": 1,
+            "departure_time": "19:35",
+            "distance_km": 103.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "RGU",
+            "station_name": "RAGAUL"
+        },
+        {
+            "arrival_time": "20:45",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 143.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "BNDA",
+            "station_name": "BANDA JN"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:17",
+            "distance_km": 175.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "ATE",
+            "station_name": "ATARRA"
+        },
+        {
+            "arrival_time": "21:50",
+            "day_of_journey": 1,
+            "departure_time": "21:52",
+            "distance_km": 212.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "CKTD",
+            "station_name": "CHITRAKOT"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 316.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 352.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "MYR",
+            "station_name": "MAIHAR"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 414.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "04:03",
+            "day_of_journey": 2,
+            "departure_time": "04:05",
+            "distance_km": 473.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "UMR",
+            "station_name": "UMARIA"
+        },
+        {
+            "arrival_time": "04:26",
+            "day_of_journey": 2,
+            "departure_time": "04:28",
+            "distance_km": 503.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "BRS",
+            "station_name": "BIRSINGHPUR"
+        },
+        {
+            "arrival_time": "05:20",
+            "day_of_journey": 2,
+            "departure_time": "05:25",
+            "distance_km": 540.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "SDL",
+            "station_name": "SHAHDOL"
+        },
+        {
+            "arrival_time": "06:15",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 581.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "APR",
+            "station_name": "ANUPPUR JN"
+        },
+        {
+            "arrival_time": "07:00",
+            "day_of_journey": 2,
+            "departure_time": "07:05",
+            "distance_km": 631.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "PND",
+            "station_name": "PENDRA ROAD"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 2,
+            "departure_time": "09:45",
+            "distance_km": 723.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "USL",
+            "station_name": "USLAPUR"
+        },
+        {
+            "arrival_time": "10:26",
+            "day_of_journey": 2,
+            "departure_time": "10:28",
+            "distance_km": 775.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "10:48",
+            "day_of_journey": 2,
+            "departure_time": "10:50",
+            "distance_km": 801.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "TLD",
+            "station_name": "TILDA"
+        },
+        {
+            "arrival_time": "11:55",
+            "day_of_journey": 2,
+            "departure_time": "12:05",
+            "distance_km": 839.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 876.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        }
+    ],
+    "train_name": "BETWA EXPRESS",
+    "train_number": "18204",
+    "type": "MAIL EXPRESS "
+}

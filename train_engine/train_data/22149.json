@@ -1,0 +1,196 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22149.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22149-ERS-PUNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "06:17",
+            "day_of_journey": 1,
+            "departure_time": "06:20",
+            "distance_km": 74.0,
+            "sequence_number": 2,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 1,
+            "departure_time": "07:15",
+            "distance_km": 109.0,
+            "sequence_number": 3,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "07:54",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 154.0,
+            "sequence_number": 4,
+            "station_code": "TIR",
+            "station_name": "TIRUR"
+        },
+        {
+            "arrival_time": "08:32",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 195.0,
+            "sequence_number": 5,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "09:28",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 263.0,
+            "sequence_number": 6,
+            "station_code": "TLY",
+            "station_name": "THALASSERY"
+        },
+        {
+            "arrival_time": "09:57",
+            "day_of_journey": 1,
+            "departure_time": "10:00",
+            "distance_km": 284.0,
+            "sequence_number": 7,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "10:59",
+            "day_of_journey": 1,
+            "departure_time": "11:00",
+            "distance_km": 370.0,
+            "sequence_number": 8,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:10",
+            "distance_km": 417.0,
+            "sequence_number": 9,
+            "station_code": "MAJN",
+            "station_name": "MANGALORE JUNCTION"
+        },
+        {
+            "arrival_time": "13:38",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 484.0,
+            "sequence_number": 10,
+            "station_code": "UD",
+            "station_name": "UDUPI"
+        },
+        {
+            "arrival_time": "14:06",
+            "day_of_journey": 1,
+            "departure_time": "14:08",
+            "distance_km": 515.0,
+            "sequence_number": 11,
+            "station_code": "KUDA",
+            "station_name": "KUNDAPURA"
+        },
+        {
+            "arrival_time": "15:58",
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 674.0,
+            "sequence_number": 12,
+            "station_code": "KAWR",
+            "station_name": "KARWAR"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 732.0,
+            "sequence_number": 13,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 1,
+            "departure_time": "18:22",
+            "distance_km": 811.0,
+            "sequence_number": 14,
+            "station_code": "SWV",
+            "station_name": "SAWANTWADI ROAD"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 1,
+            "departure_time": "18:57",
+            "distance_km": 860.0,
+            "sequence_number": 15,
+            "station_code": "KKW",
+            "station_name": "KANKAVLI"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:20",
+            "distance_km": 971.0,
+            "sequence_number": 16,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "22:38",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 1047.0,
+            "sequence_number": 17,
+            "station_code": "CHI",
+            "station_name": "CHIPLUN"
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 1252.0,
+            "sequence_number": 18,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1372.0,
+            "sequence_number": 19,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        }
+    ],
+    "train_name": "ERS PUNE SF EXP",
+    "train_number": "22149",
+    "type": "SUPERFAST"
+}

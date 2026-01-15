@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22104.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22104-AYC-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AYC",
+            "station_name": "AYODHYA CANTT"
+        },
+        {
+            "arrival_time": "00:16",
+            "day_of_journey": 2,
+            "departure_time": "00:18",
+            "distance_km": 61.0,
+            "sequence_number": 2,
+            "station_code": "ABP",
+            "station_name": "AKBARPUR"
+        },
+        {
+            "arrival_time": "00:58",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 105.0,
+            "sequence_number": 3,
+            "station_code": "SHG",
+            "station_name": "SHAHGANJ JN"
+        },
+        {
+            "arrival_time": "01:36",
+            "day_of_journey": 2,
+            "departure_time": "01:38",
+            "distance_km": 138.0,
+            "sequence_number": 4,
+            "station_code": "JNU",
+            "station_name": "JAUNPUR JN"
+        },
+        {
+            "arrival_time": "02:08",
+            "day_of_journey": 2,
+            "departure_time": "02:10",
+            "distance_km": 163.0,
+            "sequence_number": 5,
+            "station_code": "MAY",
+            "station_name": "MARIAHU"
+        },
+        {
+            "arrival_time": "02:47",
+            "day_of_journey": 2,
+            "departure_time": "02:48",
+            "distance_km": 192.0,
+            "sequence_number": 6,
+            "station_code": "JNH",
+            "station_name": "JANGHAI JN"
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 252.0,
+            "sequence_number": 7,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "07:28",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 353.0,
+            "sequence_number": 8,
+            "station_code": "MKP",
+            "station_name": "MANIKPUR JN"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 2,
+            "departure_time": "08:25",
+            "distance_km": 430.0,
+            "sequence_number": 9,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "09:33",
+            "day_of_journey": 2,
+            "departure_time": "09:35",
+            "distance_km": 529.0,
+            "sequence_number": 10,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 2,
+            "departure_time": "10:55",
+            "distance_km": 619.0,
+            "sequence_number": 11,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 2,
+            "departure_time": "14:50",
+            "distance_km": 864.0,
+            "sequence_number": 12,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 2,
+            "departure_time": "19:15",
+            "distance_km": 1170.0,
+            "sequence_number": 13,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "19:43",
+            "day_of_journey": 2,
+            "departure_time": "19:45",
+            "distance_km": 1194.0,
+            "sequence_number": 14,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 2,
+            "departure_time": "22:42",
+            "distance_km": 1427.0,
+            "sequence_number": 15,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "02:32",
+            "day_of_journey": 3,
+            "departure_time": "02:35",
+            "distance_km": 1561.0,
+            "sequence_number": 16,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1598.0,
+            "sequence_number": 17,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "LTT EXPRESS",
+    "train_number": "22104",
+    "type": "SUPERFAST"
+}

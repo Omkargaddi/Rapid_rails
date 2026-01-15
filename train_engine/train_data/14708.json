@@ -1,0 +1,177 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14708.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14708-DDR-HMH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DDR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "12:57",
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 24.0,
+            "sequence_number": 2,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "13:55",
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 81.0,
+            "sequence_number": 3,
+            "station_code": "PLG",
+            "station_name": "PALGHAR"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": "15:05",
+            "distance_km": 162.0,
+            "sequence_number": 4,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 188.0,
+            "sequence_number": 5,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": "16:02",
+            "distance_km": 227.0,
+            "sequence_number": 6,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "17:02",
+            "day_of_journey": 1,
+            "departure_time": "17:07",
+            "distance_km": 257.0,
+            "sequence_number": 7,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "17:51",
+            "day_of_journey": 1,
+            "departure_time": "17:53",
+            "distance_km": 316.0,
+            "sequence_number": 8,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "19:02",
+            "day_of_journey": 1,
+            "departure_time": "19:07",
+            "distance_km": 386.0,
+            "sequence_number": 9,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "19:41",
+            "day_of_journey": 1,
+            "departure_time": "19:43",
+            "distance_km": 420.0,
+            "sequence_number": 10,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "19:57",
+            "day_of_journey": 1,
+            "departure_time": "19:59",
+            "distance_km": 439.0,
+            "sequence_number": 11,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 1,
+            "departure_time": "21:55",
+            "distance_km": 484.0,
+            "sequence_number": 12,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 2,
+            "departure_time": "11:37",
+            "distance_km": 1220.0,
+            "sequence_number": 36,
+            "station_code": "LGH",
+            "station_name": "LALGARH JN"
+        },
+        {
+            "arrival_time": "12:33",
+            "day_of_journey": 2,
+            "departure_time": "12:35",
+            "distance_km": 1295.0,
+            "sequence_number": 37,
+            "station_code": "LKS",
+            "station_name": "LUNKARANSAR"
+        },
+        {
+            "arrival_time": "13:55",
+            "day_of_journey": 2,
+            "departure_time": "14:00",
+            "distance_km": 1397.0,
+            "sequence_number": 38,
+            "station_code": "SOG",
+            "station_name": "SURATGARH JN"
+        },
+        {
+            "arrival_time": "14:23",
+            "day_of_journey": 2,
+            "departure_time": "14:25",
+            "distance_km": 1422.0,
+            "sequence_number": 39,
+            "station_code": "PGK",
+            "station_name": "PILI BANGAN"
+        },
+        {
+            "arrival_time": "15:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1447.0,
+            "sequence_number": 40,
+            "station_code": "HMH",
+            "station_name": "HANUMANGARH JN"
+        }
+    ],
+    "train_name": "RANAKPUR EXP",
+    "train_number": "14708",
+    "type": "MAIL EXPRESS"
+}

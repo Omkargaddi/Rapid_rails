@@ -1,0 +1,172 @@
+{
+    "classes_available": [
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12198.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12198-GWL-BPL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:20",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "07:13",
+            "day_of_journey": 1,
+            "departure_time": "07:15",
+            "distance_km": 64.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "MOJ",
+            "station_name": "MOHANA"
+        },
+        {
+            "arrival_time": "07:53",
+            "day_of_journey": 1,
+            "departure_time": "07:55",
+            "distance_km": 126.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "SVPI",
+            "station_name": "SHIVPURI"
+        },
+        {
+            "arrival_time": "08:13",
+            "day_of_journey": 1,
+            "departure_time": "08:15",
+            "distance_km": 151.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "KLRS",
+            "station_name": "KOLARAS"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 1,
+            "departure_time": "08:37",
+            "distance_km": 178.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BDWS",
+            "station_name": "BADARWAS"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 196.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "MINA",
+            "station_name": "MIYANA"
+        },
+        {
+            "arrival_time": "09:40",
+            "day_of_journey": 1,
+            "departure_time": "09:55",
+            "distance_km": 228.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "GUNA",
+            "station_name": "GUNA"
+        },
+        {
+            "arrival_time": "10:18",
+            "day_of_journey": 1,
+            "departure_time": "10:20",
+            "distance_km": 257.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "SHDR",
+            "station_name": "SHADHORAGAON"
+        },
+        {
+            "arrival_time": "10:32",
+            "day_of_journey": 1,
+            "departure_time": "10:34",
+            "distance_km": 272.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "ASKN",
+            "station_name": "ASHOK NAGAR"
+        },
+        {
+            "arrival_time": "10:53",
+            "day_of_journey": 1,
+            "departure_time": "10:55",
+            "distance_km": 298.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "PIA",
+            "station_name": "PIPRAIGAON"
+        },
+        {
+            "arrival_time": "11:11",
+            "day_of_journey": 1,
+            "departure_time": "11:13",
+            "distance_km": 318.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "MNV",
+            "station_name": "MUNGAOLI"
+        },
+        {
+            "arrival_time": "12:00",
+            "day_of_journey": 1,
+            "departure_time": "12:05",
+            "distance_km": 346.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 1,
+            "departure_time": "12:42",
+            "distance_km": 392.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "BAQ",
+            "station_name": "GANJ BASODA"
+        },
+        {
+            "arrival_time": "13:09",
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 431.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "BHS",
+            "station_name": "VIDISHA"
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 484.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        }
+    ],
+    "train_name": "BPL INTERCITY",
+    "train_number": "12198",
+    "type": "SUPERFAST "
+}

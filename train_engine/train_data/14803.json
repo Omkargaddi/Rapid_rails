@@ -1,0 +1,154 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14803.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14803-BGKT-JAT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BGKT",
+            "station_name": "BHAGAT KI KOTHI"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 3.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        },
+        {
+            "arrival_time": "08:16",
+            "day_of_journey": 1,
+            "departure_time": "08:18",
+            "distance_km": 87.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "GOTN",
+            "station_name": "GOTAN"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 108.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "MTD",
+            "station_name": "MERTA ROAD JN"
+        },
+        {
+            "arrival_time": "09:34",
+            "day_of_journey": 1,
+            "departure_time": "09:39",
+            "distance_km": 165.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "NGO",
+            "station_name": "NAGAUR"
+        },
+        {
+            "arrival_time": "10:26",
+            "day_of_journey": 1,
+            "departure_time": "10:28",
+            "distance_km": 216.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "NOK",
+            "station_name": "NOKHA"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": "11:07",
+            "distance_km": 248.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "DSO",
+            "station_name": "DESHNOK"
+        },
+        {
+            "arrival_time": "11:55",
+            "day_of_journey": 1,
+            "departure_time": "12:05",
+            "distance_km": 280.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BKN",
+            "station_name": "BIKANER JN"
+        },
+        {
+            "arrival_time": "12:15",
+            "day_of_journey": 1,
+            "departure_time": "12:17",
+            "distance_km": 284.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "LGH",
+            "station_name": "LALGARH JN"
+        },
+        {
+            "arrival_time": "13:13",
+            "day_of_journey": 1,
+            "departure_time": "13:15",
+            "distance_km": 360.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "LKS",
+            "station_name": "LUNKARANSAR"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 462.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "SOG",
+            "station_name": "SURATGARH JN"
+        },
+        {
+            "arrival_time": "15:18",
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 486.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "PGK",
+            "station_name": "PILI BANGAN"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1095.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "JAT",
+            "station_name": "JAMMUTAVI"
+        }
+    ],
+    "train_name": "BGKT JAT EXP",
+    "train_number": "14803",
+    "type": "MAIL EXPRESS "
+}

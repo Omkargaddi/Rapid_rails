@@ -1,0 +1,224 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19270.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "19270-MFP-PBR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "15:58",
+            "day_of_journey": 1,
+            "departure_time": "16:00",
+            "distance_km": 39.0,
+            "sequence_number": 2,
+            "station_code": "MAI",
+            "station_name": "MEHSI"
+        },
+        {
+            "arrival_time": "16:11",
+            "day_of_journey": 1,
+            "departure_time": "16:13",
+            "distance_km": 48.0,
+            "sequence_number": 3,
+            "station_code": "CAA",
+            "station_name": "CHAKIA"
+        },
+        {
+            "arrival_time": "16:38",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 79.0,
+            "sequence_number": 4,
+            "station_code": "BMKI",
+            "station_name": "BAPUDM MOTIHARI"
+        },
+        {
+            "arrival_time": "17:08",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 101.0,
+            "sequence_number": 5,
+            "station_code": "SGL",
+            "station_name": "SAGAULI JN"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 123.0,
+            "sequence_number": 6,
+            "station_code": "BTH",
+            "station_name": "BETTIAH"
+        },
+        {
+            "arrival_time": "20:11",
+            "day_of_journey": 2,
+            "departure_time": "20:13",
+            "distance_km": 1483.0,
+            "sequence_number": 24,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 2,
+            "departure_time": "21:00",
+            "distance_km": 1508.0,
+            "sequence_number": 25,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "21:42",
+            "day_of_journey": 2,
+            "departure_time": "21:44",
+            "distance_km": 1560.0,
+            "sequence_number": 26,
+            "station_code": "BER",
+            "station_name": "BEAWAR"
+        },
+        {
+            "arrival_time": "23:00",
+            "day_of_journey": 2,
+            "departure_time": "23:05",
+            "distance_km": 1647.0,
+            "sequence_number": 27,
+            "station_code": "MJ",
+            "station_name": "MARWAR JN"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 3,
+            "departure_time": "01:20",
+            "distance_km": 1812.0,
+            "sequence_number": 28,
+            "station_code": "ABR",
+            "station_name": "ABU ROAD"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 3,
+            "departure_time": "02:22",
+            "distance_km": 1865.0,
+            "sequence_number": 29,
+            "station_code": "PNU",
+            "station_name": "PALANPUR JN"
+        },
+        {
+            "arrival_time": "03:10",
+            "day_of_journey": 3,
+            "departure_time": "03:12",
+            "distance_km": 1930.0,
+            "sequence_number": 30,
+            "station_code": "MSH",
+            "station_name": "MAHESANA JN"
+        },
+        {
+            "arrival_time": "04:33",
+            "day_of_journey": 3,
+            "departure_time": "04:38",
+            "distance_km": 1992.0,
+            "sequence_number": 31,
+            "station_code": "CBCC",
+            "station_name": "CHANDLODIYA B CABIN"
+        },
+        {
+            "arrival_time": "05:28",
+            "day_of_journey": 3,
+            "departure_time": "05:30",
+            "distance_km": 2046.0,
+            "sequence_number": 32,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "07:01",
+            "day_of_journey": 3,
+            "departure_time": "07:03",
+            "distance_km": 2111.0,
+            "sequence_number": 33,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "07:57",
+            "day_of_journey": 3,
+            "departure_time": "07:59",
+            "distance_km": 2185.0,
+            "sequence_number": 34,
+            "station_code": "WKR",
+            "station_name": "WANKANER JN"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 3,
+            "departure_time": "09:05",
+            "distance_km": 2227.0,
+            "sequence_number": 35,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "10:13",
+            "day_of_journey": 3,
+            "departure_time": "10:15",
+            "distance_km": 2300.0,
+            "sequence_number": 36,
+            "station_code": "HAPA",
+            "station_name": "HAPA"
+        },
+        {
+            "arrival_time": "10:27",
+            "day_of_journey": 3,
+            "departure_time": "10:32",
+            "distance_km": 2309.0,
+            "sequence_number": 37,
+            "station_code": "JAM",
+            "station_name": "JAMNAGAR"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 3,
+            "departure_time": "12:11",
+            "distance_km": 2395.0,
+            "sequence_number": 38,
+            "station_code": "BNVD",
+            "station_name": "BHANVAD"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2448.0,
+            "sequence_number": 39,
+            "station_code": "PBR",
+            "station_name": "PORBANDAR"
+        }
+    ],
+    "train_name": "PBR EXPRESS",
+    "train_number": "19270",
+    "type": "MAIL EXPRESS"
+}

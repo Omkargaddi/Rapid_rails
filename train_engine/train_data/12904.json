@@ -1,0 +1,179 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12904.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12904-ASR-BDTS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        },
+        {
+            "arrival_time": "19:23",
+            "day_of_journey": 1,
+            "departure_time": "19:25",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "20:00",
+            "day_of_journey": 1,
+            "departure_time": "20:05",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:10",
+            "distance_km": 135.0,
+            "sequence_number": 4,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 249.0,
+            "sequence_number": 5,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "23:33",
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 300.0,
+            "sequence_number": 6,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "11:38",
+            "day_of_journey": 2,
+            "departure_time": "11:40",
+            "distance_km": 1077.0,
+            "sequence_number": 24,
+            "station_code": "BWM",
+            "station_name": "BHAWANI MANDI"
+        },
+        {
+            "arrival_time": "12:03",
+            "day_of_journey": 2,
+            "departure_time": "12:05",
+            "distance_km": 1110.0,
+            "sequence_number": 25,
+            "station_code": "SGZ",
+            "station_name": "SHAMGARH"
+        },
+        {
+            "arrival_time": "13:38",
+            "day_of_journey": 2,
+            "departure_time": "13:40",
+            "distance_km": 1201.0,
+            "sequence_number": 26,
+            "station_code": "NAD",
+            "station_name": "NAGDA JN"
+        },
+        {
+            "arrival_time": "14:15",
+            "day_of_journey": 2,
+            "departure_time": "14:25",
+            "distance_km": 1243.0,
+            "sequence_number": 27,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "15:26",
+            "day_of_journey": 2,
+            "departure_time": "15:28",
+            "distance_km": 1323.0,
+            "sequence_number": 28,
+            "station_code": "MGN",
+            "station_name": "MEGHNAGAR"
+        },
+        {
+            "arrival_time": "15:52",
+            "day_of_journey": 2,
+            "departure_time": "15:54",
+            "distance_km": 1356.0,
+            "sequence_number": 29,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 2,
+            "departure_time": "17:07",
+            "distance_km": 1428.0,
+            "sequence_number": 30,
+            "station_code": "GDA",
+            "station_name": "GODHRA JN"
+        },
+        {
+            "arrival_time": "18:01",
+            "day_of_journey": 2,
+            "departure_time": "18:11",
+            "distance_km": 1500.0,
+            "sequence_number": 31,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "19:41",
+            "day_of_journey": 2,
+            "departure_time": "19:46",
+            "distance_km": 1629.0,
+            "sequence_number": 32,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "22:43",
+            "day_of_journey": 2,
+            "departure_time": "22:45",
+            "distance_km": 1862.0,
+            "sequence_number": 33,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "23:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1881.0,
+            "sequence_number": 34,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        }
+    ],
+    "train_name": "GOLDEN TEMPLE M",
+    "train_number": "12904",
+    "type": "SUPERFAST"
+}

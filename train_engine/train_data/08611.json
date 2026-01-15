@@ -1,0 +1,148 @@
+{
+    "classes_available": [
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_08611.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "08611-SRC-AII",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 109.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "22:55",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 243.0,
+            "sequence_number": 3,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "00:13",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 279.0,
+            "sequence_number": 4,
+            "station_code": "CNI",
+            "station_name": "CHANDIL JN."
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:02",
+            "distance_km": 333.0,
+            "sequence_number": 5,
+            "station_code": "PRR",
+            "station_name": "PURULIA JN."
+        },
+        {
+            "arrival_time": "02:23",
+            "day_of_journey": 2,
+            "departure_time": "02:25",
+            "distance_km": 393.0,
+            "sequence_number": 6,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 456.0,
+            "sequence_number": 7,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        },
+        {
+            "arrival_time": "05:08",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 522.0,
+            "sequence_number": 8,
+            "station_code": "LAD",
+            "station_name": "LOHARDAGA BS"
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 566.0,
+            "sequence_number": 9,
+            "station_code": "TORI",
+            "station_name": "TORI"
+        },
+        {
+            "arrival_time": "06:53",
+            "day_of_journey": 2,
+            "departure_time": "06:55",
+            "distance_km": 598.0,
+            "sequence_number": 10,
+            "station_code": "LTHR",
+            "station_name": "LATEHAR"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 2,
+            "departure_time": "07:27",
+            "distance_km": 639.0,
+            "sequence_number": 11,
+            "station_code": "BRWD",
+            "station_name": "BARWADIH JN"
+        },
+        {
+            "arrival_time": "07:53",
+            "day_of_journey": 2,
+            "departure_time": "07:55",
+            "distance_km": 666.0,
+            "sequence_number": 12,
+            "station_code": "DTO",
+            "station_name": "DALTONGANJ"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 3,
+            "departure_time": "13:52",
+            "distance_km": 2038.0,
+            "sequence_number": 36,
+            "station_code": "NSD",
+            "station_name": "NASIRABAD"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2062.0,
+            "sequence_number": 37,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        }
+    ],
+    "train_name": "SRC AII SPL",
+    "train_number": "08611",
+    "type": "TRAIN ON DEMAND"
+}

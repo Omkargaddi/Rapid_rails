@@ -1,0 +1,188 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "CC",
+        "EC",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16854.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16854-VM-TPTY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:40",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "06:09",
+            "day_of_journey": 1,
+            "departure_time": "06:10",
+            "distance_km": 34.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "TRK",
+            "station_name": "TIRUKKOVILUR"
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 1,
+            "departure_time": "06:19",
+            "distance_km": 41.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "ACN",
+            "station_name": "ADHICHCHANUR"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 1,
+            "departure_time": "06:42",
+            "distance_km": 67.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "TNM",
+            "station_name": "TIRUVANNAMALAI"
+        },
+        {
+            "arrival_time": "07:09",
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 99.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "PRL",
+            "station_name": "POLUR"
+        },
+        {
+            "arrival_time": "07:23",
+            "day_of_journey": 1,
+            "departure_time": "07:24",
+            "distance_km": 115.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "ARV",
+            "station_name": "ARNI ROAD"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 1,
+            "departure_time": "07:31",
+            "distance_km": 122.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "SDPT",
+            "station_name": "SEDARAMPATTU"
+        },
+        {
+            "arrival_time": "07:36",
+            "day_of_journey": 1,
+            "departure_time": "07:37",
+            "distance_km": 126.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "OPM",
+            "station_name": "ONNUPURAM"
+        },
+        {
+            "arrival_time": "07:44",
+            "day_of_journey": 1,
+            "departure_time": "07:45",
+            "distance_km": 130.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "KMM",
+            "station_name": "KANNAMANGALAM"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 151.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "VLR",
+            "station_name": "VELLORE CANTONMENT"
+        },
+        {
+            "arrival_time": "09:05",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 160.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "09:24",
+            "day_of_journey": 1,
+            "departure_time": "09:25",
+            "distance_km": 176.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "RAM",
+            "station_name": "RAMAPURAM"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 1,
+            "departure_time": "09:40",
+            "distance_km": 193.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "CTO",
+            "station_name": "CHITTOOR"
+        },
+        {
+            "arrival_time": "10:03",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 223.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "PAK",
+            "station_name": "PAKALA JN"
+        },
+        {
+            "arrival_time": "10:29",
+            "day_of_journey": 1,
+            "departure_time": "10:30",
+            "distance_km": 252.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "CGI",
+            "station_name": "CHANDRAGIRI"
+        },
+        {
+            "arrival_time": "11:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 264.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        }
+    ],
+    "train_name": "VM-TPTY EXP",
+    "train_number": "16854",
+    "type": "MAIL EXPRESS "
+}

@@ -1,0 +1,143 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22858.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "22858-ANVT-SRC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:25",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 1,
+            "departure_time": "15:02",
+            "distance_km": 119.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 428.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 622.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "PRYJ",
+            "station_name": "PRAYAGRAJ JN"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 2,
+            "departure_time": "02:25",
+            "distance_km": 775.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "05:05",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 979.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "GAYA",
+            "station_name": "GAYA JN"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 2,
+            "departure_time": "08:05",
+            "distance_km": 1149.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "GMO",
+            "station_name": "NSC BOSE J GOMO"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 2,
+            "departure_time": "08:19",
+            "distance_km": 1159.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "KNF",
+            "station_name": "KHANODIH"
+        },
+        {
+            "arrival_time": "10:18",
+            "day_of_journey": 2,
+            "departure_time": "10:20",
+            "distance_km": 1241.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "PRR",
+            "station_name": "PURULIA JN."
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 2,
+            "departure_time": "12:25",
+            "distance_km": 1331.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 2,
+            "departure_time": "14:25",
+            "distance_km": 1465.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1574.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        }
+    ],
+    "train_name": "ANVT SRC SF EXP",
+    "train_number": "22858",
+    "type": "SUPERFAST "
+}

@@ -1,0 +1,126 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19031.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19031-SBIB-YNRK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SBIB",
+            "station_name": "SABARMATI BG"
+        },
+        {
+            "arrival_time": "11:52",
+            "day_of_journey": 1,
+            "departure_time": "11:55",
+            "distance_km": 23.0,
+            "sequence_number": 2,
+            "station_code": "GNC",
+            "station_name": "GANDHINAGAR CAPITAL"
+        },
+        {
+            "arrival_time": "12:13",
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 43.0,
+            "sequence_number": 3,
+            "station_code": "KLL",
+            "station_name": "KALOL"
+        },
+        {
+            "arrival_time": "12:44",
+            "day_of_journey": 1,
+            "departure_time": "12:49",
+            "distance_km": 85.0,
+            "sequence_number": 4,
+            "station_code": "MSH",
+            "station_name": "MAHESANA JN"
+        },
+        {
+            "arrival_time": "13:10",
+            "day_of_journey": 1,
+            "departure_time": "13:12",
+            "distance_km": 105.0,
+            "sequence_number": 5,
+            "station_code": "UJA",
+            "station_name": "UNJHA"
+        },
+        {
+            "arrival_time": "13:27",
+            "day_of_journey": 1,
+            "departure_time": "13:29",
+            "distance_km": 120.0,
+            "sequence_number": 6,
+            "station_code": "SID",
+            "station_name": "SIDDHPUR"
+        },
+        {
+            "arrival_time": "08:02",
+            "day_of_journey": 2,
+            "departure_time": "08:04",
+            "distance_km": 1095.0,
+            "sequence_number": 41,
+            "station_code": "DBD",
+            "station_name": "DEOBAND"
+        },
+        {
+            "arrival_time": "09:38",
+            "day_of_journey": 2,
+            "departure_time": "09:40",
+            "distance_km": 1123.0,
+            "sequence_number": 42,
+            "station_code": "TPZ",
+            "station_name": "TAPRI"
+        },
+        {
+            "arrival_time": "10:33",
+            "day_of_journey": 2,
+            "departure_time": "10:38",
+            "distance_km": 1155.0,
+            "sequence_number": 43,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 2,
+            "departure_time": "11:25",
+            "distance_km": 1196.0,
+            "sequence_number": 44,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1218.0,
+            "sequence_number": 45,
+            "station_code": "YNRK",
+            "station_name": "YOG NAGARI RISHIKESH"
+        }
+    ],
+    "train_name": "YOGA EXPRESS",
+    "train_number": "19031",
+    "type": "MAIL EXPRESS"
+}

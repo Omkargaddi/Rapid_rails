@@ -1,0 +1,196 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17256.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17256-LPI-NS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LPI",
+            "station_name": "LINGAMPALLI"
+        },
+        {
+            "arrival_time": "21:10",
+            "day_of_journey": 1,
+            "departure_time": "21:11",
+            "distance_km": 8.0,
+            "sequence_number": 2,
+            "station_code": "HTCY",
+            "station_name": "HIGH TECH CITY"
+        },
+        {
+            "arrival_time": "21:24",
+            "day_of_journey": 1,
+            "departure_time": "21:25",
+            "distance_km": 18.0,
+            "sequence_number": 3,
+            "station_code": "BMT",
+            "station_name": "BEGAMPET"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 23.0,
+            "sequence_number": 4,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "22:19",
+            "day_of_journey": 1,
+            "departure_time": "22:20",
+            "distance_km": 56.0,
+            "sequence_number": 5,
+            "station_code": "BN",
+            "station_name": "BIBINAGAR"
+        },
+        {
+            "arrival_time": "23:23",
+            "day_of_journey": 1,
+            "departure_time": "23:24",
+            "distance_km": 132.0,
+            "sequence_number": 6,
+            "station_code": "NLDA",
+            "station_name": "NALGONDA"
+        },
+        {
+            "arrival_time": "00:59",
+            "day_of_journey": 2,
+            "departure_time": "01:00",
+            "distance_km": 229.0,
+            "sequence_number": 7,
+            "station_code": "PGRL",
+            "station_name": "PIDUGURALLA"
+        },
+        {
+            "arrival_time": "02:45",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 303.0,
+            "sequence_number": 8,
+            "station_code": "GNT",
+            "station_name": "GUNTUR JN"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 2,
+            "departure_time": "03:16",
+            "distance_km": 325.0,
+            "sequence_number": 9,
+            "station_code": "MAG",
+            "station_name": "MANGALAGIRI"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 336.0,
+            "sequence_number": 10,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 379.0,
+            "sequence_number": 11,
+            "station_code": "GDV",
+            "station_name": "GUDIVADA JN"
+        },
+        {
+            "arrival_time": "05:19",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 401.0,
+            "sequence_number": 12,
+            "station_code": "MDVL",
+            "station_name": "MANDAVALLI"
+        },
+        {
+            "arrival_time": "05:28",
+            "day_of_journey": 2,
+            "departure_time": "05:30",
+            "distance_km": 408.0,
+            "sequence_number": 13,
+            "station_code": "KKLR",
+            "station_name": "KAIKOLUR"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 425.0,
+            "sequence_number": 14,
+            "station_code": "AKVD",
+            "station_name": "AKIVIDU"
+        },
+        {
+            "arrival_time": "06:08",
+            "day_of_journey": 2,
+            "departure_time": "06:10",
+            "distance_km": 443.0,
+            "sequence_number": 15,
+            "station_code": "BVRT",
+            "station_name": "BHIMAVARAM TOWN"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 445.0,
+            "sequence_number": 16,
+            "station_code": "BVRM",
+            "station_name": "BHIMAVARAM JN"
+        },
+        {
+            "arrival_time": "06:54",
+            "day_of_journey": 2,
+            "departure_time": "06:55",
+            "distance_km": 456.0,
+            "sequence_number": 17,
+            "station_code": "VVM",
+            "station_name": "VIRAVASARAM"
+        },
+        {
+            "arrival_time": "07:18",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 466.0,
+            "sequence_number": 18,
+            "station_code": "PKO",
+            "station_name": "PALAKOLLU"
+        },
+        {
+            "arrival_time": "08:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 474.0,
+            "sequence_number": 19,
+            "station_code": "NS",
+            "station_name": "NARASAPUR"
+        }
+    ],
+    "train_name": "NARASAPUR EXP Valid From : 07-Jan-2026",
+    "train_number": "17256",
+    "type": "MAIL EXPRESS"
+}

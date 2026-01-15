@@ -1,0 +1,173 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12196.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12196-AII-AF",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "15:21",
+            "day_of_journey": 1,
+            "departure_time": "15:23",
+            "distance_km": 25.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "15:55",
+            "day_of_journey": 1,
+            "departure_time": "15:57",
+            "distance_km": 69.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "NRI",
+            "station_name": "NARAINA"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 134.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "17:01",
+            "day_of_journey": 1,
+            "departure_time": "17:04",
+            "distance_km": 140.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "GADJ",
+            "station_name": "GANDHINAGAR JAIPUR"
+        },
+        {
+            "arrival_time": "17:11",
+            "day_of_journey": 1,
+            "departure_time": "17:13",
+            "distance_km": 145.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "GTJT",
+            "station_name": "GETOR JAGATPURA"
+        },
+        {
+            "arrival_time": "17:47",
+            "day_of_journey": 1,
+            "departure_time": "17:49",
+            "distance_km": 195.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "DO",
+            "station_name": "DAUSA JUNCTION"
+        },
+        {
+            "arrival_time": "18:28",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 225.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BKI",
+            "station_name": "BANDIKUI JN"
+        },
+        {
+            "arrival_time": "18:54",
+            "day_of_journey": 1,
+            "departure_time": "18:56",
+            "distance_km": 257.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "MURD",
+            "station_name": "MANDAWAR M RD"
+        },
+        {
+            "arrival_time": "19:13",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 276.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "KL",
+            "station_name": "KHERLI"
+        },
+        {
+            "arrival_time": "19:29",
+            "day_of_journey": 1,
+            "departure_time": "19:31",
+            "distance_km": 293.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "NBI",
+            "station_name": "NADBAI"
+        },
+        {
+            "arrival_time": "19:50",
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 321.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BTE",
+            "station_name": "BHARATPUR JN"
+        },
+        {
+            "arrival_time": "20:17",
+            "day_of_journey": 1,
+            "departure_time": "20:19",
+            "distance_km": 349.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "AH",
+            "station_name": "ACHHNERA JN"
+        },
+        {
+            "arrival_time": "20:53",
+            "day_of_journey": 1,
+            "departure_time": "20:55",
+            "distance_km": 373.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "IDH",
+            "station_name": "IDGAH JN"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 375.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "AF",
+            "station_name": "AGRA FORT"
+        }
+    ],
+    "train_name": "AII AF INTERCTY",
+    "train_number": "12196",
+    "type": "SUPERFAST "
+}

@@ -1,0 +1,185 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12232.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12232-CDG-LKO",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 45.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "22:24",
+            "day_of_journey": 1,
+            "departure_time": "22:26",
+            "distance_km": 91.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "JUDW",
+            "station_name": "JAGADHRI WSHOP"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:35",
+            "distance_km": 96.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 126.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "23:59",
+            "day_of_journey": 2,
+            "departure_time": "00:01",
+            "distance_km": 161.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "00:18",
+            "day_of_journey": 2,
+            "departure_time": "00:20",
+            "distance_km": 179.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "LRJ",
+            "station_name": "LAKSAR JN"
+        },
+        {
+            "arrival_time": "00:51",
+            "day_of_journey": 2,
+            "departure_time": "00:53",
+            "distance_km": 221.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "NBD",
+            "station_name": "NAJIBABAD JN"
+        },
+        {
+            "arrival_time": "01:11",
+            "day_of_journey": 2,
+            "departure_time": "01:13",
+            "distance_km": 243.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "NGG",
+            "station_name": "NAGINA"
+        },
+        {
+            "arrival_time": "01:28",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 259.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "DPR",
+            "station_name": "DHAMPUR"
+        },
+        {
+            "arrival_time": "01:42",
+            "day_of_journey": 2,
+            "departure_time": "01:44",
+            "distance_km": 273.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "SEO",
+            "station_name": "SEOHARA"
+        },
+        {
+            "arrival_time": "02:59",
+            "day_of_journey": 2,
+            "departure_time": "03:07",
+            "distance_km": 319.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "04:22",
+            "day_of_journey": 2,
+            "departure_time": "04:24",
+            "distance_km": 409.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "05:36",
+            "day_of_journey": 2,
+            "departure_time": "05:38",
+            "distance_km": 480.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 542.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "HRI",
+            "station_name": "HARDOI"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 644.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        }
+    ],
+    "train_name": "CDG LKO EXPRESS",
+    "train_number": "12232",
+    "type": "MAIL EXPRESS "
+}

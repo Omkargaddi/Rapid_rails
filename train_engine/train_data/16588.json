@@ -1,0 +1,164 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16588.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "16588-BKN-YPR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "19:00",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BKN",
+            "station_name": "BIKANER JN"
+        },
+        {
+            "arrival_time": "19:49",
+            "day_of_journey": 1,
+            "departure_time": "19:51",
+            "distance_km": 65.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "NOK",
+            "station_name": "NOKHA"
+        },
+        {
+            "arrival_time": "20:21",
+            "day_of_journey": 1,
+            "departure_time": "20:26",
+            "distance_km": 117.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "NGO",
+            "station_name": "NAGAUR"
+        },
+        {
+            "arrival_time": "21:08",
+            "day_of_journey": 1,
+            "departure_time": "21:13",
+            "distance_km": 174.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "MTD",
+            "station_name": "MERTA ROAD JN"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 278.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        },
+        {
+            "arrival_time": "23:31",
+            "day_of_journey": 1,
+            "departure_time": "23:34",
+            "distance_km": 310.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "LUNI",
+            "station_name": "LUNI JN"
+        },
+        {
+            "arrival_time": "00:03",
+            "day_of_journey": 2,
+            "departure_time": "00:08",
+            "distance_km": 351.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "PMY",
+            "station_name": "PALI MARWAR"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 381.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "MJ",
+            "station_name": "MARWAR JN"
+        },
+        {
+            "arrival_time": "01:47",
+            "day_of_journey": 2,
+            "departure_time": "01:49",
+            "distance_km": 433.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "RANI",
+            "station_name": "RANI"
+        },
+        {
+            "arrival_time": "02:01",
+            "day_of_journey": 2,
+            "departure_time": "02:03",
+            "distance_km": 448.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "FA",
+            "station_name": "FALNA"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 547.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "ABR",
+            "station_name": "ABU ROAD"
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 2,
+            "departure_time": "04:22",
+            "distance_km": 599.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "PNU",
+            "station_name": "PALANPUR JN"
+        },
+        {
+            "arrival_time": "13:13",
+            "day_of_journey": 3,
+            "departure_time": "13:15",
+            "distance_km": 2374.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "TK",
+            "station_name": "TUMKUR"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2439.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        }
+    ],
+    "train_name": "BKN YPR EXP",
+    "train_number": "16588",
+    "type": "MAIL EXPRESS "
+}

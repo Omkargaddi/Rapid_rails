@@ -1,0 +1,150 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15723.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "15723-JBN-SGUT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JBN",
+            "station_name": "JOGBANI"
+        },
+        {
+            "arrival_time": "05:13",
+            "day_of_journey": 1,
+            "departure_time": "05:15",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "FBG",
+            "station_name": "FORBESGANJ JN"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 1,
+            "departure_time": "05:37",
+            "distance_km": 38.0,
+            "sequence_number": 3,
+            "station_code": "ARR",
+            "station_name": "ARARIYA JN."
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 1,
+            "departure_time": "05:47",
+            "distance_km": 80.0,
+            "sequence_number": 4,
+            "station_code": "PRNA",
+            "station_name": "PURNIA JN"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 108.0,
+            "sequence_number": 5,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 1,
+            "departure_time": "07:37",
+            "distance_km": 139.0,
+            "sequence_number": 6,
+            "station_code": "SRI",
+            "station_name": "SALMARI"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 1,
+            "departure_time": "07:52",
+            "distance_km": 149.0,
+            "sequence_number": 7,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 1,
+            "departure_time": "08:22",
+            "distance_km": 178.0,
+            "sequence_number": 8,
+            "station_code": "DLK",
+            "station_name": "DALKOLHA"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 1,
+            "departure_time": "08:52",
+            "distance_km": 206.0,
+            "sequence_number": 9,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "09:20",
+            "day_of_journey": 1,
+            "departure_time": "09:22",
+            "distance_km": 237.0,
+            "sequence_number": 10,
+            "station_code": "AUB",
+            "station_name": "ALUABARI ROAD"
+        },
+        {
+            "arrival_time": "09:45",
+            "day_of_journey": 1,
+            "departure_time": "09:47",
+            "distance_km": 257.0,
+            "sequence_number": 11,
+            "station_code": "TKG",
+            "station_name": "THAKURGANJ"
+        },
+        {
+            "arrival_time": "10:35",
+            "day_of_journey": 1,
+            "departure_time": "10:37",
+            "distance_km": 303.0,
+            "sequence_number": 12,
+            "station_code": "BORA",
+            "station_name": "BAGHDOGRA"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 313.0,
+            "sequence_number": 13,
+            "station_code": "SGUJ",
+            "station_name": "SILIGURI JN"
+        },
+        {
+            "arrival_time": "12:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 315.0,
+            "sequence_number": 14,
+            "station_code": "SGUT",
+            "station_name": "SILIGURI TOWN"
+        }
+    ],
+    "train_name": "JBN SGUT EXPRESS",
+    "train_number": "15723",
+    "type": "MAIL EXPRESS"
+}

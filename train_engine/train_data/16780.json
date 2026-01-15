@@ -1,0 +1,87 @@
+{
+    "classes_available": [
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16780.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16780-RMM-TPTY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RMM",
+            "station_name": "RAMESWARAM"
+        },
+        {
+            "arrival_time": "17:13",
+            "day_of_journey": 1,
+            "departure_time": "17:15",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "MMM",
+            "station_name": "MANDAPAM"
+        },
+        {
+            "arrival_time": "17:43",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 54.0,
+            "sequence_number": 3,
+            "station_code": "RMD",
+            "station_name": "RAMANATHAPURAM"
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 90.0,
+            "sequence_number": 4,
+            "station_code": "PMK",
+            "station_name": "PARAMAKKUDI"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 114.0,
+            "sequence_number": 5,
+            "station_code": "MNM",
+            "station_name": "MANAMADURAI JN"
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 161.0,
+            "sequence_number": 6,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "10:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 828.0,
+            "sequence_number": 24,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        }
+    ],
+    "train_name": "RMM TPTY EXP",
+    "train_number": "16780",
+    "type": "MAIL EXPRESS"
+}

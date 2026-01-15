@@ -1,0 +1,152 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12506.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12506-ANVT-KYQ",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        },
+        {
+            "arrival_time": "09:13",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 119.0,
+            "sequence_number": 2,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "10:23",
+            "day_of_journey": 1,
+            "departure_time": "10:25",
+            "distance_km": 197.0,
+            "sequence_number": 3,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "11:38",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 289.0,
+            "sequence_number": 4,
+            "station_code": "ETW",
+            "station_name": "ETAWAH JN"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 1,
+            "departure_time": "13:35",
+            "distance_km": 428.0,
+            "sequence_number": 5,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 1,
+            "departure_time": "14:32",
+            "distance_km": 505.0,
+            "sequence_number": 6,
+            "station_code": "FTP",
+            "station_name": "FATEHPUR"
+        },
+        {
+            "arrival_time": "10:13",
+            "day_of_journey": 2,
+            "departure_time": "10:15",
+            "distance_km": 1578.0,
+            "sequence_number": 24,
+            "station_code": "NCB",
+            "station_name": "NEW COOCH BEHAR"
+        },
+        {
+            "arrival_time": "10:33",
+            "day_of_journey": 2,
+            "departure_time": "10:35",
+            "distance_km": 1597.0,
+            "sequence_number": 25,
+            "station_code": "NOQ",
+            "station_name": "NEW ALIPURDUAR"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 2,
+            "departure_time": "11:07",
+            "distance_km": 1642.0,
+            "sequence_number": 26,
+            "station_code": "GOGH",
+            "station_name": "GOSSAIGAON HAT"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 2,
+            "departure_time": "11:32",
+            "distance_km": 1675.0,
+            "sequence_number": 27,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 2,
+            "departure_time": "12:20",
+            "distance_km": 1706.0,
+            "sequence_number": 28,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "12:58",
+            "day_of_journey": 2,
+            "departure_time": "13:00",
+            "distance_km": 1751.0,
+            "sequence_number": 29,
+            "station_code": "BPRD",
+            "station_name": "BARPETA ROAD"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 2,
+            "departure_time": "14:05",
+            "distance_km": 1816.0,
+            "sequence_number": 30,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1857.0,
+            "sequence_number": 31,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        }
+    ],
+    "train_name": "NORTH EAST EXP",
+    "train_number": "12506",
+    "type": "SUPERFAST"
+}

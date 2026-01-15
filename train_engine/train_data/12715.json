@@ -1,0 +1,223 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12715.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12715-NED-ASR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": "10:02",
+            "distance_km": 30.0,
+            "sequence_number": 2,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "10:35",
+            "day_of_journey": 1,
+            "departure_time": "10:40",
+            "distance_km": 59.0,
+            "sequence_number": 3,
+            "station_code": "PBN",
+            "station_name": "PARBHANI JN"
+        },
+        {
+            "arrival_time": "11:11",
+            "day_of_journey": 1,
+            "departure_time": "11:12",
+            "distance_km": 102.0,
+            "sequence_number": 4,
+            "station_code": "SELU",
+            "station_name": "SELU"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 1,
+            "departure_time": "12:25",
+            "distance_km": 173.0,
+            "sequence_number": 5,
+            "station_code": "J",
+            "station_name": "JALNA"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 236.0,
+            "sequence_number": 6,
+            "station_code": "CPSN",
+            "station_name": "CHHATRAPATI SAMBHAJINAGAR"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 2,
+            "departure_time": "10:22",
+            "distance_km": 1489.0,
+            "sequence_number": 24,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "12:00",
+            "day_of_journey": 2,
+            "departure_time": "12:02",
+            "distance_km": 1601.0,
+            "sequence_number": 25,
+            "station_code": "FDB",
+            "station_name": "FARIDABAD"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 2,
+            "departure_time": "12:37",
+            "distance_km": 1622.0,
+            "sequence_number": 26,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 2,
+            "departure_time": "13:20",
+            "distance_km": 1629.0,
+            "sequence_number": 27,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "14:22",
+            "day_of_journey": 2,
+            "departure_time": "14:24",
+            "distance_km": 1719.0,
+            "sequence_number": 28,
+            "station_code": "PNP",
+            "station_name": "PANIPAT JN"
+        },
+        {
+            "arrival_time": "14:46",
+            "day_of_journey": 2,
+            "departure_time": "14:48",
+            "distance_km": 1753.0,
+            "sequence_number": 29,
+            "station_code": "KUN",
+            "station_name": "KARNAL"
+        },
+        {
+            "arrival_time": "15:11",
+            "day_of_journey": 2,
+            "departure_time": "15:13",
+            "distance_km": 1786.0,
+            "sequence_number": 30,
+            "station_code": "KKDE",
+            "station_name": "KURUKSHETRA JN"
+        },
+        {
+            "arrival_time": "16:25",
+            "day_of_journey": 2,
+            "departure_time": "16:30",
+            "distance_km": 1828.0,
+            "sequence_number": 31,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "16:51",
+            "day_of_journey": 2,
+            "departure_time": "16:53",
+            "distance_km": 1856.0,
+            "sequence_number": 32,
+            "station_code": "RPJ",
+            "station_name": "RAJPURA JN"
+        },
+        {
+            "arrival_time": "17:23",
+            "day_of_journey": 2,
+            "departure_time": "17:25",
+            "distance_km": 1881.0,
+            "sequence_number": 33,
+            "station_code": "SIR",
+            "station_name": "SIRHIND JN"
+        },
+        {
+            "arrival_time": "17:37",
+            "day_of_journey": 2,
+            "departure_time": "17:39",
+            "distance_km": 1899.0,
+            "sequence_number": 34,
+            "station_code": "KNN",
+            "station_name": "KHANNA"
+        },
+        {
+            "arrival_time": "18:58",
+            "day_of_journey": 2,
+            "departure_time": "19:08",
+            "distance_km": 1941.0,
+            "sequence_number": 35,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "19:38",
+            "day_of_journey": 2,
+            "departure_time": "19:40",
+            "distance_km": 1977.0,
+            "sequence_number": 36,
+            "station_code": "PGW",
+            "station_name": "PHAGWARA JN"
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 2,
+            "departure_time": "20:20",
+            "distance_km": 1998.0,
+            "sequence_number": 37,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 2,
+            "departure_time": "20:52",
+            "distance_km": 2034.0,
+            "sequence_number": 38,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 2077.0,
+            "sequence_number": 39,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        }
+    ],
+    "train_name": "SACHKHAND SF EX",
+    "train_number": "12715",
+    "type": "SUPERFAST"
+}

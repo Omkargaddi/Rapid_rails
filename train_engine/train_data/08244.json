@@ -1,0 +1,213 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_08244.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "08244-BL-BSP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "17:35",
+            "day_of_journey": 1,
+            "departure_time": "17:40",
+            "distance_km": 59.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BHET",
+            "station_name": "BHESTAN"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:12",
+            "distance_km": 74.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "CHM",
+            "station_name": "CHALTHAN"
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 219.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "NDB",
+            "station_name": "NANDURBAR"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:07",
+            "distance_km": 314.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "AN",
+            "station_name": "AMALNER"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:43",
+            "distance_km": 369.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 394.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 2,
+            "departure_time": "00:52",
+            "distance_km": 444.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "MKU",
+            "station_name": "MALKAPUR"
+        },
+        {
+            "arrival_time": "02:17",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 534.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "AK",
+            "station_name": "AKOLA JN."
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:43",
+            "distance_km": 613.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BD",
+            "station_name": "BADNERA JN."
+        },
+        {
+            "arrival_time": "05:07",
+            "day_of_journey": 2,
+            "departure_time": "05:10",
+            "distance_km": 708.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "WR",
+            "station_name": "WARDHA JN"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 2,
+            "departure_time": "06:25",
+            "distance_km": 787.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 2,
+            "departure_time": "08:35",
+            "distance_km": 917.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "09:40",
+            "day_of_journey": 2,
+            "departure_time": "09:42",
+            "distance_km": 990.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "DGG",
+            "station_name": "DONGARGARH"
+        },
+        {
+            "arrival_time": "10:07",
+            "day_of_journey": 2,
+            "departure_time": "10:09",
+            "distance_km": 1021.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "RJN",
+            "station_name": "RAJNANDGAON"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 2,
+            "departure_time": "10:52",
+            "distance_km": 1052.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 2,
+            "departure_time": "11:40",
+            "distance_km": 1089.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 2,
+            "departure_time": "12:37",
+            "distance_km": 1153.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1204.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        }
+    ],
+    "train_name": "BL BSP SPL",
+    "train_number": "08244",
+    "type": "TRAIN ON DEMAND "
+}

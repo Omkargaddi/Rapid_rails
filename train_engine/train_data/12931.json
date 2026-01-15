@@ -1,0 +1,131 @@
+{
+    "classes_available": [
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12931.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12931-MMCT-ADI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:30",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "MMCT",
+            "station_name": "MUMBAI CENTRAL"
+        },
+        {
+            "arrival_time": "14:52",
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 30.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "16:28",
+            "day_of_journey": 1,
+            "departure_time": "16:30",
+            "distance_km": 168.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "16:53",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 194.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "17:18",
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 233.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "17:52",
+            "day_of_journey": 1,
+            "departure_time": "17:57",
+            "distance_km": 262.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 1,
+            "departure_time": "18:37",
+            "distance_km": 321.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "19:28",
+            "day_of_journey": 1,
+            "departure_time": "19:33",
+            "distance_km": 392.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "20:07",
+            "day_of_journey": 1,
+            "departure_time": "20:09",
+            "distance_km": 426.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 444.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 490.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        }
+    ],
+    "train_name": "ADI DOUBLE DECKR",
+    "train_number": "12931",
+    "type": "SUPERFAST "
+}

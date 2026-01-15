@@ -1,0 +1,196 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12768.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12768-SRC-NED",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 109.0,
+            "sequence_number": 2,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "17:23",
+            "day_of_journey": 1,
+            "departure_time": "17:28",
+            "distance_km": 243.0,
+            "sequence_number": 3,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 305.0,
+            "sequence_number": 4,
+            "station_code": "CKP",
+            "station_name": "CHAKARADHARPUR"
+        },
+        {
+            "arrival_time": "19:52",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 406.0,
+            "sequence_number": 5,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "22:03",
+            "day_of_journey": 1,
+            "departure_time": "22:05",
+            "distance_km": 508.0,
+            "sequence_number": 6,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "01:15",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 712.0,
+            "sequence_number": 7,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "02:55",
+            "day_of_journey": 2,
+            "departure_time": "03:00",
+            "distance_km": 828.0,
+            "sequence_number": 8,
+            "station_code": "R",
+            "station_name": "RAIPUR JN."
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 865.0,
+            "sequence_number": 9,
+            "station_code": "DURG",
+            "station_name": "DURG"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 2,
+            "departure_time": "05:50",
+            "distance_km": 1001.0,
+            "sequence_number": 10,
+            "station_code": "G",
+            "station_name": "GONDIA JN"
+        },
+        {
+            "arrival_time": "08:10",
+            "day_of_journey": 2,
+            "departure_time": "08:20",
+            "distance_km": 1131.0,
+            "sequence_number": 11,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "10:15",
+            "day_of_journey": 2,
+            "departure_time": "10:20",
+            "distance_km": 1292.0,
+            "sequence_number": 12,
+            "station_code": "MJRI",
+            "station_name": "MAJRI JN"
+        },
+        {
+            "arrival_time": "10:48",
+            "day_of_journey": 2,
+            "departure_time": "10:50",
+            "distance_km": 1305.0,
+            "sequence_number": 13,
+            "station_code": "WANI",
+            "station_name": "WANI"
+        },
+        {
+            "arrival_time": "13:08",
+            "day_of_journey": 2,
+            "departure_time": "13:10",
+            "distance_km": 1370.0,
+            "sequence_number": 14,
+            "station_code": "PMKT",
+            "station_name": "PIMPALKHUTI"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 2,
+            "departure_time": "13:40",
+            "distance_km": 1391.0,
+            "sequence_number": 15,
+            "station_code": "ADB",
+            "station_name": "ADILABAD"
+        },
+        {
+            "arrival_time": "14:19",
+            "day_of_journey": 2,
+            "departure_time": "14:20",
+            "distance_km": 1437.0,
+            "sequence_number": 16,
+            "station_code": "KNVT",
+            "station_name": "KINWAT"
+        },
+        {
+            "arrival_time": "15:09",
+            "day_of_journey": 2,
+            "departure_time": "15:10",
+            "distance_km": 1496.0,
+            "sequence_number": 17,
+            "station_code": "HEM",
+            "station_name": "HIMAYATNAGAR"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 2,
+            "departure_time": "17:30",
+            "distance_km": 1564.0,
+            "sequence_number": 18,
+            "station_code": "MUE",
+            "station_name": "MUDKHED"
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1586.0,
+            "sequence_number": 19,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        }
+    ],
+    "train_name": "SRC NED SUF EXP",
+    "train_number": "12768",
+    "type": "SUPERFAST"
+}

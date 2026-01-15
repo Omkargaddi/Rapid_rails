@@ -1,0 +1,124 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16615.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16615-MQ-CBE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "MQ",
+            "station_name": "MANNARGUDI"
+        },
+        {
+            "arrival_time": "20:45",
+            "day_of_journey": 1,
+            "departure_time": "20:47",
+            "distance_km": 13.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "NMJ",
+            "station_name": "NIDAMANGALAM JN."
+        },
+        {
+            "arrival_time": "21:38",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 43.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "TJ",
+            "station_name": "THANJAVUR JN."
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "21:56",
+            "distance_km": 61.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BAL",
+            "station_name": "BUDALUR"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 93.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "Point(2)",
+            "station_name": "TIRUCHCHIRAPPALLI JN. TPJ Train Reversal"
+        },
+        {
+            "arrival_time": "00:08",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 169.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "KRR",
+            "station_name": "KARUR JN."
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 234.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "02:48",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 285.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "03:59",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 332.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "CBF",
+            "station_name": "COIMBATORE NORTH JN."
+        },
+        {
+            "arrival_time": "04:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 335.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        }
+    ],
+    "train_name": "CHEMMOZHI EXP",
+    "train_number": "16615",
+    "type": "MAIL EXPRESS "
+}

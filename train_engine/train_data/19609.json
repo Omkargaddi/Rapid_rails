@@ -1,0 +1,174 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19609.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "19609-UDZ-YNRK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:45",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "UDZ",
+            "station_name": "UDAIPUR CITY"
+        },
+        {
+            "arrival_time": "13:52",
+            "day_of_journey": 1,
+            "departure_time": "13:54",
+            "distance_km": 4.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "RPZ",
+            "station_name": "RANA PRATAP NAGAR"
+        },
+        {
+            "arrival_time": "14:28",
+            "day_of_journey": 1,
+            "departure_time": "14:30",
+            "distance_km": 42.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "MVJ",
+            "station_name": "MAVLI JN"
+        },
+        {
+            "arrival_time": "14:41",
+            "day_of_journey": 1,
+            "departure_time": "14:43",
+            "distance_km": 56.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "FAN",
+            "station_name": "FATEHNAGAR"
+        },
+        {
+            "arrival_time": "14:54",
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 68.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BSJ",
+            "station_name": "BHUPALSAGAR"
+        },
+        {
+            "arrival_time": "15:06",
+            "day_of_journey": 1,
+            "departure_time": "15:07",
+            "distance_km": 79.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "KIN",
+            "station_name": "KAPASAN"
+        },
+        {
+            "arrival_time": "15:50",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 114.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "COR",
+            "station_name": "CHITTAURGARH JN."
+        },
+        {
+            "arrival_time": "16:33",
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 136.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "GGR",
+            "station_name": "GANGRAR"
+        },
+        {
+            "arrival_time": "16:47",
+            "day_of_journey": 1,
+            "departure_time": "16:49",
+            "distance_km": 150.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "HMG",
+            "station_name": "HAMIRGARH"
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 168.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BHL",
+            "station_name": "BHILWARA"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 1,
+            "departure_time": "17:22",
+            "distance_km": 179.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "MDL",
+            "station_name": "MANDAL"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:02",
+            "distance_km": 235.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "BJNR",
+            "station_name": "BIJAINAGAR"
+        },
+        {
+            "arrival_time": "09:28",
+            "day_of_journey": 2,
+            "departure_time": "09:30",
+            "distance_km": 983.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "RWL",
+            "station_name": "RAIWALA"
+        },
+        {
+            "arrival_time": "09:43",
+            "day_of_journey": 2,
+            "departure_time": "09:45",
+            "distance_km": 989.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "VRH",
+            "station_name": "VIRBHADRA"
+        },
+        {
+            "arrival_time": "10:15",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 994.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "YNRK",
+            "station_name": "YOG NAGARI RISHIKESH"
+        }
+    ],
+    "train_name": "UDZ YNRK EXP",
+    "train_number": "19609",
+    "type": "MAIL EXPRESS "
+}

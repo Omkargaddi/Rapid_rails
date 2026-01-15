@@ -1,0 +1,115 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16589.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16589-SBC-SLI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 1,
+            "departure_time": "23:12",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        },
+        {
+            "arrival_time": "23:56",
+            "day_of_journey": 1,
+            "departure_time": "23:58",
+            "distance_km": 71.0,
+            "sequence_number": 3,
+            "station_code": "TK",
+            "station_name": "TUMKUR"
+        },
+        {
+            "arrival_time": "00:56",
+            "day_of_journey": 2,
+            "departure_time": "00:58",
+            "distance_km": 141.0,
+            "sequence_number": 4,
+            "station_code": "TTR",
+            "station_name": "TIPTUR"
+        },
+        {
+            "arrival_time": "01:19",
+            "day_of_journey": 2,
+            "departure_time": "01:21",
+            "distance_km": 166.0,
+            "sequence_number": 5,
+            "station_code": "ASK",
+            "station_name": "ARSIKERE JN"
+        },
+        {
+            "arrival_time": "01:49",
+            "day_of_journey": 2,
+            "departure_time": "01:51",
+            "distance_km": 205.0,
+            "sequence_number": 6,
+            "station_code": "DRU",
+            "station_name": "KADUR"
+        },
+        {
+            "arrival_time": "10:54",
+            "day_of_journey": 2,
+            "departure_time": "10:55",
+            "distance_km": 715.0,
+            "sequence_number": 24,
+            "station_code": "KUD",
+            "station_name": "KUDACHI"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 2,
+            "departure_time": "11:06",
+            "distance_km": 721.0,
+            "sequence_number": 25,
+            "station_code": "UGR",
+            "station_name": "UGAR KHURD"
+        },
+        {
+            "arrival_time": "12:30",
+            "day_of_journey": 2,
+            "departure_time": "12:35",
+            "distance_km": 748.0,
+            "sequence_number": 26,
+            "station_code": "MRJ",
+            "station_name": "MIRAJ JN."
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 755.0,
+            "sequence_number": 27,
+            "station_code": "SLI",
+            "station_name": "SANGLI"
+        }
+    ],
+    "train_name": "RANI CHENNAMMA",
+    "train_number": "16589",
+    "type": "MAIL EXPRESS"
+}

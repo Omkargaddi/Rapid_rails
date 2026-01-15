@@ -1,0 +1,135 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22844.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22844-BXR-BSP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BXR",
+            "station_name": "BUXAR"
+        },
+        {
+            "arrival_time": "21:54",
+            "day_of_journey": 1,
+            "departure_time": "21:56",
+            "distance_km": 16.0,
+            "sequence_number": 2,
+            "station_code": "DURE",
+            "station_name": "DUMRAON"
+        },
+        {
+            "arrival_time": "22:08",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 33.0,
+            "sequence_number": 3,
+            "station_code": "RPR",
+            "station_name": "RAGHUNATHPUR"
+        },
+        {
+            "arrival_time": "22:22",
+            "day_of_journey": 1,
+            "departure_time": "22:24",
+            "distance_km": 47.0,
+            "sequence_number": 4,
+            "station_code": "BEA",
+            "station_name": "BIHIYA"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "22:52",
+            "distance_km": 69.0,
+            "sequence_number": 5,
+            "station_code": "ARA",
+            "station_name": "ARA"
+        },
+        {
+            "arrival_time": "23:08",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 91.0,
+            "sequence_number": 6,
+            "station_code": "BTA",
+            "station_name": "BIHTA"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 2,
+            "departure_time": "12:42",
+            "distance_km": 809.0,
+            "sequence_number": 24,
+            "station_code": "GP",
+            "station_name": "RAJ GANGPUR"
+        },
+        {
+            "arrival_time": "14:03",
+            "day_of_journey": 2,
+            "departure_time": "14:05",
+            "distance_km": 881.0,
+            "sequence_number": 25,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "14:25",
+            "day_of_journey": 2,
+            "departure_time": "14:27",
+            "distance_km": 892.0,
+            "sequence_number": 26,
+            "station_code": "BRJN",
+            "station_name": "BRAJRAJNAGAR"
+        },
+        {
+            "arrival_time": "15:08",
+            "day_of_journey": 2,
+            "departure_time": "15:10",
+            "distance_km": 952.0,
+            "sequence_number": 27,
+            "station_code": "RIG",
+            "station_name": "RAIGARH"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 2,
+            "departure_time": "16:10",
+            "distance_km": 1033.0,
+            "sequence_number": 28,
+            "station_code": "CPH",
+            "station_name": "CHAMPA"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1085.0,
+            "sequence_number": 29,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        }
+    ],
+    "train_name": "BXR BSP SF EXP",
+    "train_number": "22844",
+    "type": "SUPERFAST"
+}

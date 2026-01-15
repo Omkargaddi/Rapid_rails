@@ -1,0 +1,152 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12591.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12591-GKP-YPR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:33",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "07:09",
+            "day_of_journey": 1,
+            "departure_time": "07:11",
+            "distance_km": 35.0,
+            "sequence_number": 2,
+            "station_code": "KLD",
+            "station_name": "KHALILABAD"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 1,
+            "departure_time": "07:37",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "BST",
+            "station_name": "BASTI"
+        },
+        {
+            "arrival_time": "08:21",
+            "day_of_journey": 1,
+            "departure_time": "08:23",
+            "distance_km": 126.0,
+            "sequence_number": 4,
+            "station_code": "MUR",
+            "station_name": "MANKAPUR JN"
+        },
+        {
+            "arrival_time": "08:51",
+            "day_of_journey": 1,
+            "departure_time": "08:54",
+            "distance_km": 154.0,
+            "sequence_number": 5,
+            "station_code": "GD",
+            "station_name": "GONDA JN"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 1,
+            "departure_time": "10:27",
+            "distance_km": 242.0,
+            "sequence_number": 6,
+            "station_code": "BBK",
+            "station_name": "BARABANKI JN"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:03",
+            "distance_km": 267.0,
+            "sequence_number": 7,
+            "station_code": "BNZ",
+            "station_name": "BADSHAHNAGAR"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 1,
+            "departure_time": "11:45",
+            "distance_km": 275.0,
+            "sequence_number": 8,
+            "station_code": "ASH",
+            "station_name": "AISHBAGH"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 1,
+            "departure_time": "12:42",
+            "distance_km": 334.0,
+            "sequence_number": 9,
+            "station_code": "ON",
+            "station_name": "UNNAO JN"
+        },
+        {
+            "arrival_time": "13:12",
+            "day_of_journey": 1,
+            "departure_time": "13:17",
+            "distance_km": 351.0,
+            "sequence_number": 10,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "14:15",
+            "day_of_journey": 1,
+            "departure_time": "14:17",
+            "distance_km": 410.0,
+            "sequence_number": 11,
+            "station_code": "PHN",
+            "station_name": "POKHRAYAN"
+        },
+        {
+            "arrival_time": "14:51",
+            "day_of_journey": 1,
+            "departure_time": "14:53",
+            "distance_km": 457.0,
+            "sequence_number": 12,
+            "station_code": "ORAI",
+            "station_name": "ORAI"
+        },
+        {
+            "arrival_time": "23:42",
+            "day_of_journey": 2,
+            "departure_time": "23:43",
+            "distance_km": 2420.0,
+            "sequence_number": 36,
+            "station_code": "HUP",
+            "station_name": "HINDUPUR"
+        },
+        {
+            "arrival_time": "02:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2514.0,
+            "sequence_number": 37,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        }
+    ],
+    "train_name": "GKP YPR EXPRESS",
+    "train_number": "12591",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,121 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12059.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12059-KOTA-NZM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "06:23",
+            "day_of_journey": 1,
+            "departure_time": "06:25",
+            "distance_km": 13.0,
+            "sequence_number": 2,
+            "station_code": "KPTN",
+            "station_name": "KESHORAI PATAN"
+        },
+        {
+            "arrival_time": "07:18",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 108.0,
+            "sequence_number": 3,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 171.0,
+            "sequence_number": 4,
+            "station_code": "GGC",
+            "station_name": "GANGAPUR CITY"
+        },
+        {
+            "arrival_time": "08:21",
+            "day_of_journey": 1,
+            "departure_time": "08:23",
+            "distance_km": 206.0,
+            "sequence_number": 5,
+            "station_code": "SMVJ",
+            "station_name": "SHRI MAHAVEERJI"
+        },
+        {
+            "arrival_time": "08:33",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 216.0,
+            "sequence_number": 6,
+            "station_code": "HAN",
+            "station_name": "HINDAUN CITY"
+        },
+        {
+            "arrival_time": "08:58",
+            "day_of_journey": 1,
+            "departure_time": "09:00",
+            "distance_km": 249.0,
+            "sequence_number": 7,
+            "station_code": "BXN",
+            "station_name": "BAYANA JN"
+        },
+        {
+            "arrival_time": "09:28",
+            "day_of_journey": 1,
+            "departure_time": "09:30",
+            "distance_km": 290.0,
+            "sequence_number": 8,
+            "station_code": "BTE",
+            "station_name": "BHARATPUR JN"
+        },
+        {
+            "arrival_time": "10:10",
+            "day_of_journey": 1,
+            "departure_time": "10:15",
+            "distance_km": 324.0,
+            "sequence_number": 9,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "11:36",
+            "day_of_journey": 1,
+            "departure_time": "11:38",
+            "distance_km": 429.0,
+            "sequence_number": 10,
+            "station_code": "BVH",
+            "station_name": "BALLABGARH"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 457.0,
+            "sequence_number": 11,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        }
+    ],
+    "train_name": "NZM JAN SHATABDI",
+    "train_number": "12059",
+    "type": "JAN SHATABDI"
+}

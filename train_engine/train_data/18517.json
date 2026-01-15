@@ -1,0 +1,144 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18517.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18517-KRBA-VSKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KRBA",
+            "station_name": "KORBA"
+        },
+        {
+            "arrival_time": "16:46",
+            "day_of_journey": 1,
+            "departure_time": "16:51",
+            "distance_km": 38.0,
+            "sequence_number": 2,
+            "station_code": "CPH",
+            "station_name": "CHAMPA"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 1,
+            "departure_time": "17:02",
+            "distance_km": 48.0,
+            "sequence_number": 3,
+            "station_code": "NIA",
+            "station_name": "JANJGIR NAILA"
+        },
+        {
+            "arrival_time": "17:14",
+            "day_of_journey": 1,
+            "departure_time": "17:16",
+            "distance_km": 63.0,
+            "sequence_number": 4,
+            "station_code": "AKT",
+            "station_name": "AKALTARA"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 90.0,
+            "sequence_number": 5,
+            "station_code": "BSP",
+            "station_name": "BILASPUR JN."
+        },
+        {
+            "arrival_time": "18:48",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 142.0,
+            "sequence_number": 6,
+            "station_code": "BYT",
+            "station_name": "BHATAPARA"
+        },
+        {
+            "arrival_time": "03:10",
+            "day_of_journey": 2,
+            "departure_time": "03:15",
+            "distance_km": 550.0,
+            "sequence_number": 24,
+            "station_code": "RGDA",
+            "station_name": "RAYAGADA"
+        },
+        {
+            "arrival_time": "03:53",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 595.0,
+            "sequence_number": 25,
+            "station_code": "PVPT",
+            "station_name": "PARVATIPURAM TN"
+        },
+        {
+            "arrival_time": "03:58",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 597.0,
+            "sequence_number": 26,
+            "station_code": "PVP",
+            "station_name": "PARVATIPURAM"
+        },
+        {
+            "arrival_time": "04:23",
+            "day_of_journey": 2,
+            "departure_time": "04:25",
+            "distance_km": 621.0,
+            "sequence_number": 27,
+            "station_code": "VBL",
+            "station_name": "BOBBILI"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 674.0,
+            "sequence_number": 28,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "05:58",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 727.0,
+            "sequence_number": 29,
+            "station_code": "SCM",
+            "station_name": "SIMHACHALAM"
+        },
+        {
+            "arrival_time": "06:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 735.0,
+            "sequence_number": 30,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        }
+    ],
+    "train_name": "KRBA VSKP EXP",
+    "train_number": "18517",
+    "type": "MAIL EXPRESS"
+}

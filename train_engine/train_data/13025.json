@@ -1,0 +1,287 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13025.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "13025-HWH-BPL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "13:27",
+            "day_of_journey": 1,
+            "departure_time": "13:29",
+            "distance_km": 95.0,
+            "sequence_number": 2,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "14:22",
+            "day_of_journey": 1,
+            "departure_time": "14:24",
+            "distance_km": 157.0,
+            "sequence_number": 3,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "14:54",
+            "day_of_journey": 1,
+            "departure_time": "14:59",
+            "distance_km": 199.0,
+            "sequence_number": 4,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 257.0,
+            "sequence_number": 5,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "17:48",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 303.0,
+            "sequence_number": 6,
+            "station_code": "PUS",
+            "station_name": "PHUSRO"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:12",
+            "distance_km": 323.0,
+            "sequence_number": 7,
+            "station_code": "GMIA",
+            "station_name": "GUMIA"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 366.0,
+            "sequence_number": 8,
+            "station_code": "RRME",
+            "station_name": "RANCHI ROAD"
+        },
+        {
+            "arrival_time": "20:11",
+            "day_of_journey": 1,
+            "departure_time": "20:13",
+            "distance_km": 390.0,
+            "sequence_number": 9,
+            "station_code": "PTRU",
+            "station_name": "PATRATU"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:02",
+            "distance_km": 454.0,
+            "sequence_number": 10,
+            "station_code": "TORI",
+            "station_name": "TORI"
+        },
+        {
+            "arrival_time": "21:56",
+            "day_of_journey": 1,
+            "departure_time": "21:58",
+            "distance_km": 486.0,
+            "sequence_number": 11,
+            "station_code": "LTHR",
+            "station_name": "LATEHAR"
+        },
+        {
+            "arrival_time": "22:27",
+            "day_of_journey": 1,
+            "departure_time": "22:29",
+            "distance_km": 527.0,
+            "sequence_number": 12,
+            "station_code": "BRWD",
+            "station_name": "BARWADIH JN"
+        },
+        {
+            "arrival_time": "22:53",
+            "day_of_journey": 1,
+            "departure_time": "22:58",
+            "distance_km": 554.0,
+            "sequence_number": 13,
+            "station_code": "DTO",
+            "station_name": "DALTONGANJ"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 588.0,
+            "sequence_number": 14,
+            "station_code": "GHD",
+            "station_name": "GARWA ROAD JN"
+        },
+        {
+            "arrival_time": "00:04",
+            "day_of_journey": 2,
+            "departure_time": "00:06",
+            "distance_km": 598.0,
+            "sequence_number": 15,
+            "station_code": "GHQ",
+            "station_name": "GARHWA"
+        },
+        {
+            "arrival_time": "01:16",
+            "day_of_journey": 2,
+            "departure_time": "01:18",
+            "distance_km": 687.0,
+            "sequence_number": 16,
+            "station_code": "RNQ",
+            "station_name": "RENUKUT"
+        },
+        {
+            "arrival_time": "02:10",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 729.0,
+            "sequence_number": 17,
+            "station_code": "CPU",
+            "station_name": "CHOPAN"
+        },
+        {
+            "arrival_time": "03:05",
+            "day_of_journey": 2,
+            "departure_time": "03:07",
+            "distance_km": 741.0,
+            "sequence_number": 18,
+            "station_code": "OBR",
+            "station_name": "OBRA DAM"
+        },
+        {
+            "arrival_time": "04:52",
+            "day_of_journey": 2,
+            "departure_time": "04:57",
+            "distance_km": 792.0,
+            "sequence_number": 19,
+            "station_code": "SGRL",
+            "station_name": "SINGRAULI"
+        },
+        {
+            "arrival_time": "05:33",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 811.0,
+            "sequence_number": 20,
+            "station_code": "BRGW",
+            "station_name": "BARGAWAN"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 2,
+            "departure_time": "07:40",
+            "distance_km": 941.0,
+            "sequence_number": 21,
+            "station_code": "BEHR",
+            "station_name": "BEOHARI"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 2,
+            "departure_time": "10:50",
+            "distance_km": 1055.0,
+            "sequence_number": 22,
+            "station_code": "KMZ",
+            "station_name": "KATNI MURWARA"
+        },
+        {
+            "arrival_time": "12:08",
+            "day_of_journey": 2,
+            "departure_time": "12:10",
+            "distance_km": 1163.0,
+            "sequence_number": 23,
+            "station_code": "DMO",
+            "station_name": "DAMOH"
+        },
+        {
+            "arrival_time": "12:33",
+            "day_of_journey": 2,
+            "departure_time": "12:35",
+            "distance_km": 1190.0,
+            "sequence_number": 24,
+            "station_code": "PHA",
+            "station_name": "PATHARIA"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 2,
+            "departure_time": "13:20",
+            "distance_km": 1241.0,
+            "sequence_number": 25,
+            "station_code": "SGO",
+            "station_name": "SAUGOR"
+        },
+        {
+            "arrival_time": "14:18",
+            "day_of_journey": 2,
+            "departure_time": "14:20",
+            "distance_km": 1293.0,
+            "sequence_number": 26,
+            "station_code": "KYE",
+            "station_name": "KHURAI"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 2,
+            "departure_time": "16:10",
+            "distance_km": 1315.0,
+            "sequence_number": 27,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "17:08",
+            "day_of_journey": 2,
+            "departure_time": "17:10",
+            "distance_km": 1400.0,
+            "sequence_number": 28,
+            "station_code": "BHS",
+            "station_name": "VIDISHA"
+        },
+        {
+            "arrival_time": "18:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1454.0,
+            "sequence_number": 29,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        }
+    ],
+    "train_name": "HWH BPL EXPRESS",
+    "train_number": "13025",
+    "type": "MAIL EXPRESS"
+}

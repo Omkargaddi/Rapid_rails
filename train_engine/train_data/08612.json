@@ -1,0 +1,202 @@
+{
+    "classes_available": [
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_08612.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "08612-AII-SRC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "00:03",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 23.0,
+            "sequence_number": 2,
+            "station_code": "NSD",
+            "station_name": "NASIRABAD"
+        },
+        {
+            "arrival_time": "00:32",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 65.0,
+            "sequence_number": 3,
+            "station_code": "BJNR",
+            "station_name": "BIJAINAGAR"
+        },
+        {
+            "arrival_time": "01:10",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 132.0,
+            "sequence_number": 4,
+            "station_code": "BHL",
+            "station_name": "BHILWARA"
+        },
+        {
+            "arrival_time": "02:45",
+            "day_of_journey": 2,
+            "departure_time": "03:25",
+            "distance_km": 178.0,
+            "sequence_number": 5,
+            "station_code": "CNA",
+            "station_name": "CHANDERIA"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": "04:12",
+            "distance_km": 234.0,
+            "sequence_number": 6,
+            "station_code": "MLGH",
+            "station_name": "MANDAL GARH"
+        },
+        {
+            "arrival_time": "00:26",
+            "day_of_journey": 3,
+            "departure_time": "00:28",
+            "distance_km": 1263.0,
+            "sequence_number": 24,
+            "station_code": "RNQ",
+            "station_name": "RENUKUT"
+        },
+        {
+            "arrival_time": "02:15",
+            "day_of_journey": 3,
+            "departure_time": "02:17",
+            "distance_km": 1362.0,
+            "sequence_number": 25,
+            "station_code": "GHD",
+            "station_name": "GARWA ROAD JN"
+        },
+        {
+            "arrival_time": "02:48",
+            "day_of_journey": 3,
+            "departure_time": "02:50",
+            "distance_km": 1396.0,
+            "sequence_number": 26,
+            "station_code": "DTO",
+            "station_name": "DALTONGANJ"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 3,
+            "departure_time": "03:17",
+            "distance_km": 1423.0,
+            "sequence_number": 27,
+            "station_code": "BRWD",
+            "station_name": "BARWADIH JN"
+        },
+        {
+            "arrival_time": "03:47",
+            "day_of_journey": 3,
+            "departure_time": "03:49",
+            "distance_km": 1464.0,
+            "sequence_number": 28,
+            "station_code": "LTHR",
+            "station_name": "LATEHAR"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 3,
+            "departure_time": "04:32",
+            "distance_km": 1496.0,
+            "sequence_number": 29,
+            "station_code": "TORI",
+            "station_name": "TORI"
+        },
+        {
+            "arrival_time": "05:10",
+            "day_of_journey": 3,
+            "departure_time": "05:12",
+            "distance_km": 1540.0,
+            "sequence_number": 30,
+            "station_code": "LAD",
+            "station_name": "LOHARDAGA BS"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 3,
+            "departure_time": "07:05",
+            "distance_km": 1607.0,
+            "sequence_number": 31,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 3,
+            "departure_time": "08:20",
+            "distance_km": 1667.0,
+            "sequence_number": 32,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "09:40",
+            "day_of_journey": 3,
+            "departure_time": "09:42",
+            "distance_km": 1727.0,
+            "sequence_number": 33,
+            "station_code": "PRR",
+            "station_name": "PURULIA JN."
+        },
+        {
+            "arrival_time": "10:33",
+            "day_of_journey": 3,
+            "departure_time": "10:35",
+            "distance_km": 1781.0,
+            "sequence_number": 34,
+            "station_code": "CNI",
+            "station_name": "CHANDIL JN."
+        },
+        {
+            "arrival_time": "11:32",
+            "day_of_journey": 3,
+            "departure_time": "11:37",
+            "distance_km": 1818.0,
+            "sequence_number": 35,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 3,
+            "departure_time": "13:55",
+            "distance_km": 1952.0,
+            "sequence_number": 36,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2061.0,
+            "sequence_number": 37,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        }
+    ],
+    "train_name": "AII SRC SPL",
+    "train_number": "08612",
+    "type": "TRAIN ON DEMAND"
+}

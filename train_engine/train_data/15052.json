@@ -1,0 +1,242 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15052.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15052-GKP-KOAA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 1,
+            "departure_time": "10:40",
+            "distance_km": 20.0,
+            "sequence_number": 2,
+            "station_code": "PPC",
+            "station_name": "PIPRAICH"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 40.0,
+            "sequence_number": 3,
+            "station_code": "CPJ",
+            "station_name": "KAPTANGANJ JN"
+        },
+        {
+            "arrival_time": "11:23",
+            "day_of_journey": 1,
+            "departure_time": "11:25",
+            "distance_km": 66.0,
+            "sequence_number": 4,
+            "station_code": "SBZ",
+            "station_name": "SISWA BAZAR"
+        },
+        {
+            "arrival_time": "12:37",
+            "day_of_journey": 1,
+            "departure_time": "12:39",
+            "distance_km": 109.0,
+            "sequence_number": 5,
+            "station_code": "BUG",
+            "station_name": "BAGAHA"
+        },
+        {
+            "arrival_time": "13:25",
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 151.0,
+            "sequence_number": 6,
+            "station_code": "NKE",
+            "station_name": "NARKATIAGANJ JN"
+        },
+        {
+            "arrival_time": "14:03",
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 187.0,
+            "sequence_number": 7,
+            "station_code": "BTH",
+            "station_name": "BETTIAH"
+        },
+        {
+            "arrival_time": "14:25",
+            "day_of_journey": 1,
+            "departure_time": "14:27",
+            "distance_km": 209.0,
+            "sequence_number": 8,
+            "station_code": "SGL",
+            "station_name": "SAGAULI JN"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 231.0,
+            "sequence_number": 9,
+            "station_code": "BMKI",
+            "station_name": "BAPUDM MOTIHARI"
+        },
+        {
+            "arrival_time": "15:28",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 262.0,
+            "sequence_number": 10,
+            "station_code": "CAA",
+            "station_name": "CHAKIA"
+        },
+        {
+            "arrival_time": "15:38",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 270.0,
+            "sequence_number": 11,
+            "station_code": "MAI",
+            "station_name": "MEHSI"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 1,
+            "departure_time": "17:00",
+            "distance_km": 310.0,
+            "sequence_number": 12,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 362.0,
+            "sequence_number": 13,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 413.0,
+            "sequence_number": 14,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 503.0,
+            "sequence_number": 15,
+            "station_code": "JAJ",
+            "station_name": "JHAJHA"
+        },
+        {
+            "arrival_time": "22:10",
+            "day_of_journey": 1,
+            "departure_time": "22:15",
+            "distance_km": 547.0,
+            "sequence_number": 16,
+            "station_code": "JSME",
+            "station_name": "JASIDIH JN."
+        },
+        {
+            "arrival_time": "22:36",
+            "day_of_journey": 1,
+            "departure_time": "22:39",
+            "distance_km": 577.0,
+            "sequence_number": 17,
+            "station_code": "MDP",
+            "station_name": "MADHUPUR JN."
+        },
+        {
+            "arrival_time": "23:22",
+            "day_of_journey": 1,
+            "departure_time": "23:24",
+            "distance_km": 633.0,
+            "sequence_number": 18,
+            "station_code": "CRJ",
+            "station_name": "CHITTARANJAN"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 2,
+            "departure_time": "00:11",
+            "distance_km": 658.0,
+            "sequence_number": 19,
+            "station_code": "ASN",
+            "station_name": "ASANSOL JN."
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 2,
+            "departure_time": "00:42",
+            "distance_km": 700.0,
+            "sequence_number": 20,
+            "station_code": "DGR",
+            "station_name": "DURGAPUR"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:37",
+            "distance_km": 762.0,
+            "sequence_number": 21,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "02:25",
+            "day_of_journey": 2,
+            "departure_time": "02:27",
+            "distance_km": 830.0,
+            "sequence_number": 22,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 2,
+            "departure_time": "03:02",
+            "distance_km": 839.0,
+            "sequence_number": 23,
+            "station_code": "NH",
+            "station_name": "NAIHATI JN"
+        },
+        {
+            "arrival_time": "04:40",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 873.0,
+            "sequence_number": 24,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        }
+    ],
+    "train_name": "GKP KOAA EXP",
+    "train_number": "15052",
+    "type": "MAIL EXPRESS"
+}

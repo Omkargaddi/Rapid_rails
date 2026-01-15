@@ -1,0 +1,197 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19711.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19711-JP-BPL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "18:32",
+            "day_of_journey": 1,
+            "departure_time": "18:34",
+            "distance_km": 9.0,
+            "sequence_number": 2,
+            "station_code": "KKU",
+            "station_name": "KANAKPURA"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 1,
+            "departure_time": "18:57",
+            "distance_km": 37.0,
+            "sequence_number": 3,
+            "station_code": "JOB",
+            "station_name": "ASALPURJOBNER"
+        },
+        {
+            "arrival_time": "19:07",
+            "day_of_journey": 1,
+            "departure_time": "19:09",
+            "distance_km": 46.0,
+            "sequence_number": 4,
+            "station_code": "HDA",
+            "station_name": "HIRNODA"
+        },
+        {
+            "arrival_time": "19:21",
+            "day_of_journey": 1,
+            "departure_time": "19:23",
+            "distance_km": 55.0,
+            "sequence_number": 5,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "19:34",
+            "day_of_journey": 1,
+            "departure_time": "19:36",
+            "distance_km": 65.0,
+            "sequence_number": 6,
+            "station_code": "NRI",
+            "station_name": "NARAINA"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 2,
+            "departure_time": "06:05",
+            "distance_km": 536.0,
+            "sequence_number": 24,
+            "station_code": "KUH",
+            "station_name": "KHACHROD"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 2,
+            "departure_time": "06:30",
+            "distance_km": 550.0,
+            "sequence_number": 25,
+            "station_code": "NAD",
+            "station_name": "NAGDA JN"
+        },
+        {
+            "arrival_time": "07:20",
+            "day_of_journey": 2,
+            "departure_time": "07:30",
+            "distance_km": 605.0,
+            "sequence_number": 26,
+            "station_code": "UJN",
+            "station_name": "UJJAIN JN"
+        },
+        {
+            "arrival_time": "07:57",
+            "day_of_journey": 2,
+            "departure_time": "07:59",
+            "distance_km": 637.0,
+            "sequence_number": 27,
+            "station_code": "TAN",
+            "station_name": "TARANA ROAD"
+        },
+        {
+            "arrival_time": "08:08",
+            "day_of_journey": 2,
+            "departure_time": "08:10",
+            "distance_km": 646.0,
+            "sequence_number": 28,
+            "station_code": "MKC",
+            "station_name": "MAKSI JUNCTION"
+        },
+        {
+            "arrival_time": "08:27",
+            "day_of_journey": 2,
+            "departure_time": "08:29",
+            "distance_km": 665.0,
+            "sequence_number": 29,
+            "station_code": "BCH",
+            "station_name": "BERCHHA"
+        },
+        {
+            "arrival_time": "08:42",
+            "day_of_journey": 2,
+            "departure_time": "08:43",
+            "distance_km": 677.0,
+            "sequence_number": 30,
+            "station_code": "KSH",
+            "station_name": "KALI SINDH"
+        },
+        {
+            "arrival_time": "08:58",
+            "day_of_journey": 2,
+            "departure_time": "09:00",
+            "distance_km": 695.0,
+            "sequence_number": 31,
+            "station_code": "AKD",
+            "station_name": "AKODIA"
+        },
+        {
+            "arrival_time": "09:13",
+            "day_of_journey": 2,
+            "departure_time": "09:15",
+            "distance_km": 708.0,
+            "sequence_number": 32,
+            "station_code": "SJP",
+            "station_name": "SHUJALPUR"
+        },
+        {
+            "arrival_time": "09:28",
+            "day_of_journey": 2,
+            "departure_time": "09:29",
+            "distance_km": 721.0,
+            "sequence_number": 33,
+            "station_code": "KPP",
+            "station_name": "KALAPIPAL"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": "09:52",
+            "distance_km": 750.0,
+            "sequence_number": 34,
+            "station_code": "SEH",
+            "station_name": "SEHORE"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 2,
+            "departure_time": "10:52",
+            "distance_km": 778.0,
+            "sequence_number": 35,
+            "station_code": "SHRN",
+            "station_name": "SANT HIRDARAM NAGAR"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 791.0,
+            "sequence_number": 36,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        }
+    ],
+    "train_name": "JP BPL EXPRESS",
+    "train_number": "19711",
+    "type": "MAIL EXPRESS"
+}

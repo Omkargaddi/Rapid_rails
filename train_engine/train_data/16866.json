@@ -1,0 +1,170 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16866.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16866-TJ-MS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TJ",
+            "station_name": "THANJAVUR JN."
+        },
+        {
+            "arrival_time": "22:11",
+            "day_of_journey": 1,
+            "departure_time": "22:12",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "PML",
+            "station_name": "PAPANASAM"
+        },
+        {
+            "arrival_time": "22:23",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 39.0,
+            "sequence_number": 3,
+            "station_code": "KMU",
+            "station_name": "KUMBAKONAM"
+        },
+        {
+            "arrival_time": "22:37",
+            "day_of_journey": 1,
+            "departure_time": "22:38",
+            "distance_km": 51.0,
+            "sequence_number": 4,
+            "station_code": "ADT",
+            "station_name": "ADUTURAI"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "22:51",
+            "distance_km": 62.0,
+            "sequence_number": 5,
+            "station_code": "KTM",
+            "station_name": "KUTTALAM"
+        },
+        {
+            "arrival_time": "23:03",
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 70.0,
+            "sequence_number": 6,
+            "station_code": "MV",
+            "station_name": "MAYILADUTURAI JN"
+        },
+        {
+            "arrival_time": "23:20",
+            "day_of_journey": 1,
+            "departure_time": "23:21",
+            "distance_km": 84.0,
+            "sequence_number": 7,
+            "station_code": "VDL",
+            "station_name": "VAITHISVARANKOIL"
+        },
+        {
+            "arrival_time": "23:26",
+            "day_of_journey": 1,
+            "departure_time": "23:27",
+            "distance_km": 90.0,
+            "sequence_number": 8,
+            "station_code": "SY",
+            "station_name": "SIRKAZHI"
+        },
+        {
+            "arrival_time": "23:44",
+            "day_of_journey": 1,
+            "departure_time": "23:46",
+            "distance_km": 107.0,
+            "sequence_number": 9,
+            "station_code": "CDM",
+            "station_name": "CHIDAMBARAM"
+        },
+        {
+            "arrival_time": "00:15",
+            "day_of_journey": 2,
+            "departure_time": "00:16",
+            "distance_km": 146.0,
+            "sequence_number": 10,
+            "station_code": "CUPJ",
+            "station_name": "CUDDALORE PORT JN."
+        },
+        {
+            "arrival_time": "01:38",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 192.0,
+            "sequence_number": 11,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "02:34",
+            "day_of_journey": 2,
+            "departure_time": "02:35",
+            "distance_km": 260.0,
+            "sequence_number": 12,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "03:03",
+            "day_of_journey": 2,
+            "departure_time": "03:05",
+            "distance_km": 295.0,
+            "sequence_number": 13,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "03:33",
+            "day_of_journey": 2,
+            "departure_time": "03:35",
+            "distance_km": 326.0,
+            "sequence_number": 14,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        },
+        {
+            "arrival_time": "03:53",
+            "day_of_journey": 2,
+            "departure_time": "03:55",
+            "distance_km": 344.0,
+            "sequence_number": 15,
+            "station_code": "MBM",
+            "station_name": "MAMBALAM"
+        },
+        {
+            "arrival_time": "04:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 351.0,
+            "sequence_number": 16,
+            "station_code": "MS",
+            "station_name": "CHENNAI EGMORE"
+        }
+    ],
+    "train_name": "UZHAVAN EXPRESS",
+    "train_number": "16866",
+    "type": "MAIL EXPRESS"
+}

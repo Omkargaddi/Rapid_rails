@@ -1,0 +1,151 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12834.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12834-HWH-ADI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        },
+        {
+            "arrival_time": "00:01",
+            "day_of_journey": 2,
+            "departure_time": "00:03",
+            "distance_km": 58.0,
+            "sequence_number": 2,
+            "station_code": "MCA",
+            "station_name": "MECHEDA"
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 116.0,
+            "sequence_number": 3,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "02:50",
+            "day_of_journey": 2,
+            "departure_time": "02:55",
+            "distance_km": 250.0,
+            "sequence_number": 4,
+            "station_code": "TATA",
+            "station_name": "TATANAGAR JN"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 2,
+            "departure_time": "03:52",
+            "distance_km": 313.0,
+            "sequence_number": 5,
+            "station_code": "CKP",
+            "station_name": "CHAKARADHARPUR"
+        },
+        {
+            "arrival_time": "05:17",
+            "day_of_journey": 2,
+            "departure_time": "05:25",
+            "distance_km": 413.0,
+            "sequence_number": 6,
+            "station_code": "ROU",
+            "station_name": "ROURKELA"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": "05:52",
+            "distance_km": 443.0,
+            "sequence_number": 7,
+            "station_code": "GP",
+            "station_name": "RAJ GANGPUR"
+        },
+        {
+            "arrival_time": "06:19",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 478.0,
+            "sequence_number": 8,
+            "station_code": "BMB",
+            "station_name": "BAMRA"
+        },
+        {
+            "arrival_time": "07:30",
+            "day_of_journey": 2,
+            "departure_time": "07:32",
+            "distance_km": 516.0,
+            "sequence_number": 9,
+            "station_code": "JSG",
+            "station_name": "JHARSUGUDA JN"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 2,
+            "departure_time": "07:52",
+            "distance_km": 527.0,
+            "sequence_number": 10,
+            "station_code": "BRJN",
+            "station_name": "BRAJRAJNAGAR"
+        },
+        {
+            "arrival_time": "08:01",
+            "day_of_journey": 2,
+            "departure_time": "08:03",
+            "distance_km": 536.0,
+            "sequence_number": 11,
+            "station_code": "BPH",
+            "station_name": "BELPAHAR"
+        },
+        {
+            "arrival_time": "08:35",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 587.0,
+            "sequence_number": 12,
+            "station_code": "RIG",
+            "station_name": "RAIGARH"
+        },
+        {
+            "arrival_time": "11:34",
+            "day_of_journey": 3,
+            "departure_time": "11:36",
+            "distance_km": 2091.0,
+            "sequence_number": 59,
+            "station_code": "MAN",
+            "station_name": "MANINAGAR"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2094.0,
+            "sequence_number": 60,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        }
+    ],
+    "train_name": "HWH ADI SUF EXP",
+    "train_number": "12834",
+    "type": "SUPERFAST"
+}

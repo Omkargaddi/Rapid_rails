@@ -1,0 +1,233 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12846.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12846-SMVB-BBS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "SMVB",
+            "station_name": "SMVT BENGALURU"
+        },
+        {
+            "arrival_time": "16:53",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 7.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "KJM",
+            "station_name": "KRISHNARAJAPURM"
+        },
+        {
+            "arrival_time": "17:04",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 17.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "WFD",
+            "station_name": "WHITEFIELD"
+        },
+        {
+            "arrival_time": "19:08",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 133.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 217.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "20:57",
+            "day_of_journey": 1,
+            "departure_time": "20:59",
+            "distance_km": 250.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "CTO",
+            "station_name": "CHITTOOR"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 321.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        },
+        {
+            "arrival_time": "22:30",
+            "day_of_journey": 1,
+            "departure_time": "22:40",
+            "distance_km": 331.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "00:03",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 414.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "00:34",
+            "day_of_journey": 2,
+            "departure_time": "00:35",
+            "distance_km": 452.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": "04:20",
+            "distance_km": 707.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "BZA",
+            "station_name": "VIJAYAWADA JN"
+        },
+        {
+            "arrival_time": "06:43",
+            "day_of_journey": 2,
+            "departure_time": "06:45",
+            "distance_km": 856.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "RJY",
+            "station_name": "RAJAMUNDRY"
+        },
+        {
+            "arrival_time": "07:34",
+            "day_of_journey": 2,
+            "departure_time": "07:35",
+            "distance_km": 906.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "SLO",
+            "station_name": "SAMALKOT JN"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 2,
+            "departure_time": "10:45",
+            "distance_km": 1057.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        },
+        {
+            "arrival_time": "11:35",
+            "day_of_journey": 2,
+            "departure_time": "11:40",
+            "distance_km": 1118.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "12:28",
+            "day_of_journey": 2,
+            "departure_time": "12:30",
+            "distance_km": 1187.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "CHE",
+            "station_name": "SRIKAKULAM ROAD"
+        },
+        {
+            "arrival_time": "13:58",
+            "day_of_journey": 2,
+            "departure_time": "14:00",
+            "distance_km": 1260.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "PSA",
+            "station_name": "PALASA"
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 2,
+            "departure_time": "14:40",
+            "distance_km": 1334.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "15:18",
+            "day_of_journey": 2,
+            "departure_time": "15:20",
+            "distance_km": 1409.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "BALU",
+            "station_name": "BALUGAN"
+        },
+        {
+            "arrival_time": "16:40",
+            "day_of_journey": 2,
+            "departure_time": "16:45",
+            "distance_km": 1480.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "18:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1499.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        }
+    ],
+    "train_name": "BHUBANESWAR EXP",
+    "train_number": "12846",
+    "type": "SUPERFAST "
+}

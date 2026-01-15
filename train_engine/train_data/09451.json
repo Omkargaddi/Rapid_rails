@@ -1,0 +1,160 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_09451.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "09451-GIMB-BGP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GIMB",
+            "station_name": "GANDHIDHAM BG"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 1,
+            "departure_time": "18:57",
+            "distance_km": 37.0,
+            "sequence_number": 2,
+            "station_code": "BCOB",
+            "station_name": "BHACHAU BG"
+        },
+        {
+            "arrival_time": "19:10",
+            "day_of_journey": 1,
+            "departure_time": "19:12",
+            "distance_km": 53.0,
+            "sequence_number": 3,
+            "station_code": "SIOB",
+            "station_name": "SAMAKHIALI B G"
+        },
+        {
+            "arrival_time": "20:33",
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 170.0,
+            "sequence_number": 4,
+            "station_code": "DHG",
+            "station_name": "DHRANGADHRA"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": "23:15",
+            "distance_km": 301.0,
+            "sequence_number": 5,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "00:11",
+            "day_of_journey": 2,
+            "departure_time": "00:13",
+            "distance_km": 346.0,
+            "sequence_number": 6,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:07",
+            "distance_km": 515.0,
+            "sequence_number": 7,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "06:00",
+            "day_of_journey": 2,
+            "departure_time": "06:05",
+            "distance_km": 629.0,
+            "sequence_number": 8,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 2,
+            "departure_time": "08:20",
+            "distance_km": 793.0,
+            "sequence_number": 9,
+            "station_code": "BWM",
+            "station_name": "BHAWANI MANDI"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 2,
+            "departure_time": "09:45",
+            "distance_km": 894.0,
+            "sequence_number": 10,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "10:55",
+            "day_of_journey": 2,
+            "departure_time": "11:00",
+            "distance_km": 1001.0,
+            "sequence_number": 11,
+            "station_code": "SWM",
+            "station_name": "SAWAI MADHOPUR JN"
+        },
+        {
+            "arrival_time": "11:55",
+            "day_of_journey": 2,
+            "departure_time": "12:00",
+            "distance_km": 1065.0,
+            "sequence_number": 12,
+            "station_code": "GGC",
+            "station_name": "GANGAPUR CITY"
+        },
+        {
+            "arrival_time": "17:05",
+            "day_of_journey": 3,
+            "departure_time": "17:10",
+            "distance_km": 2412.0,
+            "sequence_number": 36,
+            "station_code": "MGR",
+            "station_name": "MONGHYR"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 3,
+            "departure_time": "19:17",
+            "distance_km": 2444.0,
+            "sequence_number": 37,
+            "station_code": "SGG",
+            "station_name": "SULTANGANJ"
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2468.0,
+            "sequence_number": 38,
+            "station_code": "BGP",
+            "station_name": "BHAGALPUR"
+        }
+    ],
+    "train_name": "FESTIVAL SPECIAL",
+    "train_number": "09451",
+    "type": "TRAIN ON DEMAND"
+}

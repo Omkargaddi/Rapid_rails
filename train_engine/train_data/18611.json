@@ -1,0 +1,276 @@
+{
+    "classes_available": [
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18611.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "18611-RNC-BNRS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 60.0,
+            "sequence_number": 2,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "22:05",
+            "day_of_journey": 1,
+            "departure_time": "22:10",
+            "distance_km": 113.0,
+            "sequence_number": 3,
+            "station_code": "RMT",
+            "station_name": "RAMGARH CANTT"
+        },
+        {
+            "arrival_time": "22:50",
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 118.0,
+            "sequence_number": 4,
+            "station_code": "BRKA",
+            "station_name": "BARKA KANA"
+        },
+        {
+            "arrival_time": "23:16",
+            "day_of_journey": 1,
+            "departure_time": "23:18",
+            "distance_km": 138.0,
+            "sequence_number": 5,
+            "station_code": "PTRU",
+            "station_name": "PATRATU"
+        },
+        {
+            "arrival_time": "23:38",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 168.0,
+            "sequence_number": 6,
+            "station_code": "RAY",
+            "station_name": "RAY"
+        },
+        {
+            "arrival_time": "23:46",
+            "day_of_journey": 1,
+            "departure_time": "23:48",
+            "distance_km": 174.0,
+            "sequence_number": 7,
+            "station_code": "KLRE",
+            "station_name": "KHALARI"
+        },
+        {
+            "arrival_time": "00:09",
+            "day_of_journey": 2,
+            "departure_time": "00:11",
+            "distance_km": 203.0,
+            "sequence_number": 8,
+            "station_code": "TORI",
+            "station_name": "TORI"
+        },
+        {
+            "arrival_time": "00:36",
+            "day_of_journey": 2,
+            "departure_time": "00:38",
+            "distance_km": 235.0,
+            "sequence_number": 9,
+            "station_code": "LTHR",
+            "station_name": "LATEHAR"
+        },
+        {
+            "arrival_time": "01:08",
+            "day_of_journey": 2,
+            "departure_time": "01:10",
+            "distance_km": 276.0,
+            "sequence_number": 10,
+            "station_code": "BRWD",
+            "station_name": "BARWADIH JN"
+        },
+        {
+            "arrival_time": "01:35",
+            "day_of_journey": 2,
+            "departure_time": "01:40",
+            "distance_km": 303.0,
+            "sequence_number": 11,
+            "station_code": "DTO",
+            "station_name": "DALTONGANJ"
+        },
+        {
+            "arrival_time": "03:25",
+            "day_of_journey": 2,
+            "departure_time": "03:30",
+            "distance_km": 336.0,
+            "sequence_number": 12,
+            "station_code": "GHD",
+            "station_name": "GARWA ROAD JN"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 2,
+            "departure_time": "03:47",
+            "distance_km": 353.0,
+            "sequence_number": 13,
+            "station_code": "URD",
+            "station_name": "UNTARE ROAD"
+        },
+        {
+            "arrival_time": "03:59",
+            "day_of_journey": 2,
+            "departure_time": "04:01",
+            "distance_km": 364.0,
+            "sequence_number": 14,
+            "station_code": "MDJ",
+            "station_name": "MUHAMMADGANJ"
+        },
+        {
+            "arrival_time": "04:11",
+            "day_of_journey": 2,
+            "departure_time": "04:13",
+            "distance_km": 376.0,
+            "sequence_number": 15,
+            "station_code": "HDN",
+            "station_name": "HAIDARNAGAR"
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 2,
+            "departure_time": "04:22",
+            "distance_km": 383.0,
+            "sequence_number": 16,
+            "station_code": "JPL",
+            "station_name": "JAPLA"
+        },
+        {
+            "arrival_time": "04:29",
+            "day_of_journey": 2,
+            "departure_time": "04:31",
+            "distance_km": 391.0,
+            "sequence_number": 17,
+            "station_code": "KYF",
+            "station_name": "KAJRAT NAWADIH"
+        },
+        {
+            "arrival_time": "04:39",
+            "day_of_journey": 2,
+            "departure_time": "04:41",
+            "distance_km": 399.0,
+            "sequence_number": 18,
+            "station_code": "NBG",
+            "station_name": "NABINAGAR ROAD"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 407.0,
+            "sequence_number": 19,
+            "station_code": "BSYA",
+            "station_name": "BARKISALALYA"
+        },
+        {
+            "arrival_time": "04:58",
+            "day_of_journey": 2,
+            "departure_time": "05:00",
+            "distance_km": 413.0,
+            "sequence_number": 20,
+            "station_code": "ANH",
+            "station_name": "ANKORAH AKORHA"
+        },
+        {
+            "arrival_time": "05:26",
+            "day_of_journey": 2,
+            "departure_time": "05:28",
+            "distance_km": 435.0,
+            "sequence_number": 21,
+            "station_code": "DOS",
+            "station_name": "DEHRI ON SONE"
+        },
+        {
+            "arrival_time": "05:43",
+            "day_of_journey": 2,
+            "departure_time": "05:45",
+            "distance_km": 453.0,
+            "sequence_number": 22,
+            "station_code": "SSM",
+            "station_name": "SASARAM"
+        },
+        {
+            "arrival_time": "06:03",
+            "day_of_journey": 2,
+            "departure_time": "06:05",
+            "distance_km": 478.0,
+            "sequence_number": 23,
+            "station_code": "KTQ",
+            "station_name": "KUDRA"
+        },
+        {
+            "arrival_time": "06:22",
+            "day_of_journey": 2,
+            "departure_time": "06:24",
+            "distance_km": 500.0,
+            "sequence_number": 24,
+            "station_code": "BBU",
+            "station_name": "BHABUA ROAD"
+        },
+        {
+            "arrival_time": "07:45",
+            "day_of_journey": 2,
+            "departure_time": "07:50",
+            "distance_km": 554.0,
+            "sequence_number": 25,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "08:39",
+            "day_of_journey": 2,
+            "departure_time": "08:40",
+            "distance_km": 567.0,
+            "sequence_number": 26,
+            "station_code": "KEI",
+            "station_name": "KASHI"
+        },
+        {
+            "arrival_time": "08:57",
+            "day_of_journey": 2,
+            "departure_time": "09:07",
+            "distance_km": 572.0,
+            "sequence_number": 27,
+            "station_code": "BSB",
+            "station_name": "VARANASI"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 576.0,
+            "sequence_number": 28,
+            "station_code": "BNRS",
+            "station_name": "BANARAS"
+        }
+    ],
+    "train_name": "RNC BSBS EXP",
+    "train_number": "18611",
+    "type": "MAIL EXPRESS"
+}

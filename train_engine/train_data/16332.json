@@ -1,0 +1,89 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16332.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "16332-TVC-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 1,
+            "departure_time": "05:01",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "VAK",
+            "station_name": "VARKALA"
+        },
+        {
+            "arrival_time": "05:22",
+            "day_of_journey": 1,
+            "departure_time": "05:25",
+            "distance_km": 64.0,
+            "sequence_number": 3,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "06:02",
+            "day_of_journey": 1,
+            "departure_time": "06:04",
+            "distance_km": 105.0,
+            "sequence_number": 4,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "06:18",
+            "day_of_journey": 1,
+            "departure_time": "06:19",
+            "distance_km": 118.0,
+            "sequence_number": 5,
+            "station_code": "HAD",
+            "station_name": "HARIPAD"
+        },
+        {
+            "arrival_time": "18:37",
+            "day_of_journey": 2,
+            "departure_time": "18:40",
+            "distance_km": 1922.0,
+            "sequence_number": 40,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "19:05",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1931.0,
+            "sequence_number": 41,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "TVC CSMT EXP",
+    "train_number": "16332",
+    "type": "MAIL EXPRESS"
+}

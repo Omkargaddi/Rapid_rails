@@ -1,0 +1,188 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12925.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12925-BDTS-ASR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        },
+        {
+            "arrival_time": "11:53",
+            "day_of_journey": 1,
+            "departure_time": "11:55",
+            "distance_km": 19.0,
+            "sequence_number": 2,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "13:08",
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 108.0,
+            "sequence_number": 3,
+            "station_code": "DRD",
+            "station_name": "DAHANU ROAD"
+        },
+        {
+            "arrival_time": "13:38",
+            "day_of_journey": 1,
+            "departure_time": "13:40",
+            "distance_km": 157.0,
+            "sequence_number": 4,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "14:02",
+            "day_of_journey": 1,
+            "departure_time": "14:05",
+            "distance_km": 183.0,
+            "sequence_number": 5,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "14:43",
+            "day_of_journey": 1,
+            "departure_time": "14:45",
+            "distance_km": 222.0,
+            "sequence_number": 6,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "15:47",
+            "day_of_journey": 1,
+            "departure_time": "15:52",
+            "distance_km": 252.0,
+            "sequence_number": 7,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "16:38",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 311.0,
+            "sequence_number": 8,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 381.0,
+            "sequence_number": 9,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "19:03",
+            "day_of_journey": 1,
+            "departure_time": "19:05",
+            "distance_km": 453.0,
+            "sequence_number": 10,
+            "station_code": "GDA",
+            "station_name": "GODHRA JN"
+        },
+        {
+            "arrival_time": "19:55",
+            "day_of_journey": 1,
+            "departure_time": "19:57",
+            "distance_km": 525.0,
+            "sequence_number": 11,
+            "station_code": "DHD",
+            "station_name": "DAHOD"
+        },
+        {
+            "arrival_time": "20:22",
+            "day_of_journey": 1,
+            "departure_time": "20:24",
+            "distance_km": 558.0,
+            "sequence_number": 12,
+            "station_code": "MGN",
+            "station_name": "MEGHNAGAR"
+        },
+        {
+            "arrival_time": "17:39",
+            "day_of_journey": 2,
+            "departure_time": "17:47",
+            "distance_km": 1724.0,
+            "sequence_number": 36,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "18:16",
+            "day_of_journey": 2,
+            "departure_time": "18:18",
+            "distance_km": 1759.0,
+            "sequence_number": 37,
+            "station_code": "PGW",
+            "station_name": "PHAGWARA JN"
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 2,
+            "departure_time": "18:37",
+            "distance_km": 1776.0,
+            "sequence_number": 38,
+            "station_code": "JRC",
+            "station_name": "JALANDHAR CANT"
+        },
+        {
+            "arrival_time": "18:47",
+            "day_of_journey": 2,
+            "departure_time": "18:52",
+            "distance_km": 1781.0,
+            "sequence_number": 39,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "19:23",
+            "day_of_journey": 2,
+            "departure_time": "19:25",
+            "distance_km": 1817.0,
+            "sequence_number": 40,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "20:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1859.0,
+            "sequence_number": 41,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        }
+    ],
+    "train_name": "PASCHIM EXPRESS",
+    "train_number": "12925",
+    "type": "SUPERFAST"
+}

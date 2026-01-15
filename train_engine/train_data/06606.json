@@ -1,0 +1,78 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "CC",
+        "EC",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_06606.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "06606-JLWC-GATL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "03:15",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "JLWC",
+            "station_name": "JHALAWAR CITY"
+        },
+        {
+            "arrival_time": "03:23",
+            "day_of_journey": 1,
+            "departure_time": "03:24",
+            "distance_km": 7.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "JAPN",
+            "station_name": "JHALRAPATAN"
+        },
+        {
+            "arrival_time": "03:36",
+            "day_of_journey": 1,
+            "departure_time": "03:37",
+            "distance_km": 21.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "JAKA",
+            "station_name": "JUNAKHERA"
+        },
+        {
+            "arrival_time": "04:04",
+            "day_of_journey": 1,
+            "departure_time": "04:05",
+            "distance_km": 48.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "AKLA",
+            "station_name": "AKLERA"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 63.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "GATL",
+            "station_name": "GATL"
+        }
+    ],
+    "train_name": "JLWC-GATL MEMU SPL",
+    "train_number": "06606",
+    "type": "MEMU "
+}

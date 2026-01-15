@@ -1,0 +1,186 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12725.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12725-SBC-DWR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "13:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SBC",
+            "station_name": "KSR BENGALURU"
+        },
+        {
+            "arrival_time": "13:10",
+            "day_of_journey": 1,
+            "departure_time": "13:12",
+            "distance_km": 5.0,
+            "sequence_number": 2,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        },
+        {
+            "arrival_time": "13:58",
+            "day_of_journey": 1,
+            "departure_time": "14:00",
+            "distance_km": 71.0,
+            "sequence_number": 3,
+            "station_code": "TK",
+            "station_name": "TUMKUR"
+        },
+        {
+            "arrival_time": "14:45",
+            "day_of_journey": 1,
+            "departure_time": "14:46",
+            "distance_km": 141.0,
+            "sequence_number": 4,
+            "station_code": "TTR",
+            "station_name": "TIPTUR"
+        },
+        {
+            "arrival_time": "15:06",
+            "day_of_journey": 1,
+            "departure_time": "15:08",
+            "distance_km": 166.0,
+            "sequence_number": 5,
+            "station_code": "ASK",
+            "station_name": "ARSIKERE JN"
+        },
+        {
+            "arrival_time": "15:38",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 205.0,
+            "sequence_number": 6,
+            "station_code": "DRU",
+            "station_name": "KADUR"
+        },
+        {
+            "arrival_time": "15:48",
+            "day_of_journey": 1,
+            "departure_time": "15:50",
+            "distance_km": 211.0,
+            "sequence_number": 7,
+            "station_code": "RRB",
+            "station_name": "BIRUR JN"
+        },
+        {
+            "arrival_time": "16:04",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 229.0,
+            "sequence_number": 8,
+            "station_code": "AJP",
+            "station_name": "AJJAMPUR"
+        },
+        {
+            "arrival_time": "16:22",
+            "day_of_journey": 1,
+            "departure_time": "16:23",
+            "distance_km": 250.0,
+            "sequence_number": 9,
+            "station_code": "HSD",
+            "station_name": "HOSDURGA ROAD"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 1,
+            "departure_time": "16:53",
+            "distance_km": 279.0,
+            "sequence_number": 10,
+            "station_code": "JRU",
+            "station_name": "CHIKJAJUR JN"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 1,
+            "departure_time": "17:27",
+            "distance_km": 326.0,
+            "sequence_number": 11,
+            "station_code": "DVG",
+            "station_name": "DAVANGERE"
+        },
+        {
+            "arrival_time": "17:42",
+            "day_of_journey": 1,
+            "departure_time": "17:44",
+            "distance_km": 339.0,
+            "sequence_number": 12,
+            "station_code": "HRR",
+            "station_name": "HARIHAR"
+        },
+        {
+            "arrival_time": "17:59",
+            "day_of_journey": 1,
+            "departure_time": "18:01",
+            "distance_km": 362.0,
+            "sequence_number": 13,
+            "station_code": "RNR",
+            "station_name": "RANIBENNUR"
+        },
+        {
+            "arrival_time": "18:16",
+            "day_of_journey": 1,
+            "departure_time": "18:17",
+            "distance_km": 380.0,
+            "sequence_number": 14,
+            "station_code": "BYD",
+            "station_name": "BYADGI"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "18:32",
+            "distance_km": 394.0,
+            "sequence_number": 15,
+            "station_code": "HVR",
+            "station_name": "HAVERI"
+        },
+        {
+            "arrival_time": "19:39",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 423.0,
+            "sequence_number": 16,
+            "station_code": "YLG",
+            "station_name": "YALVIGI"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 469.0,
+            "sequence_number": 17,
+            "station_code": "UBL",
+            "station_name": "SSS HUBBALLI JN"
+        },
+        {
+            "arrival_time": "21:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 490.0,
+            "sequence_number": 18,
+            "station_code": "DWR",
+            "station_name": "DHARWAR"
+        }
+    ],
+    "train_name": "SIDDAGANGA EXP",
+    "train_number": "12725",
+    "type": "SUPERFAST"
+}

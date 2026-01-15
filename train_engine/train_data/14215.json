@@ -1,0 +1,130 @@
+{
+    "classes_available": [
+        "CC",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14215.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14215-PYGS-LKO",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PYGS",
+            "station_name": "PRAYAGRAJ SANGAM"
+        },
+        {
+            "arrival_time": "05:54",
+            "day_of_journey": 1,
+            "departure_time": "05:56",
+            "distance_km": 2.0,
+            "sequence_number": 2,
+            "station_code": "PRG",
+            "station_name": "PRAYAG"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 1,
+            "departure_time": "06:11",
+            "distance_km": 9.0,
+            "sequence_number": 3,
+            "station_code": "PFM",
+            "station_name": "PHAPHAMAU JN"
+        },
+        {
+            "arrival_time": "06:35",
+            "day_of_journey": 1,
+            "departure_time": "06:36",
+            "distance_km": 37.0,
+            "sequence_number": 4,
+            "station_code": "LGO",
+            "station_name": "LALGOPALGANJ"
+        },
+        {
+            "arrival_time": "06:49",
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 51.0,
+            "sequence_number": 5,
+            "station_code": "KHNM",
+            "station_name": "KUNDA HARNAMGNJ"
+        },
+        {
+            "arrival_time": "07:02",
+            "day_of_journey": 1,
+            "departure_time": "07:03",
+            "distance_km": 63.0,
+            "sequence_number": 6,
+            "station_code": "GRMR",
+            "station_name": "GARHI MANIKPUR"
+        },
+        {
+            "arrival_time": "07:11",
+            "day_of_journey": 1,
+            "departure_time": "07:12",
+            "distance_km": 70.0,
+            "sequence_number": 7,
+            "station_code": "PQN",
+            "station_name": "PWN KLAKNDER RD"
+        },
+        {
+            "arrival_time": "07:23",
+            "day_of_journey": 1,
+            "departure_time": "07:25",
+            "distance_km": 81.0,
+            "sequence_number": 8,
+            "station_code": "UCR",
+            "station_name": "UNCHAHAR JN"
+        },
+        {
+            "arrival_time": "07:40",
+            "day_of_journey": 1,
+            "departure_time": "07:41",
+            "distance_km": 98.0,
+            "sequence_number": 9,
+            "station_code": "LMN",
+            "station_name": "LACHHMANPUR"
+        },
+        {
+            "arrival_time": "08:05",
+            "day_of_journey": 1,
+            "departure_time": "08:10",
+            "distance_km": 119.0,
+            "sequence_number": 10,
+            "station_code": "RBL",
+            "station_name": "RAE BARELI JN"
+        },
+        {
+            "arrival_time": "08:37",
+            "day_of_journey": 1,
+            "departure_time": "08:38",
+            "distance_km": 149.0,
+            "sequence_number": 11,
+            "station_code": "BCN",
+            "station_name": "BACHHRAWAN"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 197.0,
+            "sequence_number": 12,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        }
+    ],
+    "train_name": "GANGA GOMTI EXP",
+    "train_number": "14215",
+    "type": "MAIL EXPRESS"
+}

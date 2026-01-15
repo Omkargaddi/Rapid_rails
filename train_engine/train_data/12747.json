@@ -1,0 +1,158 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12747.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12747-GNT-VKB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GNT",
+            "station_name": "GUNTUR JN"
+        },
+        {
+            "arrival_time": "06:23",
+            "day_of_journey": 1,
+            "departure_time": "06:24",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "SAP",
+            "station_name": "SATTENAPALLE"
+        },
+        {
+            "arrival_time": "06:48",
+            "day_of_journey": 1,
+            "departure_time": "06:49",
+            "distance_km": 74.0,
+            "sequence_number": 3,
+            "station_code": "PGRL",
+            "station_name": "PIDUGURALLA"
+        },
+        {
+            "arrival_time": "07:09",
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 95.0,
+            "sequence_number": 4,
+            "station_code": "NDKD",
+            "station_name": "NADIKODE"
+        },
+        {
+            "arrival_time": "07:26",
+            "day_of_journey": 1,
+            "departure_time": "07:27",
+            "distance_km": 113.0,
+            "sequence_number": 5,
+            "station_code": "VNUP",
+            "station_name": "VISHNUPURAM"
+        },
+        {
+            "arrival_time": "07:40",
+            "day_of_journey": 1,
+            "departure_time": "07:41",
+            "distance_km": 134.0,
+            "sequence_number": 6,
+            "station_code": "MRGA",
+            "station_name": "MIRYALAGUDA"
+        },
+        {
+            "arrival_time": "08:13",
+            "day_of_journey": 1,
+            "departure_time": "08:14",
+            "distance_km": 171.0,
+            "sequence_number": 7,
+            "station_code": "NLDA",
+            "station_name": "NALGONDA"
+        },
+        {
+            "arrival_time": "08:40",
+            "day_of_journey": 1,
+            "departure_time": "08:41",
+            "distance_km": 197.0,
+            "sequence_number": 8,
+            "station_code": "CTYL",
+            "station_name": "CHITYALA"
+        },
+        {
+            "arrival_time": "09:07",
+            "day_of_journey": 1,
+            "departure_time": "09:08",
+            "distance_km": 229.0,
+            "sequence_number": 9,
+            "station_code": "NRDP",
+            "station_name": "NAGIREDDIPALLI"
+        },
+        {
+            "arrival_time": "10:15",
+            "day_of_journey": 1,
+            "departure_time": "10:20",
+            "distance_km": 280.0,
+            "sequence_number": 10,
+            "station_code": "SC",
+            "station_name": "SECUNDERABAD JN"
+        },
+        {
+            "arrival_time": "10:34",
+            "day_of_journey": 1,
+            "departure_time": "10:35",
+            "distance_km": 285.0,
+            "sequence_number": 11,
+            "station_code": "BMT",
+            "station_name": "BEGAMPET"
+        },
+        {
+            "arrival_time": "10:44",
+            "day_of_journey": 1,
+            "departure_time": "10:45",
+            "distance_km": 289.0,
+            "sequence_number": 12,
+            "station_code": "SNF",
+            "station_name": "SANATNAGAR"
+        },
+        {
+            "arrival_time": "11:04",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 303.0,
+            "sequence_number": 13,
+            "station_code": "LPI",
+            "station_name": "LINGAMPALLI"
+        },
+        {
+            "arrival_time": "11:13",
+            "day_of_journey": 1,
+            "departure_time": "11:14",
+            "distance_km": 324.0,
+            "sequence_number": 14,
+            "station_code": "SKP",
+            "station_name": "SHANKARPALLI"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 353.0,
+            "sequence_number": 15,
+            "station_code": "VKB",
+            "station_name": "VIKARABAD JN"
+        }
+    ],
+    "train_name": "PALANADU SF EXP",
+    "train_number": "12747",
+    "type": "SUPERFAST"
+}

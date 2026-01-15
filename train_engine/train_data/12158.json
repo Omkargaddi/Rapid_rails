@@ -1,0 +1,62 @@
+{
+    "classes_available": [
+        "3E",
+        "CC",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12158.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12158-SUR-PUNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "07:17",
+            "day_of_journey": 1,
+            "departure_time": "07:20",
+            "distance_km": 79.0,
+            "sequence_number": 2,
+            "station_code": "KWV",
+            "station_name": "KURDUVADI JN."
+        },
+        {
+            "arrival_time": "09:03",
+            "day_of_journey": 1,
+            "departure_time": "09:05",
+            "distance_km": 188.0,
+            "sequence_number": 3,
+            "station_code": "DD",
+            "station_name": "DAUND JN"
+        },
+        {
+            "arrival_time": "10:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 263.0,
+            "sequence_number": 4,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        }
+    ],
+    "train_name": "HUTATMA EXPRESS",
+    "train_number": "12158",
+    "type": "SUPERFAST"
+}

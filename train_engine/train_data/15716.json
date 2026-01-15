@@ -1,0 +1,333 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15716.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "15716-AII-KNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AII",
+            "station_name": "AJMER JN"
+        },
+        {
+            "arrival_time": "12:27",
+            "day_of_journey": 1,
+            "departure_time": "12:29",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "KSG",
+            "station_name": "KISHANGARH"
+        },
+        {
+            "arrival_time": "13:03",
+            "day_of_journey": 1,
+            "departure_time": "13:05",
+            "distance_km": 79.0,
+            "sequence_number": 3,
+            "station_code": "FL",
+            "station_name": "PHULERA"
+        },
+        {
+            "arrival_time": "14:00",
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 134.0,
+            "sequence_number": 4,
+            "station_code": "JP",
+            "station_name": "JAIPUR JN."
+        },
+        {
+            "arrival_time": "14:58",
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 195.0,
+            "sequence_number": 5,
+            "station_code": "DO",
+            "station_name": "DAUSA JUNCTION"
+        },
+        {
+            "arrival_time": "16:21",
+            "day_of_journey": 1,
+            "departure_time": "16:24",
+            "distance_km": 285.0,
+            "sequence_number": 6,
+            "station_code": "AWR",
+            "station_name": "ALWAR JUNCTION"
+        },
+        {
+            "arrival_time": "16:43",
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 312.0,
+            "sequence_number": 7,
+            "station_code": "KRH",
+            "station_name": "KHAIRTHAL"
+        },
+        {
+            "arrival_time": "17:53",
+            "day_of_journey": 1,
+            "departure_time": "17:55",
+            "distance_km": 359.0,
+            "sequence_number": 8,
+            "station_code": "RE",
+            "station_name": "REWARI JN."
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 1,
+            "departure_time": "18:37",
+            "distance_km": 410.0,
+            "sequence_number": 9,
+            "station_code": "GGN",
+            "station_name": "GURGAON"
+        },
+        {
+            "arrival_time": "18:53",
+            "day_of_journey": 1,
+            "departure_time": "18:55",
+            "distance_km": 427.0,
+            "sequence_number": 10,
+            "station_code": "DEC",
+            "station_name": "DELHI CANTT"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:17",
+            "distance_km": 437.0,
+            "sequence_number": 11,
+            "station_code": "DEE",
+            "station_name": "DELHI SARAI ROHILLA"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 441.0,
+            "sequence_number": 12,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 602.0,
+            "sequence_number": 13,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "01:00",
+            "day_of_journey": 2,
+            "departure_time": "01:02",
+            "distance_km": 693.0,
+            "sequence_number": 14,
+            "station_code": "BE",
+            "station_name": "BAREILLY(NR)"
+        },
+        {
+            "arrival_time": "02:11",
+            "day_of_journey": 2,
+            "departure_time": "02:13",
+            "distance_km": 763.0,
+            "sequence_number": 15,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": "05:25",
+            "distance_km": 928.0,
+            "sequence_number": 16,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "07:01",
+            "day_of_journey": 2,
+            "departure_time": "07:02",
+            "distance_km": 1017.0,
+            "sequence_number": 17,
+            "station_code": "RDL",
+            "station_name": "RUDAULI"
+        },
+        {
+            "arrival_time": "07:36",
+            "day_of_journey": 2,
+            "departure_time": "07:38",
+            "distance_km": 1055.0,
+            "sequence_number": 18,
+            "station_code": "AYC",
+            "station_name": "AYODHYA CANTT"
+        },
+        {
+            "arrival_time": "09:55",
+            "day_of_journey": 2,
+            "departure_time": "10:20",
+            "distance_km": 1160.0,
+            "sequence_number": 19,
+            "station_code": "SHG",
+            "station_name": "SHAHGANJ JN"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 2,
+            "departure_time": "11:20",
+            "distance_km": 1217.0,
+            "sequence_number": 20,
+            "station_code": "AMH",
+            "station_name": "AZAMGARH"
+        },
+        {
+            "arrival_time": "12:10",
+            "day_of_journey": 2,
+            "departure_time": "12:20",
+            "distance_km": 1260.0,
+            "sequence_number": 21,
+            "station_code": "MAU",
+            "station_name": "MAU JN"
+        },
+        {
+            "arrival_time": "13:45",
+            "day_of_journey": 2,
+            "departure_time": "13:50",
+            "distance_km": 1329.0,
+            "sequence_number": 22,
+            "station_code": "BUI",
+            "station_name": "BALLIA"
+        },
+        {
+            "arrival_time": "16:05",
+            "day_of_journey": 2,
+            "departure_time": "16:15",
+            "distance_km": 1394.0,
+            "sequence_number": 23,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "17:11",
+            "day_of_journey": 2,
+            "departure_time": "17:13",
+            "distance_km": 1448.0,
+            "sequence_number": 24,
+            "station_code": "SEE",
+            "station_name": "SONPUR JN"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 2,
+            "departure_time": "17:30",
+            "distance_km": 1453.0,
+            "sequence_number": 25,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "19:50",
+            "day_of_journey": 2,
+            "departure_time": "20:00",
+            "distance_km": 1541.0,
+            "sequence_number": 26,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "20:16",
+            "day_of_journey": 2,
+            "departure_time": "20:18",
+            "distance_km": 1556.0,
+            "sequence_number": 27,
+            "station_code": "BGS",
+            "station_name": "BEGUSARAI"
+        },
+        {
+            "arrival_time": "22:06",
+            "day_of_journey": 2,
+            "departure_time": "22:08",
+            "distance_km": 1664.0,
+            "sequence_number": 28,
+            "station_code": "NNA",
+            "station_name": "NAUGACHIA"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 3,
+            "departure_time": "00:20",
+            "distance_km": 1721.0,
+            "sequence_number": 29,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "00:51",
+            "day_of_journey": 3,
+            "departure_time": "00:53",
+            "distance_km": 1744.0,
+            "sequence_number": 30,
+            "station_code": "LAV",
+            "station_name": "LABHA"
+        },
+        {
+            "arrival_time": "00:58",
+            "day_of_journey": 3,
+            "departure_time": "01:00",
+            "distance_km": 1764.0,
+            "sequence_number": 31,
+            "station_code": "AZR",
+            "station_name": "AZAMNAGAR ROAD"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 3,
+            "departure_time": "01:22",
+            "distance_km": 1777.0,
+            "sequence_number": 32,
+            "station_code": "BOE",
+            "station_name": "BARSOI JN"
+        },
+        {
+            "arrival_time": "01:45",
+            "day_of_journey": 3,
+            "departure_time": "01:47",
+            "distance_km": 1806.0,
+            "sequence_number": 33,
+            "station_code": "DLK",
+            "station_name": "DALKOLHA"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1834.0,
+            "sequence_number": 34,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        }
+    ],
+    "train_name": "GARIB NAWAZ EXPRESS",
+    "train_number": "15716",
+    "type": "MAIL EXPRESS"
+}

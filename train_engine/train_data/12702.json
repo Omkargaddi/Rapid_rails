@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12702.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12702-HYB-CSMT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "HYB",
+            "station_name": "HYDERABAD"
+        },
+        {
+            "arrival_time": "15:04",
+            "day_of_journey": 1,
+            "departure_time": "15:05",
+            "distance_km": 7.0,
+            "sequence_number": 2,
+            "station_code": "BMT",
+            "station_name": "BEGAMPET"
+        },
+        {
+            "arrival_time": "15:29",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 26.0,
+            "sequence_number": 3,
+            "station_code": "LPI",
+            "station_name": "LINGAMPALLI"
+        },
+        {
+            "arrival_time": "16:01",
+            "day_of_journey": 1,
+            "departure_time": "16:02",
+            "distance_km": 75.0,
+            "sequence_number": 4,
+            "station_code": "VKB",
+            "station_name": "VIKARABAD JN"
+        },
+        {
+            "arrival_time": "16:39",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 117.0,
+            "sequence_number": 5,
+            "station_code": "TDU",
+            "station_name": "TANDUR"
+        },
+        {
+            "arrival_time": "17:08",
+            "day_of_journey": 1,
+            "departure_time": "17:09",
+            "distance_km": 151.0,
+            "sequence_number": 6,
+            "station_code": "SEM",
+            "station_name": "SEDAM"
+        },
+        {
+            "arrival_time": "17:27",
+            "day_of_journey": 1,
+            "departure_time": "17:28",
+            "distance_km": 173.0,
+            "sequence_number": 7,
+            "station_code": "CT",
+            "station_name": "CHITTAPUR"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:02",
+            "distance_km": 188.0,
+            "sequence_number": 8,
+            "station_code": "WADI",
+            "station_name": "WADI JN."
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 198.0,
+            "sequence_number": 9,
+            "station_code": "SDB",
+            "station_name": "SHAHABAD"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 1,
+            "departure_time": "18:43",
+            "distance_km": 224.0,
+            "sequence_number": 10,
+            "station_code": "KLBG",
+            "station_name": "KALABURAGI"
+        },
+        {
+            "arrival_time": "19:11",
+            "day_of_journey": 1,
+            "departure_time": "19:12",
+            "distance_km": 251.0,
+            "sequence_number": 11,
+            "station_code": "GUR",
+            "station_name": "GANAGAPUR ROAD"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": "20:30",
+            "distance_km": 337.0,
+            "sequence_number": 12,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "21:28",
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 416.0,
+            "sequence_number": 13,
+            "station_code": "KWV",
+            "station_name": "KURDUVADI JN."
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 2,
+            "departure_time": "00:50",
+            "distance_km": 600.0,
+            "sequence_number": 14,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "03:25",
+            "day_of_journey": 2,
+            "departure_time": "03:28",
+            "distance_km": 738.0,
+            "sequence_number": 15,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "04:15",
+            "day_of_journey": 2,
+            "departure_time": "04:18",
+            "distance_km": 783.0,
+            "sequence_number": 16,
+            "station_code": "DR",
+            "station_name": "DADAR"
+        },
+        {
+            "arrival_time": "04:55",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 792.0,
+            "sequence_number": 17,
+            "station_code": "CSMT",
+            "station_name": "C SHIVAJI MAH T"
+        }
+    ],
+    "train_name": "HUSSAINSAGAR SF",
+    "train_number": "12702",
+    "type": "SUPERFAST"
+}

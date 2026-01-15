@@ -1,0 +1,161 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22483.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22483-BGKT-GIMB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BGKT",
+            "station_name": "BHAGAT KI KOTHI"
+        },
+        {
+            "arrival_time": "23:26",
+            "day_of_journey": 1,
+            "departure_time": "23:29",
+            "distance_km": 28.0,
+            "sequence_number": 2,
+            "station_code": "LUNI",
+            "station_name": "LUNI JN"
+        },
+        {
+            "arrival_time": "23:52",
+            "day_of_journey": 1,
+            "departure_time": "23:54",
+            "distance_km": 54.0,
+            "sequence_number": 3,
+            "station_code": "DOR",
+            "station_name": "DUNDARA"
+        },
+        {
+            "arrival_time": "00:17",
+            "day_of_journey": 2,
+            "departure_time": "00:22",
+            "distance_km": 76.0,
+            "sequence_number": 4,
+            "station_code": "SMR",
+            "station_name": "SAMDHARI JN"
+        },
+        {
+            "arrival_time": "00:47",
+            "day_of_journey": 2,
+            "departure_time": "00:49",
+            "distance_km": 102.0,
+            "sequence_number": 5,
+            "station_code": "MKSR",
+            "station_name": "MOKALSAR"
+        },
+        {
+            "arrival_time": "01:13",
+            "day_of_journey": 2,
+            "departure_time": "01:16",
+            "distance_km": 135.0,
+            "sequence_number": 6,
+            "station_code": "JOR",
+            "station_name": "JALOR"
+        },
+        {
+            "arrival_time": "01:44",
+            "day_of_journey": 2,
+            "departure_time": "01:46",
+            "distance_km": 170.0,
+            "sequence_number": 7,
+            "station_code": "MON",
+            "station_name": "MODRAN"
+        },
+        {
+            "arrival_time": "02:06",
+            "day_of_journey": 2,
+            "departure_time": "02:09",
+            "distance_km": 198.0,
+            "sequence_number": 8,
+            "station_code": "MBNL",
+            "station_name": "MARWAR BHINMAL"
+        },
+        {
+            "arrival_time": "02:42",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 229.0,
+            "sequence_number": 9,
+            "station_code": "RNV",
+            "station_name": "RANIWARA"
+        },
+        {
+            "arrival_time": "03:24",
+            "day_of_journey": 2,
+            "departure_time": "03:26",
+            "distance_km": 264.0,
+            "sequence_number": 10,
+            "station_code": "DQN",
+            "station_name": "DHANERA"
+        },
+        {
+            "arrival_time": "04:20",
+            "day_of_journey": 2,
+            "departure_time": "04:25",
+            "distance_km": 300.0,
+            "sequence_number": 11,
+            "station_code": "BLDI",
+            "station_name": "BHILDI JN."
+        },
+        {
+            "arrival_time": "04:56",
+            "day_of_journey": 2,
+            "departure_time": "04:58",
+            "distance_km": 343.0,
+            "sequence_number": 12,
+            "station_code": "BAH",
+            "station_name": "BHABHAR"
+        },
+        {
+            "arrival_time": "05:17",
+            "day_of_journey": 2,
+            "departure_time": "05:19",
+            "distance_km": 367.0,
+            "sequence_number": 13,
+            "station_code": "RDHP",
+            "station_name": "RADHANPUR"
+        },
+        {
+            "arrival_time": "07:11",
+            "day_of_journey": 2,
+            "departure_time": "07:13",
+            "distance_km": 502.0,
+            "sequence_number": 14,
+            "station_code": "SIOB",
+            "station_name": "SAMAKHIALI B G"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 555.0,
+            "sequence_number": 15,
+            "station_code": "GIMB",
+            "station_name": "GANDHIDHAM BG"
+        }
+    ],
+    "train_name": "BGKT GIMB EXP",
+    "train_number": "22483",
+    "type": "SUPERFAST"
+}

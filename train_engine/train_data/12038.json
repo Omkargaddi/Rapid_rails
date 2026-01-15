@@ -1,0 +1,130 @@
+{
+    "classes_available": [
+        "CC",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12038.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12038-DLI-KTW",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        },
+        {
+            "arrival_time": "07:46",
+            "day_of_journey": 1,
+            "departure_time": "07:48",
+            "distance_km": 20.0,
+            "sequence_number": 2,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "08:34",
+            "day_of_journey": 1,
+            "departure_time": "08:39",
+            "distance_km": 57.0,
+            "sequence_number": 3,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 1,
+            "departure_time": "10:00",
+            "distance_km": 107.0,
+            "sequence_number": 4,
+            "station_code": "GJL",
+            "station_name": "GAJRAULA JN"
+        },
+        {
+            "arrival_time": "10:18",
+            "day_of_journey": 1,
+            "departure_time": "10:20",
+            "distance_km": 123.0,
+            "sequence_number": 5,
+            "station_code": "MNDR",
+            "station_name": "MANDI DHANAURA"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 1,
+            "departure_time": "10:42",
+            "distance_km": 143.0,
+            "sequence_number": 6,
+            "station_code": "CPS",
+            "station_name": "CHAND SIAU"
+        },
+        {
+            "arrival_time": "10:56",
+            "day_of_journey": 1,
+            "departure_time": "10:58",
+            "distance_km": 161.0,
+            "sequence_number": 7,
+            "station_code": "HLDR",
+            "station_name": "HALDAUR"
+        },
+        {
+            "arrival_time": "11:18",
+            "day_of_journey": 1,
+            "departure_time": "11:20",
+            "distance_km": 178.0,
+            "sequence_number": 8,
+            "station_code": "BJO",
+            "station_name": "BIJNOR"
+        },
+        {
+            "arrival_time": "11:38",
+            "day_of_journey": 1,
+            "departure_time": "11:40",
+            "distance_km": 192.0,
+            "sequence_number": 9,
+            "station_code": "BSKR",
+            "station_name": "BASI KIRATPUR"
+        },
+        {
+            "arrival_time": "12:12",
+            "day_of_journey": 1,
+            "departure_time": "12:14",
+            "distance_km": 203.0,
+            "sequence_number": 10,
+            "station_code": "MZM",
+            "station_name": "MUZZAMPUR NRYN"
+        },
+        {
+            "arrival_time": "12:35",
+            "day_of_journey": 1,
+            "departure_time": "12:45",
+            "distance_km": 214.0,
+            "sequence_number": 11,
+            "station_code": "NBD",
+            "station_name": "NAJIBABAD JN"
+        },
+        {
+            "arrival_time": "13:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 238.0,
+            "sequence_number": 12,
+            "station_code": "KTW",
+            "station_name": "KOTDWARA"
+        }
+    ],
+    "train_name": "SIDDHABALI J SH",
+    "train_number": "12038",
+    "type": "JAN SHATABDI"
+}

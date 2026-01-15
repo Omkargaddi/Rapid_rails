@@ -1,0 +1,133 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12284.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12284-NZM-ERS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 2,
+            "departure_time": "02:30",
+            "distance_km": 457.0,
+            "sequence_number": 2,
+            "station_code": "KOTA",
+            "station_name": "KOTA JN"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": "05:55",
+            "distance_km": 724.0,
+            "sequence_number": 3,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "09:22",
+            "day_of_journey": 2,
+            "departure_time": "09:32",
+            "distance_km": 981.0,
+            "sequence_number": 4,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "11:17",
+            "day_of_journey": 2,
+            "departure_time": "11:20",
+            "distance_km": 1111.0,
+            "sequence_number": 5,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "14:05",
+            "day_of_journey": 2,
+            "departure_time": "14:10",
+            "distance_km": 1326.0,
+            "sequence_number": 6,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "15:22",
+            "day_of_journey": 2,
+            "departure_time": "15:25",
+            "distance_km": 1392.0,
+            "sequence_number": 7,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 2,
+            "departure_time": "20:25",
+            "distance_km": 1673.0,
+            "sequence_number": 8,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "00:25",
+            "day_of_journey": 3,
+            "departure_time": "00:35",
+            "distance_km": 1912.0,
+            "sequence_number": 9,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 3,
+            "departure_time": "06:45",
+            "distance_km": 2227.0,
+            "sequence_number": 10,
+            "station_code": "MAJN",
+            "station_name": "MANGALORE JUNCTION"
+        },
+        {
+            "arrival_time": "09:52",
+            "day_of_journey": 3,
+            "departure_time": "09:55",
+            "distance_km": 2449.0,
+            "sequence_number": 11,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2643.0,
+            "sequence_number": 12,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        }
+    ],
+    "train_name": "NZM ERS DURONTO",
+    "train_number": "12284",
+    "type": "DURONTO EXPRESS"
+}

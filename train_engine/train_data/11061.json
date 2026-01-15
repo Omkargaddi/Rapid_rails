@@ -1,0 +1,223 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11061.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11061-LTT-JYG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "11:53",
+            "day_of_journey": 1,
+            "departure_time": "11:55",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "12:12",
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 37.0,
+            "sequence_number": 3,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": "14:55",
+            "distance_km": 171.0,
+            "sequence_number": 4,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 244.0,
+            "sequence_number": 5,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "16:53",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 311.0,
+            "sequence_number": 6,
+            "station_code": "CSN",
+            "station_name": "CHALISGAON JN"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 356.0,
+            "sequence_number": 7,
+            "station_code": "PC",
+            "station_name": "PACHORA JN"
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 1,
+            "departure_time": "18:15",
+            "distance_km": 404.0,
+            "sequence_number": 8,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": "18:50",
+            "distance_km": 428.0,
+            "sequence_number": 9,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "19:38",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 482.0,
+            "sequence_number": 10,
+            "station_code": "BAU",
+            "station_name": "BURHANPUR"
+        },
+        {
+            "arrival_time": "20:57",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 551.0,
+            "sequence_number": 11,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "23:20",
+            "day_of_journey": 1,
+            "departure_time": "23:30",
+            "distance_km": 734.0,
+            "sequence_number": 12,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 2,
+            "departure_time": "19:20",
+            "distance_km": 1735.0,
+            "sequence_number": 36,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "19:38",
+            "day_of_journey": 2,
+            "departure_time": "19:40",
+            "distance_km": 1754.0,
+            "sequence_number": 37,
+            "station_code": "BNR",
+            "station_name": "BHAGWANPUR"
+        },
+        {
+            "arrival_time": "21:00",
+            "day_of_journey": 2,
+            "departure_time": "21:05",
+            "distance_km": 1789.0,
+            "sequence_number": 38,
+            "station_code": "MFP",
+            "station_name": "MUZAFFARPUR JN"
+        },
+        {
+            "arrival_time": "21:34",
+            "day_of_journey": 2,
+            "departure_time": "21:36",
+            "distance_km": 1814.0,
+            "sequence_number": 39,
+            "station_code": "DOL",
+            "station_name": "DHOLI"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 2,
+            "departure_time": "22:40",
+            "distance_km": 1840.0,
+            "sequence_number": 40,
+            "station_code": "Point(2)",
+            "station_name": "SAMASTIPUR JN SPJ Train Reversal"
+        },
+        {
+            "arrival_time": "23:28",
+            "day_of_journey": 2,
+            "departure_time": "23:30",
+            "distance_km": 1873.0,
+            "sequence_number": 41,
+            "station_code": "LSI",
+            "station_name": "LAHERIA SARAI"
+        },
+        {
+            "arrival_time": "23:50",
+            "day_of_journey": 2,
+            "departure_time": "23:55",
+            "distance_km": 1878.0,
+            "sequence_number": 42,
+            "station_code": "DBG",
+            "station_name": "DARBHANGA JN"
+        },
+        {
+            "arrival_time": "00:28",
+            "day_of_journey": 3,
+            "departure_time": "00:30",
+            "distance_km": 1897.0,
+            "sequence_number": 43,
+            "station_code": "SKI",
+            "station_name": "SAKRI JN"
+        },
+        {
+            "arrival_time": "00:46",
+            "day_of_journey": 3,
+            "departure_time": "00:48",
+            "distance_km": 1914.0,
+            "sequence_number": 44,
+            "station_code": "MBI",
+            "station_name": "MADHUBANI"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1946.0,
+            "sequence_number": 45,
+            "station_code": "JYG",
+            "station_name": "JAYNAGAR"
+        }
+    ],
+    "train_name": "LTT JAYNAGAR EXP",
+    "train_number": "11061",
+    "type": "MAIL EXPRESS"
+}

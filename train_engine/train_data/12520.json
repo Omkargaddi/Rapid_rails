@@ -1,0 +1,212 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12520.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "12520-AGTL-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AGTL",
+            "station_name": "AGARTALA"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 67.0,
+            "sequence_number": 2,
+            "station_code": "ABSA",
+            "station_name": "AMBASA"
+        },
+        {
+            "arrival_time": "10:08",
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 140.0,
+            "sequence_number": 3,
+            "station_code": "DMR",
+            "station_name": "DHARMANAGAR"
+        },
+        {
+            "arrival_time": "11:50",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 226.0,
+            "sequence_number": 4,
+            "station_code": "BPB",
+            "station_name": "BADARPUR JN."
+        },
+        {
+            "arrival_time": "14:05",
+            "day_of_journey": 1,
+            "departure_time": "14:10",
+            "distance_km": 297.0,
+            "sequence_number": 5,
+            "station_code": "NHLG",
+            "station_name": "NEW HAFLONG"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:37",
+            "distance_km": 385.0,
+            "sequence_number": 6,
+            "station_code": "MYD",
+            "station_name": "MANDERDISA"
+        },
+        {
+            "arrival_time": "17:03",
+            "day_of_journey": 2,
+            "departure_time": "17:10",
+            "distance_km": 1654.0,
+            "sequence_number": 24,
+            "station_code": "DDU",
+            "station_name": "PT.DEEN DAYAL UPADHYAYA JN."
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 2,
+            "departure_time": "18:15",
+            "distance_km": 1718.0,
+            "sequence_number": 25,
+            "station_code": "MZP",
+            "station_name": "MIRZAPUR"
+        },
+        {
+            "arrival_time": "19:25",
+            "day_of_journey": 2,
+            "departure_time": "19:27",
+            "distance_km": 1798.0,
+            "sequence_number": 26,
+            "station_code": "PCOI",
+            "station_name": "PRAYAGRAJ CHHEOKI"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 2,
+            "departure_time": "22:00",
+            "distance_km": 1968.0,
+            "sequence_number": 27,
+            "station_code": "STA",
+            "station_name": "SATNA"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 2,
+            "departure_time": "23:15",
+            "distance_km": 2066.0,
+            "sequence_number": 28,
+            "station_code": "KTE",
+            "station_name": "KATNI"
+        },
+        {
+            "arrival_time": "00:40",
+            "day_of_journey": 3,
+            "departure_time": "00:50",
+            "distance_km": 2157.0,
+            "sequence_number": 29,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 3,
+            "departure_time": "04:40",
+            "distance_km": 2402.0,
+            "sequence_number": 30,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "07:13",
+            "day_of_journey": 3,
+            "departure_time": "07:15",
+            "distance_km": 2585.0,
+            "sequence_number": 31,
+            "station_code": "KNW",
+            "station_name": "KHANDWA JUNCTION"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 3,
+            "departure_time": "09:05",
+            "distance_km": 2708.0,
+            "sequence_number": 32,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "09:35",
+            "day_of_journey": 3,
+            "departure_time": "09:37",
+            "distance_km": 2732.0,
+            "sequence_number": 33,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "11:33",
+            "day_of_journey": 3,
+            "departure_time": "11:35",
+            "distance_km": 2892.0,
+            "sequence_number": 34,
+            "station_code": "MMR",
+            "station_name": "MANMAD JN"
+        },
+        {
+            "arrival_time": "12:27",
+            "day_of_journey": 3,
+            "departure_time": "12:30",
+            "distance_km": 2965.0,
+            "sequence_number": 35,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "15:12",
+            "day_of_journey": 3,
+            "departure_time": "15:15",
+            "distance_km": 3099.0,
+            "sequence_number": 36,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "15:32",
+            "day_of_journey": 3,
+            "departure_time": "15:35",
+            "distance_km": 3119.0,
+            "sequence_number": 37,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 3136.0,
+            "sequence_number": 38,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "AGTL LTT AC EXP",
+    "train_number": "12520",
+    "type": "SUPERFAST"
+}

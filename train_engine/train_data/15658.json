@@ -1,0 +1,134 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15658.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15658-KYQ-DLI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KYQ",
+            "station_name": "KAMAKHYA"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 1,
+            "departure_time": "17:25",
+            "distance_km": 41.0,
+            "sequence_number": 2,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "17:42",
+            "distance_km": 58.0,
+            "sequence_number": 3,
+            "station_code": "NLV",
+            "station_name": "NALBARI"
+        },
+        {
+            "arrival_time": "18:12",
+            "day_of_journey": 1,
+            "departure_time": "18:17",
+            "distance_km": 106.0,
+            "sequence_number": 4,
+            "station_code": "BPRD",
+            "station_name": "BARPETA ROAD"
+        },
+        {
+            "arrival_time": "18:30",
+            "day_of_journey": 1,
+            "departure_time": "18:32",
+            "distance_km": 114.0,
+            "sequence_number": 5,
+            "station_code": "SBE",
+            "station_name": "SORBHOG JN"
+        },
+        {
+            "arrival_time": "18:40",
+            "day_of_journey": 1,
+            "departure_time": "18:42",
+            "distance_km": 133.0,
+            "sequence_number": 6,
+            "station_code": "BJF",
+            "station_name": "BIJNI"
+        },
+        {
+            "arrival_time": "21:30",
+            "day_of_journey": 2,
+            "departure_time": "21:35",
+            "distance_km": 1592.0,
+            "sequence_number": 41,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 2,
+            "departure_time": "23:47",
+            "distance_km": 1787.0,
+            "sequence_number": 42,
+            "station_code": "SKB",
+            "station_name": "SHIKOHABAD JN"
+        },
+        {
+            "arrival_time": "00:38",
+            "day_of_journey": 3,
+            "departure_time": "00:40",
+            "distance_km": 1823.0,
+            "sequence_number": 43,
+            "station_code": "TDL",
+            "station_name": "TUNDLA JN"
+        },
+        {
+            "arrival_time": "01:48",
+            "day_of_journey": 3,
+            "departure_time": "01:50",
+            "distance_km": 1901.0,
+            "sequence_number": 44,
+            "station_code": "ALJN",
+            "station_name": "ALIGARH JN"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 3,
+            "departure_time": "04:07",
+            "distance_km": 2007.0,
+            "sequence_number": 45,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2027.0,
+            "sequence_number": 46,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        }
+    ],
+    "train_name": "BRAHMAPUTRA EXP",
+    "train_number": "15658",
+    "type": "MAIL EXPRESS"
+}

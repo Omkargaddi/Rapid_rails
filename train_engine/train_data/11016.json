@@ -1,0 +1,105 @@
+{
+    "classes_available": [
+        "SL",
+        "PC",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11016.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "11016-SHC-LTT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "03:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "SHC",
+            "station_name": "SAHARSA JN"
+        },
+        {
+            "arrival_time": "05:11",
+            "day_of_journey": 1,
+            "departure_time": "05:13",
+            "distance_km": 53.0,
+            "sequence_number": 2,
+            "station_code": "KGG",
+            "station_name": "KHAGARIA JN."
+        },
+        {
+            "arrival_time": "05:36",
+            "day_of_journey": 1,
+            "departure_time": "05:38",
+            "distance_km": 78.0,
+            "sequence_number": 3,
+            "station_code": "SLNA",
+            "station_name": "SALAUNA"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 1,
+            "departure_time": "06:07",
+            "distance_km": 94.0,
+            "sequence_number": 4,
+            "station_code": "HPO",
+            "station_name": "HASANPUR ROAD"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 1,
+            "departure_time": "06:22",
+            "distance_km": 110.0,
+            "sequence_number": 5,
+            "station_code": "ROA",
+            "station_name": "RUSERA GHAT"
+        },
+        {
+            "arrival_time": "07:05",
+            "day_of_journey": 1,
+            "departure_time": "07:10",
+            "distance_km": 139.0,
+            "sequence_number": 6,
+            "station_code": "SPJ",
+            "station_name": "SAMASTIPUR JN"
+        },
+        {
+            "arrival_time": "14:12",
+            "day_of_journey": 2,
+            "departure_time": "14:15",
+            "distance_km": 1913.0,
+            "sequence_number": 24,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "14:32",
+            "day_of_journey": 2,
+            "departure_time": "14:35",
+            "distance_km": 1933.0,
+            "sequence_number": 25,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "15:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1950.0,
+            "sequence_number": 26,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        }
+    ],
+    "train_name": "AMRIT BHARAT EXP",
+    "train_number": "11016",
+    "type": "AMRIT BHARAT"
+}

@@ -1,0 +1,141 @@
+{
+    "classes_available": [
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14802.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "14802-INDB-JU",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "04:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "INDB",
+            "station_name": "INDORE JN"
+        },
+        {
+            "arrival_time": "04:27",
+            "day_of_journey": 1,
+            "departure_time": "04:28",
+            "distance_km": 3.0,
+            "sequence_number": 2,
+            "station_code": "LMNR",
+            "station_name": "LAKSHMIBAI NGR"
+        },
+        {
+            "arrival_time": "04:57",
+            "day_of_journey": 1,
+            "departure_time": "04:59",
+            "distance_km": 39.0,
+            "sequence_number": 3,
+            "station_code": "FTD",
+            "station_name": "FATEHABAD CH.JN"
+        },
+        {
+            "arrival_time": "05:17",
+            "day_of_journey": 1,
+            "departure_time": "05:19",
+            "distance_km": 55.0,
+            "sequence_number": 4,
+            "station_code": "GPX",
+            "station_name": "GAUTAMPURA ROAD"
+        },
+        {
+            "arrival_time": "05:26",
+            "day_of_journey": 1,
+            "departure_time": "05:28",
+            "distance_km": 71.0,
+            "sequence_number": 5,
+            "station_code": "BNG",
+            "station_name": "BARNAGAR"
+        },
+        {
+            "arrival_time": "05:43",
+            "day_of_journey": 1,
+            "departure_time": "05:44",
+            "distance_km": 87.0,
+            "sequence_number": 6,
+            "station_code": "RNJ",
+            "station_name": "RUNIJA"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 1,
+            "departure_time": "06:30",
+            "distance_km": 119.0,
+            "sequence_number": 7,
+            "station_code": "RTM",
+            "station_name": "RATLAM JN"
+        },
+        {
+            "arrival_time": "06:39",
+            "day_of_journey": 1,
+            "departure_time": "06:40",
+            "distance_km": 131.0,
+            "sequence_number": 8,
+            "station_code": "NLI",
+            "station_name": "NAMLI"
+        },
+        {
+            "arrival_time": "06:57",
+            "day_of_journey": 1,
+            "departure_time": "06:59",
+            "distance_km": 152.0,
+            "sequence_number": 9,
+            "station_code": "JAO",
+            "station_name": "JAORA"
+        },
+        {
+            "arrival_time": "07:16",
+            "day_of_journey": 1,
+            "departure_time": "07:17",
+            "distance_km": 168.0,
+            "sequence_number": 10,
+            "station_code": "DOD",
+            "station_name": "DHODHAR"
+        },
+        {
+            "arrival_time": "07:35",
+            "day_of_journey": 1,
+            "departure_time": "07:36",
+            "distance_km": 188.0,
+            "sequence_number": 11,
+            "station_code": "DLD",
+            "station_name": "DALAUDA"
+        },
+        {
+            "arrival_time": "07:45",
+            "day_of_journey": 1,
+            "departure_time": "07:50",
+            "distance_km": 203.0,
+            "sequence_number": 12,
+            "station_code": "MDS",
+            "station_name": "MANDASOR"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 736.0,
+            "sequence_number": 36,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        }
+    ],
+    "train_name": "INDB JU EXP",
+    "train_number": "14802",
+    "type": "MAIL EXPRESS"
+}

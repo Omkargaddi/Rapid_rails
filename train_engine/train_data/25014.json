@@ -1,0 +1,52 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_25014.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "25014-RMR-MB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RMR",
+            "station_name": "RAMNAGAR"
+        },
+        {
+            "arrival_time": "22:52",
+            "day_of_journey": 1,
+            "departure_time": "22:57",
+            "distance_km": 27.0,
+            "sequence_number": 2,
+            "station_code": "KPV",
+            "station_name": "KASHIPUR"
+        },
+        {
+            "arrival_time": "00:04",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 76.0,
+            "sequence_number": 3,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        }
+    ],
+    "train_name": "CORBET PRK LINK",
+    "train_number": "25014",
+    "type": "MAIL EXPRESS"
+}

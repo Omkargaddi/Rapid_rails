@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_07229.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "07229-CAPE-HYB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CAPE",
+            "station_name": "KANNIYAKUMARI"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 1,
+            "departure_time": "05:40",
+            "distance_km": 16.0,
+            "sequence_number": 2,
+            "station_code": "NCJ",
+            "station_name": "NAGERCOIL JUNCTION"
+        },
+        {
+            "arrival_time": "06:14",
+            "day_of_journey": 1,
+            "departure_time": "06:15",
+            "distance_km": 47.0,
+            "sequence_number": 3,
+            "station_code": "VLY",
+            "station_name": "VALLIYUR"
+        },
+        {
+            "arrival_time": "07:25",
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 89.0,
+            "sequence_number": 4,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 1,
+            "departure_time": "08:20",
+            "distance_km": 154.0,
+            "sequence_number": 5,
+            "station_code": "CVP",
+            "station_name": "KOVILPATTI"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 175.0,
+            "sequence_number": 6,
+            "station_code": "SRT",
+            "station_name": "SATUR"
+        },
+        {
+            "arrival_time": "09:03",
+            "day_of_journey": 1,
+            "departure_time": "09:05",
+            "distance_km": 202.0,
+            "sequence_number": 7,
+            "station_code": "VPT",
+            "station_name": "VIRUDUNAGAR JN"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 1,
+            "departure_time": "09:55",
+            "distance_km": 245.0,
+            "sequence_number": 8,
+            "station_code": "MDU",
+            "station_name": "MADURAI JN"
+        },
+        {
+            "arrival_time": "10:28",
+            "day_of_journey": 1,
+            "departure_time": "10:30",
+            "distance_km": 286.0,
+            "sequence_number": 9,
+            "station_code": "KQN",
+            "station_name": "KODAIKANAL ROAD"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 311.0,
+            "sequence_number": 10,
+            "station_code": "DG",
+            "station_name": "DINDIGUL JN"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:15",
+            "distance_km": 406.0,
+            "sequence_number": 11,
+            "station_code": "TPJ",
+            "station_name": "TIRUCHCHIRAPPALLI JN."
+        },
+        {
+            "arrival_time": "13:00",
+            "day_of_journey": 1,
+            "departure_time": "13:02",
+            "distance_km": 455.0,
+            "sequence_number": 12,
+            "station_code": "TJ",
+            "station_name": "THANJAVUR JN."
+        },
+        {
+            "arrival_time": "14:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1583.0,
+            "sequence_number": 36,
+            "station_code": "HYB",
+            "station_name": "HYDERABAD"
+        }
+    ],
+    "train_name": "CAPE HYB SPL",
+    "train_number": "07229",
+    "type": "TRAIN ON DEMAND"
+}

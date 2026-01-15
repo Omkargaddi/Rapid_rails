@@ -1,0 +1,159 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17605.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17605-KCG-BGKT",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:35",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KCG",
+            "station_name": "KACHEGUDA"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:22",
+            "distance_km": 165.0,
+            "sequence_number": 2,
+            "station_code": "NZB",
+            "station_name": "NIZAMABAD JN."
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 276.0,
+            "sequence_number": 3,
+            "station_code": "NED",
+            "station_name": "NANDED"
+        },
+        {
+            "arrival_time": "07:45",
+            "day_of_journey": 2,
+            "departure_time": "08:05",
+            "distance_km": 306.0,
+            "sequence_number": 4,
+            "station_code": "PAU",
+            "station_name": "PURNA JN"
+        },
+        {
+            "arrival_time": "09:29",
+            "day_of_journey": 2,
+            "departure_time": "09:30",
+            "distance_km": 387.0,
+            "sequence_number": 5,
+            "station_code": "HNL",
+            "station_name": "HINGOLI DECCAN"
+        },
+        {
+            "arrival_time": "10:54",
+            "day_of_journey": 2,
+            "departure_time": "10:55",
+            "distance_km": 434.0,
+            "sequence_number": 6,
+            "station_code": "WHM",
+            "station_name": "WASHIM"
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 3,
+            "departure_time": "11:50",
+            "distance_km": 1577.0,
+            "sequence_number": 24,
+            "station_code": "BHL",
+            "station_name": "BHILWARA"
+        },
+        {
+            "arrival_time": "12:33",
+            "day_of_journey": 3,
+            "departure_time": "12:35",
+            "distance_km": 1644.0,
+            "sequence_number": 25,
+            "station_code": "BJNR",
+            "station_name": "BIJAINAGAR"
+        },
+        {
+            "arrival_time": "13:02",
+            "day_of_journey": 3,
+            "departure_time": "13:04",
+            "distance_km": 1686.0,
+            "sequence_number": 26,
+            "station_code": "NSD",
+            "station_name": "NASIRABAD"
+        },
+        {
+            "arrival_time": "14:10",
+            "day_of_journey": 3,
+            "departure_time": "14:45",
+            "distance_km": 1709.0,
+            "sequence_number": 27,
+            "station_code": "Point(2)",
+            "station_name": "AJMER JN AII Train Reversal"
+        },
+        {
+            "arrival_time": "15:28",
+            "day_of_journey": 3,
+            "departure_time": "15:30",
+            "distance_km": 1761.0,
+            "sequence_number": 28,
+            "station_code": "BER",
+            "station_name": "BEAWAR"
+        },
+        {
+            "arrival_time": "16:22",
+            "day_of_journey": 3,
+            "departure_time": "16:24",
+            "distance_km": 1828.0,
+            "sequence_number": 29,
+            "station_code": "SOD",
+            "station_name": "SOJAT ROAD"
+        },
+        {
+            "arrival_time": "17:15",
+            "day_of_journey": 3,
+            "departure_time": "17:45",
+            "distance_km": 1848.0,
+            "sequence_number": 30,
+            "station_code": "Point(3)",
+            "station_name": "MARWAR JN MJ Train Reversal"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 3,
+            "departure_time": "18:23",
+            "distance_km": 1879.0,
+            "sequence_number": 31,
+            "station_code": "PMY",
+            "station_name": "PALI MARWAR"
+        },
+        {
+            "arrival_time": "19:40",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1948.0,
+            "sequence_number": 32,
+            "station_code": "BGKT",
+            "station_name": "BHAGAT KI KOTHI"
+        }
+    ],
+    "train_name": "KCG BGKT EXPRESS",
+    "train_number": "17605",
+    "type": "MAIL EXPRESS"
+}

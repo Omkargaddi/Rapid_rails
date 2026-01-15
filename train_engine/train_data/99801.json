@@ -1,0 +1,172 @@
+{
+    "classes_available": [],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_99801.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "99801-LNL-PUNE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LNL",
+            "station_name": "LONAVALA"
+        },
+        {
+            "arrival_time": "05:26",
+            "day_of_journey": 1,
+            "departure_time": "05:27",
+            "distance_km": 8.0,
+            "sequence_number": 2,
+            "station_code": "MVL",
+            "station_name": "MALAVLI"
+        },
+        {
+            "arrival_time": "05:33",
+            "day_of_journey": 1,
+            "departure_time": "05:34",
+            "distance_km": 16.0,
+            "sequence_number": 3,
+            "station_code": "KMST",
+            "station_name": "KAMSHET"
+        },
+        {
+            "arrival_time": "05:36",
+            "day_of_journey": 1,
+            "departure_time": "05:37",
+            "distance_km": 20.0,
+            "sequence_number": 4,
+            "station_code": "KNHE",
+            "station_name": "KANHE"
+        },
+        {
+            "arrival_time": "05:40",
+            "day_of_journey": 1,
+            "departure_time": "05:41",
+            "distance_km": 26.0,
+            "sequence_number": 5,
+            "station_code": "VDN",
+            "station_name": "VADGAON"
+        },
+        {
+            "arrival_time": "05:45",
+            "day_of_journey": 1,
+            "departure_time": "05:46",
+            "distance_km": 30.0,
+            "sequence_number": 6,
+            "station_code": "TGN",
+            "station_name": "TALEGAON"
+        },
+        {
+            "arrival_time": "05:49",
+            "day_of_journey": 1,
+            "departure_time": "05:50",
+            "distance_km": 33.0,
+            "sequence_number": 7,
+            "station_code": "GRWD",
+            "station_name": "GHORAWADI"
+        },
+        {
+            "arrival_time": "05:52",
+            "day_of_journey": 1,
+            "departure_time": "05:53",
+            "distance_km": 36.0,
+            "sequence_number": 8,
+            "station_code": "BGWI",
+            "station_name": "BEGDEWADI"
+        },
+        {
+            "arrival_time": "05:56",
+            "day_of_journey": 1,
+            "departure_time": "05:57",
+            "distance_km": 39.0,
+            "sequence_number": 9,
+            "station_code": "DEHR",
+            "station_name": "DEHU ROAD"
+        },
+        {
+            "arrival_time": "06:01",
+            "day_of_journey": 1,
+            "departure_time": "06:02",
+            "distance_km": 44.0,
+            "sequence_number": 10,
+            "station_code": "AKRD",
+            "station_name": "AKURDI"
+        },
+        {
+            "arrival_time": "06:05",
+            "day_of_journey": 1,
+            "departure_time": "06:06",
+            "distance_km": 47.0,
+            "sequence_number": 11,
+            "station_code": "CCH",
+            "station_name": "CHINCHVAD"
+        },
+        {
+            "arrival_time": "06:09",
+            "day_of_journey": 1,
+            "departure_time": "06:10",
+            "distance_km": 50.0,
+            "sequence_number": 12,
+            "station_code": "PMP",
+            "station_name": "PIMPRI"
+        },
+        {
+            "arrival_time": "06:12",
+            "day_of_journey": 1,
+            "departure_time": "06:13",
+            "distance_km": 52.0,
+            "sequence_number": 13,
+            "station_code": "KSWD",
+            "station_name": "KASAR WADI"
+        },
+        {
+            "arrival_time": "06:16",
+            "day_of_journey": 1,
+            "departure_time": "06:17",
+            "distance_km": 56.0,
+            "sequence_number": 14,
+            "station_code": "DAPD",
+            "station_name": "DAPODI"
+        },
+        {
+            "arrival_time": "06:20",
+            "day_of_journey": 1,
+            "departure_time": "06:21",
+            "distance_km": 58.0,
+            "sequence_number": 15,
+            "station_code": "KK",
+            "station_name": "KHADKI"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 1,
+            "departure_time": "06:26",
+            "distance_km": 61.0,
+            "sequence_number": 16,
+            "station_code": "SVJR",
+            "station_name": "SHIVAJI NAGAR"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 64.0,
+            "sequence_number": 17,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        }
+    ],
+    "train_name": "LNL-PUNE SUBURBAN",
+    "train_number": "99801",
+    "type": "SUBURBAN"
+}

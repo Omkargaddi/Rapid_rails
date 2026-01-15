@@ -1,0 +1,252 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11466.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "11466-JBP-VRL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "13:45",
+            "day_of_journey": 1,
+            "departure_time": "13:50",
+            "distance_km": 91.0,
+            "sequence_number": 2,
+            "station_code": "KMZ",
+            "station_name": "KATNI MURWARA"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 1,
+            "departure_time": "15:15",
+            "distance_km": 199.0,
+            "sequence_number": 3,
+            "station_code": "DMO",
+            "station_name": "DAMOH"
+        },
+        {
+            "arrival_time": "15:33",
+            "day_of_journey": 1,
+            "departure_time": "15:35",
+            "distance_km": 226.0,
+            "sequence_number": 4,
+            "station_code": "PHA",
+            "station_name": "PATHARIA"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 1,
+            "departure_time": "16:25",
+            "distance_km": 277.0,
+            "sequence_number": 5,
+            "station_code": "SGO",
+            "station_name": "SAUGOR"
+        },
+        {
+            "arrival_time": "17:08",
+            "day_of_journey": 1,
+            "departure_time": "17:10",
+            "distance_km": 329.0,
+            "sequence_number": 6,
+            "station_code": "KYE",
+            "station_name": "KHURAI"
+        },
+        {
+            "arrival_time": "17:45",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 351.0,
+            "sequence_number": 7,
+            "station_code": "BINA",
+            "station_name": "BINA JN"
+        },
+        {
+            "arrival_time": "18:07",
+            "day_of_journey": 1,
+            "departure_time": "18:09",
+            "distance_km": 369.0,
+            "sequence_number": 8,
+            "station_code": "MABA",
+            "station_name": "MANDI BAMORA"
+        },
+        {
+            "arrival_time": "18:28",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 397.0,
+            "sequence_number": 9,
+            "station_code": "BAQ",
+            "station_name": "GANJ BASODA"
+        },
+        {
+            "arrival_time": "18:55",
+            "day_of_journey": 1,
+            "departure_time": "18:57",
+            "distance_km": 436.0,
+            "sequence_number": 10,
+            "station_code": "BHS",
+            "station_name": "VIDISHA"
+        },
+        {
+            "arrival_time": "19:55",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 490.0,
+            "sequence_number": 11,
+            "station_code": "BPL",
+            "station_name": "BHOPAL JN."
+        },
+        {
+            "arrival_time": "20:45",
+            "day_of_journey": 1,
+            "departure_time": "20:47",
+            "distance_km": 503.0,
+            "sequence_number": 12,
+            "station_code": "SHRN",
+            "station_name": "SANT HIRDARAM NAGAR"
+        },
+        {
+            "arrival_time": "09:20",
+            "day_of_journey": 2,
+            "departure_time": "09:22",
+            "distance_km": 1184.0,
+            "sequence_number": 36,
+            "station_code": "VG",
+            "station_name": "VIRAMGAM JN"
+        },
+        {
+            "arrival_time": "10:26",
+            "day_of_journey": 2,
+            "departure_time": "10:28",
+            "distance_km": 1249.0,
+            "sequence_number": 37,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 2,
+            "departure_time": "11:02",
+            "distance_km": 1296.0,
+            "sequence_number": 38,
+            "station_code": "THAN",
+            "station_name": "THAN JN"
+        },
+        {
+            "arrival_time": "11:27",
+            "day_of_journey": 2,
+            "departure_time": "11:32",
+            "distance_km": 1323.0,
+            "sequence_number": 39,
+            "station_code": "WKR",
+            "station_name": "WANKANER JN"
+        },
+        {
+            "arrival_time": "12:28",
+            "day_of_journey": 2,
+            "departure_time": "12:38",
+            "distance_km": 1365.0,
+            "sequence_number": 40,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "12:56",
+            "day_of_journey": 2,
+            "departure_time": "12:58",
+            "distance_km": 1371.0,
+            "sequence_number": 41,
+            "station_code": "BKNG",
+            "station_name": "BHAKTI NAGAR"
+        },
+        {
+            "arrival_time": "13:49",
+            "day_of_journey": 2,
+            "departure_time": "13:50",
+            "distance_km": 1422.0,
+            "sequence_number": 42,
+            "station_code": "VRR",
+            "station_name": "VIRPUR"
+        },
+        {
+            "arrival_time": "14:02",
+            "day_of_journey": 2,
+            "departure_time": "14:03",
+            "distance_km": 1436.0,
+            "sequence_number": 43,
+            "station_code": "NUD",
+            "station_name": "NAVAGADH"
+        },
+        {
+            "arrival_time": "14:13",
+            "day_of_journey": 2,
+            "departure_time": "14:15",
+            "distance_km": 1442.0,
+            "sequence_number": 44,
+            "station_code": "JLR",
+            "station_name": "JETALSAR JN"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 2,
+            "departure_time": "15:02",
+            "distance_km": 1468.0,
+            "sequence_number": 45,
+            "station_code": "JND",
+            "station_name": "JUNAGADH JN"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 2,
+            "departure_time": "16:01",
+            "distance_km": 1503.0,
+            "sequence_number": 46,
+            "station_code": "KSD",
+            "station_name": "KESHOD"
+        },
+        {
+            "arrival_time": "16:20",
+            "day_of_journey": 2,
+            "departure_time": "16:21",
+            "distance_km": 1519.0,
+            "sequence_number": 47,
+            "station_code": "MLHA",
+            "station_name": "MALIYA HATINA"
+        },
+        {
+            "arrival_time": "17:25",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1549.0,
+            "sequence_number": 48,
+            "station_code": "VRL",
+            "station_name": "VERAVAL"
+        }
+    ],
+    "train_name": "JBP SOMNATH EXP",
+    "train_number": "11466",
+    "type": "MAIL EXPRESS"
+}

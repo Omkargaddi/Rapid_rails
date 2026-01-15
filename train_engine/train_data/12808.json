@@ -1,0 +1,215 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12808.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12808-NZM-VSKP",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "08:20",
+            "day_of_journey": 1,
+            "departure_time": "08:25",
+            "distance_km": 133.0,
+            "sequence_number": 2,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "08:54",
+            "day_of_journey": 1,
+            "departure_time": "08:56",
+            "distance_km": 181.0,
+            "sequence_number": 3,
+            "station_code": "BFP",
+            "station_name": "BILOCHPURA"
+        },
+        {
+            "arrival_time": "09:10",
+            "day_of_journey": 1,
+            "departure_time": "09:15",
+            "distance_km": 187.0,
+            "sequence_number": 4,
+            "station_code": "AGC",
+            "station_name": "AGRA CANTT JN."
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 1,
+            "departure_time": "10:40",
+            "distance_km": 267.0,
+            "sequence_number": 5,
+            "station_code": "MRA",
+            "station_name": "MORENA"
+        },
+        {
+            "arrival_time": "11:18",
+            "day_of_journey": 1,
+            "departure_time": "11:20",
+            "distance_km": 305.0,
+            "sequence_number": 6,
+            "station_code": "GWL",
+            "station_name": "GWALIOR JN."
+        },
+        {
+            "arrival_time": "07:53",
+            "day_of_journey": 2,
+            "departure_time": "07:55",
+            "distance_km": 1489.0,
+            "sequence_number": 24,
+            "station_code": "KRAR",
+            "station_name": "KHARIAR ROAD"
+        },
+        {
+            "arrival_time": "08:28",
+            "day_of_journey": 2,
+            "departure_time": "08:30",
+            "distance_km": 1530.0,
+            "sequence_number": 25,
+            "station_code": "HSK",
+            "station_name": "HARISHANKER RD"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 2,
+            "departure_time": "09:00",
+            "distance_km": 1553.0,
+            "sequence_number": 26,
+            "station_code": "KBJ",
+            "station_name": "KANTABANJI"
+        },
+        {
+            "arrival_time": "09:50",
+            "day_of_journey": 2,
+            "departure_time": "10:00",
+            "distance_km": 1587.0,
+            "sequence_number": 27,
+            "station_code": "TIG",
+            "station_name": "TITLAGARH"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 2,
+            "departure_time": "10:22",
+            "distance_km": 1600.0,
+            "sequence_number": 28,
+            "station_code": "KSNG",
+            "station_name": "KESINGA"
+        },
+        {
+            "arrival_time": "10:55",
+            "day_of_journey": 2,
+            "departure_time": "10:57",
+            "distance_km": 1647.0,
+            "sequence_number": 29,
+            "station_code": "AMB",
+            "station_name": "AMBODALA"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 2,
+            "departure_time": "11:22",
+            "distance_km": 1672.0,
+            "sequence_number": 30,
+            "station_code": "MNGD",
+            "station_name": "MUNIGUDA"
+        },
+        {
+            "arrival_time": "12:08",
+            "day_of_journey": 2,
+            "departure_time": "12:10",
+            "distance_km": 1708.0,
+            "sequence_number": 31,
+            "station_code": "THV",
+            "station_name": "THERUBALI"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 2,
+            "departure_time": "13:10",
+            "distance_km": 1726.0,
+            "sequence_number": 32,
+            "station_code": "RGDA",
+            "station_name": "RAYAGADA"
+        },
+        {
+            "arrival_time": "13:48",
+            "day_of_journey": 2,
+            "departure_time": "13:50",
+            "distance_km": 1771.0,
+            "sequence_number": 33,
+            "station_code": "PVPT",
+            "station_name": "PARVATIPURAM TN"
+        },
+        {
+            "arrival_time": "13:53",
+            "day_of_journey": 2,
+            "departure_time": "13:55",
+            "distance_km": 1773.0,
+            "sequence_number": 34,
+            "station_code": "PVP",
+            "station_name": "PARVATIPURAM"
+        },
+        {
+            "arrival_time": "14:18",
+            "day_of_journey": 2,
+            "departure_time": "14:20",
+            "distance_km": 1797.0,
+            "sequence_number": 35,
+            "station_code": "VBL",
+            "station_name": "BOBBILI"
+        },
+        {
+            "arrival_time": "15:05",
+            "day_of_journey": 2,
+            "departure_time": "15:10",
+            "distance_km": 1850.0,
+            "sequence_number": 36,
+            "station_code": "VZM",
+            "station_name": "VIZIANAGRAM JN"
+        },
+        {
+            "arrival_time": "15:53",
+            "day_of_journey": 2,
+            "departure_time": "15:55",
+            "distance_km": 1903.0,
+            "sequence_number": 37,
+            "station_code": "SCM",
+            "station_name": "SIMHACHALAM"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1911.0,
+            "sequence_number": 38,
+            "station_code": "VSKP",
+            "station_name": "VISAKHAPATNAM"
+        }
+    ],
+    "train_name": "SAMTA EXPRESS",
+    "train_number": "12808",
+    "type": "SUPERFAST"
+}

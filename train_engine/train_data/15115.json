@@ -1,0 +1,225 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15115.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "15115-CPR-DLI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:25",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 65.0,
+            "sequence_number": 2,
+            "station_code": "BUI",
+            "station_name": "BALLIA"
+        },
+        {
+            "arrival_time": "13:08",
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 111.0,
+            "sequence_number": 3,
+            "station_code": "YFP",
+            "station_name": "YUSUFPUR"
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 1,
+            "departure_time": "13:35",
+            "distance_km": 130.0,
+            "sequence_number": 4,
+            "station_code": "GCT",
+            "station_name": "GHAZIPUR CITY"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 1,
+            "departure_time": "14:25",
+            "distance_km": 170.0,
+            "sequence_number": 5,
+            "station_code": "ARJ",
+            "station_name": "AUNRIHAR JN."
+        },
+        {
+            "arrival_time": "14:49",
+            "day_of_journey": 1,
+            "departure_time": "14:51",
+            "distance_km": 192.0,
+            "sequence_number": 6,
+            "station_code": "DHE",
+            "station_name": "DOBHI"
+        },
+        {
+            "arrival_time": "15:03",
+            "day_of_journey": 1,
+            "departure_time": "15:05",
+            "distance_km": 201.0,
+            "sequence_number": 7,
+            "station_code": "KCT",
+            "station_name": "KIRAKAT"
+        },
+        {
+            "arrival_time": "16:15",
+            "day_of_journey": 1,
+            "departure_time": "16:35",
+            "distance_km": 230.0,
+            "sequence_number": 8,
+            "station_code": "JNU",
+            "station_name": "JAUNPUR JN"
+        },
+        {
+            "arrival_time": "17:26",
+            "day_of_journey": 1,
+            "departure_time": "17:28",
+            "distance_km": 263.0,
+            "sequence_number": 9,
+            "station_code": "SHG",
+            "station_name": "SHAHGANJ JN"
+        },
+        {
+            "arrival_time": "18:08",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 307.0,
+            "sequence_number": 10,
+            "station_code": "ABP",
+            "station_name": "AKBARPUR"
+        },
+        {
+            "arrival_time": "19:13",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 368.0,
+            "sequence_number": 11,
+            "station_code": "AYC",
+            "station_name": "AYODHYA CANTT"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 496.0,
+            "sequence_number": 12,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "00:52",
+            "day_of_journey": 2,
+            "departure_time": "00:54",
+            "distance_km": 598.0,
+            "sequence_number": 13,
+            "station_code": "HRI",
+            "station_name": "HARDOI"
+        },
+        {
+            "arrival_time": "02:43",
+            "day_of_journey": 2,
+            "departure_time": "02:45",
+            "distance_km": 660.0,
+            "sequence_number": 14,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "04:28",
+            "day_of_journey": 2,
+            "departure_time": "04:30",
+            "distance_km": 751.0,
+            "sequence_number": 15,
+            "station_code": "AO",
+            "station_name": "AONLA"
+        },
+        {
+            "arrival_time": "06:15",
+            "day_of_journey": 2,
+            "departure_time": "06:20",
+            "distance_km": 793.0,
+            "sequence_number": 16,
+            "station_code": "CH",
+            "station_name": "CHANDAUSI JN"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 2,
+            "departure_time": "07:20",
+            "distance_km": 837.0,
+            "sequence_number": 17,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "08:24",
+            "day_of_journey": 2,
+            "departure_time": "08:26",
+            "distance_km": 867.0,
+            "sequence_number": 18,
+            "station_code": "AMRO",
+            "station_name": "AMROHA"
+        },
+        {
+            "arrival_time": "09:23",
+            "day_of_journey": 2,
+            "departure_time": "09:28",
+            "distance_km": 941.0,
+            "sequence_number": 19,
+            "station_code": "HPU",
+            "station_name": "HAPUR"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 2,
+            "departure_time": "10:27",
+            "distance_km": 978.0,
+            "sequence_number": 20,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "10:49",
+            "day_of_journey": 2,
+            "departure_time": "10:51",
+            "distance_km": 992.0,
+            "sequence_number": 21,
+            "station_code": "DSA",
+            "station_name": "DELHI SHAHDARA"
+        },
+        {
+            "arrival_time": "11:20",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 998.0,
+            "sequence_number": 22,
+            "station_code": "DLI",
+            "station_name": "DELHI JN."
+        }
+    ],
+    "train_name": "CPR DLI EXP",
+    "train_number": "15115",
+    "type": "MAIL EXPRESS"
+}

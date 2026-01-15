@@ -1,0 +1,139 @@
+{
+    "classes_available": [
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18413.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18413-PRDP-PURI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PRDP",
+            "station_name": "PARADEEP"
+        },
+        {
+            "arrival_time": "18:10",
+            "day_of_journey": 1,
+            "departure_time": "18:11",
+            "distance_km": 11.0,
+            "sequence_number": 2,
+            "station_code": "BDBA",
+            "station_name": "BADABANDHA"
+        },
+        {
+            "arrival_time": "18:19",
+            "day_of_journey": 1,
+            "departure_time": "18:20",
+            "distance_km": 23.0,
+            "sequence_number": 3,
+            "station_code": "RHMA",
+            "station_name": "RAHAMA"
+        },
+        {
+            "arrival_time": "18:32",
+            "day_of_journey": 1,
+            "departure_time": "18:33",
+            "distance_km": 39.0,
+            "sequence_number": 4,
+            "station_code": "GRKN",
+            "station_name": "GORAKHNATH"
+        },
+        {
+            "arrival_time": "18:44",
+            "day_of_journey": 1,
+            "departure_time": "18:45",
+            "distance_km": 51.0,
+            "sequence_number": 5,
+            "station_code": "RCTC",
+            "station_name": "RAGHUNATHPUR"
+        },
+        {
+            "arrival_time": "18:56",
+            "day_of_journey": 1,
+            "departure_time": "18:57",
+            "distance_km": 66.0,
+            "sequence_number": 6,
+            "station_code": "KDRP",
+            "station_name": "KANDARPUR"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 83.0,
+            "sequence_number": 7,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "20:15",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 110.0,
+            "sequence_number": 8,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "20:40",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 129.0,
+            "sequence_number": 9,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "20:59",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 141.0,
+            "sequence_number": 10,
+            "station_code": "KASR",
+            "station_name": "KANAS ROAD"
+        },
+        {
+            "arrival_time": "21:04",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 145.0,
+            "sequence_number": 11,
+            "station_code": "DEG",
+            "station_name": "DELANG"
+        },
+        {
+            "arrival_time": "21:14",
+            "day_of_journey": 1,
+            "departure_time": "21:15",
+            "distance_km": 157.0,
+            "sequence_number": 12,
+            "station_code": "SIL",
+            "station_name": "SAKHI GOPAL"
+        },
+        {
+            "arrival_time": "22:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 173.0,
+            "sequence_number": 13,
+            "station_code": "PURI",
+            "station_name": "PURI"
+        }
+    ],
+    "train_name": "PRDP-PURI SPECIAL",
+    "train_number": "18413",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,178 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11097.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "11097-PUNE-ERS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "PUNE",
+            "station_name": "PUNE JN"
+        },
+        {
+            "arrival_time": "01:22",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 145.0,
+            "sequence_number": 2,
+            "station_code": "STR",
+            "station_name": "SATARA"
+        },
+        {
+            "arrival_time": "02:22",
+            "day_of_journey": 2,
+            "departure_time": "02:25",
+            "distance_km": 204.0,
+            "sequence_number": 3,
+            "station_code": "KRD",
+            "station_name": "KARAD"
+        },
+        {
+            "arrival_time": "03:22",
+            "day_of_journey": 2,
+            "departure_time": "03:25",
+            "distance_km": 272.0,
+            "sequence_number": 4,
+            "station_code": "SLI",
+            "station_name": "SANGLI"
+        },
+        {
+            "arrival_time": "04:05",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 279.0,
+            "sequence_number": 5,
+            "station_code": "MRJ",
+            "station_name": "MIRAJ JN."
+        },
+        {
+            "arrival_time": "05:14",
+            "day_of_journey": 2,
+            "departure_time": "05:15",
+            "distance_km": 358.0,
+            "sequence_number": 6,
+            "station_code": "GPB",
+            "station_name": "GHATPRABHA"
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 2,
+            "departure_time": "20:25",
+            "distance_km": 933.0,
+            "sequence_number": 24,
+            "station_code": "KZE",
+            "station_name": "KANHANGAD"
+        },
+        {
+            "arrival_time": "20:44",
+            "day_of_journey": 2,
+            "departure_time": "20:45",
+            "distance_km": 962.0,
+            "sequence_number": 25,
+            "station_code": "PAY",
+            "station_name": "PAYYANUR"
+        },
+        {
+            "arrival_time": "21:17",
+            "day_of_journey": 2,
+            "departure_time": "21:20",
+            "distance_km": 996.0,
+            "sequence_number": 26,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "21:39",
+            "day_of_journey": 2,
+            "departure_time": "21:40",
+            "distance_km": 1017.0,
+            "sequence_number": 27,
+            "station_code": "TLY",
+            "station_name": "THALASSERY"
+        },
+        {
+            "arrival_time": "22:37",
+            "day_of_journey": 2,
+            "departure_time": "22:40",
+            "distance_km": 1085.0,
+            "sequence_number": 28,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "23:14",
+            "day_of_journey": 2,
+            "departure_time": "23:15",
+            "distance_km": 1126.0,
+            "sequence_number": 29,
+            "station_code": "TIR",
+            "station_name": "TIRUR"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 3,
+            "departure_time": "00:15",
+            "distance_km": 1171.0,
+            "sequence_number": 30,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "00:55",
+            "day_of_journey": 3,
+            "departure_time": "00:58",
+            "distance_km": 1206.0,
+            "sequence_number": 31,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "01:50",
+            "day_of_journey": 3,
+            "departure_time": "01:52",
+            "distance_km": 1260.0,
+            "sequence_number": 32,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "02:20",
+            "day_of_journey": 3,
+            "departure_time": "02:22",
+            "distance_km": 1277.0,
+            "sequence_number": 33,
+            "station_code": "ERN",
+            "station_name": "ERNAKULAM TOWN"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1280.0,
+            "sequence_number": 34,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        }
+    ],
+    "train_name": "POORNA EXPRESS",
+    "train_number": "11097",
+    "type": "MAIL EXPRESS"
+}

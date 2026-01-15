@@ -1,0 +1,218 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "CC",
+        "EC",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_04502.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "04502-BTI-FKA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:05",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BTI",
+            "station_name": "BATHINDA"
+        },
+        {
+            "arrival_time": "08:18",
+            "day_of_journey": 1,
+            "departure_time": "08:23",
+            "distance_km": 12.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "GNA",
+            "station_name": "GONEANA"
+        },
+        {
+            "arrival_time": "08:30",
+            "day_of_journey": 1,
+            "departure_time": "08:31",
+            "distance_km": 19.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "CBX",
+            "station_name": "CHAND BHAN"
+        },
+        {
+            "arrival_time": "08:39",
+            "day_of_journey": 1,
+            "departure_time": "08:47",
+            "distance_km": 26.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "GJUT",
+            "station_name": "GANGSAR JAITU"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 1,
+            "departure_time": "08:54",
+            "distance_km": 30.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "AJTM",
+            "station_name": "AJITGILL MATTA"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 1,
+            "departure_time": "09:01",
+            "distance_km": 34.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "RLS",
+            "station_name": "RMNA ALBEL SNGH"
+        },
+        {
+            "arrival_time": "09:07",
+            "day_of_journey": 1,
+            "departure_time": "09:09",
+            "distance_km": 42.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "KKP",
+            "station_name": "KOT KAPURA"
+        },
+        {
+            "arrival_time": "09:20",
+            "day_of_journey": 1,
+            "departure_time": "09:21",
+            "distance_km": 51.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "WDJ",
+            "station_name": "WANDERJATANA"
+        },
+        {
+            "arrival_time": "09:30",
+            "day_of_journey": 1,
+            "departure_time": "09:31",
+            "distance_km": 60.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "BRW",
+            "station_name": "BARIWALA"
+        },
+        {
+            "arrival_time": "09:37",
+            "day_of_journey": 1,
+            "departure_time": "09:38",
+            "distance_km": 66.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "JBW",
+            "station_name": "JHABELWALI"
+        },
+        {
+            "arrival_time": "09:43",
+            "day_of_journey": 1,
+            "departure_time": "09:44",
+            "distance_km": 68.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "CWN",
+            "station_name": "CHARAWAN"
+        },
+        {
+            "arrival_time": "09:51",
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 75.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "MKS",
+            "station_name": "MUKTSAR"
+        },
+        {
+            "arrival_time": "10:17",
+            "day_of_journey": 1,
+            "departure_time": "10:18",
+            "distance_km": 83.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "BDBG",
+            "station_name": "BADHAI BALAMGRH"
+        },
+        {
+            "arrival_time": "10:24",
+            "day_of_journey": 1,
+            "departure_time": "10:25",
+            "distance_km": 86.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "BSGR",
+            "station_name": "BHAGSAR"
+        },
+        {
+            "arrival_time": "10:40",
+            "day_of_journey": 1,
+            "departure_time": "10:57",
+            "distance_km": 92.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "LKW",
+            "station_name": "LAKHEWALI"
+        },
+        {
+            "arrival_time": "11:06",
+            "day_of_journey": 1,
+            "departure_time": "11:07",
+            "distance_km": 100.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "RRW",
+            "station_name": "RORANWALA"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 1,
+            "departure_time": "11:16",
+            "distance_km": 108.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "CKA",
+            "station_name": "CHAK PAKHHEWALA"
+        },
+        {
+            "arrival_time": "11:22",
+            "day_of_journey": 1,
+            "departure_time": "11:23",
+            "distance_km": 113.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "CKLA",
+            "station_name": "CHAK BANWALA"
+        },
+        {
+            "arrival_time": "11:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 123.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "FKA",
+            "station_name": "FAZILKA"
+        }
+    ],
+    "train_name": "BTI-FKA SPL Valid From : 12-Jan-2026",
+    "train_number": "04502",
+    "type": "TRAIN ON DEMAND "
+}

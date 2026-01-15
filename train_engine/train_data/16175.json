@@ -1,0 +1,142 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16175.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "16175-TBM-KIK",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "21:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TBM",
+            "station_name": "TAMBARAM"
+        },
+        {
+            "arrival_time": "21:58",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 31.0,
+            "sequence_number": 2,
+            "station_code": "CGL",
+            "station_name": "CHENGALPATTU JN."
+        },
+        {
+            "arrival_time": "22:23",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 66.0,
+            "sequence_number": 3,
+            "station_code": "MLMR",
+            "station_name": "MELMARUVATHUR"
+        },
+        {
+            "arrival_time": "22:48",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 96.0,
+            "sequence_number": 4,
+            "station_code": "TMV",
+            "station_name": "TINDIVANAM"
+        },
+        {
+            "arrival_time": "23:35",
+            "day_of_journey": 1,
+            "departure_time": "23:40",
+            "distance_km": 134.0,
+            "sequence_number": 5,
+            "station_code": "VM",
+            "station_name": "VILLUPURAM JN"
+        },
+        {
+            "arrival_time": "00:20",
+            "day_of_journey": 2,
+            "departure_time": "00:21",
+            "distance_km": 180.0,
+            "sequence_number": 6,
+            "station_code": "CUPJ",
+            "station_name": "CUDDALORE PORT JN."
+        },
+        {
+            "arrival_time": "01:14",
+            "day_of_journey": 2,
+            "departure_time": "01:15",
+            "distance_km": 235.0,
+            "sequence_number": 7,
+            "station_code": "SY",
+            "station_name": "SIRKAZHI"
+        },
+        {
+            "arrival_time": "02:05",
+            "day_of_journey": 2,
+            "departure_time": "02:07",
+            "distance_km": 255.0,
+            "sequence_number": 8,
+            "station_code": "MV",
+            "station_name": "MAYILADUTURAI JN"
+        },
+        {
+            "arrival_time": "02:23",
+            "day_of_journey": 2,
+            "departure_time": "02:24",
+            "distance_km": 271.0,
+            "sequence_number": 9,
+            "station_code": "PEM",
+            "station_name": "PERALAM JN"
+        },
+        {
+            "arrival_time": "03:00",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 294.0,
+            "sequence_number": 10,
+            "station_code": "TVR",
+            "station_name": "THIRUVARUR JN"
+        },
+        {
+            "arrival_time": "03:40",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 317.0,
+            "sequence_number": 11,
+            "station_code": "NGT",
+            "station_name": "NAGAPPATTINAM JN"
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:02",
+            "distance_km": 325.0,
+            "sequence_number": 12,
+            "station_code": "NCR",
+            "station_name": "NAGORE"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 335.0,
+            "sequence_number": 13,
+            "station_code": "KIK",
+            "station_name": "KARAIKAL"
+        }
+    ],
+    "train_name": "MS KIK EXPRESS",
+    "train_number": "16175",
+    "type": "MAIL EXPRESS"
+}

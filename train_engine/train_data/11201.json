@@ -1,0 +1,133 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11201.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "11201-NGP-SDL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NGP",
+            "station_name": "NAGPUR JN."
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 74.0,
+            "sequence_number": 2,
+            "station_code": "SASR",
+            "station_name": "SAUSAR"
+        },
+        {
+            "arrival_time": "10:45",
+            "day_of_journey": 1,
+            "departure_time": "11:05",
+            "distance_km": 147.0,
+            "sequence_number": 3,
+            "station_code": "CWA",
+            "station_name": "CHHINDWARA JN"
+        },
+        {
+            "arrival_time": "11:53",
+            "day_of_journey": 1,
+            "departure_time": "11:55",
+            "distance_km": 212.0,
+            "sequence_number": 4,
+            "station_code": "SEY",
+            "station_name": "SEONI"
+        },
+        {
+            "arrival_time": "12:48",
+            "day_of_journey": 1,
+            "departure_time": "12:50",
+            "distance_km": 263.0,
+            "sequence_number": 5,
+            "station_code": "KLZ",
+            "station_name": "KEOLARI"
+        },
+        {
+            "arrival_time": "13:30",
+            "day_of_journey": 1,
+            "departure_time": "13:50",
+            "distance_km": 285.0,
+            "sequence_number": 6,
+            "station_code": "Point(2)",
+            "station_name": "NAINPUR JN NIR Train Reversal"
+        },
+        {
+            "arrival_time": "15:30",
+            "day_of_journey": 1,
+            "departure_time": "15:32",
+            "distance_km": 387.0,
+            "sequence_number": 7,
+            "station_code": "GRG",
+            "station_name": "GUWARIGHAT"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 408.0,
+            "sequence_number": 8,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 1,
+            "departure_time": "18:05",
+            "distance_km": 497.0,
+            "sequence_number": 9,
+            "station_code": "KTES",
+            "station_name": "KATNI SOUTH"
+        },
+        {
+            "arrival_time": "20:18",
+            "day_of_journey": 1,
+            "departure_time": "20:20",
+            "distance_km": 557.0,
+            "sequence_number": 10,
+            "station_code": "UMR",
+            "station_name": "UMARIA"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 1,
+            "departure_time": "20:44",
+            "distance_km": 587.0,
+            "sequence_number": 11,
+            "station_code": "BRS",
+            "station_name": "BIRSINGHPUR"
+        },
+        {
+            "arrival_time": "22:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 624.0,
+            "sequence_number": 12,
+            "station_code": "SDL",
+            "station_name": "SHAHDOL"
+        }
+    ],
+    "train_name": "NGP SDL EXPRESS",
+    "train_number": "11201",
+    "type": "MAIL EXPRESS"
+}

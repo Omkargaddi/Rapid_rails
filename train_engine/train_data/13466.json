@@ -1,0 +1,160 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_13466.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "13466-MLDT-HWH",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "06:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "06:13",
+            "day_of_journey": 1,
+            "departure_time": "06:14",
+            "distance_km": 21.0,
+            "sequence_number": 2,
+            "station_code": "KTJ",
+            "station_name": "KHALTIPUR"
+        },
+        {
+            "arrival_time": "06:32",
+            "day_of_journey": 1,
+            "departure_time": "06:34",
+            "distance_km": 35.0,
+            "sequence_number": 3,
+            "station_code": "NFK",
+            "station_name": "NEW FARAKKA JN"
+        },
+        {
+            "arrival_time": "06:53",
+            "day_of_journey": 1,
+            "departure_time": "06:55",
+            "distance_km": 52.0,
+            "sequence_number": 4,
+            "station_code": "DGLE",
+            "station_name": "DHULIAN GANGA"
+        },
+        {
+            "arrival_time": "07:05",
+            "day_of_journey": 1,
+            "departure_time": "07:07",
+            "distance_km": 62.0,
+            "sequence_number": 5,
+            "station_code": "NILE",
+            "station_name": "NIMITITA"
+        },
+        {
+            "arrival_time": "07:24",
+            "day_of_journey": 1,
+            "departure_time": "07:26",
+            "distance_km": 82.0,
+            "sequence_number": 6,
+            "station_code": "JRLE",
+            "station_name": "JANGIPUR ROAD"
+        },
+        {
+            "arrival_time": "08:17",
+            "day_of_journey": 1,
+            "departure_time": "08:19",
+            "distance_km": 117.0,
+            "sequence_number": 7,
+            "station_code": "AZ",
+            "station_name": "AZIMGANJ JN"
+        },
+        {
+            "arrival_time": "08:33",
+            "day_of_journey": 1,
+            "departure_time": "08:34",
+            "distance_km": 132.0,
+            "sequence_number": 8,
+            "station_code": "KGLE",
+            "station_name": "KHAGRAGHAT ROAD"
+        },
+        {
+            "arrival_time": "08:53",
+            "day_of_journey": 1,
+            "departure_time": "08:54",
+            "distance_km": 159.0,
+            "sequence_number": 9,
+            "station_code": "BZLE",
+            "station_name": "BAZARSAU"
+        },
+        {
+            "arrival_time": "09:06",
+            "day_of_journey": 1,
+            "departure_time": "09:08",
+            "distance_km": 173.0,
+            "sequence_number": 10,
+            "station_code": "SALE",
+            "station_name": "SALAR"
+        },
+        {
+            "arrival_time": "09:33",
+            "day_of_journey": 1,
+            "departure_time": "09:35",
+            "distance_km": 190.0,
+            "sequence_number": 11,
+            "station_code": "KWAE",
+            "station_name": "KATWA"
+        },
+        {
+            "arrival_time": "10:03",
+            "day_of_journey": 1,
+            "departure_time": "10:05",
+            "distance_km": 229.0,
+            "sequence_number": 12,
+            "station_code": "NDAE",
+            "station_name": "NABADWIP DHAM"
+        },
+        {
+            "arrival_time": "10:22",
+            "day_of_journey": 1,
+            "departure_time": "10:23",
+            "distance_km": 252.0,
+            "sequence_number": 13,
+            "station_code": "ABKA",
+            "station_name": "AMBIKA KALNA"
+        },
+        {
+            "arrival_time": "11:10",
+            "day_of_journey": 1,
+            "departure_time": "11:12",
+            "distance_km": 295.0,
+            "sequence_number": 14,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "12:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 334.0,
+            "sequence_number": 15,
+            "station_code": "HWH",
+            "station_name": "HOWRAH JN"
+        }
+    ],
+    "train_name": "INTERCITY EXP",
+    "train_number": "13466",
+    "type": "MAIL EXPRESS"
+}

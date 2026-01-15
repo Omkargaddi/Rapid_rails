@@ -1,0 +1,126 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12656.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12656-MAS-ADI",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        },
+        {
+            "arrival_time": "11:23",
+            "day_of_journey": 1,
+            "departure_time": "11:25",
+            "distance_km": 82.0,
+            "sequence_number": 2,
+            "station_code": "SPE",
+            "station_name": "SULLURUPETA"
+        },
+        {
+            "arrival_time": "12:03",
+            "day_of_journey": 1,
+            "departure_time": "12:05",
+            "distance_km": 137.0,
+            "sequence_number": 3,
+            "station_code": "GDR",
+            "station_name": "GUDUR JN"
+        },
+        {
+            "arrival_time": "12:28",
+            "day_of_journey": 1,
+            "departure_time": "12:30",
+            "distance_km": 176.0,
+            "sequence_number": 4,
+            "station_code": "NLR",
+            "station_name": "NELLORE"
+        },
+        {
+            "arrival_time": "13:08",
+            "day_of_journey": 1,
+            "departure_time": "13:10",
+            "distance_km": 226.0,
+            "sequence_number": 5,
+            "station_code": "KVZ",
+            "station_name": "KAVALI"
+        },
+        {
+            "arrival_time": "14:13",
+            "day_of_journey": 2,
+            "departure_time": "14:15",
+            "distance_km": 1717.0,
+            "sequence_number": 40,
+            "station_code": "AKV",
+            "station_name": "ANKLESHWAR JN"
+        },
+        {
+            "arrival_time": "15:27",
+            "day_of_journey": 2,
+            "departure_time": "15:32",
+            "distance_km": 1796.0,
+            "sequence_number": 41,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "16:30",
+            "day_of_journey": 2,
+            "departure_time": "16:32",
+            "distance_km": 1831.0,
+            "sequence_number": 42,
+            "station_code": "ANND",
+            "station_name": "ANAND JN"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 2,
+            "departure_time": "16:50",
+            "distance_km": 1849.0,
+            "sequence_number": 43,
+            "station_code": "ND",
+            "station_name": "NADIAD JN"
+        },
+        {
+            "arrival_time": "17:32",
+            "day_of_journey": 2,
+            "departure_time": "17:34",
+            "distance_km": 1892.0,
+            "sequence_number": 44,
+            "station_code": "MAN",
+            "station_name": "MANINAGAR"
+        },
+        {
+            "arrival_time": "18:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1895.0,
+            "sequence_number": 45,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        }
+    ],
+    "train_name": "NAVAJIVAN SF EXP",
+    "train_number": "12656",
+    "type": "SUPERFAST"
+}

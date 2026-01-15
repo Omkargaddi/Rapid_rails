@@ -1,0 +1,223 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18047.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "18047-SHM-VSG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "SHM",
+            "station_name": "SHALIMAR"
+        },
+        {
+            "arrival_time": "23:25",
+            "day_of_journey": 1,
+            "departure_time": "23:27",
+            "distance_km": 5.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "SRC",
+            "station_name": "SANTRAGACHI JN"
+        },
+        {
+            "arrival_time": "00:58",
+            "day_of_journey": 2,
+            "departure_time": "01:03",
+            "distance_km": 114.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "KGP",
+            "station_name": "KHARAGPUR JN"
+        },
+        {
+            "arrival_time": "02:26",
+            "day_of_journey": 2,
+            "departure_time": "02:28",
+            "distance_km": 234.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "BLS",
+            "station_name": "BALASORE"
+        },
+        {
+            "arrival_time": "03:20",
+            "day_of_journey": 2,
+            "departure_time": "03:22",
+            "distance_km": 293.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BHC",
+            "station_name": "BHADRAKH"
+        },
+        {
+            "arrival_time": "03:55",
+            "day_of_journey": 2,
+            "departure_time": "03:57",
+            "distance_km": 337.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "JJKR",
+            "station_name": "JAJPUR K ROAD"
+        },
+        {
+            "arrival_time": "04:50",
+            "day_of_journey": 2,
+            "departure_time": "04:55",
+            "distance_km": 409.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "CTC",
+            "station_name": "CUTTACK"
+        },
+        {
+            "arrival_time": "05:15",
+            "day_of_journey": 2,
+            "departure_time": "05:20",
+            "distance_km": 436.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "BBS",
+            "station_name": "BHUBANESWAR"
+        },
+        {
+            "arrival_time": "05:35",
+            "day_of_journey": 2,
+            "departure_time": "05:55",
+            "distance_km": 455.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "KUR",
+            "station_name": "KHURDA ROAD JN"
+        },
+        {
+            "arrival_time": "07:58",
+            "day_of_journey": 2,
+            "departure_time": "08:00",
+            "distance_km": 602.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "BAM",
+            "station_name": "BRAHMAPUR"
+        },
+        {
+            "arrival_time": "09:40",
+            "day_of_journey": 2,
+            "departure_time": "09:42",
+            "distance_km": 676.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "PSA",
+            "station_name": "PALASA"
+        },
+        {
+            "arrival_time": "10:38",
+            "day_of_journey": 2,
+            "departure_time": "10:40",
+            "distance_km": 749.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "CHE",
+            "station_name": "SRIKAKULAM ROAD"
+        },
+        {
+            "arrival_time": "08:50",
+            "day_of_journey": 3,
+            "departure_time": "09:00",
+            "distance_km": 1922.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "UBL",
+            "station_name": "SSS HUBBALLI JN"
+        },
+        {
+            "arrival_time": "09:27",
+            "day_of_journey": 3,
+            "departure_time": "09:28",
+            "distance_km": 1942.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "DWR",
+            "station_name": "DHARWAR"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 3,
+            "departure_time": "10:52",
+            "distance_km": 2012.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "LD",
+            "station_name": "LONDA JN"
+        },
+        {
+            "arrival_time": "11:30",
+            "day_of_journey": 3,
+            "departure_time": "11:35",
+            "distance_km": 2033.0,
+            "platform": null,
+            "sequence_number": 39,
+            "station_code": "CLR",
+            "station_name": "CASTLE ROCK"
+        },
+        {
+            "arrival_time": "13:15",
+            "day_of_journey": 3,
+            "departure_time": "13:20",
+            "distance_km": 2059.0,
+            "platform": null,
+            "sequence_number": 40,
+            "station_code": "QLM",
+            "station_name": "KULEM"
+        },
+        {
+            "arrival_time": "13:44",
+            "day_of_journey": 3,
+            "departure_time": "13:45",
+            "distance_km": 2077.0,
+            "platform": null,
+            "sequence_number": 41,
+            "station_code": "SVM",
+            "station_name": "SANVORDEM (KUDCHADE)"
+        },
+        {
+            "arrival_time": "14:20",
+            "day_of_journey": 3,
+            "departure_time": "14:25",
+            "distance_km": 2092.0,
+            "platform": null,
+            "sequence_number": 42,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2117.0,
+            "platform": null,
+            "sequence_number": 43,
+            "station_code": "VSG",
+            "station_name": "VASCO DA GAMA"
+        }
+    ],
+    "train_name": "AMARAVATI EXP",
+    "train_number": "18047",
+    "type": "MAIL EXPRESS "
+}

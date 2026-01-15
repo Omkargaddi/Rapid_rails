@@ -1,0 +1,125 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12363.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "12363-KOAA-HDB",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "09:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        },
+        {
+            "arrival_time": "10:26",
+            "day_of_journey": 1,
+            "departure_time": "10:28",
+            "distance_km": 100.0,
+            "sequence_number": 2,
+            "station_code": "BWN",
+            "station_name": "BARDHAMAN"
+        },
+        {
+            "arrival_time": "11:13",
+            "day_of_journey": 1,
+            "departure_time": "11:15",
+            "distance_km": 152.0,
+            "sequence_number": 3,
+            "station_code": "BHP",
+            "station_name": "BOLPUR S NIKTN"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:07",
+            "distance_km": 212.0,
+            "sequence_number": 4,
+            "station_code": "RPH",
+            "station_name": "RAMPUR HAT"
+        },
+        {
+            "arrival_time": "12:50",
+            "day_of_journey": 1,
+            "departure_time": "12:52",
+            "distance_km": 267.0,
+            "sequence_number": 5,
+            "station_code": "PKR",
+            "station_name": "PAKAUR"
+        },
+        {
+            "arrival_time": "14:50",
+            "day_of_journey": 1,
+            "departure_time": "15:00",
+            "distance_km": 334.0,
+            "sequence_number": 6,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "15:40",
+            "day_of_journey": 1,
+            "departure_time": "15:42",
+            "distance_km": 390.0,
+            "sequence_number": 7,
+            "station_code": "HCR",
+            "station_name": "HARISCHANDRPUR"
+        },
+        {
+            "arrival_time": "17:10",
+            "day_of_journey": 1,
+            "departure_time": "17:12",
+            "distance_km": 480.0,
+            "sequence_number": 8,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": "18:55",
+            "distance_km": 567.0,
+            "sequence_number": 9,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "19:42",
+            "day_of_journey": 1,
+            "departure_time": "19:44",
+            "distance_km": 602.0,
+            "sequence_number": 10,
+            "station_code": "JPG",
+            "station_name": "JALPAIGURI"
+        },
+        {
+            "arrival_time": "20:25",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 624.0,
+            "sequence_number": 11,
+            "station_code": "HDB",
+            "station_name": "HALDIBARI"
+        }
+    ],
+    "train_name": "KOAA HDB SF EXP",
+    "train_number": "12363",
+    "type": "SUPERFAST"
+}

@@ -1,0 +1,297 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19019.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "19019-BDTS-HW",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "00:20",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 1,
+            "departure_time": "00:48",
+            "distance_km": 19.0,
+            "sequence_number": 2,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "01:05",
+            "day_of_journey": 1,
+            "departure_time": "01:07",
+            "distance_km": 36.0,
+            "sequence_number": 3,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "01:40",
+            "day_of_journey": 1,
+            "departure_time": "01:45",
+            "distance_km": 76.0,
+            "sequence_number": 4,
+            "station_code": "PLG",
+            "station_name": "PALGHAR"
+        },
+        {
+            "arrival_time": "02:08",
+            "day_of_journey": 1,
+            "departure_time": "02:10",
+            "distance_km": 108.0,
+            "sequence_number": 5,
+            "station_code": "DRD",
+            "station_name": "DAHANU ROAD"
+        },
+        {
+            "arrival_time": "02:33",
+            "day_of_journey": 1,
+            "departure_time": "02:35",
+            "distance_km": 157.0,
+            "sequence_number": 6,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "03:10",
+            "day_of_journey": 1,
+            "departure_time": "03:15",
+            "distance_km": 183.0,
+            "sequence_number": 7,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "03:28",
+            "day_of_journey": 1,
+            "departure_time": "03:30",
+            "distance_km": 201.0,
+            "sequence_number": 8,
+            "station_code": "BIM",
+            "station_name": "BILIMORA JN"
+        },
+        {
+            "arrival_time": "03:45",
+            "day_of_journey": 1,
+            "departure_time": "03:47",
+            "distance_km": 222.0,
+            "sequence_number": 9,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "04:30",
+            "day_of_journey": 1,
+            "departure_time": "04:35",
+            "distance_km": 252.0,
+            "sequence_number": 10,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "04:58",
+            "day_of_journey": 1,
+            "departure_time": "05:00",
+            "distance_km": 283.0,
+            "sequence_number": 11,
+            "station_code": "KSB",
+            "station_name": "KOSAMBA JN"
+        },
+        {
+            "arrival_time": "05:14",
+            "day_of_journey": 1,
+            "departure_time": "05:16",
+            "distance_km": 301.0,
+            "sequence_number": 12,
+            "station_code": "AKV",
+            "station_name": "ANKLESHWAR JN"
+        },
+        {
+            "arrival_time": "20:33",
+            "day_of_journey": 1,
+            "departure_time": "20:35",
+            "distance_km": 1059.0,
+            "sequence_number": 59,
+            "station_code": "NNW",
+            "station_name": "NARAYANPUR TATWARA"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 1,
+            "departure_time": "21:05",
+            "distance_km": 1076.0,
+            "sequence_number": 60,
+            "station_code": "GGC",
+            "station_name": "GANGAPUR CITY"
+        },
+        {
+            "arrival_time": "21:30",
+            "day_of_journey": 1,
+            "departure_time": "21:32",
+            "distance_km": 1110.0,
+            "sequence_number": 61,
+            "station_code": "SMVJ",
+            "station_name": "SHRI MAHAVEERJI"
+        },
+        {
+            "arrival_time": "21:45",
+            "day_of_journey": 1,
+            "departure_time": "21:50",
+            "distance_km": 1120.0,
+            "sequence_number": 62,
+            "station_code": "HAN",
+            "station_name": "HINDAUN CITY"
+        },
+        {
+            "arrival_time": "22:01",
+            "day_of_journey": 1,
+            "departure_time": "22:03",
+            "distance_km": 1134.0,
+            "sequence_number": 63,
+            "station_code": "FSP",
+            "station_name": "FATEH SINGHPURA"
+        },
+        {
+            "arrival_time": "22:23",
+            "day_of_journey": 1,
+            "departure_time": "22:25",
+            "distance_km": 1153.0,
+            "sequence_number": 64,
+            "station_code": "BXN",
+            "station_name": "BAYANA JN"
+        },
+        {
+            "arrival_time": "23:05",
+            "day_of_journey": 1,
+            "departure_time": "23:10",
+            "distance_km": 1195.0,
+            "sequence_number": 65,
+            "station_code": "BTE",
+            "station_name": "BHARATPUR JN"
+        },
+        {
+            "arrival_time": "00:10",
+            "day_of_journey": 2,
+            "departure_time": "00:15",
+            "distance_km": 1229.0,
+            "sequence_number": 66,
+            "station_code": "MTJ",
+            "station_name": "MATHURA JN."
+        },
+        {
+            "arrival_time": "00:45",
+            "day_of_journey": 2,
+            "departure_time": "00:47",
+            "distance_km": 1270.0,
+            "sequence_number": 67,
+            "station_code": "KSV",
+            "station_name": "KOSI KALAN"
+        },
+        {
+            "arrival_time": "01:58",
+            "day_of_journey": 2,
+            "departure_time": "02:00",
+            "distance_km": 1341.0,
+            "sequence_number": 68,
+            "station_code": "FDB",
+            "station_name": "FARIDABAD"
+        },
+        {
+            "arrival_time": "02:35",
+            "day_of_journey": 2,
+            "departure_time": "02:50",
+            "distance_km": 1362.0,
+            "sequence_number": 69,
+            "station_code": "NZM",
+            "station_name": "HAZRAT NIZAMUDDIN JN"
+        },
+        {
+            "arrival_time": "03:26",
+            "day_of_journey": 2,
+            "departure_time": "03:28",
+            "distance_km": 1390.0,
+            "sequence_number": 70,
+            "station_code": "GZB",
+            "station_name": "GHAZIABAD"
+        },
+        {
+            "arrival_time": "04:02",
+            "day_of_journey": 2,
+            "departure_time": "04:07",
+            "distance_km": 1437.0,
+            "sequence_number": 71,
+            "station_code": "MTC",
+            "station_name": "MEERUT CITY"
+        },
+        {
+            "arrival_time": "04:48",
+            "day_of_journey": 2,
+            "departure_time": "04:50",
+            "distance_km": 1492.0,
+            "sequence_number": 72,
+            "station_code": "MOZ",
+            "station_name": "MUZAFFARNAGAR"
+        },
+        {
+            "arrival_time": "05:41",
+            "day_of_journey": 2,
+            "departure_time": "05:43",
+            "distance_km": 1544.0,
+            "sequence_number": 73,
+            "station_code": "TPZ",
+            "station_name": "TAPRI"
+        },
+        {
+            "arrival_time": "06:28",
+            "day_of_journey": 2,
+            "departure_time": "06:33",
+            "distance_km": 1576.0,
+            "sequence_number": 74,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "07:24",
+            "day_of_journey": 2,
+            "departure_time": "07:26",
+            "distance_km": 1613.0,
+            "sequence_number": 75,
+            "station_code": "JWP",
+            "station_name": "JWALAPUR"
+        },
+        {
+            "arrival_time": "07:50",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1617.0,
+            "sequence_number": 76,
+            "station_code": "HW",
+            "station_name": "HARIDWAR JN"
+        }
+    ],
+    "train_name": "BDTS HW EXP",
+    "train_number": "19019",
+    "type": "MAIL EXPRESS"
+}

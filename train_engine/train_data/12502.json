@@ -1,0 +1,210 @@
+{
+    "classes_available": [
+        "3E"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12502.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "12502-AGTL-KOAA",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "07:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "AGTL",
+            "station_name": "AGARTALA"
+        },
+        {
+            "arrival_time": "10:04",
+            "day_of_journey": 1,
+            "departure_time": "10:06",
+            "distance_km": 140.0,
+            "sequence_number": 2,
+            "station_code": "DMR",
+            "station_name": "DHARMANAGAR"
+        },
+        {
+            "arrival_time": "11:15",
+            "day_of_journey": 1,
+            "departure_time": "11:17",
+            "distance_km": 205.0,
+            "sequence_number": 3,
+            "station_code": "NKMG",
+            "station_name": "NEW KARIMGANJ"
+        },
+        {
+            "arrival_time": "11:50",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 226.0,
+            "sequence_number": 4,
+            "station_code": "BPB",
+            "station_name": "BADARPUR JN."
+        },
+        {
+            "arrival_time": "14:14",
+            "day_of_journey": 1,
+            "departure_time": "14:16",
+            "distance_km": 297.0,
+            "sequence_number": 5,
+            "station_code": "NHLG",
+            "station_name": "NEW HAFLONG"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 385.0,
+            "sequence_number": 6,
+            "station_code": "MYD",
+            "station_name": "MANDERDISA"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 567.0,
+            "sequence_number": 7,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        },
+        {
+            "arrival_time": "22:48",
+            "day_of_journey": 1,
+            "departure_time": "22:50",
+            "distance_km": 697.0,
+            "sequence_number": 8,
+            "station_code": "GLPT",
+            "station_name": "GOALPARA TOWN"
+        },
+        {
+            "arrival_time": "23:48",
+            "day_of_journey": 1,
+            "departure_time": "23:50",
+            "distance_km": 749.0,
+            "sequence_number": 9,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "00:30",
+            "day_of_journey": 2,
+            "departure_time": "00:32",
+            "distance_km": 780.0,
+            "sequence_number": 10,
+            "station_code": "KOJ",
+            "station_name": "KOKRAJHAR"
+        },
+        {
+            "arrival_time": "01:28",
+            "day_of_journey": 2,
+            "departure_time": "01:30",
+            "distance_km": 858.0,
+            "sequence_number": 11,
+            "station_code": "NOQ",
+            "station_name": "NEW ALIPURDUAR"
+        },
+        {
+            "arrival_time": "01:53",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 877.0,
+            "sequence_number": 12,
+            "station_code": "NCB",
+            "station_name": "NEW COOCH BEHAR"
+        },
+        {
+            "arrival_time": "04:25",
+            "day_of_journey": 2,
+            "departure_time": "04:35",
+            "distance_km": 1003.0,
+            "sequence_number": 13,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "05:36",
+            "day_of_journey": 2,
+            "departure_time": "05:38",
+            "distance_km": 1090.0,
+            "sequence_number": 14,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "08:05",
+            "day_of_journey": 2,
+            "departure_time": "08:15",
+            "distance_km": 1236.0,
+            "sequence_number": 15,
+            "station_code": "MLDT",
+            "station_name": "MALDA TOWN"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 2,
+            "departure_time": "09:26",
+            "distance_km": 1318.0,
+            "sequence_number": 16,
+            "station_code": "JRLE",
+            "station_name": "JANGIPUR ROAD"
+        },
+        {
+            "arrival_time": "10:25",
+            "day_of_journey": 2,
+            "departure_time": "10:27",
+            "distance_km": 1353.0,
+            "sequence_number": 17,
+            "station_code": "AZ",
+            "station_name": "AZIMGANJ JN"
+        },
+        {
+            "arrival_time": "11:34",
+            "day_of_journey": 2,
+            "departure_time": "11:36",
+            "distance_km": 1426.0,
+            "sequence_number": 18,
+            "station_code": "KWAE",
+            "station_name": "KATWA"
+        },
+        {
+            "arrival_time": "12:04",
+            "day_of_journey": 2,
+            "departure_time": "12:06",
+            "distance_km": 1465.0,
+            "sequence_number": 19,
+            "station_code": "NDAE",
+            "station_name": "NABADWIP DHAM"
+        },
+        {
+            "arrival_time": "13:10",
+            "day_of_journey": 2,
+            "departure_time": "13:12",
+            "distance_km": 1530.0,
+            "sequence_number": 20,
+            "station_code": "BDC",
+            "station_name": "BANDEL"
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1574.0,
+            "sequence_number": 21,
+            "station_code": "KOAA",
+            "station_name": "KOLKATTA TERMINAL"
+        }
+    ],
+    "train_name": "KOAA GARIB RATH",
+    "train_number": "12502",
+    "type": "GARIB RATH"
+}

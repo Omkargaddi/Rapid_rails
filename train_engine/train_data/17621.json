@@ -1,0 +1,283 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17621.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "17621-CPSN-TPTY",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "CPSN",
+            "station_name": "CHHATRAPATI SAMBHAJINAGAR"
+        },
+        {
+            "arrival_time": "21:43",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 63.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "J",
+            "station_name": "JALNA"
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": "22:21",
+            "distance_km": 108.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "PTU",
+            "station_name": "PARTUR"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 1,
+            "departure_time": "22:41",
+            "distance_km": 134.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "SELU",
+            "station_name": "SELU"
+        },
+        {
+            "arrival_time": "22:54",
+            "day_of_journey": 1,
+            "departure_time": "22:55",
+            "distance_km": 150.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "MVO",
+            "station_name": "MANWATH ROAD"
+        },
+        {
+            "arrival_time": "23:45",
+            "day_of_journey": 2,
+            "departure_time": "00:05",
+            "distance_km": 177.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "PBN",
+            "station_name": "PARBHANI JN"
+        },
+        {
+            "arrival_time": "00:39",
+            "day_of_journey": 2,
+            "departure_time": "00:40",
+            "distance_km": 211.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "GNH",
+            "station_name": "GANGAKHER"
+        },
+        {
+            "arrival_time": "01:45",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 241.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "Point(2)",
+            "station_name": "PARLI VAIJNATH PRLI Train Reversal"
+        },
+        {
+            "arrival_time": "03:09",
+            "day_of_journey": 2,
+            "departure_time": "03:10",
+            "distance_km": 304.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "LTRR",
+            "station_name": "LATUR ROAD"
+        },
+        {
+            "arrival_time": "03:44",
+            "day_of_journey": 2,
+            "departure_time": "03:45",
+            "distance_km": 337.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "UDGR",
+            "station_name": "UDGIR"
+        },
+        {
+            "arrival_time": "05:00",
+            "day_of_journey": 2,
+            "departure_time": "05:02",
+            "distance_km": 418.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "BIDR",
+            "station_name": "BIDAR"
+        },
+        {
+            "arrival_time": "05:34",
+            "day_of_journey": 2,
+            "departure_time": "05:35",
+            "distance_km": 449.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "ZB",
+            "station_name": "ZAHIRABAD"
+        },
+        {
+            "arrival_time": "06:58",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 508.0,
+            "platform": null,
+            "sequence_number": 13,
+            "station_code": "Point(3)",
+            "station_name": "VIKARABAD JN VKB Train Reversal"
+        },
+        {
+            "arrival_time": "07:49",
+            "day_of_journey": 2,
+            "departure_time": "07:50",
+            "distance_km": 551.0,
+            "platform": null,
+            "sequence_number": 14,
+            "station_code": "TDU",
+            "station_name": "TANDUR"
+        },
+        {
+            "arrival_time": "08:59",
+            "day_of_journey": 2,
+            "departure_time": "09:00",
+            "distance_km": 606.0,
+            "platform": null,
+            "sequence_number": 15,
+            "station_code": "CT",
+            "station_name": "CHITTAPUR"
+        },
+        {
+            "arrival_time": "10:33",
+            "day_of_journey": 2,
+            "departure_time": "10:35",
+            "distance_km": 658.0,
+            "platform": null,
+            "sequence_number": 16,
+            "station_code": "YG",
+            "station_name": "YADGIR"
+        },
+        {
+            "arrival_time": "11:48",
+            "day_of_journey": 2,
+            "departure_time": "11:50",
+            "distance_km": 727.0,
+            "platform": null,
+            "sequence_number": 17,
+            "station_code": "RC",
+            "station_name": "RAICHUR"
+        },
+        {
+            "arrival_time": "12:18",
+            "day_of_journey": 2,
+            "departure_time": "12:20",
+            "distance_km": 756.0,
+            "platform": null,
+            "sequence_number": 18,
+            "station_code": "MALM",
+            "station_name": "MANTHRALAYAM RD"
+        },
+        {
+            "arrival_time": "12:53",
+            "day_of_journey": 2,
+            "departure_time": "12:55",
+            "distance_km": 797.0,
+            "platform": null,
+            "sequence_number": 19,
+            "station_code": "AD",
+            "station_name": "ADONI"
+        },
+        {
+            "arrival_time": "13:55",
+            "day_of_journey": 2,
+            "departure_time": "14:05",
+            "distance_km": 849.0,
+            "platform": null,
+            "sequence_number": 20,
+            "station_code": "GTL",
+            "station_name": "GUNTAKAL JN"
+        },
+        {
+            "arrival_time": "14:33",
+            "day_of_journey": 2,
+            "departure_time": "14:35",
+            "distance_km": 877.0,
+            "platform": null,
+            "sequence_number": 21,
+            "station_code": "GY",
+            "station_name": "GOOTY"
+        },
+        {
+            "arrival_time": "15:18",
+            "day_of_journey": 2,
+            "departure_time": "15:20",
+            "distance_km": 925.0,
+            "platform": null,
+            "sequence_number": 22,
+            "station_code": "TU",
+            "station_name": "TADIPATRI"
+        },
+        {
+            "arrival_time": "16:08",
+            "day_of_journey": 2,
+            "departure_time": "16:10",
+            "distance_km": 992.0,
+            "platform": null,
+            "sequence_number": 23,
+            "station_code": "YA",
+            "station_name": "YERRAGUNTLA"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 2,
+            "departure_time": "16:50",
+            "distance_km": 1032.0,
+            "platform": null,
+            "sequence_number": 24,
+            "station_code": "HX",
+            "station_name": "CUDDAPAH"
+        },
+        {
+            "arrival_time": "19:28",
+            "day_of_journey": 2,
+            "departure_time": "19:30",
+            "distance_km": 1157.0,
+            "platform": null,
+            "sequence_number": 25,
+            "station_code": "RU",
+            "station_name": "RENIGUNTA JN"
+        },
+        {
+            "arrival_time": "20:30",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1167.0,
+            "platform": null,
+            "sequence_number": 26,
+            "station_code": "TPTY",
+            "station_name": "TIRUPATI"
+        }
+    ],
+    "train_name": "CPSN TPTY EXP",
+    "train_number": "17621",
+    "type": "MAIL EXPRESS "
+}

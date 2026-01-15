@@ -1,0 +1,241 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_18620.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "18620-GODA-RNC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "GODA",
+            "station_name": "GODDA"
+        },
+        {
+            "arrival_time": "16:13",
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "PYHT",
+            "station_name": "PRAYAHAT HALT"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:37",
+            "distance_km": 32.0,
+            "sequence_number": 3,
+            "station_code": "HSDA",
+            "station_name": "HANSDIHA"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 1,
+            "departure_time": "17:02",
+            "distance_km": 49.0,
+            "sequence_number": 4,
+            "station_code": "NNHT",
+            "station_name": "NONIHAT"
+        },
+        {
+            "arrival_time": "17:16",
+            "day_of_journey": 1,
+            "departure_time": "17:18",
+            "distance_km": 60.0,
+            "sequence_number": 5,
+            "station_code": "BRPS",
+            "station_name": "BARAPALASI"
+        },
+        {
+            "arrival_time": "17:40",
+            "day_of_journey": 1,
+            "departure_time": "18:00",
+            "distance_km": 74.0,
+            "sequence_number": 6,
+            "station_code": "DUMK",
+            "station_name": "DUMKA"
+        },
+        {
+            "arrival_time": "18:09",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 87.0,
+            "sequence_number": 7,
+            "station_code": "JAMA",
+            "station_name": "JAMA"
+        },
+        {
+            "arrival_time": "18:18",
+            "day_of_journey": 1,
+            "departure_time": "18:19",
+            "distance_km": 96.0,
+            "sequence_number": 8,
+            "station_code": "BSKH",
+            "station_name": "BASUKINATH"
+        },
+        {
+            "arrival_time": "18:35",
+            "day_of_journey": 1,
+            "departure_time": "18:36",
+            "distance_km": 119.0,
+            "sequence_number": 9,
+            "station_code": "GRMA",
+            "station_name": "GHORMARA"
+        },
+        {
+            "arrival_time": "18:48",
+            "day_of_journey": 1,
+            "departure_time": "19:20",
+            "distance_km": 139.0,
+            "sequence_number": 10,
+            "station_code": "DGHR",
+            "station_name": "DEOGHAR"
+        },
+        {
+            "arrival_time": "19:35",
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 145.0,
+            "sequence_number": 11,
+            "station_code": "Point(2)",
+            "station_name": "JASIDIH JN. JSME Train Reversal"
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 175.0,
+            "sequence_number": 12,
+            "station_code": "MDP",
+            "station_name": "MADHUPUR JN."
+        },
+        {
+            "arrival_time": "20:49",
+            "day_of_journey": 1,
+            "departure_time": "20:51",
+            "distance_km": 198.0,
+            "sequence_number": 13,
+            "station_code": "VDS",
+            "station_name": "VIDYASAGAR"
+        },
+        {
+            "arrival_time": "21:15",
+            "day_of_journey": 1,
+            "departure_time": "21:17",
+            "distance_km": 217.0,
+            "sequence_number": 14,
+            "station_code": "JMT",
+            "station_name": "JAMTARA"
+        },
+        {
+            "arrival_time": "21:30",
+            "day_of_journey": 1,
+            "departure_time": "21:32",
+            "distance_km": 231.0,
+            "sequence_number": 15,
+            "station_code": "CRJ",
+            "station_name": "CHITTARANJAN"
+        },
+        {
+            "arrival_time": "22:09",
+            "day_of_journey": 1,
+            "departure_time": "22:11",
+            "distance_km": 250.0,
+            "sequence_number": 16,
+            "station_code": "BRR",
+            "station_name": "BARAKAR"
+        },
+        {
+            "arrival_time": "23:40",
+            "day_of_journey": 1,
+            "departure_time": "23:45",
+            "distance_km": 292.0,
+            "sequence_number": 17,
+            "station_code": "DHN",
+            "station_name": "DHANBAD JN"
+        },
+        {
+            "arrival_time": "00:08",
+            "day_of_journey": 2,
+            "departure_time": "00:10",
+            "distance_km": 305.0,
+            "sequence_number": 18,
+            "station_code": "KTH",
+            "station_name": "KATRASGARH"
+        },
+        {
+            "arrival_time": "00:55",
+            "day_of_journey": 2,
+            "departure_time": "00:57",
+            "distance_km": 326.0,
+            "sequence_number": 19,
+            "station_code": "CRP",
+            "station_name": "CHANDRAPURA"
+        },
+        {
+            "arrival_time": "01:20",
+            "day_of_journey": 2,
+            "departure_time": "01:25",
+            "distance_km": 341.0,
+            "sequence_number": 20,
+            "station_code": "BKSC",
+            "station_name": "BOKARO STEEL CITY"
+        },
+        {
+            "arrival_time": "01:54",
+            "day_of_journey": 2,
+            "departure_time": "01:55",
+            "distance_km": 370.0,
+            "sequence_number": 21,
+            "station_code": "KSX",
+            "station_name": "KOTSHILA"
+        },
+        {
+            "arrival_time": "02:04",
+            "day_of_journey": 2,
+            "departure_time": "02:05",
+            "distance_km": 382.0,
+            "sequence_number": 22,
+            "station_code": "JAA",
+            "station_name": "JHALIDA"
+        },
+        {
+            "arrival_time": "02:18",
+            "day_of_journey": 2,
+            "departure_time": "02:20",
+            "distance_km": 394.0,
+            "sequence_number": 23,
+            "station_code": "MURI",
+            "station_name": "MURI JN"
+        },
+        {
+            "arrival_time": "04:10",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 457.0,
+            "sequence_number": 24,
+            "station_code": "RNC",
+            "station_name": "RANCHI"
+        }
+    ],
+    "train_name": "INTERCITY EXP",
+    "train_number": "18620",
+    "type": "MAIL EXPRESS"
+}

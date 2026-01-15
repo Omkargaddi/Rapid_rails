@@ -1,0 +1,123 @@
+{
+    "classes_available": [
+        "3A",
+        "CC",
+        "2S",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22187.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "22187-RKMP-ADTL",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:15",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "RKMP",
+            "station_name": "RANI KAMALAPATI"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 1,
+            "departure_time": "06:12",
+            "distance_km": 68.0,
+            "sequence_number": 2,
+            "station_code": "NDPM",
+            "station_name": "NARMADAPURAM"
+        },
+        {
+            "arrival_time": "06:40",
+            "day_of_journey": 1,
+            "departure_time": "06:50",
+            "distance_km": 86.0,
+            "sequence_number": 3,
+            "station_code": "ET",
+            "station_name": "ITARSI JN"
+        },
+        {
+            "arrival_time": "07:38",
+            "day_of_journey": 1,
+            "departure_time": "07:40",
+            "distance_km": 153.0,
+            "sequence_number": 4,
+            "station_code": "PPI",
+            "station_name": "PIPARIYA"
+        },
+        {
+            "arrival_time": "08:13",
+            "day_of_journey": 1,
+            "departure_time": "08:15",
+            "distance_km": 202.0,
+            "sequence_number": 5,
+            "station_code": "GAR",
+            "station_name": "GADARWARA"
+        },
+        {
+            "arrival_time": "08:33",
+            "day_of_journey": 1,
+            "departure_time": "08:35",
+            "distance_km": 231.0,
+            "sequence_number": 6,
+            "station_code": "KY",
+            "station_name": "KARELI"
+        },
+        {
+            "arrival_time": "08:48",
+            "day_of_journey": 1,
+            "departure_time": "08:50",
+            "distance_km": 247.0,
+            "sequence_number": 7,
+            "station_code": "NU",
+            "station_name": "NARSINGHPUR"
+        },
+        {
+            "arrival_time": "09:08",
+            "day_of_journey": 1,
+            "departure_time": "09:10",
+            "distance_km": 278.0,
+            "sequence_number": 8,
+            "station_code": "SRID",
+            "station_name": "SRIDHAM"
+        },
+        {
+            "arrival_time": "09:45",
+            "day_of_journey": 1,
+            "departure_time": "09:50",
+            "distance_km": 327.0,
+            "sequence_number": 9,
+            "station_code": "MML",
+            "station_name": "MADAN MAHAL"
+        },
+        {
+            "arrival_time": "10:07",
+            "day_of_journey": 1,
+            "departure_time": "10:15",
+            "distance_km": 331.0,
+            "sequence_number": 10,
+            "station_code": "JBP",
+            "station_name": "JABALPUR"
+        },
+        {
+            "arrival_time": "11:00",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 339.0,
+            "sequence_number": 11,
+            "station_code": "ADTL",
+            "station_name": "ADHARTAL"
+        }
+    ],
+    "train_name": "INTERCITY EXP",
+    "train_number": "22187",
+    "type": "SUPERFAST"
+}

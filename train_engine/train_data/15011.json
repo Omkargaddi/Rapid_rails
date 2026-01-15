@@ -1,0 +1,206 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15011.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "15011-LJN-CDG",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "23:55",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LJN",
+            "station_name": "LUCKNOW"
+        },
+        {
+            "arrival_time": "01:32",
+            "day_of_journey": 2,
+            "departure_time": "01:34",
+            "distance_km": 102.0,
+            "sequence_number": 2,
+            "station_code": "HRI",
+            "station_name": "HARDOI"
+        },
+        {
+            "arrival_time": "02:31",
+            "day_of_journey": 2,
+            "departure_time": "02:33",
+            "distance_km": 164.0,
+            "sequence_number": 3,
+            "station_code": "SPN",
+            "station_name": "SHAHJEHANPUR"
+        },
+        {
+            "arrival_time": "04:57",
+            "day_of_journey": 2,
+            "departure_time": "05:02",
+            "distance_km": 297.0,
+            "sequence_number": 4,
+            "station_code": "CH",
+            "station_name": "CHANDAUSI JN"
+        },
+        {
+            "arrival_time": "05:50",
+            "day_of_journey": 2,
+            "departure_time": "05:58",
+            "distance_km": 341.0,
+            "sequence_number": 5,
+            "station_code": "MB",
+            "station_name": "MORADABAD"
+        },
+        {
+            "arrival_time": "06:25",
+            "day_of_journey": 2,
+            "departure_time": "06:27",
+            "distance_km": 371.0,
+            "sequence_number": 6,
+            "station_code": "AMRO",
+            "station_name": "AMROHA"
+        },
+        {
+            "arrival_time": "06:55",
+            "day_of_journey": 2,
+            "departure_time": "07:00",
+            "distance_km": 394.0,
+            "sequence_number": 7,
+            "station_code": "GJL",
+            "station_name": "GAJRAULA JN"
+        },
+        {
+            "arrival_time": "07:24",
+            "day_of_journey": 2,
+            "departure_time": "07:26",
+            "distance_km": 410.0,
+            "sequence_number": 8,
+            "station_code": "MNDR",
+            "station_name": "MANDI DHANAURA"
+        },
+        {
+            "arrival_time": "07:48",
+            "day_of_journey": 2,
+            "departure_time": "07:50",
+            "distance_km": 429.0,
+            "sequence_number": 9,
+            "station_code": "CPS",
+            "station_name": "CHAND SIAU"
+        },
+        {
+            "arrival_time": "08:13",
+            "day_of_journey": 2,
+            "departure_time": "08:15",
+            "distance_km": 447.0,
+            "sequence_number": 10,
+            "station_code": "HLDR",
+            "station_name": "HALDAUR"
+        },
+        {
+            "arrival_time": "08:55",
+            "day_of_journey": 2,
+            "departure_time": "09:00",
+            "distance_km": 465.0,
+            "sequence_number": 11,
+            "station_code": "BJO",
+            "station_name": "BIJNOR"
+        },
+        {
+            "arrival_time": "09:28",
+            "day_of_journey": 2,
+            "departure_time": "09:30",
+            "distance_km": 479.0,
+            "sequence_number": 12,
+            "station_code": "BSKR",
+            "station_name": "BASI KIRATPUR"
+        },
+        {
+            "arrival_time": "10:10",
+            "day_of_journey": 2,
+            "departure_time": "10:45",
+            "distance_km": 490.0,
+            "sequence_number": 13,
+            "station_code": "MZM",
+            "station_name": "MUZZAMPUR NRYN"
+        },
+        {
+            "arrival_time": "11:08",
+            "day_of_journey": 2,
+            "departure_time": "11:10",
+            "distance_km": 520.0,
+            "sequence_number": 14,
+            "station_code": "LRJ",
+            "station_name": "LAKSAR JN"
+        },
+        {
+            "arrival_time": "11:26",
+            "day_of_journey": 2,
+            "departure_time": "11:28",
+            "distance_km": 538.0,
+            "sequence_number": 15,
+            "station_code": "RK",
+            "station_name": "ROORKEE"
+        },
+        {
+            "arrival_time": "12:20",
+            "day_of_journey": 2,
+            "departure_time": "12:30",
+            "distance_km": 573.0,
+            "sequence_number": 16,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "12:56",
+            "day_of_journey": 2,
+            "departure_time": "12:58",
+            "distance_km": 603.0,
+            "sequence_number": 17,
+            "station_code": "YJUD",
+            "station_name": "YAMUNANAGAR JAGADHRI"
+        },
+        {
+            "arrival_time": "13:04",
+            "day_of_journey": 2,
+            "departure_time": "13:06",
+            "distance_km": 608.0,
+            "sequence_number": 18,
+            "station_code": "JUDW",
+            "station_name": "JAGADHRI WSHOP"
+        },
+        {
+            "arrival_time": "14:10",
+            "day_of_journey": 2,
+            "departure_time": "14:15",
+            "distance_km": 654.0,
+            "sequence_number": 19,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 699.0,
+            "sequence_number": 20,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        }
+    ],
+    "train_name": "LJN CDG EXPRESS",
+    "train_number": "15011",
+    "type": "MAIL EXPRESS"
+}

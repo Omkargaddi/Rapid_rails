@@ -1,0 +1,75 @@
+{
+    "classes_available": [
+        "CC"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22447.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": true
+    },
+    "route_id": "22447-NDLS-AADR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NDLS",
+            "station_name": "NEW DELHI"
+        },
+        {
+            "arrival_time": "08:00",
+            "day_of_journey": 1,
+            "departure_time": "08:02",
+            "distance_km": 198.0,
+            "sequence_number": 2,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:45",
+            "distance_km": 243.0,
+            "sequence_number": 3,
+            "station_code": "CDG",
+            "station_name": "CHANDIGARH"
+        },
+        {
+            "arrival_time": "10:00",
+            "day_of_journey": 1,
+            "departure_time": "10:02",
+            "distance_km": 348.0,
+            "sequence_number": 4,
+            "station_code": "ANSB",
+            "station_name": "ANANDPUR SAHIB"
+        },
+        {
+            "arrival_time": "10:32",
+            "day_of_journey": 1,
+            "departure_time": "10:34",
+            "distance_km": 384.0,
+            "sequence_number": 5,
+            "station_code": "UHL",
+            "station_name": "UNA HIMACHAL"
+        },
+        {
+            "arrival_time": "11:05",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 412.0,
+            "sequence_number": 6,
+            "station_code": "AADR",
+            "station_name": "AMB ANDAURA"
+        }
+    ],
+    "train_name": "VANDE BHARAT EX",
+    "train_number": "22447",
+    "type": "VANDE BHARAT"
+}

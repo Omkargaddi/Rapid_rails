@@ -1,0 +1,105 @@
+{
+    "classes_available": [
+        "SL",
+        "PC",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_11015.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "11015-LTT-SHC",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "LTT",
+            "station_name": "LOKMANYATILAK"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:07",
+            "distance_km": 17.0,
+            "sequence_number": 2,
+            "station_code": "TNA",
+            "station_name": "THANE"
+        },
+        {
+            "arrival_time": "12:22",
+            "day_of_journey": 1,
+            "departure_time": "12:25",
+            "distance_km": 37.0,
+            "sequence_number": 3,
+            "station_code": "KYN",
+            "station_name": "KALYAN JN"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 1,
+            "departure_time": "15:13",
+            "distance_km": 171.0,
+            "sequence_number": 4,
+            "station_code": "NK",
+            "station_name": "NASIK ROAD"
+        },
+        {
+            "arrival_time": "18:22",
+            "day_of_journey": 1,
+            "departure_time": "18:24",
+            "distance_km": 404.0,
+            "sequence_number": 5,
+            "station_code": "JL",
+            "station_name": "JALGAON JN"
+        },
+        {
+            "arrival_time": "19:00",
+            "day_of_journey": 1,
+            "departure_time": "19:05",
+            "distance_km": 428.0,
+            "sequence_number": 6,
+            "station_code": "BSL",
+            "station_name": "BHUSAVAL JN"
+        },
+        {
+            "arrival_time": "23:48",
+            "day_of_journey": 2,
+            "departure_time": "23:50",
+            "distance_km": 1872.0,
+            "sequence_number": 24,
+            "station_code": "SLNA",
+            "station_name": "SALAUNA"
+        },
+        {
+            "arrival_time": "00:23",
+            "day_of_journey": 3,
+            "departure_time": "00:25",
+            "distance_km": 1897.0,
+            "sequence_number": 25,
+            "station_code": "KGG",
+            "station_name": "KHAGARIA JN."
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 1950.0,
+            "sequence_number": 26,
+            "station_code": "SHC",
+            "station_name": "SAHARSA JN"
+        }
+    ],
+    "train_name": "SHC AMRIT BHARAT",
+    "train_number": "11015",
+    "type": "AMRIT BHARAT"
+}

@@ -1,0 +1,194 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_22412.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": false,
+        "wednesday": false
+    },
+    "route_id": "22412-ANVT-NHLN",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "16:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "ANVT",
+            "station_name": "ANAND VIHAR TERMINAL"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 428.0,
+            "sequence_number": 2,
+            "station_code": "CNB",
+            "station_name": "KANPUR CENTRAL"
+        },
+        {
+            "arrival_time": "23:10",
+            "day_of_journey": 1,
+            "departure_time": "23:20",
+            "distance_km": 502.0,
+            "sequence_number": 3,
+            "station_code": "LKO",
+            "station_name": "LUCKNOW JN."
+        },
+        {
+            "arrival_time": "04:00",
+            "day_of_journey": 2,
+            "departure_time": "04:10",
+            "distance_km": 772.0,
+            "sequence_number": 4,
+            "station_code": "GKP",
+            "station_name": "GORAKHPUR JN"
+        },
+        {
+            "arrival_time": "05:55",
+            "day_of_journey": 2,
+            "departure_time": "06:00",
+            "distance_km": 892.0,
+            "sequence_number": 5,
+            "station_code": "SV",
+            "station_name": "SIWAN JN"
+        },
+        {
+            "arrival_time": "07:10",
+            "day_of_journey": 2,
+            "departure_time": "07:15",
+            "distance_km": 952.0,
+            "sequence_number": 6,
+            "station_code": "CPR",
+            "station_name": "CHHAPRA"
+        },
+        {
+            "arrival_time": "08:28",
+            "day_of_journey": 2,
+            "departure_time": "08:33",
+            "distance_km": 1012.0,
+            "sequence_number": 7,
+            "station_code": "HJP",
+            "station_name": "HAJIPUR JN"
+        },
+        {
+            "arrival_time": "10:05",
+            "day_of_journey": 2,
+            "departure_time": "10:15",
+            "distance_km": 1100.0,
+            "sequence_number": 8,
+            "station_code": "BJU",
+            "station_name": "BARAUNI JN"
+        },
+        {
+            "arrival_time": "13:40",
+            "day_of_journey": 2,
+            "departure_time": "13:50",
+            "distance_km": 1279.0,
+            "sequence_number": 9,
+            "station_code": "KIR",
+            "station_name": "KATIHAR JN"
+        },
+        {
+            "arrival_time": "15:28",
+            "day_of_journey": 2,
+            "departure_time": "15:30",
+            "distance_km": 1377.0,
+            "sequence_number": 10,
+            "station_code": "KNE",
+            "station_name": "KISHANGANJ"
+        },
+        {
+            "arrival_time": "16:50",
+            "day_of_journey": 2,
+            "departure_time": "17:00",
+            "distance_km": 1464.0,
+            "sequence_number": 11,
+            "station_code": "NJP",
+            "station_name": "NEW JALPAIGURI"
+        },
+        {
+            "arrival_time": "18:50",
+            "day_of_journey": 2,
+            "departure_time": "18:52",
+            "distance_km": 1590.0,
+            "sequence_number": 12,
+            "station_code": "NCB",
+            "station_name": "NEW COOCH BEHAR"
+        },
+        {
+            "arrival_time": "20:45",
+            "day_of_journey": 2,
+            "departure_time": "20:55",
+            "distance_km": 1719.0,
+            "sequence_number": 13,
+            "station_code": "NBQ",
+            "station_name": "NEW BONGAIGAON"
+        },
+        {
+            "arrival_time": "22:15",
+            "day_of_journey": 2,
+            "departure_time": "22:25",
+            "distance_km": 1828.0,
+            "sequence_number": 14,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "23:20",
+            "day_of_journey": 2,
+            "departure_time": "23:22",
+            "distance_km": 1889.0,
+            "sequence_number": 15,
+            "station_code": "ULG",
+            "station_name": "UDALGURI"
+        },
+        {
+            "arrival_time": "00:15",
+            "day_of_journey": 3,
+            "departure_time": "00:17",
+            "distance_km": 1940.0,
+            "sequence_number": 16,
+            "station_code": "NMM",
+            "station_name": "NEW MISAMARI"
+        },
+        {
+            "arrival_time": "00:50",
+            "day_of_journey": 3,
+            "departure_time": "01:00",
+            "distance_km": 1951.0,
+            "sequence_number": 17,
+            "station_code": "RPAN",
+            "station_name": "RANGAPARA NORTH"
+        },
+        {
+            "arrival_time": "03:15",
+            "day_of_journey": 3,
+            "departure_time": "03:20",
+            "distance_km": 2104.0,
+            "sequence_number": 18,
+            "station_code": "HMY",
+            "station_name": "HARMUTI"
+        },
+        {
+            "arrival_time": "05:30",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2123.0,
+            "sequence_number": 19,
+            "station_code": "NHLN",
+            "station_name": "NAHARLAGUN"
+        }
+    ],
+    "train_name": "ARUNACHAL EXP",
+    "train_number": "22412",
+    "type": "SUPERFAST"
+}

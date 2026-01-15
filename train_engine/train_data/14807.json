@@ -1,0 +1,205 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_14807.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": false,
+        "saturday": false,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "14807-JU-DDR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "JU",
+            "station_name": "JODHPUR JN"
+        },
+        {
+            "arrival_time": "05:18",
+            "day_of_journey": 1,
+            "departure_time": "05:20",
+            "distance_km": 3.0,
+            "sequence_number": 2,
+            "station_code": "BGKT",
+            "station_name": "BHAGAT KI KOTHI"
+        },
+        {
+            "arrival_time": "06:15",
+            "day_of_journey": 1,
+            "departure_time": "06:20",
+            "distance_km": 80.0,
+            "sequence_number": 3,
+            "station_code": "SMR",
+            "station_name": "SAMDHARI JN"
+        },
+        {
+            "arrival_time": "06:54",
+            "day_of_journey": 1,
+            "departure_time": "06:56",
+            "distance_km": 106.0,
+            "sequence_number": 4,
+            "station_code": "MKSR",
+            "station_name": "MOKALSAR"
+        },
+        {
+            "arrival_time": "07:21",
+            "day_of_journey": 1,
+            "departure_time": "07:24",
+            "distance_km": 139.0,
+            "sequence_number": 5,
+            "station_code": "JOR",
+            "station_name": "JALOR"
+        },
+        {
+            "arrival_time": "07:51",
+            "day_of_journey": 1,
+            "departure_time": "07:54",
+            "distance_km": 173.0,
+            "sequence_number": 6,
+            "station_code": "MON",
+            "station_name": "MODRAN"
+        },
+        {
+            "arrival_time": "08:24",
+            "day_of_journey": 1,
+            "departure_time": "08:27",
+            "distance_km": 201.0,
+            "sequence_number": 7,
+            "station_code": "MBNL",
+            "station_name": "MARWAR BHINMAL"
+        },
+        {
+            "arrival_time": "08:52",
+            "day_of_journey": 1,
+            "departure_time": "08:55",
+            "distance_km": 233.0,
+            "sequence_number": 8,
+            "station_code": "RNV",
+            "station_name": "RANIWARA"
+        },
+        {
+            "arrival_time": "09:25",
+            "day_of_journey": 1,
+            "departure_time": "09:27",
+            "distance_km": 268.0,
+            "sequence_number": 9,
+            "station_code": "DQN",
+            "station_name": "DHANERA"
+        },
+        {
+            "arrival_time": "10:20",
+            "day_of_journey": 1,
+            "departure_time": "10:25",
+            "distance_km": 303.0,
+            "sequence_number": 10,
+            "station_code": "BLDI",
+            "station_name": "BHILDI JN."
+        },
+        {
+            "arrival_time": "11:08",
+            "day_of_journey": 1,
+            "departure_time": "11:10",
+            "distance_km": 354.0,
+            "sequence_number": 11,
+            "station_code": "PTN",
+            "station_name": "PATAN"
+        },
+        {
+            "arrival_time": "11:48",
+            "day_of_journey": 1,
+            "departure_time": "11:50",
+            "distance_km": 394.0,
+            "sequence_number": 12,
+            "station_code": "MSH",
+            "station_name": "MAHESANA JN"
+        },
+        {
+            "arrival_time": "12:55",
+            "day_of_journey": 1,
+            "departure_time": "12:57",
+            "distance_km": 456.0,
+            "sequence_number": 13,
+            "station_code": "SBIB",
+            "station_name": "SABARMATI BG"
+        },
+        {
+            "arrival_time": "13:35",
+            "day_of_journey": 1,
+            "departure_time": "13:45",
+            "distance_km": 463.0,
+            "sequence_number": 14,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "15:25",
+            "day_of_journey": 1,
+            "departure_time": "15:30",
+            "distance_km": 561.0,
+            "sequence_number": 15,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "16:21",
+            "day_of_journey": 1,
+            "departure_time": "16:23",
+            "distance_km": 631.0,
+            "sequence_number": 16,
+            "station_code": "BH",
+            "station_name": "BHARUCH JN"
+        },
+        {
+            "arrival_time": "17:39",
+            "day_of_journey": 1,
+            "departure_time": "17:44",
+            "distance_km": 690.0,
+            "sequence_number": 17,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "19:38",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 785.0,
+            "sequence_number": 18,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "21:42",
+            "day_of_journey": 1,
+            "departure_time": "21:45",
+            "distance_km": 923.0,
+            "sequence_number": 19,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "22:40",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 947.0,
+            "sequence_number": 20,
+            "station_code": "DDR",
+            "station_name": "DADAR"
+        }
+    ],
+    "train_name": "JU DDR EXPRESS",
+    "train_number": "14807",
+    "type": "MAIL EXPRESS"
+}

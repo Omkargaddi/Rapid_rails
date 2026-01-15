@@ -1,0 +1,141 @@
+{
+    "classes_available": [
+        "CC",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_12679.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "12679-MAS-CBE",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "MAS",
+            "station_name": "PURATCHI THALAIVAR DR. MGR CTL"
+        },
+        {
+            "arrival_time": "15:23",
+            "day_of_journey": 1,
+            "departure_time": "15:25",
+            "distance_km": 69.0,
+            "sequence_number": 2,
+            "station_code": "AJJ",
+            "station_name": "ARAKKONAM JN."
+        },
+        {
+            "arrival_time": "16:13",
+            "day_of_journey": 1,
+            "departure_time": "16:15",
+            "distance_km": 130.0,
+            "sequence_number": 3,
+            "station_code": "KPD",
+            "station_name": "KATPADI JN"
+        },
+        {
+            "arrival_time": "16:48",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 182.0,
+            "sequence_number": 4,
+            "station_code": "AB",
+            "station_name": "AMBUR"
+        },
+        {
+            "arrival_time": "17:28",
+            "day_of_journey": 1,
+            "departure_time": "17:30",
+            "distance_km": 214.0,
+            "sequence_number": 5,
+            "station_code": "JTJ",
+            "station_name": "JOLARPETTAI JN."
+        },
+        {
+            "arrival_time": "17:49",
+            "day_of_journey": 1,
+            "departure_time": "17:50",
+            "distance_km": 248.0,
+            "sequence_number": 6,
+            "station_code": "SLY",
+            "station_name": "SAMALPATTI"
+        },
+        {
+            "arrival_time": "18:09",
+            "day_of_journey": 1,
+            "departure_time": "18:10",
+            "distance_km": 272.0,
+            "sequence_number": 7,
+            "station_code": "MAP",
+            "station_name": "MORAPPUR"
+        },
+        {
+            "arrival_time": "18:29",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 295.0,
+            "sequence_number": 8,
+            "station_code": "BQI",
+            "station_name": "BOMMIDI"
+        },
+        {
+            "arrival_time": "19:12",
+            "day_of_journey": 1,
+            "departure_time": "19:15",
+            "distance_km": 339.0,
+            "sequence_number": 9,
+            "station_code": "SA",
+            "station_name": "SALEM JN"
+        },
+        {
+            "arrival_time": "20:10",
+            "day_of_journey": 1,
+            "departure_time": "20:15",
+            "distance_km": 398.0,
+            "sequence_number": 10,
+            "station_code": "ED",
+            "station_name": "ERODE JN"
+        },
+        {
+            "arrival_time": "20:58",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 448.0,
+            "sequence_number": 11,
+            "station_code": "TUP",
+            "station_name": "TIRUPPUR"
+        },
+        {
+            "arrival_time": "21:39",
+            "day_of_journey": 1,
+            "departure_time": "21:40",
+            "distance_km": 496.0,
+            "sequence_number": 12,
+            "station_code": "CBF",
+            "station_name": "COIMBATORE NORTH JN."
+        },
+        {
+            "arrival_time": "22:20",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 499.0,
+            "sequence_number": 13,
+            "station_code": "CBE",
+            "station_name": "COIMBATORE JN"
+        }
+    ],
+    "train_name": "CBE INTERCITY",
+    "train_number": "12679",
+    "type": "SUPERFAST"
+}

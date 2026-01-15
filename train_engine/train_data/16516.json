@@ -1,0 +1,252 @@
+{
+    "classes_available": [
+        "3E",
+        "EC",
+        "EV",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_16516.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": true,
+        "sunday": false,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "16516-KAWR-YPR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "05:30",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "KAWR",
+            "station_name": "KARWAR"
+        },
+        {
+            "arrival_time": "05:48",
+            "day_of_journey": 1,
+            "departure_time": "05:50",
+            "distance_km": 28.0,
+            "sequence_number": 2,
+            "station_code": "ANKL",
+            "station_name": "ANKOLA"
+        },
+        {
+            "arrival_time": "05:56",
+            "day_of_journey": 1,
+            "departure_time": "05:58",
+            "distance_km": 36.0,
+            "sequence_number": 3,
+            "station_code": "GOK",
+            "station_name": "GOKARNA ROAD"
+        },
+        {
+            "arrival_time": "06:10",
+            "day_of_journey": 1,
+            "departure_time": "06:12",
+            "distance_km": 55.0,
+            "sequence_number": 4,
+            "station_code": "KT",
+            "station_name": "KUMTA"
+        },
+        {
+            "arrival_time": "06:26",
+            "day_of_journey": 1,
+            "departure_time": "06:28",
+            "distance_km": 69.0,
+            "sequence_number": 5,
+            "station_code": "HNA",
+            "station_name": "HONNAVAR"
+        },
+        {
+            "arrival_time": "06:50",
+            "day_of_journey": 1,
+            "departure_time": "06:52",
+            "distance_km": 95.0,
+            "sequence_number": 6,
+            "station_code": "MRDW",
+            "station_name": "MURDESHWAR"
+        },
+        {
+            "arrival_time": "07:06",
+            "day_of_journey": 1,
+            "departure_time": "07:08",
+            "distance_km": 110.0,
+            "sequence_number": 7,
+            "station_code": "BTJL",
+            "station_name": "BHATKAL"
+        },
+        {
+            "arrival_time": "07:22",
+            "day_of_journey": 1,
+            "departure_time": "07:24",
+            "distance_km": 125.0,
+            "sequence_number": 8,
+            "station_code": "BYNR",
+            "station_name": "MOOKAMBIKA ROAD BYNDOOR (H)"
+        },
+        {
+            "arrival_time": "08:14",
+            "day_of_journey": 1,
+            "departure_time": "08:16",
+            "distance_km": 159.0,
+            "sequence_number": 9,
+            "station_code": "KUDA",
+            "station_name": "KUNDAPURA"
+        },
+        {
+            "arrival_time": "08:38",
+            "day_of_journey": 1,
+            "departure_time": "08:40",
+            "distance_km": 190.0,
+            "sequence_number": 10,
+            "station_code": "UD",
+            "station_name": "UDUPI"
+        },
+        {
+            "arrival_time": "09:40",
+            "day_of_journey": 1,
+            "departure_time": "09:42",
+            "distance_km": 233.0,
+            "sequence_number": 11,
+            "station_code": "SL",
+            "station_name": "SURATHKAL"
+        },
+        {
+            "arrival_time": "11:10",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 256.0,
+            "sequence_number": 12,
+            "station_code": "MAJN",
+            "station_name": "MANGALORE JUNCTION"
+        },
+        {
+            "arrival_time": "11:59",
+            "day_of_journey": 1,
+            "departure_time": "12:00",
+            "distance_km": 276.0,
+            "sequence_number": 13,
+            "station_code": "BNTL",
+            "station_name": "BANTAWALA"
+        },
+        {
+            "arrival_time": "12:25",
+            "day_of_journey": 1,
+            "departure_time": "12:27",
+            "distance_km": 300.0,
+            "sequence_number": 14,
+            "station_code": "KBPR",
+            "station_name": "KABAKA PUTTUR"
+        },
+        {
+            "arrival_time": "13:05",
+            "day_of_journey": 1,
+            "departure_time": "13:15",
+            "distance_km": 342.0,
+            "sequence_number": 15,
+            "station_code": "SBHR",
+            "station_name": "SUBRAHMANYA ROAD"
+        },
+        {
+            "arrival_time": "15:35",
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 398.0,
+            "sequence_number": 16,
+            "station_code": "SKLR",
+            "station_name": "SAKLESHPUR"
+        },
+        {
+            "arrival_time": "16:55",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 440.0,
+            "sequence_number": 17,
+            "station_code": "HAS",
+            "station_name": "HASSAN"
+        },
+        {
+            "arrival_time": "17:33",
+            "day_of_journey": 1,
+            "departure_time": "17:34",
+            "distance_km": 473.0,
+            "sequence_number": 18,
+            "station_code": "CNPA",
+            "station_name": "CHANNARAYAPATNA"
+        },
+        {
+            "arrival_time": "17:44",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 481.0,
+            "sequence_number": 19,
+            "station_code": "SBGA",
+            "station_name": "SHRAVANABELAGOLA"
+        },
+        {
+            "arrival_time": "18:13",
+            "day_of_journey": 1,
+            "departure_time": "18:14",
+            "distance_km": 515.0,
+            "sequence_number": 20,
+            "station_code": "BGNR",
+            "station_name": "B.G.NAGAR"
+        },
+        {
+            "arrival_time": "18:27",
+            "day_of_journey": 1,
+            "departure_time": "18:28",
+            "distance_km": 530.0,
+            "sequence_number": 21,
+            "station_code": "YY",
+            "station_name": "YEDIYURU"
+        },
+        {
+            "arrival_time": "18:43",
+            "day_of_journey": 1,
+            "departure_time": "18:44",
+            "distance_km": 547.0,
+            "sequence_number": 22,
+            "station_code": "KIGL",
+            "station_name": "KUNIGAL"
+        },
+        {
+            "arrival_time": "19:26",
+            "day_of_journey": 1,
+            "departure_time": "19:27",
+            "distance_km": 592.0,
+            "sequence_number": 23,
+            "station_code": "NMGA",
+            "station_name": "NELEMANGALA"
+        },
+        {
+            "arrival_time": "19:44",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 605.0,
+            "sequence_number": 24,
+            "station_code": "BAW",
+            "station_name": "CHIK BANAVAR"
+        },
+        {
+            "arrival_time": "20:50",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 614.0,
+            "sequence_number": 25,
+            "station_code": "YPR",
+            "station_name": "YESVANTPUR JN."
+        }
+    ],
+    "train_name": "KAWR YPR EXP",
+    "train_number": "16516",
+    "type": "MAIL EXPRESS"
+}

@@ -1,0 +1,259 @@
+{
+    "classes_available": [
+        "CC",
+        "SL",
+        "2S",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_09056.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "09056-UDN-BDTS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "15:45",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "UDN",
+            "station_name": "UDHNA JN"
+        },
+        {
+            "arrival_time": "15:57",
+            "day_of_journey": 1,
+            "departure_time": "15:59",
+            "distance_km": 25.0,
+            "sequence_number": 2,
+            "station_code": "NVS",
+            "station_name": "NAVSARI"
+        },
+        {
+            "arrival_time": "16:16",
+            "day_of_journey": 1,
+            "departure_time": "16:18",
+            "distance_km": 46.0,
+            "sequence_number": 3,
+            "station_code": "BIM",
+            "station_name": "BILIMORA JN"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:50",
+            "distance_km": 65.0,
+            "sequence_number": 4,
+            "station_code": "BL",
+            "station_name": "VALSAD"
+        },
+        {
+            "arrival_time": "16:54",
+            "day_of_journey": 1,
+            "departure_time": "16:55",
+            "distance_km": 71.0,
+            "sequence_number": 5,
+            "station_code": "ATUL",
+            "station_name": "ATUL"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 1,
+            "departure_time": "17:01",
+            "distance_km": 75.0,
+            "sequence_number": 6,
+            "station_code": "PAD",
+            "station_name": "PARDI"
+        },
+        {
+            "arrival_time": "17:07",
+            "day_of_journey": 1,
+            "departure_time": "17:08",
+            "distance_km": 81.0,
+            "sequence_number": 7,
+            "station_code": "UVD",
+            "station_name": "UDVADA"
+        },
+        {
+            "arrival_time": "17:17",
+            "day_of_journey": 1,
+            "departure_time": "17:19",
+            "distance_km": 91.0,
+            "sequence_number": 8,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "17:26",
+            "day_of_journey": 1,
+            "departure_time": "17:27",
+            "distance_km": 97.0,
+            "sequence_number": 9,
+            "station_code": "KEB",
+            "station_name": "KARAMBELI"
+        },
+        {
+            "arrival_time": "17:33",
+            "day_of_journey": 1,
+            "departure_time": "17:34",
+            "distance_km": 102.0,
+            "sequence_number": 10,
+            "station_code": "BLD",
+            "station_name": "BHILAD"
+        },
+        {
+            "arrival_time": "17:44",
+            "day_of_journey": 1,
+            "departure_time": "17:45",
+            "distance_km": 113.0,
+            "sequence_number": 11,
+            "station_code": "SJN",
+            "station_name": "SANJAN"
+        },
+        {
+            "arrival_time": "17:51",
+            "day_of_journey": 1,
+            "departure_time": "17:52",
+            "distance_km": 119.0,
+            "sequence_number": 12,
+            "station_code": "UBR",
+            "station_name": "UMBARGAM ROAD"
+        },
+        {
+            "arrival_time": "17:58",
+            "day_of_journey": 1,
+            "departure_time": "17:59",
+            "distance_km": 123.0,
+            "sequence_number": 13,
+            "station_code": "BRRD",
+            "station_name": "BORDI ROAD"
+        },
+        {
+            "arrival_time": "18:16",
+            "day_of_journey": 1,
+            "departure_time": "18:17",
+            "distance_km": 128.0,
+            "sequence_number": 14,
+            "station_code": "GVD",
+            "station_name": "GHOLVAD"
+        },
+        {
+            "arrival_time": "18:45",
+            "day_of_journey": 1,
+            "departure_time": "18:47",
+            "distance_km": 139.0,
+            "sequence_number": 15,
+            "station_code": "DRD",
+            "station_name": "DAHANU ROAD"
+        },
+        {
+            "arrival_time": "19:00",
+            "day_of_journey": 1,
+            "departure_time": "19:01",
+            "distance_km": 151.0,
+            "sequence_number": 16,
+            "station_code": "VGN",
+            "station_name": "VANGAON"
+        },
+        {
+            "arrival_time": "19:09",
+            "day_of_journey": 1,
+            "departure_time": "19:10",
+            "distance_km": 160.0,
+            "sequence_number": 17,
+            "station_code": "BOR",
+            "station_name": "BOISAR"
+        },
+        {
+            "arrival_time": "19:20",
+            "day_of_journey": 1,
+            "departure_time": "19:22",
+            "distance_km": 172.0,
+            "sequence_number": 18,
+            "station_code": "PLG",
+            "station_name": "PALGHAR"
+        },
+        {
+            "arrival_time": "19:31",
+            "day_of_journey": 1,
+            "departure_time": "19:32",
+            "distance_km": 180.0,
+            "sequence_number": 19,
+            "station_code": "KLV",
+            "station_name": "KELVA ROAD"
+        },
+        {
+            "arrival_time": "19:39",
+            "day_of_journey": 1,
+            "departure_time": "19:40",
+            "distance_km": 186.0,
+            "sequence_number": 20,
+            "station_code": "SAH",
+            "station_name": "SAPHALE"
+        },
+        {
+            "arrival_time": "19:48",
+            "day_of_journey": 1,
+            "departure_time": "19:49",
+            "distance_km": 194.0,
+            "sequence_number": 21,
+            "station_code": "VTN",
+            "station_name": "VAITARNA"
+        },
+        {
+            "arrival_time": "19:58",
+            "day_of_journey": 1,
+            "departure_time": "20:00",
+            "distance_km": 203.0,
+            "sequence_number": 22,
+            "station_code": "VR",
+            "station_name": "VIRAR"
+        },
+        {
+            "arrival_time": "20:09",
+            "day_of_journey": 1,
+            "departure_time": "20:10",
+            "distance_km": 211.0,
+            "sequence_number": 23,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "20:27",
+            "day_of_journey": 1,
+            "departure_time": "20:29",
+            "distance_km": 229.0,
+            "sequence_number": 24,
+            "station_code": "BVI",
+            "station_name": "BORIVALI"
+        },
+        {
+            "arrival_time": "20:45",
+            "day_of_journey": 1,
+            "departure_time": "20:47",
+            "distance_km": 241.0,
+            "sequence_number": 25,
+            "station_code": "ADH",
+            "station_name": "ANDHERI"
+        },
+        {
+            "arrival_time": "21:35",
+            "day_of_journey": 1,
+            "departure_time": null,
+            "distance_km": 248.0,
+            "sequence_number": 26,
+            "station_code": "BDTS",
+            "station_name": "BANDRA TERMINUS"
+        }
+    ],
+    "train_name": "UDN BDTS SPL",
+    "train_number": "09056",
+    "type": "TRAIN ON DEMAND"
+}

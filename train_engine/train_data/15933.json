@@ -1,0 +1,188 @@
+{
+    "classes_available": [
+        "1A",
+        "2A",
+        "3A",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_15933.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": false,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "15933-NTSK-ASR",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "10:00",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "NTSK",
+            "station_name": "NEW TINSUKIA"
+        },
+        {
+            "arrival_time": "11:28",
+            "day_of_journey": 1,
+            "departure_time": "11:30",
+            "distance_km": 103.0,
+            "sequence_number": 2,
+            "station_code": "SLGR",
+            "station_name": "SIMALUGURI JN"
+        },
+        {
+            "arrival_time": "12:30",
+            "day_of_journey": 1,
+            "departure_time": "12:40",
+            "distance_km": 157.0,
+            "sequence_number": 3,
+            "station_code": "MXN",
+            "station_name": "MARIANI JN"
+        },
+        {
+            "arrival_time": "13:28",
+            "day_of_journey": 1,
+            "departure_time": "13:30",
+            "distance_km": 195.0,
+            "sequence_number": 4,
+            "station_code": "FKG",
+            "station_name": "FURKATING JN."
+        },
+        {
+            "arrival_time": "14:35",
+            "day_of_journey": 1,
+            "departure_time": "14:40",
+            "distance_km": 265.0,
+            "sequence_number": 5,
+            "station_code": "DMV",
+            "station_name": "DIMAPUR"
+        },
+        {
+            "arrival_time": "15:12",
+            "day_of_journey": 1,
+            "departure_time": "15:14",
+            "distance_km": 302.0,
+            "sequence_number": 6,
+            "station_code": "DPU",
+            "station_name": "DIPHU"
+        },
+        {
+            "arrival_time": "15:55",
+            "day_of_journey": 1,
+            "departure_time": "16:05",
+            "distance_km": 334.0,
+            "sequence_number": 7,
+            "station_code": "LMG",
+            "station_name": "LUMDING JN"
+        },
+        {
+            "arrival_time": "16:31",
+            "day_of_journey": 1,
+            "departure_time": "16:33",
+            "distance_km": 364.0,
+            "sequence_number": 8,
+            "station_code": "LKA",
+            "station_name": "LANKA"
+        },
+        {
+            "arrival_time": "16:45",
+            "day_of_journey": 1,
+            "departure_time": "16:47",
+            "distance_km": 379.0,
+            "sequence_number": 9,
+            "station_code": "HJI",
+            "station_name": "HOJAI"
+        },
+        {
+            "arrival_time": "17:20",
+            "day_of_journey": 1,
+            "departure_time": "17:22",
+            "distance_km": 423.0,
+            "sequence_number": 10,
+            "station_code": "CPK",
+            "station_name": "CHAPARMUKH JN"
+        },
+        {
+            "arrival_time": "19:30",
+            "day_of_journey": 1,
+            "departure_time": "19:45",
+            "distance_km": 515.0,
+            "sequence_number": 11,
+            "station_code": "GHY",
+            "station_name": "GUWAHATI"
+        },
+        {
+            "arrival_time": "20:55",
+            "day_of_journey": 1,
+            "departure_time": "21:00",
+            "distance_km": 562.0,
+            "sequence_number": 12,
+            "station_code": "RNY",
+            "station_name": "RANGIYA JN."
+        },
+        {
+            "arrival_time": "15:00",
+            "day_of_journey": 3,
+            "departure_time": "15:10",
+            "distance_km": 2500.0,
+            "sequence_number": 36,
+            "station_code": "SRE",
+            "station_name": "SAHARANPUR JN."
+        },
+        {
+            "arrival_time": "16:25",
+            "day_of_journey": 3,
+            "departure_time": "16:40",
+            "distance_km": 2581.0,
+            "sequence_number": 37,
+            "station_code": "UMB",
+            "station_name": "AMBALA CANT JN"
+        },
+        {
+            "arrival_time": "18:06",
+            "day_of_journey": 3,
+            "departure_time": "18:14",
+            "distance_km": 2695.0,
+            "sequence_number": 38,
+            "station_code": "LDH",
+            "station_name": "LUDHIANA JN"
+        },
+        {
+            "arrival_time": "19:45",
+            "day_of_journey": 3,
+            "departure_time": "19:50",
+            "distance_km": 2752.0,
+            "sequence_number": 39,
+            "station_code": "JUC",
+            "station_name": "JALANDHAR CITY"
+        },
+        {
+            "arrival_time": "20:20",
+            "day_of_journey": 3,
+            "departure_time": "20:22",
+            "distance_km": 2788.0,
+            "sequence_number": 40,
+            "station_code": "BEAS",
+            "station_name": "BEAS"
+        },
+        {
+            "arrival_time": "21:05",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2830.0,
+            "sequence_number": 41,
+            "station_code": "ASR",
+            "station_name": "AMRITSAR"
+        }
+    ],
+    "train_name": "NTSK ASR EXPRESS",
+    "train_number": "15933",
+    "type": "MAIL EXPRESS"
+}

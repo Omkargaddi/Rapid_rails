@@ -1,0 +1,332 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "3E",
+        "SL",
+        "GEN",
+        "PWD"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_19577.pdf",
+    "operating_days": {
+        "friday": false,
+        "monday": true,
+        "saturday": false,
+        "sunday": false,
+        "thursday": false,
+        "tuesday": true,
+        "wednesday": false
+    },
+    "route_id": "19577-TEN-JAM",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "08:10",
+            "distance_km": 0.0,
+            "sequence_number": 1,
+            "station_code": "TEN",
+            "station_name": "TIRUNELVELI JN"
+        },
+        {
+            "arrival_time": "08:41",
+            "day_of_journey": 1,
+            "departure_time": "08:42",
+            "distance_km": 42.0,
+            "sequence_number": 2,
+            "station_code": "VLY",
+            "station_name": "VALLIYUR"
+        },
+        {
+            "arrival_time": "09:24",
+            "day_of_journey": 1,
+            "departure_time": "09:27",
+            "distance_km": 78.0,
+            "sequence_number": 3,
+            "station_code": "NJT",
+            "station_name": "NAGER COIL TOWN"
+        },
+        {
+            "arrival_time": "10:02",
+            "day_of_journey": 1,
+            "departure_time": "10:03",
+            "distance_km": 115.0,
+            "sequence_number": 4,
+            "station_code": "PASA",
+            "station_name": "PARASSALA"
+        },
+        {
+            "arrival_time": "10:50",
+            "day_of_journey": 1,
+            "departure_time": "10:55",
+            "distance_km": 144.0,
+            "sequence_number": 5,
+            "station_code": "TVC",
+            "station_name": "THIRUVANANTHAPURAM CENTRAL"
+        },
+        {
+            "arrival_time": "12:05",
+            "day_of_journey": 1,
+            "departure_time": "12:08",
+            "distance_km": 209.0,
+            "sequence_number": 6,
+            "station_code": "QLN",
+            "station_name": "KOLLAM JN"
+        },
+        {
+            "arrival_time": "12:45",
+            "day_of_journey": 1,
+            "departure_time": "12:47",
+            "distance_km": 250.0,
+            "sequence_number": 7,
+            "station_code": "KYJ",
+            "station_name": "KAYANKULAM JN"
+        },
+        {
+            "arrival_time": "13:24",
+            "day_of_journey": 1,
+            "departure_time": "13:27",
+            "distance_km": 293.0,
+            "sequence_number": 8,
+            "station_code": "ALLP",
+            "station_name": "ALAPPUZHA"
+        },
+        {
+            "arrival_time": "14:10",
+            "day_of_journey": 1,
+            "departure_time": "14:15",
+            "distance_km": 350.0,
+            "sequence_number": 9,
+            "station_code": "ERS",
+            "station_name": "ERNAKULAM JN"
+        },
+        {
+            "arrival_time": "14:40",
+            "day_of_journey": 1,
+            "departure_time": "14:42",
+            "distance_km": 369.0,
+            "sequence_number": 10,
+            "station_code": "AWY",
+            "station_name": "ALUVA"
+        },
+        {
+            "arrival_time": "15:37",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 424.0,
+            "sequence_number": 11,
+            "station_code": "TCR",
+            "station_name": "THRISUR"
+        },
+        {
+            "arrival_time": "17:00",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 459.0,
+            "sequence_number": 12,
+            "station_code": "SRR",
+            "station_name": "SHORANUR JN"
+        },
+        {
+            "arrival_time": "17:34",
+            "day_of_journey": 1,
+            "departure_time": "17:35",
+            "distance_km": 504.0,
+            "sequence_number": 13,
+            "station_code": "TIR",
+            "station_name": "TIRUR"
+        },
+        {
+            "arrival_time": "18:22",
+            "day_of_journey": 1,
+            "departure_time": "18:25",
+            "distance_km": 545.0,
+            "sequence_number": 14,
+            "station_code": "CLT",
+            "station_name": "KOZHIKKODE"
+        },
+        {
+            "arrival_time": "19:47",
+            "day_of_journey": 1,
+            "departure_time": "19:50",
+            "distance_km": 634.0,
+            "sequence_number": 15,
+            "station_code": "CAN",
+            "station_name": "KANNUR"
+        },
+        {
+            "arrival_time": "20:49",
+            "day_of_journey": 1,
+            "departure_time": "20:50",
+            "distance_km": 720.0,
+            "sequence_number": 16,
+            "station_code": "KGQ",
+            "station_name": "KASARAGOD"
+        },
+        {
+            "arrival_time": "21:55",
+            "day_of_journey": 1,
+            "departure_time": "22:00",
+            "distance_km": 767.0,
+            "sequence_number": 17,
+            "station_code": "MAJN",
+            "station_name": "MANGALORE JUNCTION"
+        },
+        {
+            "arrival_time": "23:36",
+            "day_of_journey": 1,
+            "departure_time": "23:38",
+            "distance_km": 834.0,
+            "sequence_number": 18,
+            "station_code": "UD",
+            "station_name": "UDUPI"
+        },
+        {
+            "arrival_time": "02:00",
+            "day_of_journey": 2,
+            "departure_time": "02:02",
+            "distance_km": 1024.0,
+            "sequence_number": 19,
+            "station_code": "KAWR",
+            "station_name": "KARWAR"
+        },
+        {
+            "arrival_time": "03:50",
+            "day_of_journey": 2,
+            "departure_time": "04:00",
+            "distance_km": 1082.0,
+            "sequence_number": 20,
+            "station_code": "MAO",
+            "station_name": "MADGAON JUNCTION"
+        },
+        {
+            "arrival_time": "08:15",
+            "day_of_journey": 2,
+            "departure_time": "08:20",
+            "distance_km": 1321.0,
+            "sequence_number": 21,
+            "station_code": "RN",
+            "station_name": "RATNAGIRI"
+        },
+        {
+            "arrival_time": "09:00",
+            "day_of_journey": 2,
+            "departure_time": "09:02",
+            "distance_km": 1354.0,
+            "sequence_number": 22,
+            "station_code": "SGR",
+            "station_name": "SANGAMESHWAR ROAD"
+        },
+        {
+            "arrival_time": "13:12",
+            "day_of_journey": 2,
+            "departure_time": "13:15",
+            "distance_km": 1602.0,
+            "sequence_number": 23,
+            "station_code": "PNVL",
+            "station_name": "PANVEL"
+        },
+        {
+            "arrival_time": "15:10",
+            "day_of_journey": 2,
+            "departure_time": "15:15",
+            "distance_km": 1668.0,
+            "sequence_number": 24,
+            "station_code": "BSR",
+            "station_name": "VASAI ROAD"
+        },
+        {
+            "arrival_time": "16:00",
+            "day_of_journey": 2,
+            "departure_time": "16:02",
+            "distance_km": 1719.0,
+            "sequence_number": 25,
+            "station_code": "BOR",
+            "station_name": "BOISAR"
+        },
+        {
+            "arrival_time": "16:54",
+            "day_of_journey": 2,
+            "departure_time": "16:56",
+            "distance_km": 1789.0,
+            "sequence_number": 26,
+            "station_code": "VAPI",
+            "station_name": "VAPI"
+        },
+        {
+            "arrival_time": "18:28",
+            "day_of_journey": 2,
+            "departure_time": "18:33",
+            "distance_km": 1883.0,
+            "sequence_number": 27,
+            "station_code": "ST",
+            "station_name": "SURAT"
+        },
+        {
+            "arrival_time": "19:21",
+            "day_of_journey": 2,
+            "departure_time": "19:23",
+            "distance_km": 1933.0,
+            "sequence_number": 28,
+            "station_code": "AKV",
+            "station_name": "ANKLESHWAR JN"
+        },
+        {
+            "arrival_time": "20:39",
+            "day_of_journey": 2,
+            "departure_time": "20:44",
+            "distance_km": 2013.0,
+            "sequence_number": 29,
+            "station_code": "BRC",
+            "station_name": "VADODARA JN"
+        },
+        {
+            "arrival_time": "22:35",
+            "day_of_journey": 2,
+            "departure_time": "22:45",
+            "distance_km": 2111.0,
+            "sequence_number": 30,
+            "station_code": "ADI",
+            "station_name": "AHMEDABAD JN"
+        },
+        {
+            "arrival_time": "00:53",
+            "day_of_journey": 3,
+            "departure_time": "00:55",
+            "distance_km": 2241.0,
+            "sequence_number": 31,
+            "station_code": "SUNR",
+            "station_name": "SURENDRANAGAR"
+        },
+        {
+            "arrival_time": "02:46",
+            "day_of_journey": 3,
+            "departure_time": "02:51",
+            "distance_km": 2357.0,
+            "sequence_number": 32,
+            "station_code": "RJT",
+            "station_name": "RAJKOT"
+        },
+        {
+            "arrival_time": "03:51",
+            "day_of_journey": 3,
+            "departure_time": "03:53",
+            "distance_km": 2430.0,
+            "sequence_number": 33,
+            "station_code": "HAPA",
+            "station_name": "HAPA"
+        },
+        {
+            "arrival_time": "04:25",
+            "day_of_journey": 3,
+            "departure_time": null,
+            "distance_km": 2439.0,
+            "sequence_number": 34,
+            "station_code": "JAM",
+            "station_name": "JAMNAGAR"
+        }
+    ],
+    "train_name": "TEN JAM EXPRESS",
+    "train_number": "19577",
+    "type": "MAIL EXPRESS"
+}

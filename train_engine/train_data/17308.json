@@ -1,0 +1,174 @@
+{
+    "classes_available": [
+        "2A",
+        "3A",
+        "SL",
+        "2S"
+    ],
+    "link": "https://traintable.s3.eu-north-1.amazonaws.com/train_pdf2/train_schedule_17308.pdf",
+    "operating_days": {
+        "friday": true,
+        "monday": true,
+        "saturday": true,
+        "sunday": true,
+        "thursday": true,
+        "tuesday": true,
+        "wednesday": true
+    },
+    "route_id": "17308-BGK-MYS",
+    "schedule": [
+        {
+            "arrival_time": null,
+            "day_of_journey": 1,
+            "departure_time": "14:50",
+            "distance_km": 0.0,
+            "platform": null,
+            "sequence_number": 1,
+            "station_code": "BGK",
+            "station_name": "BAGALKOT"
+        },
+        {
+            "arrival_time": "15:19",
+            "day_of_journey": 1,
+            "departure_time": "15:20",
+            "distance_km": 35.0,
+            "platform": null,
+            "sequence_number": 2,
+            "station_code": "LMT",
+            "station_name": "ALMATTI"
+        },
+        {
+            "arrival_time": "15:39",
+            "day_of_journey": 1,
+            "departure_time": "15:40",
+            "distance_km": 53.0,
+            "platform": null,
+            "sequence_number": 3,
+            "station_code": "BSRX",
+            "station_name": "BASAVANA BAGEWADI ROAD"
+        },
+        {
+            "arrival_time": "16:09",
+            "day_of_journey": 1,
+            "departure_time": "16:10",
+            "distance_km": 92.0,
+            "platform": null,
+            "sequence_number": 4,
+            "station_code": "IMR",
+            "station_name": "IBRAHIMPUR"
+        },
+        {
+            "arrival_time": "16:35",
+            "day_of_journey": 1,
+            "departure_time": "16:40",
+            "distance_km": 97.0,
+            "platform": null,
+            "sequence_number": 5,
+            "station_code": "BJP",
+            "station_name": "VIJAYAPURA"
+        },
+        {
+            "arrival_time": "17:04",
+            "day_of_journey": 1,
+            "departure_time": "17:05",
+            "distance_km": 134.0,
+            "platform": null,
+            "sequence_number": 6,
+            "station_code": "NBL",
+            "station_name": "NIMBAL"
+        },
+        {
+            "arrival_time": "17:19",
+            "day_of_journey": 1,
+            "departure_time": "17:20",
+            "distance_km": 147.0,
+            "platform": null,
+            "sequence_number": 7,
+            "station_code": "IDR",
+            "station_name": "INDI ROAD"
+        },
+        {
+            "arrival_time": "18:28",
+            "day_of_journey": 1,
+            "departure_time": "18:30",
+            "distance_km": 191.0,
+            "platform": null,
+            "sequence_number": 8,
+            "station_code": "HG",
+            "station_name": "HOTGI"
+        },
+        {
+            "arrival_time": "19:15",
+            "day_of_journey": 1,
+            "departure_time": "19:30",
+            "distance_km": 206.0,
+            "platform": null,
+            "sequence_number": 9,
+            "station_code": "SUR",
+            "station_name": "SOLAPUR JN"
+        },
+        {
+            "arrival_time": "19:53",
+            "day_of_journey": 1,
+            "departure_time": "19:55",
+            "distance_km": 241.0,
+            "platform": null,
+            "sequence_number": 10,
+            "station_code": "AKOR",
+            "station_name": "AKALKOT ROAD"
+        },
+        {
+            "arrival_time": "20:23",
+            "day_of_journey": 1,
+            "departure_time": "20:25",
+            "distance_km": 269.0,
+            "platform": null,
+            "sequence_number": 11,
+            "station_code": "DUD",
+            "station_name": "DUDHANI"
+        },
+        {
+            "arrival_time": "20:43",
+            "day_of_journey": 1,
+            "departure_time": "20:45",
+            "distance_km": 292.0,
+            "platform": null,
+            "sequence_number": 12,
+            "station_code": "GUR",
+            "station_name": "GANAGAPUR ROAD"
+        },
+        {
+            "arrival_time": "09:37",
+            "day_of_journey": 2,
+            "departure_time": "09:38",
+            "distance_km": 968.0,
+            "platform": null,
+            "sequence_number": 36,
+            "station_code": "MYA",
+            "station_name": "MANDYA"
+        },
+        {
+            "arrival_time": "10:58",
+            "day_of_journey": 2,
+            "departure_time": "11:00",
+            "distance_km": 994.0,
+            "platform": null,
+            "sequence_number": 37,
+            "station_code": "PANP",
+            "station_name": "PANDAVAPURA"
+        },
+        {
+            "arrival_time": "11:45",
+            "day_of_journey": 2,
+            "departure_time": null,
+            "distance_km": 1014.0,
+            "platform": null,
+            "sequence_number": 38,
+            "station_code": "MYS",
+            "station_name": "MYSORE JN"
+        }
+    ],
+    "train_name": "BASAVA EXPRESS",
+    "train_number": "17308",
+    "type": "MAIL EXPRESS "
+}
