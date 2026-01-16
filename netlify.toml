@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/api/*"
+  to = "http://34.10.242.186/api/:splat"
+  status = 200
+  force = true
+  headers = { X-Forwarded-Host = "rapidrails.netlify.app" }
