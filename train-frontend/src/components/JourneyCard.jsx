@@ -33,15 +33,16 @@ const JourneyCard = ({ journey, isInitiallyStarred, currentFavCount, onFavToggle
         await api.delete(`/fav-delete/${journey.hash}`);
         setIsStarred(false);
         onFavToggle(journey.hash, false);
-        toast.info("Removed from favorites");
+        toast.info("Journey removed from favorites");
       } else {
         await api.post('/fav-add', journey);
         setIsStarred(true);
         onFavToggle(journey.hash, true);
-        toast.success("Added to favorites");
+        toast.success("Journey saved to favorites!");
       }
     } catch (err) {
-      toast.error(err.response?.data?.message || "Failed to update favorites");
+      const msg = err.response?.data?.message || "Failed to update Saved Journeys.";
+      toast.error(msg);
     } finally {
       setLoading(false);
     }

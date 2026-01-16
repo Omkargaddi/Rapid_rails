@@ -57,17 +57,11 @@ const App = () => {
 
   const handleFavToggle = (hash, isAdded) => {
     if (isAdded) {
-      if (favCount >= 10) {
-        toast.warning("Limit reached: You can only save 10 journeys");
-        return;
-      }
       setFavoriteHashes(prev => [...prev, hash]);
       setFavCount(prev => prev + 1);
-      toast.success("Journey saved to favorites");
     } else {
       setFavoriteHashes(prev => prev.filter(h => h !== hash));
       setFavCount(prev => prev - 1);
-      toast.info("Removed from favorites");
     }
   };
 
@@ -105,7 +99,6 @@ const App = () => {
 
     } catch (err) { 
       toast.error("Search failed. Please check your connection."); 
-      console.error("Search Error:", err);
     } finally { 
       setLoading(false); 
     }
@@ -201,12 +194,12 @@ const App = () => {
 
             {preference === 'convenient' && (
               <div className="space-y-2 w-full max-w-[300px]">
-              <label className="flex items-center gap-2 text-xs font-bold text-slate-500 uppercase tracking-wider ml-1"><Timer size={14} /> Max Buffer</label>
-              <div className="px-2 pt-4">
-                <input type="range" min="30" max="480" step="30" value={maxBuffer} onChange={(e) => setMaxBuffer(e.target.value)} className="w-full h-2 bg-slate-200 rounded-lg appearance-none cursor-pointer accent-blue-600" />
-                <div className="flex justify-center mt-2 font-bold text-blue-600 text-[10px]"><span>{maxBuffer / 60} hrs</span></div>
+                <label className="flex items-center gap-2 text-xs font-bold text-slate-500 uppercase tracking-wider ml-1"><Timer size={14} /> Max Buffer</label>
+                <div className="px-2 pt-4">
+                  <input type="range" min="30" max="480" step="30" value={maxBuffer} onChange={(e) => setMaxBuffer(e.target.value)} className="w-full h-2 bg-slate-200 rounded-lg appearance-none cursor-pointer accent-blue-600" />
+                  <div className="flex justify-center mt-2 font-bold text-blue-600 text-[10px]"><span>{maxBuffer / 60} hrs</span></div>
+                </div>
               </div>
-            </div>
             )}
             
             <div className="bg-slate-50 rounded-[2rem] ">  

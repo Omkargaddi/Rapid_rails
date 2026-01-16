@@ -13,6 +13,15 @@ const Register = () => {
   const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
 
+  const allowedDomains = ['gmail.com', 'yahoo.com'];
+  const strongPasswordRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
+
+  const validateEmail = (email) => {
+    const domain = email.split('@')[1];
+    console.log(domain);
+    return allowedDomains.includes(domain);
+  };
+
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
@@ -20,12 +29,16 @@ const Register = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    // Client-side validation
+    if (!validateEmail(formData.email)) {
+      return toast.error("Only Google or Yahoo company emails are allowed.");
+    }
+
+    if (!strongPasswordRegex.test(formData.password)) {
+      return toast.warning("Password must be at least 8 characters long and include uppercase, lowercase, a number, and a special character.");
+    }
+
     if (formData.password !== formData.confirmPassword) {
       return toast.error("Passwords do not match");
-    }
-    if (formData.password.length < 6) {
-      return toast.warning("Password must be at least 6 characters");
     }
 
     setLoading(true);
