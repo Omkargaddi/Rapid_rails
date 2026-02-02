@@ -6,8 +6,16 @@ import mongoose from 'mongoose';
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 import cors from 'cors';
-import axios from 'axios';
 import nodemailer from 'nodemailer';
+import { createRequire } from 'module';
+import path from 'path';
+
+const require = createRequire(import.meta.url);
+const trainEngine = require('./build/Release/train_engine.node');
+
+console.log("Loading Train Data into C++ Engine...");
+const dataPath = path.join(process.cwd(), 'train_data'); 
+trainEngine.init(dataPath);
 
 import User from './userModel.js';
 import auth from './middleware.js';
@@ -50,6 +58,7 @@ app.post('/api/login', async (req, res) => {
 });
 
 
+
 app.post('/api/forgot-password', async (req, res) => {
     const { email } = req.body;
     const user = await User.findOne({ email });
@@ -90,11 +99,8 @@ app.post('/api/verify-reset-code', async (req, res) => {
     res.json({ message: 'Password updated successfully' });
 });
 
-app.post('/api/search', auth, async (req, res) => {
-    // console.log("\n=== /api/search HIT ===");
-    // console.log("Incoming body:", req.body);
-    // console.log("ENGINE_URL:", process.env.ENGINE_URL);
 
+app.post('/api/search', auth, async (req, res) => {
     const {
         source,
         destination,
@@ -115,27 +121,12 @@ app.post('/api/search', auth, async (req, res) => {
         preference: preference ?? "convenient"
     };
 
-
     try {
-        const response = await axios.post(
-            `${process.env.ENGINE_URL}/find-route`,
-            payload,
-            { timeout: 30000 }
-        );
-        res.json(response.data);
+        const results = await trainEngine.findRoute(payload);
+        res.json(results);
     } catch (err) {
-        console.error("=== ENGINE CALL FAILED ===");
-
-        if (err.response) {
-            console.error("ENGINE STATUS:", err.response.status);
-            console.error("ENGINE BODY:", err.response.data);
-        } else if (err.request) {
-            console.error("NO RESPONSE FROM ENGINE");
-        } else {
-            console.error("AXIOS ERROR:", err.message);
-        }
-
-        res.status(500).json({ error: "C++ Engine communication failure" });
+        console.error("Native Engine Error:", err);
+        res.status(500).json({ error: "Calculation failure: " + err.message });
     }
 });
 
