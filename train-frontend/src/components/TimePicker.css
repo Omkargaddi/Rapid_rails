@@ -1,0 +1,80 @@
+.tp-wrap {
+    font-family: 'Nunito', sans-serif;
+}
+
+.tp-label {
+    display: block;
+    font-family: 'Sora', sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    color: #a8a29e;
+    text-transform: uppercase;
+    letter-spacing: 0.13em;
+    margin-bottom: 10px;
+    margin-left: 2px;
+}
+
+.tp-control {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: #fff;
+    border: 1.5px solid rgba(251, 146, 60, 0.18);
+    border-radius: 16px;
+    padding: 8px 14px;
+    box-shadow: 0 2px 8px rgba(251, 146, 60, 0.05);
+    max-width: 210px;
+}
+
+.tp-control:focus-within {
+    border-color: #f97316;
+    box-shadow: 0 0 0 4px rgba(249, 115, 22, 0.09);
+}
+
+.tp-num {
+    width: 44px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-family: 'Sora', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: #1c1917;
+}
+
+.tp-colon {
+    font-family: 'Sora', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: #d4c4b0;
+}
+
+.tp-ampm {
+    margin-left: 6px;
+    padding: 5px 13px;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Sora', sans-serif;
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.tp-ampm.pm {
+    background: linear-gradient(135deg, #f97316, #fbbf24);
+    color: #fff;
+    box-shadow: 0 3px 12px rgba(249, 115, 22, 0.28);
+}
+
+.tp-ampm.am {
+    background: #fef3e2;
+    color: #f97316;
+    border: 1px solid rgba(249, 115, 22, 0.2);
+}
+
+.tp-ampm:hover {
+    transform: scale(1.06);
+}

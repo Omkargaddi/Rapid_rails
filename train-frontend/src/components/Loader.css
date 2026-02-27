@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@700;800;900&family=Nunito:wght@500;600;700&display=swap');
+
+.fav-loading {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #fdf8f2;
+    gap: 16px;
+    font-family: 'Sora', sans-serif;
+}
+
+.fav-spinner {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: 3px solid rgba(249, 115, 22, 0.15);
+    border-top-color: #f97316;
+    animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.fav-loading-txt {
+    font-size: 13px;
+    font-weight: 700;
+    color: #a8a29e;
+    letter-spacing: 0.06em;
+}

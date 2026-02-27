@@ -1,0 +1,55 @@
+ @import url('https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&display=swap');
+
+ .rr-toast .Toastify__progress-bar {
+     background: linear-gradient(90deg, #f97316, #fbbf24) !important;
+     height: 3px !important;
+     border-radius: 0 0 18px 18px !important;
+ }
+ .rr-toast .Toastify__close-button {
+     color: #d4c4b0 !important;
+     opacity: 1 !important;
+     align-self: center !important;
+ }
+
+ .rr-toast .Toastify__close-button:hover {
+     color: #f97316 !important;
+ }
+
+ .Toastify__toast--success.rr-toast {
+     border-left: 4px solid #22c55e !important;
+ }
+
+ .Toastify__toast--success.rr-toast .Toastify__toast-icon svg {
+     fill: #22c55e !important;
+ }
+
+ .Toastify__toast--error.rr-toast {
+     border-left: 4px solid #ef4444 !important;
+ }
+
+ .Toastify__toast--error.rr-toast .Toastify__toast-icon svg {
+     fill: #ef4444 !important;
+ }
+ .Toastify__toast--warning.rr-toast {
+     border-left: 4px solid #f97316 !important;
+ }
+
+ .Toastify__toast--warning.rr-toast .Toastify__toast-icon svg {
+     fill: #f97316 !important;
+ }
+
+ .Toastify__toast--info.rr-toast {
+     border-left: 4px solid #38bdf8 !important;
+ }
+
+ .Toastify__toast--info.rr-toast .Toastify__toast-icon svg {
+     fill: #38bdf8 !important;
+ }
+
+ .Toastify__slide-enter--top-right {
+     animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1) !important;
+ }
+
+ .Toastify__slide-enter--top-center {
+     animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1) !important;
+ }

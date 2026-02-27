@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
-import { ShieldCheck, Lock, Loader2 } from 'lucide-react';
+import { ShieldCheck, Lock, Loader2, ArrowRight } from 'lucide-react';
 import { toast } from 'react-toastify';
 import api from '../api/axios';
+import './VerifyCode.css'
 
 const VerifyCode = () => {
   const navigate = useNavigate();
@@ -14,37 +15,65 @@ const VerifyCode = () => {
   const handleVerify = async (e) => {
     e.preventDefault();
     if (!email) return navigate('/login');
-    
     setLoading(true);
     try {
       await api.post('/verify-reset-code', { email, code: formData.code, newPassword: formData.newPassword });
       toast.success("Password reset successfully! Please login.");
       navigate('/login');
-    } catch (error) {
+    } catch {
       toast.error("Invalid or expired verification code.");
-    } finally { setLoading(false); }
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
-    <div className="min-h-screen bg-slate-50 flex items-center justify-center p-4">
-      <div className="max-w-md w-full bg-white rounded-[2.5rem] shadow-xl p-8 md:p-12 border border-slate-100">
-        <div className="text-center mb-10">
-          <div className="inline-flex items-center justify-center size-16 bg-amber-50 text-amber-600 rounded-2xl mb-4"><ShieldCheck size={32} /></div>
-          <h1 className="text-3xl font-black text-slate-900 tracking-tight">Verify Account</h1>
-          <p className="text-slate-500 mt-2 font-medium">Resetting password for {email}</p>
-        </div>
-        <form onSubmit={handleVerify} className="space-y-5">
-          <input type="text" maxLength="6" placeholder="6-Digit Code" required className="w-full px-4 py-4 bg-slate-50 border border-slate-100 rounded-2xl text-center text-2xl font-black tracking-widest outline-none focus:ring-2 focus:ring-amber-500" value={formData.code} onChange={(e) => setFormData({...formData, code: e.target.value})} />
-          <div className="relative">
-            <Lock className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 size-5" />
-            <input type="password" placeholder="New Password" required className="w-full pl-12 pr-4 py-4 bg-slate-50 border border-slate-100 rounded-2xl outline-none focus:ring-2 focus:ring-amber-500" value={formData.newPassword} onChange={(e) => setFormData({...formData, newPassword: e.target.value})} />
+    <>
+          <div className="auth-root">
+        <div className="auth-blob auth-blob-1" />
+        <div className="auth-blob auth-blob-2" />
+
+        <div className="auth-card">
+          <div className="auth-header">
+            <div className="auth-icon-wrap"><ShieldCheck size={30} /></div>
+            <h1 className="auth-title">Verify Account</h1>
+            <p className="auth-subtitle">Enter the 6-digit code sent to</p>
+            {email && <span className="auth-email-highlight">{email}</span>}
           </div>
-          <button type="submit" disabled={loading} className="w-full bg-amber-600 text-white font-bold py-4 rounded-2xl active:scale-95 disabled:opacity-50 transition-all flex justify-center">
-            {loading ? <Loader2 className="animate-spin" /> : "Update Password"}
-          </button>
-        </form>
+
+          <form className="auth-form" onSubmit={handleVerify}>
+            <div className="auth-otp-wrap">
+              <label className="auth-otp-label">Verification Code</label>
+              <input
+                type="text" maxLength="6" required
+                placeholder="— — — — — —"
+                value={formData.code}
+                onChange={(e) => setFormData({ ...formData, code: e.target.value })}
+                className="auth-otp-input"
+              />
+            </div>
+
+            <div>
+              <label className="auth-field-label">New Password</label>
+              <div className="auth-input-wrap">
+                <Lock size={18} className="auth-input-icon" />
+                <input
+                  type="password" required
+                  placeholder="Enter new password"
+                  value={formData.newPassword}
+                  onChange={(e) => setFormData({ ...formData, newPassword: e.target.value })}
+                  className="auth-input"
+                />
+              </div>
+            </div>
+
+            <button type="submit" disabled={loading} className="auth-submit">
+              {loading ? <Loader2 size={20} className="animate-spin" /> : <>Update Password <ArrowRight size={18} /></>}
+            </button>
+          </form>
+        </div>
       </div>
-    </div>
+    </>
   );
 };
 

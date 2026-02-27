@@ -9,14 +9,12 @@ add_library(train_engine SHARED
     cpp_src/bindings.cpp
 )
 
-# Include paths
 target_include_directories(train_engine PRIVATE
     ${CMAKE_JS_INC}
     ${CMAKE_CURRENT_SOURCE_DIR}/node_modules/node-addon-api
     cpp_src
 )
 
-# Required for node-addon-api
 add_definitions(-DNAPI_CPP_EXCEPTIONS)
 
 set_target_properties(train_engine PROPERTIES
