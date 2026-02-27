@@ -1,10 +1,8 @@
 # RapidRails 🚆  
 **High-Performance Train Route Optimization System**
 
-RapidRails is a full-stack, microservices-based train routing platform designed to compute **complex multi-leg railway journeys** with realistic transfer constraints.  
-It leverages a **high-performance C++ in-memory graph engine** to deliver **sub-10ms route computation** at scale.
-
-🌐 **Live Demo:** https://rapidrails.netlify.app/
+RapidRails is a full-stack, routing platform designed to compute **complex multi-leg railway journeys** with realistic transfer constraints.  
+It leverages a **high-performance C++ in-memory graph engine** to deliver at scale.
 
 ---
 
@@ -28,17 +26,11 @@ RapidRails solves these challenges by combining **time-expanded graph modeling**
 - **Buffer-Aware Routing**  
   Enforces user-defined minimum and maximum transfer windows (e.g., 45 minutes – 8 hours).
 
-- **High-Performance C++ Engine**  
-  Uses an in-memory graph model to achieve **95% faster pathfinding** than database-driven approaches.
-
 - **Multiple Search Preferences**  
   Supports *Fastest* and *Convenient* routing modes based on user priorities.
 
 - **Secure Authentication**  
   JWT-based authentication allowing users to save and manage journey history.
-
-- **Cloud-Deployed & Scalable**  
-  Deployed on Google Cloud Compute Engine with private networking and Nginx reverse proxy.
 
 ---
 
