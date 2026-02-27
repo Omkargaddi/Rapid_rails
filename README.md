@@ -1,154 +1,123 @@
-# RapidRails 🚆  
-**High-Performance Train Route Optimization System**
+# RapidRails - Train Route Optimization System
 
-RapidRails is a full-stack, routing platform designed to compute **complex multi-leg railway journeys** with realistic transfer constraints.  
-It leverages a **high-performance C++ in-memory graph engine** to deliver at scale.
-
----
-
-## 🚀 Problem Statement
-
-Conventional train search systems struggle with:
-- Multi-leg journeys involving several transfers
-- Realistic layover constraints between trains
-- Fragmented schedule data (text / PDFs)
-- Poor performance when traversing multi-hop connections
-
-RapidRails solves these challenges by combining **time-expanded graph modeling**, **buffer-aware routing**, and a **distributed microservices architecture**.
-
----
-
-## 🧠 Key Features
-
-- **Multi-Leg Route Optimization**  
-  Computes end-to-end journeys across multiple trains with optimal transfers.
-
-- **Buffer-Aware Routing**  
-  Enforces user-defined minimum and maximum transfer windows (e.g., 45 minutes – 8 hours).
-
-- **Multiple Search Preferences**  
-  Supports *Fastest* and *Convenient* routing modes based on user priorities.
-
-- **Secure Authentication**  
-  JWT-based authentication allowing users to save and manage journey history.
-
----
-
-## 🧠 Technical Overview: Graph Search Engine
-
-The core of RapidRails is a **high-performance C++ Graph Engine** designed to solve the  
-**Multi-Modal Connection Problem** for railway networks.
-
-Unlike traditional static graphs, the engine operates on a **time-expanded representation** of train schedules, ensuring all computed transfers are **physically feasible in real time**.
-
----
-
-### 🔍 Search Algorithms
-
-The engine uses a **modified Dijkstra’s Algorithm** with custom priority queue comparators to support multiple routing strategies:
-
-#### 1. Fastest Path
-- Minimizes **total journey duration** (Arrival Time − Departure Time)
-- Prioritizes speed over number of transfers
-- Ideal for time-sensitive travel
-
-#### 2. Convenient Path
-- Uses a weighted cost function to penalize excessive transfers and waiting time:
-- Effectively filters out “hectic” routes with too many changes
-- Balances comfort and efficiency
-
-### ⚙️ Core Engine Features & Constraints
-
-- **Time-Expanded Graph**  
-  Each train instance is modeled as a unique temporal edge, ensuring transfer feasibility based on exact arrival and departure times.
-
-- **Buffer Management**  
-  Supports `min_buffer` and `max_buffer` constraints to enforce realistic layover durations at connection stations.
-
-- **Weekly Scheduling Support**  
-  Automatically identifies the next valid operating day for trains that do not run daily, ensuring accurate handling of weekly and bi-weekly services.
-
-- **Path Reconstruction**  
-  Uses a pointer-based state tree to reconstruct full journey details, including:
-  - Train numbers
-  - Station codes
-  - Absolute timestamps
-
----
-
-### ⚡ Optimization & Performance
-
-To maintain low latency across thousands of schedules, the engine applies several optimizations:
-
-- **State Pruning**  
-  A `VisitKey` system *(Station + Legs + Start Time)* prevents re-exploration of suboptimal paths, significantly reducing search space.
-
-- **Expansion Limits**  
-  Search is capped at **100,000 state expansions**, guaranteeing sub-second response times even for cross-country queries.
-
-- **Memory Efficiency**  
-  - Uses `std::unordered_map` with custom hash functions for **O(1)** lookups  
-  - Lightweight state structures minimize heap allocations during search
-
----
-
-## 🏗️ System Architecture
-
-Frontend (React + Tailwind, Netlify HTTPS)\
-             |\
-             | api\
-             v\
-Backend (Node.js + Express, GCP VM)\
-             |\
-             | Private REST API\
-             v\
-Routing Engine (C++17 In-Memory Graph)\
+<p align="center">
+<img width="550" height="159" alt="logo2" src="https://github.com/user-attachments/assets/1253fe89-ad5f-40bc-8942-f2a42d675d2a" />
+</p>
 
 
----
+##  Problem Statement
 
-## 🧩 Tech Stack
+Traditional train route planners face several limitations:
+
+- Difficulty handling multi-leg journeys with multiple transfers  
+- Lack of realistic layover constraints  
+- Fragmented schedule data (PDFs, text files)  
+- Poor performance when traversing large multi-hop graphs  
+
+RapidRails solves these using:
+
+- Optimized shortest-path algorithm
+
+## Application Screenshots
+
+### Route Search Interface
+
+<p align="center">
+<img width="1920" height="1080" alt="Screenshot From 2026-02-27 17-30-17" src="https://github.com/user-attachments/assets/928e29ad-4825-473d-8240-6f608a7d8dec" />
+
+</p>
+
+
+### Journey Results
+
+<p align="center">
+ <img width="1920" height="1080" alt="Screenshot From 2026-02-27 17-31-33" src="https://github.com/user-attachments/assets/b44a48f0-9e4f-442a-a64d-356d950e13c7" />
+
+</p>
+
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot From 2026-02-27 17-31-41" src="https://github.com/user-attachments/assets/dde5da12-2e37-45a7-af75-ca0d8159f35f" />
+
+</p>
+
+
+## Core Engine/Algo
+
+RapidRails uses a **modified Dijkstra’s Algorithm**. The routing engine is implemented in **C++17** for maximum performance and low-latency computations.
+
+## Tech Stack
 
 ### Backend
-- **C++ (17)** – High-performance routing engine  
-- **Node.js, Express** – API orchestration  
-- **MongoDB** – User profiles and saved journey   
+- **C++ (C++17)** – High-performance routing engine  
+- **Node.js** – API layer  
+- **Express.js** – REST API framework  
+- **MongoDB** – User data & saved journeys  
 
 ### Frontend
-- **React**
+- **React.js**  
 - **Tailwind CSS**
 
-### Infrastructure
-- **Google Cloud Compute Engine**
-- **Nginx (Reverse Proxy)**
-- **Netlify (Frontend Hosting & API Proxy)**
-
 ### Libraries
-- `cpp-httplib`, `nlohmann/json` (C++)
-- `jsonwebtoken`, `bcrypt` (Node.js)
 
----
+**C++**
+- `cpp-httplib`
+- `nlohmann/json`
 
-## ⚡ Performance Summary
+**Node.js**
+- `jsonwebtoken`
+- `bcrypt`
 
-- **Sub-10ms** route computation for multi-leg journeys  
-- **7,000+ stations** represented in memory  
-- **2,000+ train schedules** consolidated  
-- **95% faster** than recursive relational database queries  
 
----
+## Getting Started
 
-## 🔐 Security
+###  Clone the Repository
 
-- JWT-based stateless authentication
-- Private networking between backend and C++ engine
-- No external exposure of routing engine
-- HTTPS-enabled frontend via Netlify
+```bash
+git clone https://github.com/your-username/RapidRails.git
+cd RapidRails
+```
 
----
 
-## 📄 License
+### Setup Backend (Node.js)
+
+```bash
+cd backend
+npm install
+npm start
+```
+
+### Compile C++ Engine
+
+```bash
+cd engine
+g++ -std=c++17 main.cpp -o rapidrails
+./rapidrails
+```
+
+
+### Setup Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+
+## Use Cases
+
+- Smart railway search engines  
+- Logistics & route planning systems  
+- Academic demonstrations of graph algorithms  
+- High-performance routing platforms  
+
+
+## License
 
 This project is open for educational and demonstration purposes.
 
 
+## Author
+
+**Omkar Gaddi**  
+Engineering Student – IIIT Lucknow  
