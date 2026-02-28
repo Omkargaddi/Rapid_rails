@@ -1,15 +1,15 @@
 #ifndef STATIONMANAGER_HPP
 #define STATIONMANAGER_HPP
-
-#include "DataModels.hpp"
-#include <unordered_map>
 #include <vector>
+#include <unordered_map>
+#include "DataModels.hpp"
+using namespace std;
 
 class StationManager {
 public:
-    std::unordered_map<std::string, std::vector<Train*>> stationToTrains;
+    unordered_map<string,vector<Train*>> stationToTrains;
 
-    void addTrainToStation(const std::string& code, Train* train) {
+    void addTrainToStation(const string& code, Train* train) {
         if (code.empty()) return;
         auto& list = stationToTrains[code];
         for (auto ptr : list) if (ptr == train) return;

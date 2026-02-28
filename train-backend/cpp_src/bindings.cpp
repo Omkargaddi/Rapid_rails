@@ -6,6 +6,7 @@
 #include <iostream>
 #include <deque>
 using namespace std;
+using namespace Napi;
 namespace fs = filesystem;
 using json = nlohmann::json;
 
@@ -54,35 +55,31 @@ void LoadData(const string& path){
             }
 
             if(j.contains("schedule") && j["schedule"].is_array()){
-                int cumulative = 0;
-                int last_total_minutes = -1;
-
                 for(const auto& s_json : j["schedule"]){
                     Stop st;
-                    st.station_code =(s_json.contains("station_code") && s_json["station_code"].is_string()) 
-                                      ? s_json["station_code"].get<string>() : "";
-                    st.sequence_number = s_json.value("sequence_number", 0);
 
+                    st.station_code =(s_json.contains("station_code") && s_json["station_code"].is_string()) ? s_json["station_code"].get<string>() : "";
+                    st.sequence_number = s_json.value("sequence_number", 0);
                     auto processTime = [&](const string& key) -> int{
                         if(!s_json.contains(key) || !s_json[key].is_string()) return -1;
                         string s = s_json[key].get<string>();
                         if(s == "" || s == "null") return -1;
                         return Stop::timeToMin(s);
                     };
-
+                    int day_of_journey = s_json.value("day_of_journey", 1);
                     int arrClock = processTime("arrival_time");
-                    if(arrClock != -1){
-                         if(last_total_minutes != -1 && arrClock <(last_total_minutes % 1440)) cumulative += 1440;
-                         st.arrival_minutes = cumulative + arrClock;
-                         last_total_minutes = st.arrival_minutes;
-                    } else st.arrival_minutes = -1;
+                    if(arrClock != -1) {
+                        st.arrival_minutes = (day_of_journey - 1) * 1440 + arrClock;
+                    } else {
+                        st.arrival_minutes = -1;
+                    }
 
                     int depClock = processTime("departure_time");
-                    if(depClock != -1){
-                         if(last_total_minutes != -1 && depClock <(last_total_minutes % 1440)) cumulative += 1440;
-                         st.departure_minutes = cumulative + depClock;
-                         last_total_minutes = st.departure_minutes;
-                    } else st.departure_minutes = -1;
+                    if(depClock != -1) {
+                        st.departure_minutes = (day_of_journey - 1) * 1440 + depClock;
+                    } else {
+                        st.departure_minutes = -1;
+                    }
 
                     if(!st.station_code.empty()) t.schedule.push_back(st);
                 }
@@ -101,22 +98,23 @@ void LoadData(const string& path){
     cout << "[C++] Database loaded. Trains: " << trains.size() << endl;
 }
 
-class RouteWorker : public Napi::AsyncWorker{
+class RouteWorker : public AsyncWorker{
 public:
-    RouteWorker(Napi::Function& callback, 
-                string src, string dst, 
-                int day, int minB, int maxB, int maxLegs, string pref)
-        : Napi::AsyncWorker(callback), 
-          src(src), dst(dst), day(day), 
-          minB(minB), maxB(maxB), maxLegs(maxLegs), pref(pref){}
+    RouteWorker(Napi::Env env, Promise::Deferred deferred, 
+            string src, string dst, int day, int minB, int maxB, int maxLegs, string pref)
+    : AsyncWorker(env),
+      deferred(deferred),
+      src(src),
+      dst(dst),
+      pref(pref), 
+      day(day),
+      minB(minB),
+      maxB(maxB),
+      maxLegs(maxLegs) {}
 
     void Execute() override{
         try{
-            if(pref == "fastest"){
-                results = GraphEngine::fastest(sm, src, dst, day, minB, 480, 8);
-            } else{
-                results = GraphEngine::convenient(sm, src, dst, day, minB, maxB, maxLegs);
-            }
+            results = GraphEngine::convenient(sm, src, dst, day, minB, maxB, maxLegs);    
         } catch(const exception& e){
             SetError(e.what());
         }
@@ -124,73 +122,67 @@ public:
 
     void OnOK() override{
         Napi::Env env = Env();
-        
         json j_out = results; 
         string jsonStr = j_out.dump();
-        Callback().Call({env.Null(), Napi::String::New(env, jsonStr)});
+        
+        Object global = env.Global();
+        Object json_obj = global.Get("JSON").As<Object>();
+        Function parse = json_obj.Get("parse").As<Function>();
+        Value result_obj = parse.Call({ String::New(env, jsonStr) });
+        
+        deferred.Resolve(result_obj);
+    }
+
+    void OnError(const Error& e) override {
+        deferred.Reject(e.Value());
     }
 
 private:
+    Promise::Deferred deferred;
     string src, dst, pref;
     int day, minB, maxB, maxLegs;
     vector<JourneyResponse> results;
 };
 
-Napi::Value InitEngine(const Napi::CallbackInfo& info){
-    Napi::Env env = info.Env();
+Value InitEngine(const CallbackInfo& info){
+    Env env = info.Env();
     if(info.Length() < 1 || !info[0].IsString()){
-        Napi::TypeError::New(env, "String path expected").ThrowAsJavaScriptException();
+        TypeError::New(env, "String path expected").ThrowAsJavaScriptException();
         return env.Null();
     }
-    string path = info[0].As<Napi::String>();
+    string path = info[0].As<String>();
     LoadData(path);
-    return Napi::Boolean::New(env, true);
+    return Boolean::New(env, true);
 }
 
-Napi::Value FindRoute(const Napi::CallbackInfo& info){
-    Napi::Env env = info.Env();
+
+Value FindRoute(const Napi::CallbackInfo& info){
+    Env env = info.Env();
     
     if(info.Length() < 1 || !info[0].IsObject()){
-        Napi::TypeError::New(env, "Options object expected").ThrowAsJavaScriptException();
+        TypeError::New(env, "Options object expected").ThrowAsJavaScriptException();
         return env.Null();
     }
 
-    Napi::Object opts = info[0].As<Napi::Object>();
+    Object opts = info[0].As<Object>();
     
-    // Extract parameters with defaults
-    string src = opts.Has("source") ? opts.Get("source").As<Napi::String>().Utf8Value() : "";
-    string dst = opts.Has("destination") ? opts.Get("destination").As<Napi::String>().Utf8Value() : "";
-    int day = opts.Has("day") ? opts.Get("day").As<Napi::Number>().Int32Value() : 1;
-    int minB = opts.Has("min_buffer") ? opts.Get("min_buffer").As<Napi::Number>().Int32Value() : 30;
-    int maxB = opts.Has("max_buffer") ? opts.Get("max_buffer").As<Napi::Number>().Int32Value() : 480;
-    int maxLegs = opts.Has("max_legs") ? opts.Get("max_legs").As<Napi::Number>().Int32Value() : 8;
-    string pref = opts.Has("preference") ? opts.Get("preference").As<Napi::String>().Utf8Value() : "convenient";
+    string src = opts.Has("source") ? opts.Get("source").As<String>().Utf8Value() : "";
+    string dst = opts.Has("destination") ? opts.Get("destination").As<String>().Utf8Value() : "";
+    int day = opts.Has("day") ? opts.Get("day").As<Number>().Int32Value() : 1;
+    int minB = opts.Has("min_buffer") ? opts.Get("min_buffer").As<Number>().Int32Value() : 30;
+    int maxB = opts.Has("max_buffer") ? opts.Get("max_buffer").As<Number>().Int32Value() : 480;
+    int maxLegs = opts.Has("max_legs") ? opts.Get("max_legs").As<Number>().Int32Value() : 8;
+    string pref = opts.Has("preference") ? opts.Get("preference").As<String>().Utf8Value() : "convenient";
 
-    Napi::Promise::Deferred deferred = Napi::Promise::Deferred::New(env);
-
-    auto callback = Napi::Function::New(env, [deferred](const Napi::CallbackInfo& info){
-        if(info[0].IsNull()){
-            Napi::Env env = info.Env();
-            string jsonStr = info[1].As<Napi::String>();
-            Napi::Object global = env.Global();
-            Napi::Object json = global.Get("JSON").As<Napi::Object>();
-            Napi::Function parse = json.Get("parse").As<Napi::Function>();
-            Napi::Value result = parse.Call({ Napi::String::New(env, jsonStr) });
-            
-            deferred.Resolve(result);
-        } else{
-            deferred.Reject(info[0].As<Napi::Error>().Value());
-        }
-    });
-    RouteWorker* worker = new RouteWorker(callback, src, dst, day, minB, maxB, maxLegs, pref);
+    Promise::Deferred deferred = Promise::Deferred::New(env);
+    RouteWorker* worker = new RouteWorker(env, deferred, src, dst, day, minB, maxB, maxLegs, pref);
     worker->Queue();
-
     return deferred.Promise();
 }
 
-Napi::Object Init(Napi::Env env, Napi::Object exports){
-    exports.Set("init", Napi::Function::New(env, InitEngine));
-    exports.Set("findRoute", Napi::Function::New(env, FindRoute));
+Object Init(Env env, Object exports){
+    exports.Set("init", Function::New(env, InitEngine));
+    exports.Set("findRoute", Function::New(env, FindRoute));
     return exports;
 }
 

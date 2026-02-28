@@ -11,7 +11,7 @@ import { createRequire } from 'module';
 import path from 'path';
 
 const require = createRequire(import.meta.url);
-const trainEngine = require('./build/Release/train_engine.node');
+const trainEngine = require('./build/Release/main.node');
 
 console.log("Loading Train Data into C++ Engine...");
 const dataPath = path.join(process.cwd(), 'train_data'); 
