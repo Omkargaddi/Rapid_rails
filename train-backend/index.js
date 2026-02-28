@@ -7,11 +7,10 @@ import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 import cors from 'cors';
 import nodemailer from 'nodemailer';
-import { createRequire } from 'module';
 import path from 'path';
+import bindings from 'bindings';
 
-const require = createRequire(import.meta.url);
-const trainEngine = require('./build/Release/main.node');
+const trainEngine = bindings('train_engine');
 
 console.log("Loading Train Data into C++ Engine...");
 const dataPath = path.join(process.cwd(), 'train_data'); 
