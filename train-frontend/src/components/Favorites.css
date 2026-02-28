@@ -1,19 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800;900&family=Nunito:wght@400;500;600;700;800&display=swap');
 
-*,*::before,*::after {
-    box-sizing: border-box;
-}
+*,*::before,*::after { box-sizing: border-box; }
+
 .fav-root {
     min-height: 100vh;
-    background: #fdf8f2;
+    background: var(--bg-base);
     font-family: 'Nunito', sans-serif;
     padding-bottom: 80px;
+    transition: background 0.3s;
 }
 
 .fav-nav {
-    background: rgba(253, 248, 242, 0.88);
+    background: var(--nav-bg);
     backdrop-filter: blur(18px);
-    border-bottom: 1px solid rgba(251, 146, 60, 0.12);
+    border-bottom: 1px solid var(--border-subtle);
     padding: 0 2rem;
     height: 68px;
     display: flex;
@@ -22,29 +22,30 @@
     position: sticky;
     top: 0;
     z-index: 50;
-    box-shadow: 0 2px 20px rgba(251, 146, 60, 0.06);
+    box-shadow: var(--nav-shadow);
+    transition: background 0.3s, box-shadow 0.3s;
 }
 
 .fav-back-btn {
     width: 40px;
     height: 40px;
     border-radius: 12px;
-    background: #fff;
-    border: 1.5px solid rgba(251, 146, 60, 0.18);
+    background: var(--bg-card);
+    border: 1.5px solid var(--border-light);
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    color: #a8a29e;
+    color: var(--text-muted);
     transition: all 0.2s ease;
-    box-shadow: 0 2px 8px rgba(251, 146, 60, 0.06);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .fav-back-btn:hover {
-    background: linear-gradient(135deg, #f97316, #fbbf24);
+    background: linear-gradient(135deg, var(--orange-primary), var(--orange-amber));
     color: #fff;
     border-color: transparent;
-    box-shadow: 0 4px 16px rgba(249, 115, 22, 0.28);
+    box-shadow: 0 4px 16px var(--orange-glow);
     transform: translateX(-2px);
 }
 
@@ -52,18 +53,21 @@
     font-family: 'Sora', sans-serif;
     font-size: 18px;
     font-weight: 900;
-    color: #1c1917;
+    color: var(--text-primary);
     letter-spacing: -0.02em;
     display: flex;
     align-items: center;
     gap: 9px;
+    transition: color 0.3s;
 }
+
 .fav-hero {
-    background: linear-gradient(135deg, #fff7ed 0%, #fef3e2 50%, #fff1f5 100%);
-    border-bottom: 1px solid rgba(251, 146, 60, 0.1);
-    padding: 52px 24px 52px;
+    background: var(--bg-elevated);
+    border-bottom: 1px solid var(--border-subtle);
+    padding: 52px 24px;
     position: relative;
     overflow: hidden;
+    transition: background 0.3s;
 }
 
 .fav-hero::before {
@@ -72,8 +76,9 @@
     inset: 0;
     pointer-events: none;
     background:
-        radial-gradient(ellipse 50% 80% at 5% 50%, rgba(251, 191, 36, 0.16) 0%, transparent 65%),
-        radial-gradient(ellipse 40% 60% at 95% 50%, rgba(249, 115, 22, 0.10) 0%, transparent 65%);
+        radial-gradient(ellipse 50% 80% at 5% 50%,  var(--blob-1-color) 0%, transparent 65%),
+        radial-gradient(ellipse 40% 60% at 95% 50%, var(--blob-2-color) 0%, transparent 65%);
+    transition: background 0.3s;
 }
 
 .fav-hero-inner {
@@ -86,7 +91,7 @@
 .fav-accent-line {
     width: 48px;
     height: 5px;
-    background: linear-gradient(90deg, #f97316, #fbbf24);
+    background: linear-gradient(90deg, var(--orange-primary), var(--orange-amber));
     border-radius: 4px;
     margin-bottom: 14px;
 }
@@ -95,18 +100,20 @@
     font-family: 'Sora', sans-serif;
     font-size: clamp(2rem, 4vw, 3rem);
     font-weight: 900;
-    color: #1c1917;
+    color: var(--text-primary);
     letter-spacing: -0.03em;
     margin-bottom: 10px;
+    transition: color 0.3s;
 }
 
 .fav-hero-sub {
     font-size: 15px;
     font-weight: 600;
-    color: #a8a29e;
+    color: var(--text-muted);
     display: flex;
     align-items: center;
     gap: 8px;
+    transition: color 0.3s;
 }
 
 .fav-count-badge {
@@ -116,9 +123,9 @@
     font-family: 'Sora', sans-serif;
     font-size: 11px;
     font-weight: 800;
-    color: #ea580c;
-    background: rgba(249, 115, 22, 0.08);
-    border: 1.5px solid rgba(249, 115, 22, 0.2);
+    color: var(--orange-primary);
+    background: var(--orange-soft);
+    border: 1.5px solid var(--border-medium);
     border-radius: 50px;
     padding: 4px 14px;
 }
@@ -142,45 +149,48 @@
     justify-content: center;
     padding: 80px 32px;
     text-align: center;
-    background: #fff;
-    border: 1.5px solid rgba(251, 146, 60, 0.1);
+    background: var(--bg-card);
+    border: 1.5px solid var(--border-subtle);
     border-radius: 32px;
-    box-shadow: 0 8px 32px rgba(249, 115, 22, 0.06), 0 2px 8px rgba(0, 0, 0, 0.03);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15), 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s;
 }
 
 .fav-empty-icon {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #fef3e2, #fff7ed);
-    border: 2px solid rgba(249, 115, 22, 0.12);
+    background: var(--orange-soft);
+    border: 2px solid var(--border-light);
     display: flex;
     align-items: center;
     justify-content: center;
     margin-bottom: 28px;
-    box-shadow: 0 8px 24px rgba(249, 115, 22, 0.1);
+    box-shadow: 0 8px 24px var(--orange-soft);
 }
 
 .fav-empty-title {
     font-family: 'Sora', sans-serif;
     font-size: 22px;
     font-weight: 900;
-    color: #1c1917;
+    color: var(--text-primary);
     margin-bottom: 10px;
     letter-spacing: -0.02em;
+    transition: color 0.3s;
 }
 
 .fav-empty-desc {
     font-size: 15px;
     font-weight: 500;
-    color: #a8a29e;
+    color: var(--text-muted);
     max-width: 280px;
     line-height: 1.6;
     margin-bottom: 32px;
+    transition: color 0.3s;
 }
 
 .fav-search-btn {
-    background: linear-gradient(135deg, #f97316, #fbbf24);
+    background: linear-gradient(135deg, var(--orange-primary), var(--orange-amber));
     color: #fff;
     font-family: 'Sora', sans-serif;
     font-size: 13px;
@@ -190,11 +200,11 @@
     border: none;
     cursor: pointer;
     letter-spacing: 0.05em;
-    box-shadow: 0 6px 22px rgba(249, 115, 22, 0.32);
+    box-shadow: 0 6px 22px var(--orange-glow);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .fav-search-btn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 10px 32px rgba(249, 115, 22, 0.42);
+    box-shadow: 0 10px 32px var(--orange-glow);
 }

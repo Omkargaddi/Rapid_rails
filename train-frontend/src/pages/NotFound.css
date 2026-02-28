@@ -8,7 +8,7 @@
 
 .nf-root {
     min-height: 100vh;
-    background: linear-gradient(150deg, #fff7ed 0%, #fef3e2 35%, #fff1f5 70%, #f0f9ff 100%);
+    background: var(--hero-bg);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,6 +16,7 @@
     font-family: 'Nunito', sans-serif;
     position: relative;
     overflow: hidden;
+    transition: background 0.3s;
 }
 
 .nf-blob {
@@ -29,7 +30,7 @@
 .nf-blob-1 {
     width: 440px;
     height: 440px;
-    background: rgba(251, 191, 36, 0.14);
+    background: var(--blob-1-color);
     top: -120px;
     left: -100px;
 }
@@ -37,7 +38,7 @@
 .nf-blob-2 {
     width: 320px;
     height: 320px;
-    background: rgba(249, 115, 22, 0.09);
+    background: var(--blob-2-color);
     bottom: -80px;
     right: -60px;
 }
@@ -45,7 +46,7 @@
 .nf-blob-3 {
     width: 220px;
     height: 220px;
-    background: rgba(251, 146, 60, 0.08);
+    background: var(--blob-3-color);
     top: 40%;
     right: 10%;
 }
@@ -60,18 +61,10 @@
 }
 
 @keyframes nfIn {
-    from {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
 }
 
-/* COMPASS ICON */
 .nf-icon-wrap {
     display: inline-flex;
     align-items: center;
@@ -84,22 +77,13 @@
     position: absolute;
     inset: -16px;
     border-radius: 50%;
-    background: radial-gradient(circle, rgba(249, 115, 22, 0.16) 0%, transparent 70%);
+    background: radial-gradient(circle, var(--orange-glow) 0%, transparent 70%);
     animation: glowPulse 2.5s ease infinite;
 }
 
 @keyframes glowPulse {
-
-    0%,
-    100% {
-        transform: scale(1);
-        opacity: 1
-    }
-
-    50% {
-        transform: scale(1.15);
-        opacity: 0.6
-    }
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50%       { transform: scale(1.15); opacity: 0.6; }
 }
 
 .nf-icon-circle {
@@ -108,12 +92,13 @@
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    background: #fff;
-    border: 2px solid rgba(249, 115, 22, 0.15);
-    box-shadow: 0 12px 40px rgba(249, 115, 22, 0.14), 0 4px 12px rgba(0, 0, 0, 0.05);
+    background: var(--bg-card);
+    border: 2px solid var(--border-light);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2), 0 4px 12px rgba(0, 0, 0, 0.1);
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: background 0.3s;
 }
 
 .nf-404 {
@@ -122,25 +107,26 @@
     font-weight: 900;
     letter-spacing: -0.04em;
     line-height: 1;
-    background: linear-gradient(135deg, rgba(249, 115, 22, 0.12), rgba(251, 191, 36, 0.12));
+    background: linear-gradient(135deg, var(--orange-soft), var(--orange-soft));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
     margin-bottom: 6px;
-    color: rgba(249, 115, 22, 0.15);
+    opacity: 0.6;
 }
 
 .nf-title {
     font-family: 'Sora', sans-serif;
     font-size: clamp(1.6rem, 4vw, 2.2rem);
     font-weight: 900;
-    color: #1c1917;
+    color: var(--text-primary);
     letter-spacing: -0.025em;
     margin-bottom: 16px;
+    transition: color 0.3s;
 }
 
 .nf-title-accent {
-    background: linear-gradient(135deg, #f97316, #fbbf24);
+    background: linear-gradient(135deg, var(--orange-primary), var(--orange-amber));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -149,12 +135,13 @@
 .nf-desc {
     font-size: 15px;
     font-weight: 500;
-    color: #a8a29e;
+    color: var(--text-muted);
     line-height: 1.7;
     margin-bottom: 44px;
     max-width: 380px;
     margin-left: auto;
     margin-right: auto;
+    transition: color 0.3s;
 }
 
 .nf-actions {
@@ -169,22 +156,22 @@
     align-items: center;
     gap: 8px;
     padding: 14px 24px;
-    background: #fff;
-    border: 1.5px solid rgba(251, 146, 60, 0.2);
+    background: var(--bg-card);
+    border: 1.5px solid var(--border-light);
     border-radius: 16px;
     cursor: pointer;
     font-family: 'Sora', sans-serif;
     font-size: 14px;
     font-weight: 700;
-    color: #57534e;
-    box-shadow: 0 4px 16px rgba(251, 146, 60, 0.07);
+    color: var(--text-secondary);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
     transition: all 0.2s ease;
 }
 
 .nf-btn-secondary:hover {
-    border-color: rgba(249, 115, 22, 0.35);
-    color: #f97316;
-    box-shadow: 0 6px 22px rgba(249, 115, 22, 0.12);
+    border-color: var(--orange-primary);
+    color: var(--orange-primary);
+    box-shadow: 0 6px 22px var(--orange-soft);
     transform: translateY(-1px);
 }
 
@@ -193,7 +180,7 @@
     align-items: center;
     gap: 8px;
     padding: 14px 28px;
-    background: linear-gradient(135deg, #f97316, #fbbf24);
+    background: linear-gradient(135deg, var(--orange-primary), var(--orange-amber));
     border: none;
     border-radius: 16px;
     cursor: pointer;
@@ -201,7 +188,7 @@
     font-size: 14px;
     font-weight: 800;
     color: #fff;
-    box-shadow: 0 6px 22px rgba(249, 115, 22, 0.32);
+    box-shadow: 0 6px 22px var(--orange-glow);
     transition: all 0.22s ease;
     position: relative;
     overflow: hidden;
@@ -218,9 +205,7 @@
 
 .nf-btn-primary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 10px 32px rgba(249, 115, 22, 0.42);
+    box-shadow: 0 10px 32px var(--orange-glow);
 }
 
-.nf-btn-primary:active {
-    transform: translateY(0);
-}
+.nf-btn-primary:active { transform: translateY(0); }

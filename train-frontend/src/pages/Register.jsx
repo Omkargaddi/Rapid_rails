@@ -3,7 +3,7 @@ import { useNavigate, Link } from 'react-router-dom';
 import { UserPlus, Mail, Lock, Loader2, ArrowRight, ShieldCheck } from 'lucide-react';
 import { toast } from 'react-toastify';
 import api from '../api/axios';
-import './Register.css'
+import './Auth.css'
 
 
 const Register = () => {

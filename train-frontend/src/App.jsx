@@ -30,6 +30,16 @@ const App = () => {
   const [favoriteHashes, setFavoriteHashes] = useState([]);
   const [favCount, setFavCount] = useState(0);
 
+  const [theme, setTheme] = useState(() => {
+    return localStorage.getItem('rr-theme') || 'light';
+  });
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', theme === 'light' ? 'light' : '');
+    localStorage.setItem('rr-theme', theme);
+  }, [theme]);
+
+  const toggleTheme = () => setTheme(t => t === 'dark' ? 'light' : 'dark');
+
   useEffect(() => {
     if (token) {
       api.get('/favorites')
@@ -113,33 +123,50 @@ const App = () => {
             <img src="/logo2.png" alt="Rail Route" />
           </div>
 
-          <div style={{ position: 'relative' }} ref={dropdownRef}>
-            {token ? (
-              <>
-                <button className="rr-user-btn" onClick={() => setShowUserMenu(!showUserMenu)}>
-                  <div className="rr-avatar"><User size={16} color="#fff" /></div>
-                  <ChevronDown size={14} className={`rr-caret ${showUserMenu ? 'open' : ''}`} />
-                </button>
+          {/* Right side: toggle + user */}
+          <div className="rr-nav-right">
+            {/* ── THEME TOGGLE ── */}
+            <button className="rr-theme-toggle" onClick={toggleTheme} title="Toggle theme">
+              <div className="rr-toggle-track">
+                <div className="rr-toggle-thumb" />
+              </div>
+              <span className="rr-toggle-icon">
+                {theme === 'dark' ? '🌙' : '☀️'}
+              </span>
+              <span className="rr-toggle-label">
+                {theme === 'dark' ? 'Dark' : 'Light'}
+              </span>
+            </button>
 
-                {showUserMenu && (
-                  <div className="rr-dropdown">
-                    <div className="rr-dd-header">
-                      <p className="rr-dd-lbl">Signed in as</p>
-                      <p className="rr-dd-email">{userEmail}</p>
-                      <div className="rr-dd-badge">● {favCount}/10 Saved</div>
+            {/* ── USER MENU ── */}
+            <div style={{ position: 'relative' }} ref={dropdownRef}>
+              {token ? (
+                <>
+                  <button className="rr-user-btn" onClick={() => setShowUserMenu(!showUserMenu)}>
+                    <div className="rr-avatar"><User size={16} color="#fff" /></div>
+                    <ChevronDown size={14} className={`rr-caret ${showUserMenu ? 'open' : ''}`} />
+                  </button>
+
+                  {showUserMenu && (
+                    <div className="rr-dropdown">
+                      <div className="rr-dd-header">
+                        <p className="rr-dd-lbl">Signed in as</p>
+                        <p className="rr-dd-email">{userEmail}</p>
+                        <div className="rr-dd-badge">● {favCount}/10 Saved</div>
+                      </div>
+                      <button className="rr-dd-item" onClick={() => navigate('/favorites')}>
+                        <Star size={16} /> Saved Journeys
+                      </button>
+                      <button className="rr-dd-item danger" onClick={handleLogout}>
+                        <LogOut size={16} /> Logout
+                      </button>
                     </div>
-                    <button className="rr-dd-item" onClick={() => navigate('/favorites')}>
-                      <Star size={16} /> Saved Journeys
-                    </button>
-                    <button className="rr-dd-item danger" onClick={handleLogout}>
-                      <LogOut size={16} /> Logout
-                    </button>
-                  </div>
-                )}
-              </>
-            ) : (
-              <button className="rr-signin-btn" onClick={() => navigate('/login')}>Sign In</button>
-            )}
+                  )}
+                </>
+              ) : (
+                <button className="rr-signin-btn" onClick={() => navigate('/login')}>Sign In</button>
+              )}
+            </div>
           </div>
         </nav>
 
@@ -217,7 +244,7 @@ const App = () => {
                   SAVED:&nbsp;<span className={favCount >= 10 ? 'over' : ''}>{favCount}/10</span>
                 </div>
                 <div className="rr-sort">
-                  <Filter size={14} style={{ color: '#f97316' }} />
+                  <Filter size={14} style={{ color: 'var(--orange-primary)' }} />
                   <span className="rr-sort-lbl">Sort:</span>
                   <select value={sortBy} onChange={(e) => setSortBy(e.target.value)}>
                     <option value="total_duration">Shortest Time</option>

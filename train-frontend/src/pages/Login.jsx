@@ -3,7 +3,7 @@ import { useNavigate, Link } from 'react-router-dom';
 import { Mail, Lock, Loader2, ArrowRight } from 'lucide-react';
 import { toast } from 'react-toastify';
 import api from '../api/axios';
-import './Login.css'
+import './Auth.css'
 
 const Login = () => {
   const [formData, setFormData] = useState({ email: '', password: '' });

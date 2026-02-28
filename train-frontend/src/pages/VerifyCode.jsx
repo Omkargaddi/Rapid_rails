@@ -3,7 +3,7 @@ import { useNavigate, useLocation } from 'react-router-dom';
 import { ShieldCheck, Lock, Loader2, ArrowRight } from 'lucide-react';
 import { toast } from 'react-toastify';
 import api from '../api/axios';
-import './VerifyCode.css'
+import './Auth.css'
 
 const VerifyCode = () => {
   const navigate = useNavigate();

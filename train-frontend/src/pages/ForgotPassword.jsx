@@ -3,7 +3,7 @@ import { useNavigate, Link } from 'react-router-dom';
 import { Mail, Loader2, ArrowRight, KeyRound } from 'lucide-react';
 import { toast } from 'react-toastify';
 import api from '../api/axios';
-import './ForgetPassword.css'
+import './Auth.css'
 
 const ForgotPassword = () => {
   const [email, setEmail] = useState('');

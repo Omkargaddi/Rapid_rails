@@ -1,8 +1,9 @@
 .ft-root {
-    background: linear-gradient(180deg, #fdf8f2 0%, #fff7ed 100%);
-    border-top: 1px solid rgba(251, 146, 60, 0.1);
+    background: var(--bg-surface);
+    border-top: 1px solid var(--border-subtle);
     padding: 80px 24px 40px;
     font-family: 'Nunito', sans-serif;
+    transition: background 0.3s;
 }
 
 .ft-inner {
@@ -21,42 +22,41 @@
     height: 32px;
     width: auto;
     margin-bottom: 18px;
+    filter: var(--logo-filter);
+    transition: filter 0.3s;
 }
 
 .ft-desc {
-    color: #a8a29e;
+    color: var(--text-muted);
     font-size: 14px;
     line-height: 1.7;
     margin-bottom: 24px;
     font-weight: 500;
+    transition: color 0.3s;
 }
 
-.ft-socials {
-    display: flex;
-    gap: 10px;
-}
+.ft-socials { display: flex; gap: 10px; }
 
 .ft-social-btn {
-    width: 38px;
-    height: 38px;
+    width: 38px; height: 38px;
     border-radius: 11px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #fff;
-    border: 1.5px solid rgba(251, 146, 60, 0.14);
-    color: #c4b5a5;
+    background: var(--bg-card);
+    border: 1.5px solid var(--border-subtle);
+    color: var(--text-muted);
     cursor: pointer;
     text-decoration: none;
     transition: all 0.2s ease;
-    box-shadow: 0 2px 8px rgba(251, 146, 60, 0.05);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
 .ft-social-btn:hover {
-    background: linear-gradient(135deg, #f97316, #fbbf24);
+    background: linear-gradient(135deg, var(--orange-primary), var(--orange-amber));
     color: #fff;
     border-color: transparent;
-    box-shadow: 0 6px 18px rgba(249, 115, 22, 0.28);
+    box-shadow: 0 6px 18px var(--orange-glow);
     transform: translateY(-2px);
 }
 
@@ -64,10 +64,11 @@
     font-family: 'Sora', sans-serif;
     font-size: 11px;
     font-weight: 800;
-    color: #1c1917;
+    color: var(--text-primary);
     text-transform: uppercase;
     letter-spacing: 0.12em;
     margin-bottom: 22px;
+    transition: color 0.3s;
 }
 
 .ft-links {
@@ -78,7 +79,7 @@
 }
 
 .ft-link {
-    color: #a8a29e;
+    color: var(--text-muted);
     font-size: 14px;
     font-weight: 600;
     text-decoration: none;
@@ -88,24 +89,24 @@
     gap: 5px;
 }
 
-.ft-link:hover {
-    color: #f97316;
-}
+.ft-link:hover { color: var(--orange-primary); }
 
 .ft-status-card {
-    background: #fff;
-    border: 1.5px solid rgba(251, 146, 60, 0.12);
+    background: var(--bg-card);
+    border: 1.5px solid var(--border-subtle);
     border-radius: 24px;
     padding: 26px;
-    box-shadow: 0 4px 20px rgba(251, 146, 60, 0.07), 0 1px 4px rgba(0, 0, 0, 0.03);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08), 0 1px 4px rgba(0,0,0,0.04);
+    transition: background 0.3s;
 }
 
 .ft-status-title {
     font-family: 'Sora', sans-serif;
     font-size: 13px;
     font-weight: 800;
-    color: #1c1917;
+    color: var(--text-primary);
     margin-bottom: 10px;
+    transition: color 0.3s;
 }
 
 .ft-status-badge {
@@ -116,8 +117,7 @@
 }
 
 .ft-status-dot {
-    width: 8px;
-    height: 8px;
+    width: 8px; height: 8px;
     background: #22c55e;
     border-radius: 50%;
     box-shadow: 0 0 0 3px rgba(34, 197, 94, 0.18);
@@ -125,59 +125,49 @@
 }
 
 @keyframes pulse {
-
-    0%,
-    100% {
-        opacity: 1
-    }
-
-    50% {
-        opacity: 0.5
-    }
+    0%, 100% { opacity: 1; }
+    50%       { opacity: 0.5; }
 }
 
 .ft-status-txt {
     font-family: 'Sora', sans-serif;
     font-size: 11px;
     font-weight: 800;
-    color: #16a34a;
+    color: var(--green);
     text-transform: uppercase;
     letter-spacing: 0.08em;
 }
 
 .ft-status-desc {
     font-size: 12px;
-    color: #a8a29e;
+    color: var(--text-muted);
     font-weight: 500;
     line-height: 1.6;
     margin-bottom: 16px;
+    transition: color 0.3s;
 }
 
-.ft-email-wrap {
-    position: relative;
-}
+.ft-email-wrap { position: relative; }
 
 .ft-email-input {
     width: 100%;
-    background: #fef9f0;
-    border: 1.5px solid rgba(251, 146, 60, 0.16);
+    background: var(--bg-elevated);
+    border: 1.5px solid var(--border-light);
     border-radius: 13px;
     padding: 10px 42px 10px 14px;
     font-family: 'Nunito', sans-serif;
     font-size: 12px;
     font-weight: 600;
-    color: #1c1917;
+    color: var(--text-primary);
     outline: none;
-    transition: border-color 0.2s;
+    transition: border-color 0.2s, background 0.3s, color 0.3s;
 }
 
-.ft-email-input::placeholder {
-    color: #d4c4b0;
-}
+.ft-email-input::placeholder { color: var(--text-faint); }
 
 .ft-email-input:focus {
-    border-color: #f97316;
-    box-shadow: 0 0 0 3px rgba(249, 115, 22, 0.08);
+    border-color: var(--orange-primary);
+    box-shadow: 0 0 0 3px var(--orange-soft);
 }
 
 .ft-email-btn {
@@ -185,9 +175,8 @@
     right: 5px;
     top: 50%;
     transform: translateY(-50%);
-    width: 30px;
-    height: 30px;
-    background: linear-gradient(135deg, #f97316, #fbbf24);
+    width: 30px; height: 30px;
+    background: linear-gradient(135deg, var(--orange-primary), var(--orange-amber));
     border: none;
     border-radius: 9px;
     cursor: pointer;
@@ -195,29 +184,31 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 2px 8px rgba(249, 115, 22, 0.28);
+    box-shadow: 0 2px 8px var(--orange-glow);
     transition: transform 0.18s, box-shadow 0.18s;
 }
 
 .ft-email-btn:hover {
     transform: translateY(-50%) scale(1.08);
-    box-shadow: 0 4px 14px rgba(249, 115, 22, 0.38);
+    box-shadow: 0 4px 14px var(--orange-glow);
 }
 
 .ft-bottom {
     padding-top: 32px;
-    border-top: 1px solid rgba(251, 146, 60, 0.1);
+    border-top: 1px solid var(--border-subtle);
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
     gap: 16px;
+    transition: border-color 0.3s;
 }
 
 .ft-copy {
-    color: #c4b5a5;
+    color: var(--text-faint);
     font-size: 12px;
     font-weight: 600;
+    transition: color 0.3s;
 }
 
 .ft-meta {
@@ -233,7 +224,8 @@
     font-family: 'Sora', sans-serif;
     font-size: 10px;
     font-weight: 800;
-    color: #c4b5a5;
+    color: var(--text-faint);
     text-transform: uppercase;
     letter-spacing: 0.1em;
+    transition: color 0.3s;
 }
