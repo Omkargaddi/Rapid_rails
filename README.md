@@ -23,7 +23,7 @@ RapidRails solves these using:
 ### Route Search Interface
 
 <p align="center">
-<img width="1920" height="1080" alt="Screenshot From 2026-02-27 17-30-17" src="https://github.com/user-attachments/assets/928e29ad-4825-473d-8240-6f608a7d8dec" />
+<img width="1920" height="1080" alt="Screenshot From 2026-02-28 10-17-16" src="https://github.com/user-attachments/assets/9eb32cb2-9502-498e-a590-0e835120818b" />
 
 </p>
 
