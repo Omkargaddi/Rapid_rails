@@ -8,16 +8,84 @@ import jwt from 'jsonwebtoken';
 import cors from 'cors';
 import nodemailer from 'nodemailer';
 import path from 'path';
-import bindings from 'bindings';
-
-const trainEngine = bindings('train_engine');
-
-console.log("Loading Train Data into C++ Engine...");
-const dataPath = path.join(process.cwd(), 'train_data'); 
-trainEngine.init(dataPath);
+import { spawn } from 'child_process';
+import { createInterface } from 'readline';
+import { randomUUID } from 'crypto';
 
 import User from './userModel.js';
 import auth from './middleware.js';
+
+const ENGINE_PATH  = path.join(process.cwd(), 'train_engine');
+const DATA_PATH    = path.join(process.cwd(), 'train_data');
+
+const pending = new Map();
+
+let engineReady = false;
+
+const engine = spawn(ENGINE_PATH, [DATA_PATH], {
+    stdio: ['pipe', 'pipe', 'inherit'],});
+
+engine.on('error', (err) => {
+    console.error('[Engine] Failed to start binary:', err.message);
+    console.error('[Engine] Make sure you ran `make` before starting the server.');
+    process.exit(1);
+});
+
+engine.on('exit', (code) => {
+    console.error(`[Engine] Process exited with code ${code}. Restarting server.`);
+    process.exit(1);
+});
+
+const rl = createInterface({ input: engine.stdout });
+
+rl.on('line', (line) => {
+    if (!line.trim()) return;
+    try {
+        const msg = JSON.parse(line);
+        if (!engineReady) {
+            if (msg.status === 'ready') {
+                engineReady = true;
+                console.log(`[Engine] Ready — ${msg.trains} trains loaded.`);
+            }
+            return;
+        }
+        const { req_id, results, error } = msg;
+        const handler = pending.get(req_id);
+        if (!handler) return;
+
+        pending.delete(req_id);
+        if (error) handler.reject(new Error(error));
+        else       handler.resolve(results);
+
+    } catch (e) {
+        console.error('[Engine] Bad JSON from binary:', e.message);
+    }
+});
+
+function queryEngine(payload) {
+    return new Promise((resolve, reject) => {
+        if (!engineReady) return reject(new Error('Engine not ready yet'));
+
+        const req_id = randomUUID();
+        pending.set(req_id, { resolve, reject });
+        const timer = setTimeout(() => {
+            if (pending.has(req_id)) {
+                pending.delete(req_id);
+                reject(new Error('Engine request timed out'));
+            }
+        }, 30_000);
+        pending.get(req_id).timer = timer;
+        const original_resolve = resolve;
+        const original_reject  = reject;
+
+        pending.set(req_id, {
+            resolve: (val) => { clearTimeout(timer); original_resolve(val); },
+            reject:  (err) => { clearTimeout(timer); original_reject(err);  },
+        });
+
+        engine.stdin.write(JSON.stringify({ ...payload, req_id }) + '\n');
+    });
+}
 
 const app = express();
 app.use(express.json());
@@ -29,7 +97,7 @@ const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
         user: process.env.SMTP_USER,
-        pass: process.env.SMTP_PASS, 
+        pass: process.env.SMTP_PASS,
     },
 });
 
@@ -56,8 +124,6 @@ app.post('/api/login', async (req, res) => {
     res.json({ token, email: user.email });
 });
 
-
-
 app.post('/api/forgot-password', async (req, res) => {
     const { email } = req.body;
     const user = await User.findOne({ email });
@@ -76,7 +142,7 @@ app.post('/api/forgot-password', async (req, res) => {
             html: `<h2>Your reset code</h2><p><b>${resetCode}</b></p>`
         });
         res.json({ message: 'Reset code sent to email' });
-    } catch (err) {
+    } catch {
         res.status(500).json({ error: 'Failed to send email' });
     }
 });
@@ -100,32 +166,24 @@ app.post('/api/verify-reset-code', async (req, res) => {
 
 
 app.post('/api/search', auth, async (req, res) => {
-    const {
-        source,
-        destination,
-        day,
-        min_buffer,
-        max_buffer,
-        max_legs,
-        preference
-    } = req.body;
+    const { source, destination, day, min_buffer, max_buffer, max_legs, preference } = req.body;
 
     const payload = {
         source,
         destination,
-        day: typeof day === "number" ? day : Number(day),
+        day:        typeof day === 'number' ? day : Number(day),
         min_buffer: min_buffer ?? 30,
         max_buffer: max_buffer ?? 480,
-        max_legs: max_legs ?? 8,
-        preference: preference ?? "convenient"
+        max_legs:   max_legs   ?? 8,
+        preference: preference ?? 'convenient',
     };
 
     try {
-        const results = await trainEngine.findRoute(payload);
+        const results = await queryEngine(payload);
         res.json(results);
     } catch (err) {
-        console.error("Native Engine Error:", err);
-        res.status(500).json({ error: "Calculation failure: " + err.message });
+        console.error('[Search] Engine error:', err.message);
+        res.status(500).json({ error: 'Calculation failure: ' + err.message });
     }
 });
 

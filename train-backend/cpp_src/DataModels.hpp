@@ -31,8 +31,7 @@ struct Stop {
     static string minToClock(int m) {
         m = (m % 1440 + 1440) % 1440;
         stringstream ss;
-        ss << setw(2) << setfill('0') << (m / 60) << ":" 
-           << setw(2) << setfill('0') << (m % 60);
+        ss << setw(2) << setfill('0') << (m / 60) << ":" << setw(2) << setfill('0') << (m % 60);
         return ss.str();
     }
 };

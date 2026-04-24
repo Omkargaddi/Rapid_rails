@@ -7,7 +7,6 @@ export const formatAbsToAMPM = (absMinutes) => {
   return `${displayHours}:${displayMinutes} ${ampm}`;
 };
 
-// Updated time formatting helper in timeUtils.js
 export const formatAbsTo24H = (absMinutes) => {
   const totalMinutes = absMinutes % 1440;
   const hours = Math.floor(totalMinutes / 60);

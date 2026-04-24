@@ -71,10 +71,13 @@ public:
             }
             continue;
       }
-      if(curr.legs >= maxLegs)continue;
+      if(curr.legs >= maxLegs){
+        continue;
+      }
       auto trains_it = sm.stationToTrains.find(curr.station);
-      if(trains_it == sm.stationToTrains.end())continue;
-
+      if(trains_it == sm.stationToTrains.end()){
+        continue;
+      }
       for(Train *train : trains_it->second){
         int idx = -1;
         for(int i = 0; i <(int)train->schedule.size(); i++){
@@ -124,8 +127,9 @@ public:
 
         for(int i = idx + 1; i <(int)train->schedule.size(); i++){
           const Stop &alight_stop = train->schedule[i];
-          if(alight_stop.arrival_minutes == -1)
+          if(alight_stop.arrival_minutes == -1){
             continue;
+          }
 
           int actual_arr_abs = best_K * 1440 + alight_stop.arrival_minutes;
           string nxt_stations = alight_stop.station_code;
