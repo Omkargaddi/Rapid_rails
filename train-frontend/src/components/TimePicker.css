@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@700;800;900&family=Nunito:wght@500;600;700&display=swap');
+
 .tp-wrap {
     font-family: 'Nunito', sans-serif;
 }
@@ -7,7 +9,7 @@
     font-family: 'Sora', sans-serif;
     font-size: 10px;
     font-weight: 700;
-    color: #a8a29e;
+    color: #64748b;
     text-transform: uppercase;
     letter-spacing: 0.13em;
     margin-bottom: 10px;
@@ -18,17 +20,18 @@
     display: inline-flex;
     align-items: center;
     gap: 4px;
-    background: #fff;
-    border: 1.5px solid rgba(251, 146, 60, 0.18);
-    border-radius: 16px;
+    background: #ffffff;
+    border: 1.5px solid #d9dde8;
+    border-radius: 10px;
     padding: 8px 14px;
-    box-shadow: 0 2px 8px rgba(251, 146, 60, 0.05);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
     max-width: 210px;
+    transition: border-color 0.2s;
 }
 
 .tp-control:focus-within {
-    border-color: #f97316;
-    box-shadow: 0 0 0 4px rgba(249, 115, 22, 0.09);
+    border-color: #1a56db;
+    box-shadow: 0 0 0 3px rgba(26, 86, 219, 0.1);
 }
 
 .tp-num {
@@ -40,41 +43,41 @@
     font-family: 'Sora', sans-serif;
     font-size: 20px;
     font-weight: 800;
-    color: #1c1917;
+    color: #0f172a;
 }
 
 .tp-colon {
     font-family: 'Sora', sans-serif;
     font-size: 20px;
     font-weight: 800;
-    color: #d4c4b0;
+    color: #cbd5e1;
 }
 
 .tp-ampm {
     margin-left: 6px;
-    padding: 5px 13px;
-    border-radius: 10px;
+    padding: 5px 12px;
+    border-radius: 7px;
     border: none;
     font-family: 'Sora', sans-serif;
     font-size: 11px;
     font-weight: 800;
     letter-spacing: 0.05em;
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: all 0.18s ease;
 }
 
 .tp-ampm.pm {
-    background: linear-gradient(135deg, #f97316, #fbbf24);
+    background: #1a56db;
     color: #fff;
-    box-shadow: 0 3px 12px rgba(249, 115, 22, 0.28);
+    box-shadow: 0 2px 8px rgba(26, 86, 219, 0.25);
 }
 
 .tp-ampm.am {
-    background: #fef3e2;
-    color: #f97316;
-    border: 1px solid rgba(249, 115, 22, 0.2);
+    background: #f1f5f9;
+    color: #1a56db;
+    border: 1px solid #d9dde8;
 }
 
 .tp-ampm:hover {
-    transform: scale(1.06);
+    transform: scale(1.05);
 }

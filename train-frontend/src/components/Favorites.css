@@ -4,12 +4,12 @@
 
 .fav-root {
     min-height: 100vh;
-    background: var(--bg-base);
+    background: var(--bg-elevated);
     font-family: 'Nunito', sans-serif;
     padding-bottom: 80px;
     transition: background 0.3s;
 }
-
+/* 
 .fav-nav {
     background: var(--nav-bg);
     backdrop-filter: blur(18px);
@@ -24,8 +24,33 @@
     z-index: 50;
     box-shadow: var(--nav-shadow);
     transition: background 0.3s, box-shadow 0.3s;
-}
+} */
 
+.fav-nav {
+    position: sticky;
+    top: 16px;                  /* space from top */
+    margin: 0 auto;             /* center it */
+    width: calc(100% - 48px);   /* side spacing */
+    max-width: 1400px;
+
+    border-radius: 16px;        /* curved edges */
+    
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(16px) saturate(160%);
+    -webkit-backdrop-filter: blur(16px) saturate(160%);
+
+    border: 1px solid rgba(255,255,255,0.18);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+
+    padding: 0 2rem;
+    height: 64px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    z-index: 50;
+}
 .fav-back-btn {
     width: 40px;
     height: 40px;

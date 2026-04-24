@@ -12,6 +12,11 @@ const Login = () => {
 
   const handleChange = (e) => setFormData({ ...formData, [e.target.name]: e.target.value });
 
+const fillTestCredentials = () => {
+  const creds = { email: 'omkar@gmail.com', password: 'Qwert@123' };
+  setFormData(creds);
+};
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
@@ -69,6 +74,13 @@ const Login = () => {
             </div>
 
             <Link to="/forgot-password" className="auth-forgot">Forgot Password?</Link>
+            <button
+  type="button"
+  onClick={fillTestCredentials}
+  className="auth-test-btn"
+>
+  Use Test Account
+</button>
 
             <button type="submit" disabled={loading} className="auth-submit">
               {loading ? <Loader2 size={20} className="animate-spin" /> : <>Sign In <ArrowRight size={18} /></>}

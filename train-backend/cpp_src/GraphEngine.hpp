@@ -1,6 +1,5 @@
 #ifndef GRAPHENGINE_HPP
 #define GRAPHENGINE_HPP
-
 #include "DataModels.hpp"
 #include "StationManager.hpp"
 #include <cmath>
@@ -18,8 +17,9 @@ class GraphEngine{
     vector<JourneyLeg> path;
 
     bool operator>(const State &other) const{
-      if(absolute_time != other.absolute_time)
+      if(absolute_time != other.absolute_time){
         return absolute_time > other.absolute_time;
+      }
       return legs > other.legs;
     }
   };
@@ -36,8 +36,10 @@ class GraphEngine{
 public:
   static vector<JourneyResponse> convenient(StationManager &sm,const string &src,const string &dst, int day,int minB, int maxB, int maxLegs){
     vector<JourneyResponse> results;
-    if(src == dst || maxLegs < 1)return results;
-
+    if(src == dst || maxLegs < 1){
+      return results;
+    }
+    
     unordered_map<string, vector<vector<int>>> best_times;
     priority_queue<State, vector<State>, greater<State>> pq;
 

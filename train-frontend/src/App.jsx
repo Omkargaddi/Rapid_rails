@@ -117,8 +117,8 @@ const App = () => {
 
   return (
     <>
-      <div className="rr-root">
-        <nav className="rr-nav">
+    <div>
+      <nav className="rr-nav">
           <div className="rr-nav-logo" onClick={() => navigate('/')}>
             <img src="/logo2.png" alt="Rail Route" />
           </div>
@@ -169,7 +169,7 @@ const App = () => {
             </div>
           </div>
         </nav>
-
+      <div className="rr-root">
         <main className="rr-hero">
           <div className="rr-blob rr-blob-1" />
           <div className="rr-blob rr-blob-2" />
@@ -272,6 +272,7 @@ const App = () => {
 
         <Footer />
       </div>
+    </div>
     </>
   );
 };
