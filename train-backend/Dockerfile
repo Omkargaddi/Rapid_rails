@@ -13,7 +13,7 @@ RUN npm install
 COPY . .
 
 # Build the C++ binary from cpp_src/
-RUN cd cpp_src && make
+RUN cd cpp_src &&  make -B
 
 ENV PORT=10000
 EXPOSE 10000
