@@ -23,7 +23,8 @@ RapidRails solves these using:
 ### Route Search Interface
 
 <p align="center">
-<img width="1920" height="1080" alt="Screenshot From 2026-02-28 10-17-16" src="https://github.com/user-attachments/assets/9eb32cb2-9502-498e-a590-0e835120818b" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/9a351b28-9bf8-4698-aeb7-d9ffc61d44d2" />
+
 
 </p>
 
@@ -31,12 +32,13 @@ RapidRails solves these using:
 ### Journey Results
 
 <p align="center">
- <img width="1920" height="1080" alt="Screenshot From 2026-02-27 17-31-33" src="https://github.com/user-attachments/assets/b44a48f0-9e4f-442a-a64d-356d950e13c7" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/b90f16e5-8303-47c9-bd9c-a5de6f89ee49" />
 
 </p>
 
 <p align="center">
-  <img width="1920" height="1080" alt="Screenshot From 2026-02-27 17-31-41" src="https://github.com/user-attachments/assets/dde5da12-2e37-45a7-af75-ca0d8159f35f" />
+<img width="1920" height="909" alt="image" src="https://github.com/user-attachments/assets/d006b8d2-2f78-4184-93c2-f2f0fc7db775" />
+
 
 </p>
 
