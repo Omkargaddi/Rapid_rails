@@ -3,6 +3,7 @@ FROM node:20-slim
 RUN apt-get update && apt-get install -y \
     g++ \
     make \
+    libhiredis-dev \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
@@ -12,10 +13,9 @@ RUN npm install
 
 COPY . .
 
-# Build the C++ binary from cpp_src/
-RUN cd cpp_src &&  make -B
+RUN cd cpp_src && make -B
 
-ENV PORT=10000
-EXPOSE 10000
+ENV PORT=3000
+EXPOSE 3000
 
 CMD ["npm", "start"]
