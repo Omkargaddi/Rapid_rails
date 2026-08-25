@@ -1,0 +1,81 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-rapidrails}
+      POSTGRES_DB: rapidrails
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  node-api-sync:
+    build: ./train-backend
+    command: node server-sync.js
+    environment: &api-env
+      PORT: "3000"
+      DATABASE_URL: postgres://postgres:${POSTGRES_PASSWORD:-rapidrails}@postgres:5432/rapidrails
+      REDIS_URL: redis://redis:6379
+      JWT_SECRET: ${JWT_SECRET:-dev-jwt-secret-change-me}
+      SMTP_HOST: ${SMTP_HOST:-smtp.gmail.com}
+      SMTP_PORT: "465"
+      SMTP_USER: ${SMTP_USER:-}
+      SMTP_PASS: ${SMTP_PASS:-}
+      QUEUE_NAME: route_jobs
+      QUEUE_MAX_DEPTH: ${QUEUE_MAX_DEPTH:-1000}
+      JOB_TTL_SECONDS: ${JOB_TTL_SECONDS:-600}
+      CACHE_TTL_SECONDS: ${CACHE_TTL_SECONDS:-86400}
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  node-api-async:
+    build: ./train-backend
+    command: node server-async.js
+    environment: *api-env
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  cpp-worker:
+    build: ./train-backend
+    command: ./train_worker train_data
+    environment:
+      REDIS_HOST: redis
+      REDIS_PORT: "6379"
+      QUEUE_NAME: route_jobs
+      JOB_TTL_SECONDS: ${JOB_TTL_SECONDS:-600}
+    depends_on:
+      redis:
+        condition: service_healthy
+    deploy:
+      replicas: ${WORKER_REPLICAS:-2}
+
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "${NGINX_PORT:-8080}:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - node-api-sync
+      - node-api-async
+
+volumes:
+  pgdata:
