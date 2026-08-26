@@ -1,14 +1,22 @@
-CXX      = g++
-CXXFLAGS = -std=c++17 -O2 -Wall
-TARGET = ../train_engine
-SRCS     = bindings.cpp
+CXX        = g++
+CXXFLAGS   = -std=c++17 -O2 -Wall
+DEP_PREFIX ?= /usr/local
+INCLUDES   = -I$(DEP_PREFIX)/include
+LIBS       = -L$(DEP_PREFIX)/lib -L$(DEP_PREFIX)/lib64 -lhiredis -lpthread
+
+ENGINE_OBJ = bindings.cpp
+WORKER_OBJ = worker.cpp
+HEADERS    = EngineCommon.hpp GraphEngine.hpp DataModels.hpp StationManager.hpp json.hpp
 
 .PHONY: all clean
 
-all: $(TARGET)
+all: ../train_engine ../train_worker
 
-$(TARGET): $(SRCS) GraphEngine.hpp DataModels.hpp StationManager.hpp json.hpp
-	$(CXX) $(CXXFLAGS) -o $(TARGET) $(SRCS)
+../train_engine: $(ENGINE_OBJ) $(HEADERS)
+	$(CXX) $(CXXFLAGS) $(INCLUDES) -o $@ $(ENGINE_OBJ) $(LIBS)
+
+../train_worker: $(WORKER_OBJ) $(HEADERS)
+	$(CXX) $(CXXFLAGS) $(INCLUDES) -o $@ $(WORKER_OBJ) $(LIBS)
 
 clean:
-	rm -f $(TARGET)
+	rm -f ../train_engine ../train_worker
