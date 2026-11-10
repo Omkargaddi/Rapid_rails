@@ -1,0 +1,14 @@
+{
+  "name": "railway-preprocess",
+  "private": true,
+  "type": "module",
+  "description": "Validation, normalization and index generation for raw train schedule JSON.",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "preprocess": "node preprocess.ts",
+    "geocode": "node geocode.ts",
+    "test": "node --test test/normalize.test.ts test/geocode.test.ts"
+  }
+}

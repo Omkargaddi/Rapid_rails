@@ -1,20 +1,37 @@
-# OS
-.DS_Store
-
-# Env
-.env
-
-# Logs
-*.log
-
-# Node
-node_modules/
-
-# C++
 build/
+routing-engine/build/
 *.o
-*.out
+*.a
+*.so
+*.dylib
+*.exe
+compile_commands.json
 
-# Editor
+node_modules/
+**/node_modules/
+.pnp
+.pnp.js
+
+.next/
+out/
+
+.env
+.env*.local
+*.env
+
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+.cache/
+.turbo/

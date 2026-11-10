@@ -1,81 +1,61 @@
+name: railway-routing
+
+x-logging: &logging
+  driver: json-file
+  options: { max-size: "10m", max-file: "5" }
+
 services:
-  postgres:
-    image: postgres:16
+  engine:
+    build:
+      context: .
+      dockerfile: routing-engine/Dockerfile
+    image: railway-routing/engine:latest
+    restart: unless-stopped
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-rapidrails}
-      POSTGRES_DB: rapidrails
-    volumes:
-      - pgdata:/var/lib/postgresql/data
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U postgres"]
-      interval: 5s
-      timeout: 5s
-      retries: 10
+      ENGINE_PORT: 7070
+      ENGINE_THREADS: ${ENGINE_THREADS:-8}
+      MIN_TRANSFER_MINUTES: ${MIN_TRANSFER_MINUTES:-30}
+      MAX_TRANSFERS_INTERNAL: ${MAX_TRANSFERS_INTERNAL:-10}
+      TOP_K: 50
+      K_NODE: ${K_NODE:-0}
+      SEARCH_HORIZON_MINUTES: ${SEARCH_HORIZON_MINUTES:-5760}
+      MAX_LABELS: ${MAX_LABELS:-500000}
+    networks: [backend]
+    logging: *logging
 
-  redis:
-    image: redis:7-alpine
-    healthcheck:
-      test: ["CMD", "redis-cli", "ping"]
-      interval: 5s
-      timeout: 5s
-      retries: 10
-
-  node-api-sync:
-    build: ./train-backend
-    command: node server-sync.js
-    environment: &api-env
-      PORT: "3000"
-      DATABASE_URL: postgres://postgres:${POSTGRES_PASSWORD:-rapidrails}@postgres:5432/rapidrails
-      REDIS_URL: redis://redis:6379
-      JWT_SECRET: ${JWT_SECRET:-dev-jwt-secret-change-me}
-      SMTP_HOST: ${SMTP_HOST:-smtp.gmail.com}
-      SMTP_PORT: "465"
-      SMTP_USER: ${SMTP_USER:-}
-      SMTP_PASS: ${SMTP_PASS:-}
-      QUEUE_NAME: route_jobs
-      QUEUE_MAX_DEPTH: ${QUEUE_MAX_DEPTH:-1000}
-      JOB_TTL_SECONDS: ${JOB_TTL_SECONDS:-600}
-      CACHE_TTL_SECONDS: ${CACHE_TTL_SECONDS:-86400}
-    depends_on:
-      postgres:
-        condition: service_healthy
-      redis:
-        condition: service_healthy
-
-  node-api-async:
-    build: ./train-backend
-    command: node server-async.js
-    environment: *api-env
-    depends_on:
-      postgres:
-        condition: service_healthy
-      redis:
-        condition: service_healthy
-
-  cpp-worker:
-    build: ./train-backend
-    command: ./train_worker train_data
+  api:
+    image: railway-routing/api:latest
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+    restart: unless-stopped
     environment:
-      REDIS_HOST: redis
-      REDIS_PORT: "6379"
-      QUEUE_NAME: route_jobs
-      JOB_TTL_SECONDS: ${JOB_TTL_SECONDS:-600}
-    depends_on:
-      redis:
-        condition: service_healthy
-    deploy:
-      replicas: ${WORKER_REPLICAS:-2}
-
-  nginx:
-    image: nginx:alpine
+      API_PORT: 4000
+      ENGINE_URL: http://engine:7070
+      MAX_RESULTS: 50
     ports:
-      - "${NGINX_PORT:-8080}:80"
-    volumes:
-      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - "${API_PORT:-4000}:4000"
     depends_on:
-      - node-api-sync
-      - node-api-async
+      engine: { condition: service_healthy }
+    networks: [backend, frontend]
+    logging: *logging
 
-volumes:
-  pgdata:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    image: railway-routing/frontend:latest
+    restart: unless-stopped
+    environment:
+      API_INTERNAL_URL: http://api:4000
+    ports:
+      - "${PUBLIC_PORT:-80}:3000"
+    depends_on:
+      api: { condition: service_healthy }
+    networks: [frontend]
+    logging: *logging
+
+networks:
+  backend:
+  frontend:
+

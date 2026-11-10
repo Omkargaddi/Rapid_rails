@@ -1,0 +1,403 @@
+{
+ "raw": {
+  "files": 1725,
+  "records": 1725,
+  "unique_train_numbers": 1725,
+  "unique_route_ids": 1725,
+  "unique_station_codes": 2897,
+  "total_stops": 30796,
+  "stops_per_train": {
+   "min": 2,
+   "median": 17,
+   "mean": 17.85,
+   "max": 35
+  },
+  "day_of_journey": {
+   "1": 15949,
+   "2": 12740,
+   "3": 1967,
+   "4": 140
+  },
+  "types_raw": {
+   "\"MAIL EXPRESS\"": 636,
+   "\"SUPERFAST\"": 535,
+   "\"MAIL EXPRESS \"": 139,
+   "\"SUPERFAST \"": 126,
+   "\"TRAIN ON DEMAND\"": 48,
+   "\"JAN SHATABDI\"": 35,
+   "\"GARIB RATH\"": 34,
+   "\"DURONTO EXPRESS\"": 33,
+   "\"PASSENGER\"": 26,
+   "\"RAJDHANI\"": 21,
+   "\"SHATABDI\"": 17,
+   "\"TRAIN ON DEMAND \"": 17,
+   "\"VANDE BHARAT\"": 10,
+   "\"JAN SHATABDI \"": 6,
+   "\"RAJDHANI \"": 6,
+   "\"SHATABDI \"": 6,
+   "\"DURONTO EXPRESS \"": 5,
+   "\"GARIB RATH \"": 5,
+   "\"AMRIT BHARAT\"": 3,
+   "\"PASSENGER \"": 3,
+   "\"DMU\"": 2,
+   "\"PARCEL EXPRESS\"": 2,
+   "\"SUBURBAN\"": 2,
+   "\"TOURIST TRAIN\"": 2,
+   "\"AMRIT BHARAT \"": 1,
+   "\"INAUGURAL SPECIAL\"": 1,
+   "\"MAGH MELA SPECIAL \"": 1,
+   "\"MEMU \"": 1,
+   "\"TEJAS\"": 1,
+   "\"VANDE BHARAT \"": 1
+  },
+  "classes": {
+   "3A": 1369,
+   "SL": 1285,
+   "2A": 1271,
+   "GEN": 1193,
+   "PWD": 957,
+   "1A": 755,
+   "3E": 582,
+   "2S": 328,
+   "CC": 291,
+   "EC": 44,
+   "EV": 19,
+   "LDS": 8,
+   "PC": 4,
+   "VP": 4,
+   "GAC": 2,
+   "GFC": 2
+  },
+  "operating_days_per_week": {
+   "1": 522,
+   "2": 198,
+   "3": 133,
+   "4": 61,
+   "5": 42,
+   "6": 49,
+   "7": 720
+  },
+  "extra_stop_keys": {
+   "platform": 6213
+  }
+ },
+ "cleaned": {
+  "policy": "correct",
+  "accepted_trains": 1725,
+  "rejected_records": 0,
+  "stations": 2894,
+  "stations_served_by_one_train": 532,
+  "boardable_stops": 30796,
+  "placeholder_stops": 0,
+  "types": {
+   "MAIL EXPRESS": 775,
+   "SUPERFAST": 661,
+   "TRAIN ON DEMAND": 65,
+   "JAN SHATABDI": 41,
+   "GARIB RATH": 39,
+   "DURONTO EXPRESS": 38,
+   "PASSENGER": 29,
+   "RAJDHANI": 27,
+   "SHATABDI": 23,
+   "VANDE BHARAT": 11,
+   "AMRIT BHARAT": 4,
+   "DMU": 2,
+   "PARCEL EXPRESS": 2,
+   "SUBURBAN": 2,
+   "TOURIST TRAIN": 2,
+   "INAUGURAL SPECIAL": 1,
+   "MAGH MELA SPECIAL": 1,
+   "MEMU": 1,
+   "TEJAS": 1
+  },
+  "max_span_minutes": 4395,
+  "top_stations": [
+   "KYN:159",
+   "CNB:154",
+   "BSL:151",
+   "HWH:136",
+   "BRC:135",
+   "ST:135",
+   "BZA:128",
+   "DDU:120",
+   "PUNE:120",
+   "NDLS:118",
+   "BBS:116",
+   "ET:113",
+   "ASN:110",
+   "ADI:109",
+   "MMR:108"
+  ]
+ },
+ "issue_counts": {
+  "by_severity": {
+   "info": 32,
+   "warning": 9
+  },
+  "by_code": {
+   "CLASSES_EMPTY": 21,
+   "CODE_RECOVERED_FROM_NAME": 5,
+   "STATION_REPEATED_IN_TRAIN": 4,
+   "NAME_SHARED_BY_CODES": 3,
+   "STATION_NAME_VARIANTS": 3,
+   "ZERO_MINUTE_HOP": 2,
+   "LONG_DWELL": 1,
+   "SHARED_TIMETABLE_DIFFERENT_DAYS": 1,
+   "TRAIN_NUMBER_NONSTANDARD": 1
+  }
+ },
+ "issues": [
+  {
+   "train": "00111",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "00111.json: classes_available empty"
+  },
+  {
+   "train": "00112",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "00112.json: classes_available empty"
+  },
+  {
+   "train": "03065",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "03065.json: classes_available empty"
+  },
+  {
+   "train": "04801",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "04801.json: classes_available empty"
+  },
+  {
+   "train": "04802",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "04802.json: classes_available empty"
+  },
+  {
+   "train": "04853",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "04853.json: classes_available empty"
+  },
+  {
+   "train": "04854",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "04854.json: classes_available empty"
+  },
+  {
+   "train": "07490",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "07490.json: classes_available empty"
+  },
+  {
+   "train": "08450",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "08450.json: classes_available empty"
+  },
+  {
+   "train": "08450",
+   "severity": "warning",
+   "code": "LONG_DWELL",
+   "stop": 1,
+   "message": "08450.json: dwell of 720 min at KON"
+  },
+  {
+   "train": "08566",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "08566.json: classes_available empty"
+  },
+  {
+   "train": "11403",
+   "severity": "warning",
+   "code": "CODE_RECOVERED_FROM_NAME",
+   "stop": 22,
+   "message": "11403.json: station_code \"Point(4)\" replaced by MRJ taken from name \"MIRAJ JN. MRJ Train Reversal\""
+  },
+  {
+   "train": "11404",
+   "severity": "warning",
+   "code": "CODE_RECOVERED_FROM_NAME",
+   "stop": 16,
+   "message": "11404.json: station_code \"Point(4)\" replaced by AK taken from name \"AKOLA JN. AK Train Reversal\""
+  },
+  {
+   "train": "12311",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "12311.json: classes_available empty"
+  },
+  {
+   "train": "12312",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "12312.json: classes_available empty"
+  },
+  {
+   "train": "12348",
+   "severity": "info",
+   "code": "ZERO_MINUTE_HOP",
+   "message": "12348.json: 1 hop(s) with 0 min running time"
+  },
+  {
+   "train": "12516",
+   "severity": "warning",
+   "code": "CODE_RECOVERED_FROM_NAME",
+   "stop": 4,
+   "message": "12516.json: station_code \"\" replaced by LMG taken from name \"LUMDING JN LMG Train Reversal\""
+  },
+  {
+   "train": "19415",
+   "severity": "warning",
+   "code": "CODE_RECOVERED_FROM_NAME",
+   "stop": 28,
+   "message": "19415.json: station_code \"Point(4)\" replaced by ASR taken from name \"AMRITSAR ASR Train Reversal\""
+  },
+  {
+   "train": "19415",
+   "severity": "warning",
+   "code": "CODE_RECOVERED_FROM_NAME",
+   "stop": 30,
+   "message": "19415.json: station_code \"Point(5)\" replaced by PTK taken from name \"PATHANKOT PTK Train Reversal\""
+  },
+  {
+   "train": "19716",
+   "severity": "info",
+   "code": "ZERO_MINUTE_HOP",
+   "message": "19716.json: 1 hop(s) with 0 min running time"
+  },
+  {
+   "train": "52103",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "52103.json: classes_available empty"
+  },
+  {
+   "train": "52105",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "52105.json: classes_available empty"
+  },
+  {
+   "train": "52455",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "52455.json: classes_available empty"
+  },
+  {
+   "train": "52456",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "52456.json: classes_available empty"
+  },
+  {
+   "train": "52544",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "52544.json: classes_available empty"
+  },
+  {
+   "train": "52545",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "52545.json: classes_available empty"
+  },
+  {
+   "train": "52546",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "52546.json: classes_available empty"
+  },
+  {
+   "train": "99801",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "99801.json: classes_available empty"
+  },
+  {
+   "train": "99821",
+   "severity": "info",
+   "code": "CLASSES_EMPTY",
+   "message": "99821.json: classes_available empty"
+  },
+  {
+   "train": "National",
+   "severity": "info",
+   "code": "TRAIN_NUMBER_NONSTANDARD",
+   "message": "National.json: train_number \"National\" is not 5 digits (kept as opaque id)"
+  },
+  {
+   "train": "12881,12887",
+   "severity": "info",
+   "code": "SHARED_TIMETABLE_DIFFERENT_DAYS",
+   "message": "trains 12881, 12887 share stops/times but differ in days or name; kept as distinct"
+  },
+  {
+   "train": "04120",
+   "severity": "info",
+   "code": "STATION_REPEATED_IN_TRAIN",
+   "message": "PRYJ visited twice (loop/ring service)"
+  },
+  {
+   "train": "11013",
+   "severity": "info",
+   "code": "STATION_REPEATED_IN_TRAIN",
+   "message": "BNC visited twice (loop/ring service)"
+  },
+  {
+   "train": "11014",
+   "severity": "info",
+   "code": "STATION_REPEATED_IN_TRAIN",
+   "message": "BNC visited twice (loop/ring service)"
+  },
+  {
+   "train": "52544",
+   "severity": "info",
+   "code": "STATION_REPEATED_IN_TRAIN",
+   "message": "DJ visited twice (loop/ring service)"
+  },
+  {
+   "train": "-",
+   "severity": "warning",
+   "code": "STATION_NAME_VARIANTS",
+   "message": "SWM: \"SAWAI MADHOPUR JN\"x68, \"SAWAI MADHOPUR\"x1; canonical \"SAWAI MADHOPUR JN\""
+  },
+  {
+   "train": "-",
+   "severity": "warning",
+   "code": "STATION_NAME_VARIANTS",
+   "message": "MGR: \"MONGHYR\"x2, \"PURATCHI THALAIVAR DR.\"x1; canonical \"MONGHYR\""
+  },
+  {
+   "train": "-",
+   "severity": "warning",
+   "code": "STATION_NAME_VARIANTS",
+   "message": "BPR: \"BHOJIPURA JN.\"x6, \"BADARPUR JN.\"x1; canonical \"BHOJIPURA JN.\""
+  },
+  {
+   "train": "-",
+   "severity": "info",
+   "code": "NAME_SHARED_BY_CODES",
+   "message": "\"DADAR\" used by DDR, DR (kept as distinct stations)"
+  },
+  {
+   "train": "-",
+   "severity": "info",
+   "code": "NAME_SHARED_BY_CODES",
+   "message": "\"RAGHUNATHPUR\" used by RCTC, RPR (kept as distinct stations)"
+  },
+  {
+   "train": "-",
+   "severity": "info",
+   "code": "NAME_SHARED_BY_CODES",
+   "message": "\"TIRUCHCHIRAPPALLI JN.\" used by TOJ, TPJ (kept as distinct stations)"
+  }
+ ]
+}
