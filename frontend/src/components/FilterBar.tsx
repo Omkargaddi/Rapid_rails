@@ -1,4 +1,3 @@
-"use client";
 import { activeFilterCount, FILTER_DEFAULTS, type FilterState } from "@/lib/filters";
 
 interface Props {

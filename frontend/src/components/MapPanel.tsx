@@ -1,15 +1,9 @@
-"use client";
-
-import dynamic from "next/dynamic";
-import { useState } from "react";
+import { lazy, Suspense, useState } from "react";
 import { duration } from "@/lib/format";
 import { legColor } from "@/lib/palette";
 import type { Journey, StationHit } from "@/lib/types";
 
-const RouteMap = dynamic(() => import("./RouteMap"), {
-  ssr: false,
-  loading: () => <div className="h-full w-full animate-pulse bg-slate-100 dark:bg-slate-900" />,
-});
+const RouteMap = lazy(() => import("./RouteMap"));
 
 interface Props {
   journeys: Journey[];
@@ -25,7 +19,9 @@ export function MapPanel({ journeys, selectedId, hoverId, onSelect, endpoints, c
   const selected = journeys.find((j) => j.id === selectedId) ?? null;
   return (
     <div className={`card relative isolate overflow-hidden ${className}`}>
-      <RouteMap journeys={journeys} selectedId={selectedId} hoverId={hoverId} onSelect={onSelect} endpoints={endpoints} fitAllSignal={fitAllSignal} />
+      <Suspense fallback={<div className="h-full w-full animate-pulse bg-slate-100 dark:bg-slate-900" />}>
+        <RouteMap journeys={journeys} selectedId={selectedId} hoverId={hoverId} onSelect={onSelect} endpoints={endpoints} fitAllSignal={fitAllSignal} />
+      </Suspense>
 
       {journeys.length > 1 && (
         <button

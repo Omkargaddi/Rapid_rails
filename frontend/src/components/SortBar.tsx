@@ -1,4 +1,3 @@
-"use client";
 
 import { SORTS, type SortKey } from "@/lib/filters";
 

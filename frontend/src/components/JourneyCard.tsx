@@ -1,4 +1,3 @@
-"use client";
 
 import { Fragment, useState } from "react";
 import { dayDiff, duration, hhmm, shortDate, stationLabel } from "@/lib/format";

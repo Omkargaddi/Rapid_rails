@@ -5,7 +5,7 @@ A full-stack train journey planner that finds the **50 earliest-arriving valid j
 The project consists of three core components:
 - **Routing Engine (C++)**: A high-performance custom routing core running an exact A*-style K-best path search over a relaxed backward profile scan.
 - **API Tier (Node/Express)**: Validates input, dispatches queries to the engine, hydrates and renders compact journeys into complete itineraries with intermediate stops, and provides station search.
-- **Frontend (Next.js 15)**: An interactive web application featuring station selection, route filtering, journey comparisons, and map visualization.
+- **Frontend (React)**: An interactive web application built with React, Vite, and Tailwind CSS, featuring station selection, route filtering, journey comparisons, and map visualization.
 
 Performance benchmarks, distributed scaling studies on AWS (scaling to ~1,100 requests/second under a strict latency SLO), and architectural evaluations are documented in [results/distributed-benchmarks.md](results/distributed-benchmarks.md) and [results/load-test-report.md](results/load-test-report.md).
 
@@ -33,23 +33,23 @@ cmake -S routing-engine -B routing-engine/build -DCMAKE_BUILD_TYPE=Release
 cmake --build routing-engine/build -j
 TIMETABLE_PATH=data/processed/timetable.json routing-engine/build/routing_engine   # engine on :7070
 cd api && npm ci && ENGINE_URL=http://127.0.0.1:7070 npm start                    # API on :4000
-cd frontend && npm ci && npx next build && API_INTERNAL_URL=http://127.0.0.1:4000 npx next start -p 3000
+cd frontend && npm ci && npm run build && API_INTERNAL_URL=http://127.0.0.1:4000 npm start   # React SPA on :3000
 ```
 
 ## Architecture
 
-The standard single-host deployment comprises the Next.js frontend, Node/Express API gateway, and the C++ routing engine.
+The standard single-host deployment comprises the React frontend, Node/Express API gateway, and the C++ routing engine.
 
 ```mermaid
 flowchart LR
-    Browser -->|"HTTP :80"| FE["Next.js frontend<br/>(:3000)"]
+    Browser -->|"HTTP :80"| FE["React frontend<br/>(:3000)"]
     FE -->|"/api/* same-origin proxy"| API["Node/Express API<br/>(:4000)"]
     API -->|"POST /route (HTTP)"| ENG["C++ Routing Engine<br/>(:7070)"]
 ```
 
 ### Components
 
-1. **Frontend (Next.js 15)**: Provides station pickers, filter controls (max duration, max transfers, direct trains), journey detail cards, and an interactive map. Includes a same-origin reverse proxy (`/api/[...path]`) that relays requests to the API.
+1. **Frontend (React + Vite)**: Provides station pickers, filter controls (max duration, max transfers, direct trains), journey detail cards, and an interactive map. Includes a same-origin reverse proxy that relays requests to the API.
 2. **API Tier (Node/Express)**: Loads station metadata and timetable definitions directly from static JSON files (`stations.json`, `timetable.json`). Validates query inputs with Zod, resolves station codes, queries the C++ engine over HTTP, and formats the compact journey representation into full itineraries with intermediate stop timelines and distance calculations.
 3. **C++ Routing Engine**: Loads the preprocessed timetable into memory (~100 MB), precomputes weekday patterns, and executes the backward profile scan and best-first A* search. Returns compact journey signatures (~9 KB) to minimize serialization overhead.
 

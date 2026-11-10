@@ -12,7 +12,7 @@ In the scaled AWS study setup, the stateless C++ routing engine ran as **one sin
 
 ```mermaid
 flowchart LR
-    Browser -->|"HTTP :80"| FE["Next.js frontend"]
+    Browser -->|"HTTP :80"| FE["React frontend"]
     FE -->|"/api/* same-origin proxy"| API["Node/Express API"]
     API -->|"cache get/set (brotli)"| REDIS[("Redis")]
     API -->|"POST /route, load-balanced"| W1["Engine worker 1"]
@@ -48,7 +48,7 @@ Single-thread routing performance was measured on an x86-64 test environment acr
 
 ## 3. End-to-End Latency & Throughput (Autocannon)
 
-End-to-end performance measured through the Next.js proxy (20-second runs, $K = 20$):
+End-to-end performance measured through the React frontend proxy (20-second runs, $K = 20$):
 
 | Scenario | Throughput | Client p50 / p99 | Engine p50 / p99 |
 | :--- | :--- | :--- | :--- |

@@ -1,5 +1,3 @@
-"use client";
-
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { FilterBar } from "@/components/FilterBar";
 import { JourneyCard } from "@/components/JourneyCard";
@@ -30,7 +28,7 @@ type State =
 
 type Search = { from: StationHit; to: StationHit; date: string; time: string };
 
-export default function Home() {
+export default function App() {
   const [initial, setInitial] = useState<SearchInput | null>(null);
   const [state, setState] = useState<State>({ kind: "idle" });
   const [filters, setFilters] = useState<FilterState>(FILTER_DEFAULTS);
@@ -123,7 +121,7 @@ export default function Home() {
   const done = state.kind === "done";
 
   return (
-    <main className="pb-16">
+    <main className="min-h-screen pb-16">
       {/* hero band behind the search form */}
       <div className="relative overflow-hidden bg-linear-to-br from-brand-700 via-brand-600 to-indigo-900 pb-24 text-white dark:from-brand-900 dark:via-slate-900 dark:to-slate-950">
         <svg className="absolute inset-0 h-full w-full opacity-[0.07]" aria-hidden>

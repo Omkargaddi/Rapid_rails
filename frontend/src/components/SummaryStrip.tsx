@@ -1,4 +1,3 @@
-"use client";
 
 import { duration, hhmm } from "@/lib/format";
 import type { Journey } from "@/lib/types";

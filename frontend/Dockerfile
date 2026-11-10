@@ -7,10 +7,9 @@ WORKDIR /app
 COPY package.json package-lock.json ./
 RUN npm ci --no-audit --no-fund
 
-# build Next.js
+# build React SPA
 FROM base AS build
 WORKDIR /app
-ENV NEXT_TELEMETRY_DISABLED=1
 COPY . ./
 COPY --from=deps /app/node_modules ./node_modules
 RUN npm run build
@@ -19,13 +18,12 @@ RUN npm run build
 FROM base AS runner
 WORKDIR /app
 ENV NODE_ENV=production \
-    NEXT_TELEMETRY_DISABLED=1 \
     PORT=3000 \
-    HOSTNAME=0.0.0.0
+    HOST=0.0.0.0
 
-COPY --from=build --chown=node:node /app/.next/standalone ./
-COPY --from=build --chown=node:node /app/.next/static ./.next/static
-COPY --from=build --chown=node:node /app/public ./public
+COPY --from=build --chown=node:node /app/dist ./dist
+COPY --from=build --chown=node:node /app/server.js ./server.js
+COPY --from=build --chown=node:node /app/package.json ./package.json
 
 USER node
 EXPOSE 3000

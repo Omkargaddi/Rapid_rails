@@ -1,4 +1,3 @@
-"use client";
 
 import "leaflet/dist/leaflet.css";
 import { Fragment, useEffect, useMemo, useRef, useState, useSyncExternalStore } from "react";
