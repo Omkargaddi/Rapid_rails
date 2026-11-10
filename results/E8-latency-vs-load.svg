@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" role="img" aria-label="E8: p99 latency against load">
+<style>:root{--surface:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--grid:#e1e0d9;--axis:#c3c2b7;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;--s6:#008300;--s7:#4a3aa7;--s8:#e34948;--crit:#d03b3b}@media (prefers-color-scheme:dark){:root{--surface:#1a1a19;--ink:#ffffff;--ink2:#c3c2b7;--muted:#898781;--grid:#2c2c2a;--axis:#383835;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#008300;--s7:#9085e9;--s8:#e66767}}text{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:12px;fill:var(--ink2)}.title{font-size:15px;font-weight:600;fill:var(--ink)}.sub{fill:var(--muted)}.tick{fill:var(--muted);font-variant-numeric:tabular-nums}.val{fill:var(--ink);font-variant-numeric:tabular-nums}</style>
+<rect width="760" height="420" fill="var(--surface)"/>
+<text class="title" x="64" y="26">E8: p99 latency against load</text>
+<text class="sub" x="64" y="44">API p99 over 30 s windows during the ramp; band = min–max over repeats</text>
+<line x1="64" x2="736" y1="370" y2="370" stroke="var(--axis)"/>
+<text class="tick" x="56" y="374" text-anchor="end">0</text>
+<line x1="64" x2="736" y1="313.2" y2="313.2" stroke="var(--grid)"/>
+<text class="tick" x="56" y="317.2" text-anchor="end">200</text>
+<line x1="64" x2="736" y1="256.4" y2="256.4" stroke="var(--grid)"/>
+<text class="tick" x="56" y="260.4" text-anchor="end">400</text>
+<line x1="64" x2="736" y1="199.6" y2="199.6" stroke="var(--grid)"/>
+<text class="tick" x="56" y="203.6" text-anchor="end">600</text>
+<line x1="64" x2="736" y1="142.79999999999998" y2="142.79999999999998" stroke="var(--grid)"/>
+<text class="tick" x="56" y="146.79999999999998" text-anchor="end">800</text>
+<line x1="64" x2="736" y1="86" y2="86" stroke="var(--grid)"/>
+<text class="tick" x="56" y="90" text-anchor="end">1,000</text>
+<text class="tick" x="64" y="388" text-anchor="middle">0</text>
+<text class="tick" x="198.4" y="388" text-anchor="middle">250</text>
+<text class="tick" x="332.8" y="388" text-anchor="middle">500</text>
+<text class="tick" x="467.2" y="388" text-anchor="middle">750</text>
+<text class="tick" x="601.6" y="388" text-anchor="middle">1,000</text>
+<text class="tick" x="736" y="388" text-anchor="middle">1,250</text>
+<text x="400" y="410" text-anchor="middle">achieved requests per second</text>
+<text transform="translate(16 228) rotate(-90)" text-anchor="middle">p99 latency (ms)</text>
+<line x1="64" x2="736" y1="228" y2="228" stroke="var(--crit)" stroke-width="1.5"/>
+<text x="736" y="222" text-anchor="end">SLO 500 ms</text>
+<polygon points="94.2,343.8 114.3,342.6 134.4,343.3 154.5,343.2 174.6,342.4 194.7,338.6 214.8,338.2 234.9,334.1 255.0,332.0 275.1,330.0 295.2,328.8 315.3,324.0 335.4,320.7 355.5,316.9 375.7,316.6 395.8,314.7 415.9,313.3 436.0,311.1 456.1,309.9 476.2,308.4 496.3,307.0 516.4,305.0 536.5,303.9 556.6,301.2 576.7,295.2 596.8,282.1 616.9,276.0 637.0,269.1 657.1,255.4 657.1,264.8 637.0,277.3 616.9,283.5 596.8,297.2 576.7,299.8 556.6,302.6 536.5,305.4 516.4,306.3 496.3,308.2 476.2,309.2 456.1,311.4 436.0,313.2 415.9,315.1 395.8,318.0 375.7,318.4 355.5,319.4 335.4,323.5 315.3,327.2 295.2,331.2 275.1,331.6 255.0,333.4 234.9,339.2 214.8,341.2 194.7,342.5 174.6,343.3 154.5,343.5 134.4,343.6 114.3,343.7 94.2,343.8" fill="var(--s1)" opacity="0.1"/>
+<path d="M94.2 343.8L114.3 343.5L134.4 343.5L154.5 343.4L174.6 343.1L194.7 342.1L214.8 340.7L234.9 337.1L255.0 332.7L275.1 331.0L295.2 329.0L315.3 325.2L335.4 320.9L355.5 318.4L375.7 318.2L395.8 315.7L415.9 314.3L436.0 312.9L456.1 310.8L476.2 308.6L496.3 307.6L516.4 305.7L536.5 304.2L556.6 302.3L576.7 298.1L596.8 289.9L616.9 280.9L637.0 274.0L657.1 262.4" fill="none" stroke="var(--s1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>gw2-cluster2</title></path>
+<circle cx="657.1" cy="262.4" r="4" fill="var(--s1)" stroke="var(--surface)" stroke-width="2"><title>gw2-cluster2: 379 at 1,103</title></circle>
+<polygon points="94.2,343.5 114.3,343.8 134.4,344.2 154.5,344.0 174.6,343.3 194.7,343.3 214.8,343.1 234.9,343.2 255.0,343.5 275.1,342.9 295.2,342.7 315.3,342.4 335.4,341.3 355.5,337.0 375.7,325.1 395.8,307.9 415.9,301.5 415.9,303.6 395.8,320.4 375.7,337.2 355.5,342.1 335.4,342.7 315.3,343.0 295.2,343.1 275.1,343.5 255.0,343.6 234.9,343.6 214.8,343.9 194.7,344.3 174.6,344.5 154.5,344.9 134.4,345.0 114.3,344.4 94.2,344.6" fill="var(--s2)" opacity="0.1"/>
+<path d="M94.2 344.4L114.3 344.4L134.4 344.9L154.5 344.8L174.6 344.5L194.7 344.3L214.8 343.8L234.9 343.4L255.0 343.6L275.1 343.1L295.2 342.7L315.3 342.8L335.4 342.6L355.5 339.9L375.7 332.2L395.8 308.5L415.9 301.6" fill="none" stroke="var(--s2)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>gw1-cluster1</title></path>
+<circle cx="415.9" cy="301.6" r="4" fill="var(--s2)" stroke="var(--surface)" stroke-width="2"><title>gw1-cluster1: 241 at 655</title></circle>
+<polygon points="94.2,343.3 114.3,342.7 134.4,343.8 154.5,344.0 174.6,343.0 194.7,343.0 214.8,342.6 234.9,341.8 255.0,342.1 275.1,339.1 295.2,334.8 315.3,337.2 335.4,331.4 355.5,324.5 375.7,319.7 395.8,318.9 415.9,312.4 436.0,304.6 456.1,264.6 456.1,299.5 436.0,305.6 415.9,315.7 395.8,319.0 375.7,322.7 355.5,326.5 335.4,337.2 315.3,339.6 295.2,336.2 275.1,341.9 255.0,342.3 234.9,342.6 214.8,343.3 194.7,343.4 174.6,343.9 154.5,344.9 134.4,344.7 114.3,344.7 94.2,345.1" fill="var(--s3)" opacity="0.1"/>
+<path d="M94.2 344.3L114.3 344.2L134.4 344.4L154.5 344.2L174.6 343.2L194.7 343.0L214.8 343.2L234.9 342.3L255.0 342.1L275.1 341.8L295.2 335.2L315.3 337.9L335.4 335.5L355.5 324.9L375.7 321.2L395.8 318.9L415.9 315.4L436.0 305.0L456.1 266.9" fill="none" stroke="var(--s3)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>gw1-cluster2</title></path>
+<circle cx="456.1" cy="266.9" r="4" fill="var(--s3)" stroke="var(--surface)" stroke-width="2"><title>gw1-cluster2: 363 at 729</title></circle>
+<polygon points="94.2,342.7 114.3,343.3 134.4,343.4 154.5,342.8 174.6,342.3 194.7,342.3 214.8,342.1 234.9,340.7 255.0,340.7 275.1,336.7 295.2,333.3 315.3,331.5 335.4,328.1 355.5,324.3 375.7,324.0 395.8,322.7 415.9,321.9 436.0,319.4 456.1,318.0 476.2,316.6 496.3,314.8 516.4,313.5 536.5,313.1 536.5,313.5 516.4,314.5 496.3,316.3 476.2,318.1 456.1,318.5 436.0,320.1 415.9,322.4 395.8,324.7 375.7,325.4 355.5,327.7 335.4,335.8 315.3,341.6 295.2,338.4 275.1,341.3 255.0,341.8 234.9,341.9 214.8,342.5 194.7,343.0 174.6,343.1 154.5,343.8 134.4,344.0 114.3,343.9 94.2,344.0" fill="var(--s4)" opacity="0.1"/>
+<path d="M94.2 343.5L114.3 343.5L134.4 343.6L154.5 343.6L174.6 343.0L194.7 342.8L214.8 342.5L234.9 341.8L255.0 341.7L275.1 338.8L295.2 337.6L315.3 339.3L335.4 334.0L355.5 327.4L375.7 324.5L395.8 323.6L415.9 321.9L436.0 319.9L456.1 318.1L476.2 316.8L496.3 315.5L516.4 314.3L536.5 313.3" fill="none" stroke="var(--s4)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>gw2-cluster1</title></path>
+<circle cx="536.5" cy="313.3" r="4" fill="var(--s4)" stroke="var(--surface)" stroke-width="2"><title>gw2-cluster1: 200 at 879</title></circle>
+<polygon points="94.2,343.2 114.3,343.0 134.4,343.5 154.5,342.9 174.6,341.5 194.7,341.6 214.8,339.1 234.9,335.1 255.0,332.7 275.1,326.9 295.2,323.2 315.3,325.3 335.4,321.2 355.5,315.9 375.7,314.6 395.8,313.4 415.9,311.7 436.0,309.9 456.1,308.8 476.2,307.0 496.3,304.9 516.4,303.1 536.5,302.3 536.5,302.5 516.4,305.0 496.3,306.4 476.2,307.9 456.1,309.5 436.0,311.0 415.9,313.0 395.8,314.5 375.7,315.5 355.5,317.6 335.4,322.7 315.3,325.7 295.2,324.7 275.1,328.1 255.0,335.8 234.9,336.7 214.8,341.2 194.7,342.7 174.6,342.7 154.5,344.0 134.4,344.1 114.3,344.2 94.2,344.1" fill="var(--s5)" opacity="0.1"/>
+<path d="M94.2 343.6L114.3 343.7L134.4 344.0L154.5 343.4L174.6 342.3L194.7 341.9L214.8 339.1L234.9 336.2L255.0 334.2L275.1 327.7L295.2 324.5L315.3 325.6L335.4 321.3L355.5 316.8L375.7 315.5L395.8 313.7L415.9 311.9L436.0 310.5L456.1 308.9L476.2 307.5L496.3 305.1L516.4 303.5L536.5 302.4" fill="none" stroke="var(--s5)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>gw3-cluster1</title></path>
+<circle cx="536.5" cy="302.4" r="4" fill="var(--s5)" stroke="var(--surface)" stroke-width="2"><title>gw3-cluster1: 238 at 879</title></circle>
+<polygon points="94.2,342.9 114.3,342.5 134.4,342.9 154.5,342.8 174.6,342.0 194.7,336.9 214.8,332.1 234.9,327.8 255.0,328.0 275.1,321.8 295.2,317.6 315.3,317.1 335.4,315.0 355.5,310.0 375.7,308.6 395.8,307.0 415.9,304.6 436.0,302.3 456.1,298.2 476.2,292.9 496.3,280.9 516.4,271.1 536.5,272.6 536.5,272.6 516.4,274.2 496.3,285.1 476.2,300.1 456.1,303.1 436.0,304.7 415.9,307.3 395.8,309.4 375.7,309.9 355.5,313.7 335.4,317.6 315.3,319.6 295.2,320.2 275.1,324.5 255.0,328.7 234.9,333.5 214.8,341.3 194.7,342.3 174.6,342.4 154.5,343.1 134.4,343.3 114.3,343.7 94.2,344.3" fill="var(--s6)" opacity="0.1"/>
+<path d="M94.2 343.7L114.3 343.0L134.4 343.1L154.5 342.9L174.6 342.1L194.7 338.5L214.8 334.3L234.9 329.7L255.0 328.2L275.1 324.4L295.2 319.0L315.3 318.5L335.4 316.7L355.5 311.4L375.7 309.5L395.8 308.1L415.9 305.6L436.0 302.7L456.1 301.7L476.2 299.2L496.3 281.4L516.4 271.7L536.5 272.6" fill="none" stroke="var(--s6)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>gw3-cluster2</title></path>
+<circle cx="536.5" cy="272.6" r="4" fill="var(--s6)" stroke="var(--surface)" stroke-width="2"><title>gw3-cluster2: 343 at 879</title></circle>
+<polygon points="94.2,342.7 114.3,342.8 134.4,342.7 154.5,342.0 174.6,339.4 194.7,333.3 214.8,329.3 234.9,324.2 255.0,323.8 275.1,319.1 295.2,315.9 315.3,316.2 335.4,312.1 355.5,308.5 375.7,307.2 395.8,304.3 415.9,301.3 436.0,298.7 456.1,281.5 476.2,237.1 476.2,246.2 456.1,299.1 436.0,299.5 415.9,303.0 395.8,305.9 375.7,307.9 355.5,310.9 335.4,315.3 315.3,317.0 295.2,317.5 275.1,321.9 255.0,326.2 234.9,326.8 214.8,333.2 194.7,342.1 174.6,342.3 154.5,343.3 134.4,343.9 114.3,343.9 94.2,343.8" fill="var(--s7)" opacity="0.1"/>
+<path d="M94.2 343.5L114.3 343.7L134.4 343.5L154.5 343.0L174.6 340.9L194.7 337.9L214.8 330.4L234.9 326.4L255.0 326.0L275.1 319.7L295.2 316.3L315.3 316.6L335.4 314.1L355.5 309.9L375.7 307.3L395.8 305.2L415.9 301.4L436.0 299.1L456.1 290.8L476.2 241.6" fill="none" stroke="var(--s7)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>gw4-cluster1</title></path>
+<circle cx="476.2" cy="241.6" r="4" fill="var(--s7)" stroke="var(--surface)" stroke-width="2"><title>gw4-cluster1: 452 at 767</title></circle>
+<polygon points="94.2,342.3 114.3,341.7 134.4,336.6 154.5,331.1 174.6,86.0 194.7,306.4 214.8,302.5 234.9,86.0 255.0,307.8 275.1,307.4 295.2,304.5 315.3,301.5 335.4,243.2 335.4,243.2 315.3,301.5 295.2,304.5 275.1,307.4 255.0,307.8 234.9,300.3 214.8,302.6 194.7,320.7 174.6,330.5 154.5,340.8 134.4,342.8 114.3,343.2 94.2,343.3" fill="var(--s8)" opacity="0.1"/>
+<path d="M94.2 342.7L114.3 342.1L134.4 342.1L154.5 334.2L174.6 313.6L194.7 313.6L214.8 302.6L234.9 131.1L255.0 307.8L275.1 307.4L295.2 304.5L315.3 301.5L335.4 243.2" fill="none" stroke="var(--s8)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>gw4-cluster2</title></path>
+<circle cx="335.4" cy="243.2" r="4" fill="var(--s8)" stroke="var(--surface)" stroke-width="2"><title>gw4-cluster2: 446 at 505</title></circle>
+<line x1="64" x2="80" y1="62" y2="62" stroke="var(--s1)" stroke-width="3" stroke-linecap="round"/>
+<text x="86" y="66">gw2-cluster2</text>
+<line x1="177.2" x2="193.2" y1="62" y2="62" stroke="var(--s2)" stroke-width="3" stroke-linecap="round"/>
+<text x="199.2" y="66">gw1-cluster1</text>
+<line x1="290.4" x2="306.4" y1="62" y2="62" stroke="var(--s3)" stroke-width="3" stroke-linecap="round"/>
+<text x="312.4" y="66">gw1-cluster2</text>
+<line x1="403.59999999999997" x2="419.59999999999997" y1="62" y2="62" stroke="var(--s4)" stroke-width="3" stroke-linecap="round"/>
+<text x="425.59999999999997" y="66">gw2-cluster1</text>
+<line x1="516.8" x2="532.8" y1="62" y2="62" stroke="var(--s5)" stroke-width="3" stroke-linecap="round"/>
+<text x="538.8" y="66">gw3-cluster1</text>
+<line x1="630" x2="646" y1="62" y2="62" stroke="var(--s6)" stroke-width="3" stroke-linecap="round"/>
+<text x="652" y="66">gw3-cluster2</text>
+<line x1="743.2" x2="759.2" y1="62" y2="62" stroke="var(--s7)" stroke-width="3" stroke-linecap="round"/>
+<text x="765.2" y="66">gw4-cluster1</text>
+<line x1="856.4000000000001" x2="872.4000000000001" y1="62" y2="62" stroke="var(--s8)" stroke-width="3" stroke-linecap="round"/>
+<text x="878.4000000000001" y="66">gw4-cluster2</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 228" width="760" height="228" role="img" aria-label="E9: maximum RPS within the SLO">
+<style>:root{--surface:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--grid:#e1e0d9;--axis:#c3c2b7;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;--s6:#008300;--s7:#4a3aa7;--s8:#e34948;--crit:#d03b3b}@media (prefers-color-scheme:dark){:root{--surface:#1a1a19;--ink:#ffffff;--ink2:#c3c2b7;--muted:#898781;--grid:#2c2c2a;--axis:#383835;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#008300;--s7:#9085e9;--s8:#e66767}}text{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:12px;fill:var(--ink2)}.title{font-size:15px;font-weight:600;fill:var(--ink)}.sub{fill:var(--muted)}.tick{fill:var(--muted);font-variant-numeric:tabular-nums}.val{fill:var(--ink);font-variant-numeric:tabular-nums}</style>
+<rect width="760" height="228" fill="var(--surface)"/>
+<text class="title" x="16" y="26">E9: maximum RPS within the SLO</text>
+<text class="sub" x="16" y="44">Median of the repeats; the line spans min–max</text>
+<line x1="142" x2="142" y1="56" y2="182" stroke="var(--axis)"/>
+<text class="tick" x="142" y="200" text-anchor="middle">0</text>
+<line x1="251.60000000000002" x2="251.60000000000002" y1="56" y2="182" stroke="var(--grid)"/>
+<text class="tick" x="251.60000000000002" y="200" text-anchor="middle">250</text>
+<line x1="361.20000000000005" x2="361.20000000000005" y1="56" y2="182" stroke="var(--grid)"/>
+<text class="tick" x="361.20000000000005" y="200" text-anchor="middle">500</text>
+<line x1="470.8" x2="470.8" y1="56" y2="182" stroke="var(--grid)"/>
+<text class="tick" x="470.8" y="200" text-anchor="middle">750</text>
+<line x1="580.4000000000001" x2="580.4000000000001" y1="56" y2="182" stroke="var(--grid)"/>
+<text class="tick" x="580.4000000000001" y="200" text-anchor="middle">1,000</text>
+<line x1="690" x2="690" y1="56" y2="182" stroke="var(--grid)"/>
+<text class="tick" x="690" y="200" text-anchor="middle">1,250</text>
+<text x="416" y="220" text-anchor="middle">requests per second</text>
+<text x="132" y="78" text-anchor="end">page10-gzip-off</text>
+<path d="M142 66h447.9202560000001a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-447.9202560000001z" fill="var(--s1)"><title>page10-gzip-off: 1,031</title></path>
+<line x1="579.47655837201" x2="606.5977360905564" y1="74" y2="74" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="614.5977360905564" y="78">1,031</text>
+<text x="132" y="108" text-anchor="end">page10-gzip-on</text>
+<path d="M142 96h434.25971200000004a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-434.25971200000004z" fill="var(--s1)"><title>page10-gzip-on: 1,000</title></path>
+<line x1="570.2614509018035" x2="587.6109869051422" y1="104" y2="104" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="595.6109869051422" y="108">1,000</text>
+<text x="132" y="138" text-anchor="end">page50-gzip-off</text>
+<path d="M142 126h192.7457762425638a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-192.7457762425638z" fill="var(--s1)"><title>page50-gzip-off: 449</title></path>
+<line x1="337.51857925682975" x2="338.86361608859494" y1="134" y2="134" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="346.86361608859494" y="138">449</text>
+<text x="132" y="168" text-anchor="end">page50-gzip-on</text>
+<path d="M142 156h123.66756897033576a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-123.66756897033576z" fill="var(--s1)"><title>page50-gzip-on: 291</title></path>
+<line x1="267.48259669613213" x2="271.07104793199517" y1="164" y2="164" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="279.07104793199517" y="168">291</text>
+</svg>

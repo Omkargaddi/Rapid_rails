@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 228" width="760" height="228" role="img" aria-label="E13: client p99 latency">
+<style>:root{--surface:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--grid:#e1e0d9;--axis:#c3c2b7;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;--s6:#008300;--s7:#4a3aa7;--s8:#e34948;--crit:#d03b3b}@media (prefers-color-scheme:dark){:root{--surface:#1a1a19;--ink:#ffffff;--ink2:#c3c2b7;--muted:#898781;--grid:#2c2c2a;--axis:#383835;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#008300;--s7:#9085e9;--s8:#e66767}}text{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:12px;fill:var(--ink2)}.title{font-size:15px;font-weight:600;fill:var(--ink)}.sub{fill:var(--muted)}.tick{fill:var(--muted);font-variant-numeric:tabular-nums}.val{fill:var(--ink);font-variant-numeric:tabular-nums}</style>
+<rect width="760" height="228" fill="var(--surface)"/>
+<text class="title" x="16" y="26">E13: client p99 latency</text>
+<text class="sub" x="16" y="44">Whole run, median of the repeats; the line spans min–max</text>
+<line x1="108" x2="108" y1="56" y2="182" stroke="var(--axis)"/>
+<text class="tick" x="108" y="200" text-anchor="middle">0</text>
+<line x1="224.4" x2="224.4" y1="56" y2="182" stroke="var(--grid)"/>
+<text class="tick" x="224.4" y="200" text-anchor="middle">250</text>
+<line x1="340.8" x2="340.8" y1="56" y2="182" stroke="var(--grid)"/>
+<text class="tick" x="340.8" y="200" text-anchor="middle">500</text>
+<line x1="457.2" x2="457.2" y1="56" y2="182" stroke="var(--grid)"/>
+<text class="tick" x="457.2" y="200" text-anchor="middle">750</text>
+<line x1="573.6" x2="573.6" y1="56" y2="182" stroke="var(--grid)"/>
+<text class="tick" x="573.6" y="200" text-anchor="middle">1,000</text>
+<line x1="690" x2="690" y1="56" y2="182" stroke="var(--grid)"/>
+<text class="tick" x="690" y="200" text-anchor="middle">1,250</text>
+<text x="399" y="220" text-anchor="middle">p99 latency (ms)</text>
+<text x="98" y="78" text-anchor="end">kill1</text>
+<path d="M108 66h67.37623007057613a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-67.37623007057613z" fill="var(--s1)"><title>kill1: 153</title></path>
+<line x1="178.9182678428163" x2="181.07371510929613" y1="74" y2="74" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="189.07371510929613" y="78">153</text>
+<text x="98" y="108" text-anchor="end">kill4</text>
+<path d="M108 96h72.96972041504023a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-72.96972041504023z" fill="var(--s1)"><title>kill4: 165</title></path>
+<line x1="182.82606204744016" x2="185.2045590912" y1="104" y2="104" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="193.2045590912" y="108">165</text>
+<text x="98" y="138" text-anchor="end">kill8</text>
+<path d="M108 126h222.4890603252801a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-222.4890603252801z" fill="var(--s1)"><title>kill8: 486</title></path>
+<line x1="319.30472627999995" x2="673.8338870352" y1="134" y2="134" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="681.8338870352" y="138">486</text>
+<text x="98" y="168" text-anchor="end">kill-redis</text>
+<path d="M108 156h79.66072233919999a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-79.66072233919999z" fill="var(--s1)"><title>kill-redis: 180</title></path>
+<line x1="191.303322192" x2="192.2366155296" y1="164" y2="164" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="200.2366155296" y="168">180</text>
+<line x1="340.8" x2="340.8" y1="56" y2="182" stroke="var(--crit)" stroke-width="1.5"/>
+<text x="345.8" y="52">SLO 500 ms</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" role="img" aria-label="E1: capacity against worker count">
+<style>:root{--surface:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--grid:#e1e0d9;--axis:#c3c2b7;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;--s6:#008300;--s7:#4a3aa7;--s8:#e34948;--crit:#d03b3b}@media (prefers-color-scheme:dark){:root{--surface:#1a1a19;--ink:#ffffff;--ink2:#c3c2b7;--muted:#898781;--grid:#2c2c2a;--axis:#383835;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#008300;--s7:#9085e9;--s8:#e66767}}text{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:12px;fill:var(--ink2)}.title{font-size:15px;font-weight:600;fill:var(--ink)}.sub{fill:var(--muted)}.tick{fill:var(--muted);font-variant-numeric:tabular-nums}.val{fill:var(--ink);font-variant-numeric:tabular-nums}</style>
+<rect width="760" height="420" fill="var(--surface)"/>
+<text class="title" x="64" y="26">E1: capacity against worker count</text>
+<text class="sub" x="64" y="44">Maximum RPS within the SLO; from 9 workers on, hyperthread siblings are used</text>
+<line x1="64" x2="736" y1="370" y2="370" stroke="var(--axis)"/>
+<text class="tick" x="56" y="374" text-anchor="end">0</text>
+<line x1="64" x2="736" y1="275.33333333333337" y2="275.33333333333337" stroke="var(--grid)"/>
+<text class="tick" x="56" y="279.33333333333337" text-anchor="end">200</text>
+<line x1="64" x2="736" y1="180.66666666666669" y2="180.66666666666669" stroke="var(--grid)"/>
+<text class="tick" x="56" y="184.66666666666669" text-anchor="end">400</text>
+<line x1="64" x2="736" y1="86" y2="86" stroke="var(--grid)"/>
+<text class="tick" x="56" y="90" text-anchor="end">600</text>
+<text class="tick" x="64" y="388" text-anchor="middle">0</text>
+<text class="tick" x="232" y="388" text-anchor="middle">5</text>
+<text class="tick" x="400" y="388" text-anchor="middle">10</text>
+<text class="tick" x="568" y="388" text-anchor="middle">15</text>
+<text class="tick" x="736" y="388" text-anchor="middle">20</text>
+<text x="400" y="410" text-anchor="middle">workers</text>
+<text transform="translate(16 228) rotate(-90)" text-anchor="middle">requests per second</text>
+<line x1="97.6" x2="97.6" y1="354.3161407975777" y2="353.9658062817795" stroke="var(--ink2)" stroke-width="1.5"/>
+<line x1="131.2" x2="131.2" y1="316.8219961433606" y2="311.1007559697612" stroke="var(--ink2)" stroke-width="1.5"/>
+<line x1="198.4" x2="198.4" y1="258.47069158281425" y2="256.4812068251359" stroke="var(--ink2)" stroke-width="1.5"/>
+<line x1="332.8" x2="332.8" y1="169.37149180699438" y2="165.80956951832445" stroke="var(--ink2)" stroke-width="1.5"/>
+<line x1="467.2" x2="467.2" y1="106.77827113084527" y2="100.87343172939745" stroke="var(--ink2)" stroke-width="1.5"/>
+<line x1="601.6" x2="601.6" y1="105.20805852020624" y2="98.6249933471712" stroke="var(--ink2)" stroke-width="1.5"/>
+<circle cx="97.6" cy="354.3" r="4" fill="var(--s1)" stroke="var(--surface)" stroke-width="2"><title>measured (median, min–max): 33.1 at 1</title></circle>
+<circle cx="131.2" cy="311.1" r="4" fill="var(--s1)" stroke="var(--surface)" stroke-width="2"><title>measured (median, min–max): 124 at 2</title></circle>
+<circle cx="198.4" cy="258.4" r="4" fill="var(--s1)" stroke="var(--surface)" stroke-width="2"><title>measured (median, min–max): 236 at 4</title></circle>
+<circle cx="332.8" cy="165.9" r="4" fill="var(--s1)" stroke="var(--surface)" stroke-width="2"><title>measured (median, min–max): 431 at 8</title></circle>
+<circle cx="467.2" cy="102.5" r="4" fill="var(--s1)" stroke="var(--surface)" stroke-width="2"><title>measured (median, min–max): 565 at 12</title></circle>
+<circle cx="601.6" cy="100.1" r="4" fill="var(--s1)" stroke="var(--surface)" stroke-width="2"><title>measured (median, min–max): 570 at 16</title></circle>
+<path d="M64.0 370.0L72.4 362.5L80.8 355.0L89.2 347.5L97.6 340.1L106.0 332.6L114.4 325.2L122.8 317.8L131.2 310.5L139.6 303.3L148.0 296.0L156.4 288.9L164.8 281.8L173.2 274.9L181.6 268.0L190.0 261.2L198.4 254.5L206.8 248.0L215.2 241.5L223.6 235.2L232.0 229.0L240.4 222.9L248.8 217.0L257.2 211.2L265.6 205.5L274.0 200.0L282.4 194.6L290.8 189.4L299.2 184.3L307.6 179.3L316.0 174.6L324.4 169.9L332.8 165.5L341.2 161.1L349.6 157.0L358.0 152.9L366.4 149.1L374.8 145.4L383.2 141.8L391.6 138.4L400.0 135.1L408.4 131.9L416.8 128.9L425.2 126.1L433.6 123.4L442.0 120.8L450.4 118.3L458.8 116.0L467.2 113.8L475.6 111.7L484.0 109.7L492.4 107.9L500.8 106.2L509.2 104.5L517.6 103.0L526.0 101.6L534.4 100.3L542.8 99.1L551.2 98.0L559.6 97.0L568.0 96.1L576.4 95.2L584.8 94.5L593.2 93.8L601.6 93.2" fill="none" stroke="var(--s2)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>USL fit</title></path>
+<circle cx="601.6" cy="93.2" r="4" fill="var(--s2)" stroke="var(--surface)" stroke-width="2"><title>USL fit: 585 at 16</title></circle>
+<path d="M64.0 370.0L601.6 119.0" fill="none" stroke="var(--muted)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>linear from 1 worker</title></path>
+<circle cx="601.6" cy="119.0" r="4" fill="var(--muted)" stroke="var(--surface)" stroke-width="2"><title>linear from 1 worker: 530 at 16</title></circle>
+<line x1="64" x2="80" y1="62" y2="62" stroke="var(--s1)" stroke-width="3" stroke-linecap="round"/>
+<text x="86" y="66">measured (median, min–max)</text>
+<line x1="269.6" x2="285.6" y1="62" y2="62" stroke="var(--s2)" stroke-width="3" stroke-linecap="round"/>
+<text x="291.6" y="66">USL fit</text>
+<line x1="349.8" x2="365.8" y1="62" y2="62" stroke="var(--muted)" stroke-width="3" stroke-linecap="round"/>
+<text x="371.8" y="66">linear from 1 worker</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" role="img" aria-label="E1: p99 latency against load">
+<style>:root{--surface:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--grid:#e1e0d9;--axis:#c3c2b7;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;--s6:#008300;--s7:#4a3aa7;--s8:#e34948;--crit:#d03b3b}@media (prefers-color-scheme:dark){:root{--surface:#1a1a19;--ink:#ffffff;--ink2:#c3c2b7;--muted:#898781;--grid:#2c2c2a;--axis:#383835;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#008300;--s7:#9085e9;--s8:#e66767}}text{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:12px;fill:var(--ink2)}.title{font-size:15px;font-weight:600;fill:var(--ink)}.sub{fill:var(--muted)}.tick{fill:var(--muted);font-variant-numeric:tabular-nums}.val{fill:var(--ink);font-variant-numeric:tabular-nums}</style>
+<rect width="760" height="420" fill="var(--surface)"/>
+<text class="title" x="64" y="26">E1: p99 latency against load</text>
+<text class="sub" x="64" y="44">API p99 over 30 s windows during the ramp; band = min–max over repeats</text>
+<line x1="64" x2="736" y1="370" y2="370" stroke="var(--axis)"/>
+<text class="tick" x="56" y="374" text-anchor="end">0</text>
+<line x1="64" x2="736" y1="275.33333333333337" y2="275.33333333333337" stroke="var(--grid)"/>
+<text class="tick" x="56" y="279.33333333333337" text-anchor="end">200</text>
+<line x1="64" x2="736" y1="180.66666666666669" y2="180.66666666666669" stroke="var(--grid)"/>
+<text class="tick" x="56" y="184.66666666666669" text-anchor="end">400</text>
+<line x1="64" x2="736" y1="86" y2="86" stroke="var(--grid)"/>
+<text class="tick" x="56" y="90" text-anchor="end">600</text>
+<text class="tick" x="64" y="388" text-anchor="middle">0</text>
+<text class="tick" x="288" y="388" text-anchor="middle">200</text>
+<text class="tick" x="512" y="388" text-anchor="middle">400</text>
+<text class="tick" x="736" y="388" text-anchor="middle">600</text>
+<text x="400" y="410" text-anchor="middle">achieved requests per second</text>
+<text transform="translate(16 228) rotate(-90)" text-anchor="middle">p99 latency (ms)</text>
+<line x1="64" x2="736" y1="133.33333333333331" y2="133.33333333333331" stroke="var(--crit)" stroke-width="1.5"/>
+<text x="736" y="127.33333333333331" text-anchor="end">SLO 500 ms</text>
+<polygon points="75.0,314.1 96.9,310.8 96.9,313.9 75.0,323.5" fill="var(--s1)" opacity="0.1"/>
+<path d="M75.0 319.5L96.9 311.8" fill="none" stroke="var(--s1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>w1</title></path>
+<circle cx="96.9" cy="311.8" r="4" fill="var(--s1)" stroke="var(--surface)" stroke-width="2"><title>w1: 123 at 29.3</title></circle>
+<polygon points="75.0,325.2 96.9,322.4 118.8,326.2 140.7,325.7 162.6,315.1 184.5,313.6 206.4,298.6 228.3,300.6 228.3,300.6 206.4,302.7 184.5,317.0 162.6,322.2 140.7,327.3 118.8,326.9 96.9,324.6 75.0,327.1" fill="var(--s2)" opacity="0.1"/>
+<path d="M75.0 326.6L96.9 324.1L118.8 326.6L140.7 326.8L162.6 318.7L184.5 315.1L206.4 301.5L228.3 300.6" fill="none" stroke="var(--s2)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>w2</title></path>
+<circle cx="228.3" cy="300.6" r="4" fill="var(--s2)" stroke="var(--surface)" stroke-width="2"><title>w2: 147 at 147</title></circle>
+<polygon points="75.0,325.9 96.9,325.5 118.8,327.0 140.7,327.4 162.6,328.1 184.5,326.6 206.4,325.7 228.3,327.3 250.2,325.9 272.1,327.0 294.0,326.9 315.9,325.9 337.8,325.6 337.8,326.6 315.9,326.5 294.0,327.1 272.1,327.6 250.2,326.2 228.3,327.6 206.4,326.9 184.5,326.9 162.6,328.3 140.7,328.1 118.8,327.8 96.9,326.2 75.0,329.9" fill="var(--s3)" opacity="0.1"/>
+<path d="M75.0 329.1L96.9 326.0L118.8 327.2L140.7 327.7L162.6 328.2L184.5 326.8L206.4 326.7L228.3 327.5L250.2 326.2L272.1 327.6L294.0 327.0L315.9 326.1L337.8 326.2" fill="none" stroke="var(--s3)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>w4</title></path>
+<circle cx="337.8" cy="326.2" r="4" fill="var(--s3)" stroke="var(--surface)" stroke-width="2"><title>w4: 92.6 at 245</title></circle>
+<polygon points="96.9,325.3 118.8,325.5 140.7,326.6 162.6,327.6 184.5,327.8 206.4,327.7 228.3,327.0 250.2,326.4 272.1,327.3 294.0,326.9 315.9,326.5 337.8,327.4 359.7,328.2 381.7,326.9 403.6,326.5 425.5,326.8 447.4,327.0 469.3,326.8 491.2,325.6 513.1,325.5 535.0,325.3 556.9,325.1 556.9,325.4 535.0,325.4 513.1,325.8 491.2,326.0 469.3,327.2 447.4,327.5 425.5,327.1 403.6,326.8 381.7,327.3 359.7,328.4 337.8,327.6 315.9,326.6 294.0,327.4 272.1,327.8 250.2,327.0 228.3,327.4 206.4,328.0 184.5,328.1 162.6,328.3 140.7,327.7 118.8,326.6 96.9,326.1" fill="var(--s4)" opacity="0.1"/>
+<path d="M96.9 325.7L118.8 326.5L140.7 327.2L162.6 327.9L184.5 327.9L206.4 328.0L228.3 327.2L250.2 326.5L272.1 327.5L294.0 326.9L315.9 326.6L337.8 327.5L359.7 328.4L381.7 327.0L403.6 326.7L425.5 327.0L447.4 327.5L469.3 327.0L491.2 325.8L513.1 325.5L535.0 325.3L556.9 325.3" fill="none" stroke="var(--s4)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>w8</title></path>
+<circle cx="556.9" cy="325.3" r="4" fill="var(--s4)" stroke="var(--surface)" stroke-width="2"><title>w8: 94.5 at 440</title></circle>
+<polygon points="118.8,325.4 140.7,326.1 162.6,327.1 184.5,326.3 206.4,326.5 228.3,326.6 250.2,325.6 272.1,325.0 294.0,325.7 315.9,325.3 337.8,325.3 359.7,324.7 381.7,324.7 403.6,325.2 425.5,324.6 447.4,323.9 469.3,323.5 491.2,323.3 513.1,323.6 535.0,323.0 556.9,313.6 578.8,307.3 600.7,304.7 622.6,299.3 644.5,287.9 666.4,276.6 688.4,258.7 710.3,252.8 710.3,258.7 688.4,262.4 666.4,282.1 644.5,293.9 622.6,307.9 600.7,316.0 578.8,317.7 556.9,322.9 535.0,323.8 513.1,324.0 491.2,323.8 469.3,323.8 447.4,324.2 425.5,324.7 403.6,325.4 381.7,325.0 359.7,325.0 337.8,326.2 315.9,326.5 294.0,325.9 272.1,325.2 250.2,326.0 228.3,326.8 206.4,328.0 184.5,327.5 162.6,327.5 140.7,326.7 118.8,326.8" fill="var(--s5)" opacity="0.1"/>
+<path d="M118.8 325.8L140.7 326.2L162.6 327.4L184.5 327.1L206.4 327.3L228.3 326.6L250.2 325.7L272.1 325.1L294.0 325.9L315.9 326.0L337.8 326.0L359.7 324.9L381.7 325.0L403.6 325.3L425.5 324.6L447.4 324.1L469.3 323.6L491.2 323.6L513.1 323.7L535.0 323.4L556.9 322.9L578.8 317.6L600.7 310.8L622.6 303.8L644.5 293.0L666.4 280.5L688.4 261.0L710.3 253.1" fill="none" stroke="var(--s5)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>w12</title></path>
+<circle cx="710.3" cy="253.1" r="4" fill="var(--s5)" stroke="var(--surface)" stroke-width="2"><title>w12: 247 at 577</title></circle>
+<polygon points="118.8,324.8 140.7,325.2 162.6,325.9 184.5,327.1 206.4,326.5 228.3,326.7 250.2,326.1 272.1,325.1 294.0,324.9 315.9,324.7 337.8,325.4 359.7,325.2 381.7,324.9 403.6,323.9 425.5,324.0 447.4,324.2 469.3,323.7 491.2,323.0 513.1,322.9 535.0,318.1 556.9,323.0 578.8,322.9 600.7,322.8 622.6,311.7 644.5,286.8 666.4,273.5 688.4,258.0 710.3,253.3 732.2,254.5 732.2,254.5 710.3,255.3 688.4,270.3 666.4,290.0 644.5,301.9 622.6,313.3 600.7,323.2 578.8,323.2 556.9,323.3 535.0,323.0 513.1,324.1 491.2,324.5 469.3,324.8 447.4,324.8 425.5,325.2 403.6,324.7 381.7,325.1 359.7,326.2 337.8,326.9 315.9,326.1 294.0,326.4 272.1,326.4 250.2,327.4 228.3,327.0 206.4,327.1 184.5,327.6 162.6,327.4 140.7,327.5 118.8,326.9" fill="var(--s6)" opacity="0.1"/>
+<path d="M118.8 326.6L140.7 326.2L162.6 326.7L184.5 327.1L206.4 327.0L228.3 326.8L250.2 327.1L272.1 325.8L294.0 325.4L315.9 325.6L337.8 325.6L359.7 325.7L381.7 325.1L403.6 324.4L425.5 324.3L447.4 324.7L469.3 324.2L491.2 323.6L513.1 323.0L535.0 322.8L556.9 323.2L578.8 323.1L600.7 322.9L622.6 312.2L644.5 299.2L666.4 281.5L688.4 263.7L710.3 254.3L732.2 254.5" fill="none" stroke="var(--s6)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><title>w16</title></path>
+<circle cx="732.2" cy="254.5" r="4" fill="var(--s6)" stroke="var(--surface)" stroke-width="2"><title>w16: 244 at 597</title></circle>
+<line x1="64" x2="80" y1="62" y2="62" stroke="var(--s1)" stroke-width="3" stroke-linecap="round"/>
+<text x="86" y="66">w1</text>
+<line x1="111.2" x2="127.2" y1="62" y2="62" stroke="var(--s2)" stroke-width="3" stroke-linecap="round"/>
+<text x="133.2" y="66">w2</text>
+<line x1="158.4" x2="174.4" y1="62" y2="62" stroke="var(--s3)" stroke-width="3" stroke-linecap="round"/>
+<text x="180.4" y="66">w4</text>
+<line x1="205.60000000000002" x2="221.60000000000002" y1="62" y2="62" stroke="var(--s4)" stroke-width="3" stroke-linecap="round"/>
+<text x="227.60000000000002" y="66">w8</text>
+<line x1="252.8" x2="268.8" y1="62" y2="62" stroke="var(--s5)" stroke-width="3" stroke-linecap="round"/>
+<text x="274.8" y="66">w12</text>
+<line x1="306.6" x2="322.6" y1="62" y2="62" stroke="var(--s6)" stroke-width="3" stroke-linecap="round"/>
+<text x="328.6" y="66">w16</text>
+</svg>

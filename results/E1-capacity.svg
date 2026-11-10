@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 288" width="760" height="288" role="img" aria-label="E1: maximum RPS within the SLO">
+<style>:root{--surface:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--grid:#e1e0d9;--axis:#c3c2b7;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;--s6:#008300;--s7:#4a3aa7;--s8:#e34948;--crit:#d03b3b}@media (prefers-color-scheme:dark){:root{--surface:#1a1a19;--ink:#ffffff;--ink2:#c3c2b7;--muted:#898781;--grid:#2c2c2a;--axis:#383835;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#008300;--s7:#9085e9;--s8:#e66767}}text{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:12px;fill:var(--ink2)}.title{font-size:15px;font-weight:600;fill:var(--ink)}.sub{fill:var(--muted)}.tick{fill:var(--muted);font-variant-numeric:tabular-nums}.val{fill:var(--ink);font-variant-numeric:tabular-nums}</style>
+<rect width="760" height="288" fill="var(--surface)"/>
+<text class="title" x="16" y="26">E1: maximum RPS within the SLO</text>
+<text class="sub" x="16" y="44">Median of the repeats; the line spans min–max</text>
+<line x1="67.2" x2="67.2" y1="56" y2="242" stroke="var(--axis)"/>
+<text class="tick" x="67.2" y="260" text-anchor="middle">0</text>
+<line x1="274.79999999999995" x2="274.79999999999995" y1="56" y2="242" stroke="var(--grid)"/>
+<text class="tick" x="274.79999999999995" y="260" text-anchor="middle">200</text>
+<line x1="482.3999999999999" x2="482.3999999999999" y1="56" y2="242" stroke="var(--grid)"/>
+<text class="tick" x="482.3999999999999" y="260" text-anchor="middle">400</text>
+<line x1="690" x2="690" y1="56" y2="242" stroke="var(--grid)"/>
+<text class="tick" x="690" y="260" text-anchor="middle">600</text>
+<text x="378.6" y="280" text-anchor="middle">requests per second</text>
+<text x="57.2" y="78" text-anchor="end">w1</text>
+<path d="M67.2 66h30.400731110114833a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-30.400731110114833z" fill="var(--s1)"><title>w1: 33.1</title></path>
+<line x1="101.594040532636" x2="102.36230932291451" y1="74" y2="74" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="110.36230932291451" y="78">33.1</text>
+<text x="57.2" y="108" text-anchor="end">w2</text>
+<path d="M67.2 96h125.1532216134064a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-125.1532216134064z" fill="var(--s1)"><title>w2: 124</title></path>
+<line x1="183.81711549970078" x2="196.3635534578617" y1="104" y2="104" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="204.3635534578617" y="108">124</text>
+<text x="57.2" y="138" text-anchor="end">w4</text>
+<path d="M67.2 126h240.69693575486042a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-240.69693575486042z" fill="var(--s1)"><title>w4: 236</title></path>
+<line x1="311.7790608528989" x2="316.1419168637512" y1="134" y2="134" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="324.1419168637512" y="138">236</text>
+<text x="57.2" y="168" text-anchor="end">w8</text>
+<path d="M67.2 156h443.65722515602505a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-443.65722515602505z" fill="var(--s1)"><title>w8: 431</title></path>
+<line x1="507.1698412063517" x2="514.9809862816462" y1="164" y2="164" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="522.9809862816462" y="168">431</text>
+<text x="57.2" y="198" text-anchor="end">w12</text>
+<path d="M67.2 186h582.6216086434573a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-582.6216086434573z" fill="var(--s1)"><title>w12: 565</title></path>
+<line x1="644.4341293651745" x2="657.3831926722931" y1="194" y2="194" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="665.3831926722931" y="198">565</text>
+<text x="57.2" y="228" text-anchor="end">w16</text>
+<path d="M67.2 216h587.9091199999999a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-587.9091199999999z" fill="var(--s1)"><title>w16: 570</title></path>
+<line x1="647.8775392732942" x2="662.3139230400767" y1="224" y2="224" stroke="var(--ink)" stroke-width="1.5"/>
+<text class="val" x="670.3139230400767" y="228">570</text>
+</svg>
