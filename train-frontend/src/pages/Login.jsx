@@ -5,17 +5,19 @@ import { toast } from 'react-toastify';
 import api from '../api/axios';
 import './Auth.css'
 
+const TEST_EMAIL = import.meta.env.VITE_TEST_EMAIL || 'omkar@gmail.com';
+const TEST_PASSWORD = import.meta.env.VITE_TEST_PASSWORD || 'Qwert@123';
+
 const Login = () => {
-  const [formData, setFormData] = useState({ email: '', password: '' });
+  const [formData, setFormData] = useState({ email: TEST_EMAIL, password: TEST_PASSWORD });
   const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
 
   const handleChange = (e) => setFormData({ ...formData, [e.target.name]: e.target.value });
 
-const fillTestCredentials = () => {
-  const creds = { email: 'omkar@gmail.com', password: 'Qwert@123' };
-  setFormData(creds);
-};
+  const fillTestCredentials = () => {
+    setFormData({ email: TEST_EMAIL, password: TEST_PASSWORD });
+  };
 
   const handleSubmit = async (e) => {
     e.preventDefault();

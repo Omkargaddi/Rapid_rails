@@ -79,8 +79,40 @@ git clone https://github.com/your-username/RapidRails.git
 cd RapidRails
 ```
 
+### Running with Docker Compose (Recommended)
 
-### Setup Backend (Node.js)
+The easiest way to run the entire RapidRails stack (Frontend, Backend + C++ Engine, and MongoDB) is with Docker Compose:
+
+1. **Copy the example environment file**:
+   ```bash
+   cp .env.example .env
+   ```
+
+2. **Build and launch all services**:
+   ```bash
+   docker compose up --build
+   ```
+
+3. **Access the application**:
+   - Frontend UI: [http://localhost:3000](http://localhost:3000)
+   - Backend API: [http://localhost:10000](http://localhost:10000)
+   - Healthcheck: [http://localhost:10000/api/health](http://localhost:10000/api/health)
+
+To run in the background (detached mode):
+```bash
+docker compose up -d --build
+```
+
+To stop all services:
+```bash
+docker compose down
+```
+
+---
+
+### Manual Setup (Without Docker)
+
+#### Setup Backend (Node.js & C++ Engine)
 
 ```bash
 cd backend

@@ -1,9 +1,9 @@
 {
   "type": "module",
   "scripts": {
-    "build": "make",
+    "build": "make -C cpp_src",
     "start": "node index.js",
-    "build:start": "make && node index.js"
+    "build:start": "make -C cpp_src && node index.js"
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",

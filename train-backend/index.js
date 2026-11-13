@@ -91,7 +91,43 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-mongoose.connect(process.env.MONGO_URI);
+const TEST_EMAIL = process.env.TEST_USER_EMAIL || 'omkar@gmail.com';
+const TEST_PASSWORD = process.env.TEST_USER_PASSWORD || 'Qwert@123';
+
+async function seedTestUser() {
+    try {
+        if (!TEST_EMAIL || !TEST_PASSWORD) return;
+        const normalizedEmail = TEST_EMAIL.toLowerCase().trim();
+        const existing = await User.findOne({ email: normalizedEmail });
+        if (!existing) {
+            const salt = await bcrypt.genSalt(10);
+            const hashedPassword = await bcrypt.hash(TEST_PASSWORD, salt);
+            const testUser = new User({ email: normalizedEmail, password: hashedPassword });
+            await testUser.save();
+            console.log(`[Seed] Created test user: ${normalizedEmail}`);
+        } else {
+            console.log(`[Seed] Test user already exists: ${normalizedEmail}`);
+        }
+    } catch (err) {
+        console.error('[Seed] Error seeding test user:', err.message);
+    }
+}
+
+const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/rapidrails';
+mongoose.connect(MONGO_URI)
+    .then(() => {
+        console.log('[MongoDB] Connected successfully');
+        seedTestUser();
+    })
+    .catch((err) => console.error('[MongoDB] Connection error:', err.message));
+
+app.get('/api/health', (req, res) => {
+    res.json({
+        status: 'ok',
+        engineReady,
+        mongo: mongoose.connection.readyState === 1 ? 'connected' : 'disconnected'
+    });
+});
 
 const transporter = nodemailer.createTransport({
     service: 'gmail',
@@ -209,6 +245,7 @@ app.get('/api/favorites', auth, async (req, res) => {
     res.json(user.favorites);
 });
 
-app.listen(process.env.PORT, () =>
-    console.log(`Gateway running on port ${process.env.PORT}`)
+const PORT = process.env.PORT || 10000;
+app.listen(PORT, () =>
+    console.log(`Gateway running on port ${PORT}`)
 );

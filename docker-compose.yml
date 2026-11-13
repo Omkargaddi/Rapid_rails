@@ -1,0 +1,77 @@
+services:
+  mongo:
+    image: mongo:7
+    container_name: rapidrails-mongo
+    restart: unless-stopped
+    ports:
+      - "${MONGO_PORT:-27017}:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - rapidrails-net
+    healthcheck:
+      test: ["CMD-SHELL", "mongosh --eval 'db.runCommand(\"ping\").ok' --quiet || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  backend:
+    container_name: rapidrails-backend
+    build:
+      context: ./train-backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "${BACKEND_PORT:-10000}:${PORT:-10000}"
+    environment:
+      - PORT=${PORT:-10000}
+      - MONGO_URI=${MONGO_URI:-mongodb://mongo:27017/rapidrails}
+      - JWT_SECRET=${JWT_SECRET:-rapidrails_super_secret_jwt_key_change_in_production}
+      - SMTP_USER=${SMTP_USER:-}
+      - SMTP_PASS=${SMTP_PASS:-}
+      - TEST_USER_EMAIL=${TEST_USER_EMAIL:-omkar@gmail.com}
+      - TEST_USER_PASSWORD=${TEST_USER_PASSWORD:-Qwert@123}
+    depends_on:
+      mongo:
+        condition: service_healthy
+    networks:
+      - rapidrails-net
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:' + (process.env.PORT || 10000) + '/api/health').then(r => r.ok ? process.exit(0) : process.exit(1)).catch(() => process.exit(1))"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 15s
+
+  frontend:
+    container_name: rapidrails-frontend
+    build:
+      context: ./train-frontend
+      dockerfile: Dockerfile
+      args:
+        VITE_API_BASE_URL: ${VITE_API_BASE_URL:-/api}
+        VITE_TEST_EMAIL: ${VITE_TEST_EMAIL:-omkar@gmail.com}
+        VITE_TEST_PASSWORD: ${VITE_TEST_PASSWORD:-Qwert@123}
+    restart: unless-stopped
+    ports:
+      - "${FRONTEND_PORT:-3000}:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - rapidrails-net
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://127.0.0.1:80/ > /dev/null || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 5s
+
+volumes:
+  mongo_data:
+    driver: local
+
+networks:
+  rapidrails-net:
+    driver: bridge
