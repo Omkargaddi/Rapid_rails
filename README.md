@@ -21,11 +21,11 @@
 Traditional railway search systems struggle when querying multi-leg routes requiring platform transfers across complex national networks. Unlike road networks modeled as static spatial graphs, railway routing is **inherently dynamic and time-dependent**:
 
 * **Temporal Edge Validity**: A connection between Station $A$ and Station $B$ does not exist statically; it is only traversable at discrete moments governed by operating calendars and timetable departures.
-* **Realistic Transfer Layover Buffers**: Feasible transfers demand human-realistic layovers ($\min_{\text{buffer}} \le \Delta t \le \max_{\text{buffer}}$) preventing missed connections or grueling multi-hour station waits.
+* **Realistic Transfer Layover Buffers**: Feasible transfers demand human-realistic layovers (`min_buffer` $\le \Delta t \le$ `max_buffer`) preventing missed connections or grueling multi-hour station waits.
 * **State-Space Explosion**: Multi-leg permutations explode combinatorially ($\mathcal{O}(B^L)$) if naive breadth-first or depth-first searches are executed across thousands of interconnected trains.
 
 **RapidRails** resolves this by decoupling compute-heavy graph processing from I/O operations:
-1. **Core C++17 Routing Engine**: Executes a specialized **Bounded State-Space Search (Modified Time-Dependent Dijkstra)** utilizing **Top-$K$ Relaxed Pareto Pruning** and origin-offset cycle prevention.
+1. **Core C++17 Routing Engine**: Executes a specialized **Bounded State-Space Search (Modified Time-Dependent Dijkstra)** utilizing **Top-K Relaxed Pareto Pruning** and origin-offset cycle prevention.
 2. **Asynchronous Non-Blocking IPC**: A Node.js Express gateway manages client sessions, authentication, and communication with the persistent C++ engine via line-delimited JSON Unix pipes.
 3. **Reactive Geo-Spatial Frontend**: Built with React 19, Tailwind CSS v4, and Leaflet, displaying multi-transfer paths, real-time stop metrics, and interactive route polylines.
 
@@ -106,23 +106,23 @@ flowchart TD
 Standard Dijkstra calculates the shortest path on a static weight graph. In railway networks, transit graphs are **time-dependent**: trains operate only on specific days of the week, depart at specific times, and require valid transfer buffers between legs.
 
 Each state in the priority queue tracks:
-$$\text{State} = \langle \text{station}, \text{absolute\_time}, \text{legs}, \text{path} \rangle$$
-* **Min-Heap Evaluation**: States are prioritized by the **earliest absolute arrival time** ($\text{absolute\_time}$). If times tie, journeys with fewer transfers ($\text{legs}$) take precedence.
-* **Cyclic Multi-Day Timetable Wrapping**: Train departures are evaluated against 7-day cyclical schedules using backward origin calculation. If user departs at relative minute $T$ and train schedule specifies stop departure at $M$, origin day offset $K$ is computed with a custom `floorDiv` helper:
-  $$K = \left\lfloor \frac{T_{\text{required}} - M}{1440} \right\rfloor$$
+`State = { station, absolute_time, legs, path }`
+
+* **Min-Heap Evaluation**: States are prioritized by the **earliest absolute arrival time** (`absolute_time`). If times tie, journeys with fewer transfers (`legs`) take precedence.
+* **Cyclic Multi-Day Timetable Wrapping**: Train departures are evaluated against 7-day cyclical schedules using backward origin calculation. If the user departs at relative minute $T$ and the timetable departure is at minute $M$, the origin day offset $K$ is computed with a custom `floorDiv` helper:
+  $$K = \left\lfloor \frac{T - M}{1440} \right\rfloor$$
   This prevents C++ integer division round-towards-zero bugs when evaluating negative minute offsets across midnight boundaries.
 * **Cycle Prevention**: Each state checks its internal `path` history in $\mathcal{O}(L)$ to ensure the user does not revisit an already traversed station.
 
-### 2. Pruning Strategy: Top-$K$ Relaxed Pareto Front
+### 2. Pruning Strategy: Top-K Relaxed Pareto Front
 
 Unconstrained state search leads to exponential branching. RapidRails applies a dual-layer pruning mechanism:
 
-1. **Top-$K$ Pareto Frontier ($K_{\text{relax}} = 4$)**:
-   $$\text{best\_times}[\text{station}][\text{legs}]$$
-   Stores up to $K=4$ non-dominated arrival timestamps per station for each leg count. This permits slightly later trains to survive if they enable high-speed onward connections, without preserving uncompetitive branches.
+1. **Top-K Pareto Frontier ($K = 4$)**:
+   The engine maintains `best_times[station][legs]`, storing up to $K = 4$ non-dominated arrival timestamps per station for each leg count. This permits slightly later trains to survive if they enable high-speed onward connections, without preserving uncompetitive branches.
 2. **Aggressive Arrival Ceiling**:
-   $$\text{Arr}_{\text{candidate}} > \min_{l < \text{legs}}(\text{Arr}_{l}) + 720\text{ min}$$
-   Any candidate state requiring more transfers and arriving $> 12$ hours later than an already discovered fewer-leg path is pruned immediately.
+   If a candidate route arrives more than 12 hours (720 minutes) later than an existing route that required fewer transfers, the candidate branch is killed immediately:
+   $$\text{Arr}_{\text{candidate}} > \text{Arr}_{\text{fewer}} + 720\text{ min}$$
 
 ---
 
@@ -130,10 +130,11 @@ Unconstrained state search leads to exponential branching. RapidRails applies a 
 
 Let the network variables be defined as:
 * $S$: Total stations in the network ($\approx 8,480$)
-* $L$: Maximum allowed transfer legs ($\text{max\_legs} \le 8$, typically default $2 \text{ to } 4$)
+* $L$: Maximum allowed transfer legs (`max_legs` $\le 8$, typically default 2 to 4)
 * $K$: Relaxed Pareto factor ($K = 4$)
+* $T_s$: Average number of trains serving a single station ($\approx 15\text{--}45$)
 
-$$\boxed{\mathbf{Time\ Complexity} = \mathcal{O}\Big(S \cdot K \cdot L \cdot \big(L + \log(S \cdot K \cdot L)\big)\Big)}$$
+$$\boxed{\mathbf{Time\ Complexity} = \mathcal{O}\Big(S \cdot K \cdot L \cdot T_s \cdot \big(L + \log(S \cdot K \cdot L)\big)\Big)}$$
 
 #### Mathematical Breakdown:
 1. **Maximum State Expansions**: Due to the Pareto filter, each station can be extracted from the priority queue at most $K \cdot L$ times, bounding total popped states to $\mathcal{O}(S \cdot K \cdot L)$.
@@ -145,7 +146,7 @@ $$\boxed{\mathbf{Time\ Complexity} = \mathcal{O}\Big(S \cdot K \cdot L \cdot \bi
 
 #### Space Complexity:
 $$\mathbf{Space\ Complexity} = \mathcal{O}(S \cdot K \cdot L)$$
-* Bounded by the Pareto tracking table `best_times` and heap elements allocated during exploration.
+Bounded by the Pareto tracking table `best_times` and heap elements allocated during exploration.
 
 ---
 
@@ -158,21 +159,6 @@ $$\mathbf{Space\ Complexity} = \mathcal{O}(S \cdot K \cdot L)$$
 | **Typical Query Latency** | **5 ms — 50 ms** | 1 to 4 transfer legs on commodity CPU |
 | **IPC Round-Trip Overhead** | **< 2 ms** | `stdin`/`stdout` JSON serialization via `nlohmann::json` |
 | **Engine Startup Time** | **~250 ms** | Single-pass directory read & adjacency construction |
-
-<details>
-<summary><strong>Deep Dive: Engineering Design Decisions & Q&A</strong></summary>
-
-<br />
-
-#### Q1: Why not run the graph search directly in Node.js?
-**A:** Graph traversal over thousands of dynamic schedules requires millions of heap allocations, priority queue operations, and tight loops. While V8 is optimized, frequent object allocation during large graph searches triggers unpredictable garbage collection pauses that block Node's single-threaded event loop. C++ provides deterministic memory management, zero-cost abstractions, and cache-friendly data structures.
-
-#### Q2: Why line-delimited JSON IPC instead of native N-API addons?
-**A:** Context switching between V8 and C++ via native N-API (`Napi::Object`, `Napi::Array`) incurs overhead when marshalling large arrays of nested stops and leg objects across the JavaScript boundary. Serializing the C++ response struct once via `nlohmann::json` and reading it asynchronously in Node keeps both processes decoupled, crash-resilient, and non-blocking.
-
-#### Q3: How are impossible routes handled without hanging the engine?
-**A:** When searching disconnected station components, unconstrained searches could exhaustively explore the entire graph. RapidRails enforces strict algorithmic bounds: `max_legs` limits depth, `min_buffer` and `max_buffer` bound edge validity, and the search terminates as soon as `MAX_RESULTS = 20` paths are collected or the bounded priority queue empties.
-</details>
 
 ---
 
@@ -206,8 +192,6 @@ $$\mathbf{Space\ Complexity} = \mathcal{O}(S \cdot K \cdot L)$$
 ---
 
 ## Concise REST API Reference
-
-All protected endpoints require an `Authorization: Bearer <token>` header.
 
 ### 1. Route Optimization
 ```http
@@ -268,16 +252,6 @@ POST /api/search
 ---
 
 ## Getting Started
-
-### Prerequisites
-* [Docker & Docker Compose](https://docs.docker.com/get-docker/) (Recommended)
-* Alternatively for manual setup:
-  * **GCC / Clang** supporting C++17
-  * **GNU Make**
-  * **Node.js** v20+ and **npm**
-  * **MongoDB** v6+ running locally
-
----
 
 ### Option 1: Running with Docker Compose (Recommended)
 
@@ -342,15 +316,3 @@ npm run dev
 ```
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
----
-
-## License
-
-This project is licensed under the MIT License — open for academic, educational, and technical demonstration purposes.
-
----
-
-## Author
-
-**Omkar Gaddi**  
-Indian Institute of Information Technology (IIIT), Lucknow  
