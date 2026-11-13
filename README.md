@@ -40,11 +40,11 @@ Traditional railway search systems struggle when querying multi-leg routes requi
 
 ### Multi-Leg Results
 <p align="center">
-  <img width="950" alt="Journey Results Cards" src="https://github.com/user-attachments/assets/b90f16e5-8303-47c9-bd9c-a5de6f89ee49" />
+  <img width="1840" height="899" alt="image" src="https://github.com/user-attachments/assets/d45b6d7f-1ff4-480b-a8d9-2ef7e4a9058f" />
 </p>
 
 <p align="center">
-  <img width="950" alt="Journey Timeline and Buffers" src="https://github.com/user-attachments/assets/d006b8d2-2f78-4184-93c2-f2f0fc7db775" />
+  <img width="1849" height="902" alt="image" src="https://github.com/user-attachments/assets/7415abdb-4048-4d49-93dd-93ae6540c04c" />
 </p>
 
 ---
