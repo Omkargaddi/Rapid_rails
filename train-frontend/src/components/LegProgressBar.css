@@ -1,0 +1,30 @@
+.lpb-container {
+    display: flex;
+    width: 100%;
+    gap: 3px;
+    border-radius: 9999px;
+    overflow: hidden;
+    background: #e2e8f0;
+    padding: 1px;
+}
+
+.lpb-segment {
+    border-radius: 9999px;
+    height: 100%;
+    flex-shrink: 0;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    cursor: default;
+}
+
+.lpb-segment:hover {
+    opacity: 0.85;
+}
+
+.lpb-wait {
+    background-color: #cbd5e1;
+    background-image: repeating-linear-gradient(
+        135deg,
+        rgba(100, 116, 139, 0.45) 0 3px,
+        transparent 3px 6px
+    );
+}

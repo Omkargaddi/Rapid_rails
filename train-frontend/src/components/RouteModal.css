@@ -87,62 +87,103 @@
     transform: rotate(90deg);
 }
 
-/* ─── Route Strip ─────────────────────────────────────────── */
 .rm-strip {
     background: #f8faff;
     border-bottom: 1.5px solid var(--border-subtle);
-    padding: 22px 32px;
-    position: relative;
+    padding: 18px 24px;
 }
 
-.rm-strip-line {
-    position: absolute;
-    top: 50%;
-    left: 32px;
-    right: 32px;
-    height: 2px;
-    background: #dbe4f8;
-    transform: translateY(-50%);
-}
-
-.rm-strip-inner {
+.rm-strip-header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    position: relative;
-    z-index: 1;
+    margin-bottom: 12px;
 }
 
-.rm-strip-stop {
+.rm-strip-stations {
     display: flex;
-    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.rm-stn-badge {
+    font-family: 'Sora', monospace;
+    font-size: 11px;
+    font-weight: 800;
+    padding: 3px 8px;
+    border-radius: 6px;
+    letter-spacing: 0.05em;
+}
+
+.rm-stn-badge.src {
+    background: rgba(5, 150, 105, 0.12);
+    color: #059669;
+    border: 1px solid rgba(5, 150, 105, 0.25);
+}
+
+.rm-stn-badge.dst {
+    background: rgba(220, 38, 38, 0.12);
+    color: #dc2626;
+    border: 1px solid rgba(220, 38, 38, 0.25);
+}
+
+.rm-stn-arrow {
+    color: #94a3b8;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.rm-strip-meta {
+    font-family: 'Sora', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    color: #64748b;
+}
+
+.rm-progress-wrap {
+    margin-bottom: 12px;
+}
+
+.rm-leg-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.rm-leg-pill-chip {
+    display: flex;
     align-items: center;
     gap: 6px;
+    background: #ffffff;
+    border: 1px solid var(--border-subtle);
+    border-radius: 6px;
+    padding: 4px 10px;
+    font-size: 11px;
 }
 
-.rm-strip-dot {
-    width: 14px;
-    height: 14px;
+.rm-leg-pill-dot {
+    width: 8px;
+    height: 8px;
     border-radius: 50%;
-    border: 3px solid #ffffff;
-    box-shadow: 0 1px 6px rgba(0,0,0,0.15);
+    flex-shrink: 0;
 }
 
-.rm-strip-dot.first { background: #15803d; }
-.rm-strip-dot.last  { background: #dc2626; }
-.rm-strip-dot.mid {
-    background: #1a56db;
-    width: 10px;
-    height: 10px;
-}
-
-.rm-strip-label {
-    font-family: 'Sora', sans-serif;
-    font-size: 9px;
+.rm-leg-pill-num {
+    font-family: 'Sora', monospace;
     font-weight: 800;
+    color: var(--text-primary);
+}
+
+.rm-leg-pill-name {
+    font-weight: 600;
     color: #64748b;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
+}
+
+.rm-leg-pill-time {
+    font-family: 'Sora', sans-serif;
+    font-weight: 700;
+    color: #94a3b8;
+    font-size: 10px;
 }
 
 /* ─── Body / Legs ─────────────────────────────────────────── */

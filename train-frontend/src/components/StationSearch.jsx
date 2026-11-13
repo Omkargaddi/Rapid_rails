@@ -9,11 +9,12 @@ const StationSearch = ({ label, placeholder, onSelect, value }) => {
   const [selectedIndex, setSelectedIndex] = useState(-1);
   const dropdownRef = useRef(null);
 
-  useEffect(() => {
+  const [prevValue, setPrevValue] = useState(value);
+  if (value !== prevValue) {
+    setPrevValue(value);
     const station = STATION_DATA.find(s => s.code === value);
-    if (station) setQuery(station.name);
-    else if (!value) setQuery('');
-  }, [value]);
+    setQuery(station ? station.name : '');
+  }
 
   const filtered = query.trim().length > 0
     ? STATION_DATA.filter(s =>

@@ -526,9 +526,92 @@ body {
 .rr-search-btn:active:not(:disabled) { transform: translateY(0); }
 .rr-search-btn:disabled { opacity: 0.5; cursor: not-allowed; }
 
+/* ─── No Results Card ─────────────────────────────────────── */
+.rr-no-results-card {
+    background: var(--bg-card);
+    border: 1.5px solid var(--border-light);
+    border-radius: 20px;
+    padding: 32px;
+    text-align: left;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.rr-no-results-title {
+    font-family: 'Sora', sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    color: var(--text-primary);
+    margin-bottom: 8px;
+}
+
+.rr-no-results-desc {
+    font-size: 14px;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-bottom: 16px;
+}
+
+.rr-no-results-tips {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-size: 13px;
+    color: var(--text-secondary);
+}
+
+.rr-no-results-tips li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.rr-no-results-tips li::before {
+    content: '•';
+    color: var(--orange-primary);
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.rr-presearch-map-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 4px 6px 14px;
+}
+
+.rr-presearch-dot {
+    width: 8px;
+    height: 8px;
+    background: var(--orange-primary);
+    border-radius: 50%;
+    animation: blink 2s ease infinite;
+}
+
+.rr-presearch-title {
+    font-family: 'Sora', sans-serif;
+    font-size: 13px;
+    font-weight: 800;
+    color: var(--text-primary);
+}
+
+.rr-presearch-sub {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-weight: 600;
+    margin-left: auto;
+}
+
+.rr-presearch-map {
+    height: 400px;
+    border-radius: 14px;
+}
+
 /* ─── Results Section ─────────────────────────────────────── */
 .rr-results {
-    max-width: 1160px;
+    max-width: 1400px;
     margin: 0 auto;
     padding: 56px 24px 80px;
 }
@@ -621,8 +704,103 @@ body {
     color: var(--text-primary);
 }
 
+/* ─── Split Results Layout ─────────────────────────────── */
+.rr-split-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+    gap: 28px;
+    align-items: start;
+}
+
+.rr-list-column {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
 .rr-grid {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 14px;
+    gap: 16px;
+}
+
+.rr-map-column {
+    position: sticky;
+    top: 96px;
+    height: calc(100vh - 120px);
+    min-height: 540px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.rr-sticky-map {
+    height: 100%;
+    border-radius: 20px;
+}
+
+/* Mobile responsive view switcher */
+.rr-mobile-view-toggle {
+    display: none;
+}
+
+@media (max-width: 1023px) {
+    .rr-split-layout {
+        display: block;
+    }
+
+    .rr-list-column.mobile-hidden {
+        display: none !important;
+    }
+
+    .rr-map-column.mobile-hidden {
+        display: none !important;
+    }
+
+    .rr-map-column {
+        position: relative;
+        top: auto;
+        height: 72vh;
+        min-height: 420px;
+        margin-top: 14px;
+    }
+
+    .rr-mobile-view-toggle {
+        display: flex;
+        position: fixed;
+        bottom: 22px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 900;
+        align-items: center;
+        gap: 6px;
+        background: rgba(15, 23, 42, 0.94);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        padding: 6px;
+        border-radius: 50px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+        border: 1px solid rgba(255, 255, 255, 0.15);
+    }
+
+    .rr-mobile-toggle-btn {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        border: none;
+        background: transparent;
+        color: #94a3b8;
+        padding: 8px 18px;
+        border-radius: 50px;
+        font-family: 'Sora', sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    .rr-mobile-toggle-btn.active {
+        background: var(--orange-primary);
+        color: #ffffff;
+        box-shadow: 0 2px 10px rgba(26, 86, 219, 0.45);
+    }
 }

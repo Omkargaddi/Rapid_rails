@@ -1,12 +1,22 @@
 import React, { useState, useEffect } from 'react';
 import { Train, Clock, ChevronRight, Star } from 'lucide-react';
 import { formatAbsToAMPM, formatDuration } from '../utils/timeUtils';
+import { legColor } from '../utils/palette';
 import RouteModal from './RouteModal';
+import LegProgressBar from './LegProgressBar';
 import api from '../api/axios';
 import { toast } from 'react-toastify';
 import './JourneyCard.css'
 
-const JourneyCard = ({ journey, isInitiallyStarred, currentFavCount, onFavToggle }) => {
+const JourneyCard = ({
+  journey,
+  isInitiallyStarred,
+  currentFavCount,
+  onFavToggle,
+  isSelected = false,
+  onSelect,
+  onHover,
+}) => {
   const [showModal, setShowModal] = useState(false);
   const [isStarred, setIsStarred] = useState(isInitiallyStarred);
   const [loading, setLoading] = useState(false);
@@ -49,7 +59,12 @@ const JourneyCard = ({ journey, isInitiallyStarred, currentFavCount, onFavToggle
 
   return (
     <>
-      <div className="jc-card" onClick={() => setShowModal(true)}>
+      <div
+        className={`jc-card ${isSelected ? 'selected' : ''}`}
+        onClick={() => onSelect && onSelect(journey.hash)}
+        onMouseEnter={() => onHover && onHover(journey.hash)}
+        onMouseLeave={() => onHover && onHover(null)}
+      >
     <div className="jc-top">
           <div className="jc-train-info">
             <div className="jc-train-icon"><Train size={22} /></div>
@@ -85,10 +100,13 @@ const JourneyCard = ({ journey, isInitiallyStarred, currentFavCount, onFavToggle
 
           <div className="jc-mid">
             <div className="jc-duration-pill">{formatDuration(journey.total_duration)}</div>
-            <div className="jc-track">
-              <div className="jc-track-dot start" />
-              <div className="jc-track-dot end" />
-              {changes > 0 && <div className="jc-track-dot mid" />}
+            <LegProgressBar journey={journey} height={7} />
+            <div className="jc-mid-sub">
+              {changes > 0 ? (
+                <span>via {journey.legs.slice(0, -1).map((l) => l.to).join(', ')}</span>
+              ) : (
+                <span>Direct &middot; No transfers</span>
+              )}
             </div>
           </div>
 
@@ -97,7 +115,15 @@ const JourneyCard = ({ journey, isInitiallyStarred, currentFavCount, onFavToggle
             <div className="jc-station">{lastLeg.to}</div>
           </div>
         </div>
-      <div className="jc-footer">
+        <div className="jc-footer">
+          <div className="jc-train-tags">
+            {journey.legs.map((leg, i) => (
+              <span key={i} className="jc-train-tag" title={leg.train_name}>
+                <span className="jc-tag-dot" style={{ background: legColor(i) }} />
+                #{leg.train_num}
+              </span>
+            ))}
+          </div>
           <div className="jc-waits">
             {journey.legs.slice(1).map((leg, i) => (
               <div key={i} className="jc-wait-chip">
@@ -106,7 +132,13 @@ const JourneyCard = ({ journey, isInitiallyStarred, currentFavCount, onFavToggle
               </div>
             ))}
           </div>
-          <button className="jc-details-btn">
+          <button
+            className="jc-details-btn"
+            onClick={(e) => {
+              e.stopPropagation();
+              setShowModal(true);
+            }}
+          >
             View Details <ChevronRight size={14} />
           </button>
         </div>

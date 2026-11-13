@@ -1,9 +1,14 @@
 import React from 'react';
-import { X, Train, ExternalLink, Clock } from 'lucide-react';
+import { X, Train, Clock } from 'lucide-react';
 import { formatAbsToAMPM, formatDuration } from '../utils/timeUtils';
-import './RouteModal.css'
+import { legColor } from '../utils/palette';
+import LegProgressBar from './LegProgressBar';
+import './RouteModal.css';
 
 const RouteModal = ({ journey, onClose }) => {
+  const firstLeg = journey.legs[0];
+  const lastLeg = journey.legs[journey.legs.length - 1];
+
   return (
     <>
       <div className="rm-overlay" onClick={onClose}>
@@ -12,9 +17,9 @@ const RouteModal = ({ journey, onClose }) => {
           {/* HEADER */}
           <div className="rm-header">
             <div>
-              <div className="rm-header-title">Route Map</div>
+              <div className="rm-header-title">Journey Details</div>
               <div className="rm-header-sub">
-                Total Journey: <span>{formatDuration(journey.total_duration)}</span>
+                Total Duration: <span>{formatDuration(journey.total_duration)}</span>
               </div>
             </div>
             <button className="rm-close-btn" onClick={onClose}>
@@ -23,21 +28,32 @@ const RouteModal = ({ journey, onClose }) => {
           </div>
 
           <div className="rm-strip">
-            <div className="rm-strip-line" />
-            <div className="rm-strip-inner">
+            <div className="rm-strip-header">
+              <div className="rm-strip-stations">
+                <span className="rm-stn-badge src">{firstLeg.from}</span>
+                <span className="rm-stn-arrow">&rarr;</span>
+                <span className="rm-stn-badge dst">{lastLeg.to}</span>
+              </div>
+              <div className="rm-strip-meta">
+                <span>{journey.legs.length} train{journey.legs.length === 1 ? '' : 's'}</span>
+                {journey.legs.length > 1 && (
+                  <span> &middot; {journey.legs.length - 1} transfer{journey.legs.length === 2 ? '' : 's'}</span>
+                )}
+              </div>
+            </div>
+
+            <div className="rm-progress-wrap">
+              <LegProgressBar journey={journey} height={10} />
+            </div>
+
+            <div className="rm-leg-pills">
               {journey.legs.map((leg, i) => (
-                <React.Fragment key={i}>
-                  <div className="rm-strip-stop">
-                    <div className={`rm-strip-dot ${i === 0 ? 'first' : 'mid'}`} />
-                    <span className="rm-strip-label">{leg.from}</span>
-                  </div>
-                  {i === journey.legs.length - 1 && (
-                    <div className="rm-strip-stop">
-                      <div className="rm-strip-dot last" />
-                      <span className="rm-strip-label">{leg.to}</span>
-                    </div>
-                  )}
-                </React.Fragment>
+                <div key={i} className="rm-leg-pill-chip">
+                  <span className="rm-leg-pill-dot" style={{ background: legColor(i) }} />
+                  <span className="rm-leg-pill-num">#{leg.train_num}</span>
+                  <span className="rm-leg-pill-name">{leg.train_name}</span>
+                  <span className="rm-leg-pill-time">({formatDuration(leg.arr_abs - leg.dep_abs)})</span>
+                </div>
               ))}
             </div>
           </div>
@@ -47,9 +63,11 @@ const RouteModal = ({ journey, onClose }) => {
               <div className="rm-legs-line" />
               {journey.legs.map((leg, idx) => {
                 const waitTime = idx > 0 ? leg.dep_abs - journey.legs[idx - 1].arr_abs : 0;
+                const color = legColor(idx);
+
                 return (
                   <div key={idx} className="rm-leg-wrap">
-                    <div className="rm-leg-node" />
+                    <div className="rm-leg-node" style={{ borderColor: color }} />
                     {waitTime > 0 && (
                       <div className="rm-layover">
                         <Clock size={12} />
@@ -59,15 +77,23 @@ const RouteModal = ({ journey, onClose }) => {
                     <div className="rm-leg-card">
                       <div className="rm-leg-top">
                         <div className="rm-leg-train-row">
-                          <div className="rm-leg-icon"><Train size={18} /></div>
+                          <div
+                            className="rm-leg-icon"
+                            style={{
+                              color,
+                              background: `${color}14`,
+                              borderColor: `${color}30`,
+                            }}
+                          >
+                            <Train size={18} />
+                          </div>
                           <div>
                             <div className="rm-leg-name">{leg.train_name}</div>
-                            <div className="rm-leg-meta">Train #{leg.train_num} · {leg.train_type}</div>
+                            <div className="rm-leg-meta" style={{ color }}>
+                              Train #{leg.train_num} &middot; {leg.train_type}
+                            </div>
                           </div>
                         </div>
-                        <a href={leg.link} target="_blank" rel="noreferrer" className="rm-schedule-link">
-                          Schedule <ExternalLink size={11} />
-                        </a>
                       </div>
 
                       <div className="rm-leg-times">
@@ -85,7 +111,7 @@ const RouteModal = ({ journey, onClose }) => {
 
                       {leg.classes_available?.length > 0 && (
                         <div className="rm-classes">
-                          {leg.classes_available.map(c => (
+                          {leg.classes_available.map((c) => (
                             <span key={c} className="rm-class-chip">{c}</span>
                           ))}
                         </div>

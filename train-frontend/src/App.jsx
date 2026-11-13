@@ -3,7 +3,8 @@ import './App.css'
 import { useNavigate } from 'react-router-dom';
 import {
   ArrowRightLeft, Search, Loader2, LogOut,
-  User, ChevronDown, Timer, Filter, Star
+  User, ChevronDown, Timer, Filter, Star,
+  List as ListIcon, Map as MapIcon
 } from 'lucide-react';
 import { toast } from 'react-toastify';
 import api from './api/axios';
@@ -11,6 +12,7 @@ import StationSearch from './components/StationSearch';
 import JourneyCard from './components/JourneyCard';
 import TransferCounter from './components/TransferCounter';
 import Footer from './components/Footer';
+import MapPanel from './components/MapPanel';
 
 const App = () => {
   const navigate = useNavigate();
@@ -29,6 +31,10 @@ const App = () => {
   const [sortBy, setSortBy] = useState('total_duration');
   const [favoriteHashes, setFavoriteHashes] = useState([]);
   const [favCount, setFavCount] = useState(0);
+  const [selectedId, setSelectedId] = useState(null);
+  const [hoverId, setHoverId] = useState(null);
+  const [mobileView, setMobileView] = useState('list');
+  const [hasSearched, setHasSearched] = useState(false);
 
   const [theme, setTheme] = useState(() => {
     return localStorage.getItem('rr-theme') || 'light';
@@ -73,6 +79,7 @@ const App = () => {
     if (!token) { toast.info("Please sign in to search for routes"); return navigate('/login'); }
     if (!source || !destination) return toast.warn("Please select both source and destination stations");
     setLoading(true);
+    setHasSearched(true);
     const selectedDate = new Date(date);
     const dayValue = selectedDate.getDay() === 0 ? 7 : selectedDate.getDay();
     try {
@@ -82,8 +89,13 @@ const App = () => {
       });
       const data = Array.isArray(response.data) ? response.data : [response.data];
       setResults(data);
-      if (data.length === 0) toast.info("No routes found for the selected criteria");
-      else toast.success(`Found ${data.length} possible routes`);
+      if (data.length === 0) {
+        toast.info("No routes found for the selected criteria");
+        setSelectedId(null);
+      } else {
+        toast.success(`Found ${data.length} possible routes`);
+        setSelectedId(data[0].hash);
+      }
     } catch {
       toast.error("Search failed. Please check your connection.");
     } finally {
@@ -108,6 +120,16 @@ const App = () => {
     if (sortBy === 'total_wait') return calculateTotalWait(a) - calculateTotalWait(b);
     return 0;
   });
+
+  useEffect(() => {
+    if (finalSortedResults.length > 0) {
+      if (!finalSortedResults.some((j) => j.hash === selectedId)) {
+        setSelectedId(finalSortedResults[0].hash);
+      }
+    } else {
+      setSelectedId(null);
+    }
+  }, [finalSortedResults, selectedId]);
 
   const handleLogout = () => {
     localStorage.clear();
@@ -227,46 +249,110 @@ const App = () => {
           </div>
         </main>
 
-        {results.length > 0 && (
-          <section className="rr-results">
+        {hasSearched && (
+          <section className="rr-results" id="results">
             <div className="rr-results-hd">
               <div>
                 <div className="rr-accent-line" />
-                <h2 className="rr-results-title">Available Routes</h2>
+                <h2 className="rr-results-title">
+                  {finalSortedResults.length > 0 ? 'Available Routes' : 'Search Results'}
+                </h2>
                 <p className="rr-results-sub">
-                  <strong>{finalSortedResults.length} routes</strong> from{' '}
-                  <strong>{source}</strong> → <strong>{destination}</strong>
+                  {finalSortedResults.length > 0 ? (
+                    <>
+                      <strong>{finalSortedResults.length} routes</strong> from{' '}
+                      <strong>{source}</strong> → <strong>{destination}</strong>
+                    </>
+                  ) : (
+                    <>
+                      No available routes found from <strong>{source}</strong> → <strong>{destination}</strong>
+                    </>
+                  )}
                 </p>
               </div>
 
-              <div className="rr-controls">
-                <div className="rr-saved-pill">
-                  SAVED:&nbsp;<span className={favCount >= 10 ? 'over' : ''}>{favCount}/10</span>
+              {finalSortedResults.length > 0 && (
+                <div className="rr-controls">
+                  <div className="rr-saved-pill">
+                    SAVED:&nbsp;<span className={favCount >= 10 ? 'over' : ''}>{favCount}/10</span>
+                  </div>
+                  <div className="rr-sort">
+                    <Filter size={14} style={{ color: 'var(--orange-primary)' }} />
+                    <span className="rr-sort-lbl">Sort:</span>
+                    <select value={sortBy} onChange={(e) => setSortBy(e.target.value)}>
+                      <option value="total_duration">Shortest Time</option>
+                      <option value="total_wait">Minimum Waiting</option>
+                      <option value="departure_time">Earliest Departure</option>
+                      <option value="arrival_time">Earliest Arrival</option>
+                      <option value="legs">Minimum Changes</option>
+                    </select>
+                  </div>
                 </div>
-                <div className="rr-sort">
-                  <Filter size={14} style={{ color: 'var(--orange-primary)' }} />
-                  <span className="rr-sort-lbl">Sort:</span>
-                  <select value={sortBy} onChange={(e) => setSortBy(e.target.value)}>
-                    <option value="total_duration">Shortest Time</option>
-                    <option value="total_wait">Minimum Waiting</option>
-                    <option value="departure_time">Earliest Departure</option>
-                    <option value="arrival_time">Earliest Arrival</option>
-                    <option value="legs">Minimum Changes</option>
-                  </select>
-                </div>
+              )}
+            </div>
+
+            <div className="rr-split-layout">
+              {/* Journey List Column */}
+              <div className={`rr-list-column ${mobileView === 'map' ? 'mobile-hidden' : ''}`}>
+                {finalSortedResults.length > 0 ? (
+                  <div className="rr-grid">
+                    {finalSortedResults.map((j) => (
+                      <JourneyCard
+                        key={j.hash}
+                        journey={j}
+                        isSelected={j.hash === selectedId}
+                        onSelect={(hash) => setSelectedId(hash)}
+                        onHover={(hash) => setHoverId(hash)}
+                        isInitiallyStarred={favoriteHashes.includes(j.hash)}
+                        currentFavCount={favCount}
+                        onFavToggle={handleFavToggle}
+                      />
+                    ))}
+                  </div>
+                ) : (
+                  <div className="rr-no-results-card">
+                    <h3 className="rr-no-results-title">No Routes Available</h3>
+                    <p className="rr-no-results-desc">
+                      We couldn't find any direct or connecting trains matching your criteria for <strong>{source}</strong> &rarr; <strong>{destination}</strong>.
+                    </p>
+                    <ul className="rr-no-results-tips">
+                      <li>Increase <strong>Max Buffer</strong> to allow longer layovers between trains</li>
+                      <li>Allow more <strong>Transfers</strong> (e.g. up to 3 or 4) to find connections</li>
+                      <li>Try searching for a different date</li>
+                    </ul>
+                  </div>
+                )}
+              </div>
+
+              {/* Sticky Map Column */}
+              <div className={`rr-map-column ${mobileView === 'list' ? 'mobile-hidden' : ''}`}>
+                <MapPanel
+                  journeys={finalSortedResults}
+                  selectedId={selectedId}
+                  hoverId={hoverId}
+                  onSelect={(hash) => setSelectedId(hash)}
+                  endpoints={{ from: source, to: destination }}
+                  className="rr-sticky-map"
+                />
               </div>
             </div>
 
-            <div className="rr-grid">
-              {finalSortedResults.map((j) => (
-                <JourneyCard
-                  key={j.hash} journey={j}
-                  isInitiallyStarred={favoriteHashes.includes(j.hash)}
-                  currentFavCount={favCount}
-                  onFavToggle={handleFavToggle}
-                />
-              ))}
-            </div>
+            {finalSortedResults.length > 0 && (
+              <div className="rr-mobile-view-toggle">
+                <button
+                  className={`rr-mobile-toggle-btn ${mobileView === 'list' ? 'active' : ''}`}
+                  onClick={() => setMobileView('list')}
+                >
+                  <ListIcon size={14} /> List ({finalSortedResults.length})
+                </button>
+                <button
+                  className={`rr-mobile-toggle-btn ${mobileView === 'map' ? 'active' : ''}`}
+                  onClick={() => setMobileView('map')}
+                >
+                  <MapIcon size={14} /> Map
+                </button>
+              </div>
+            )}
           </section>
         )}
 
