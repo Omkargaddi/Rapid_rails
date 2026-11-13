@@ -1,6 +1,16 @@
+[build]
+  base = "train-frontend"
+  command = "npm run build"
+  publish = "dist"
+
 [[redirects]]
   from = "/api/*"
   to = "https://rapid-rails.onrender.com/api/:splat"
   status = 200
   force = true
   headers = { X-Forwarded-Host = "rapidrails.netlify.app" }
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
