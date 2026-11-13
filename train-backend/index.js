@@ -93,6 +93,7 @@ app.use(cors());
 
 const TEST_EMAIL = process.env.TEST_USER_EMAIL || 'omkar@gmail.com';
 const TEST_PASSWORD = process.env.TEST_USER_PASSWORD || 'Qwert@123';
+const JWT_SECRET = process.env.JWT_SECRET || 'rapidrails_super_secret_jwt_key_change_in_production';
 
 async function seedTestUser() {
     try {
@@ -139,25 +140,44 @@ const transporter = nodemailer.createTransport({
 
 app.post('/api/register', async (req, res) => {
     try {
+        const { email, password } = req.body;
+        if (!email || !password) return res.status(400).json({ error: 'Email and password are required' });
+
+        const normalizedEmail = email.toLowerCase().trim();
+        const existing = await User.findOne({ email: normalizedEmail });
+        if (existing) {
+            return res.status(400).json({ error: 'Email already exists' });
+        }
+
         const salt = await bcrypt.genSalt(10);
-        const hashedPassword = await bcrypt.hash(req.body.password, salt);
-        const user = new User({ email: req.body.email, password: hashedPassword });
+        const hashedPassword = await bcrypt.hash(password, salt);
+        const user = new User({ email: normalizedEmail, password: hashedPassword });
         await user.save();
         res.status(201).json({ message: 'User created successfully' });
-    } catch {
-        res.status(400).json({ error: 'Email already exists' });
+    } catch (err) {
+        console.error('[Register Error]:', err.message);
+        res.status(400).json({ error: 'Registration failed: ' + err.message });
     }
 });
 
 app.post('/api/login', async (req, res) => {
-    const user = await User.findOne({ email: req.body.email });
-    if (!user) return res.status(400).json({ error: 'User not found' });
+    try {
+        const { email, password } = req.body;
+        if (!email || !password) return res.status(400).json({ error: 'Email and password are required' });
 
-    const isMatch = await bcrypt.compare(req.body.password, user.password);
-    if (!isMatch) return res.status(400).json({ error: 'Invalid credentials' });
+        const normalizedEmail = email.toLowerCase().trim();
+        const user = await User.findOne({ email: normalizedEmail });
+        if (!user) return res.status(400).json({ error: 'User not found' });
 
-    const token = jwt.sign({ _id: user._id }, process.env.JWT_SECRET, { expiresIn: '24h' });
-    res.json({ token, email: user.email });
+        const isMatch = await bcrypt.compare(password, user.password);
+        if (!isMatch) return res.status(400).json({ error: 'Invalid credentials' });
+
+        const token = jwt.sign({ _id: user._id }, JWT_SECRET, { expiresIn: '24h' });
+        res.json({ token, email: user.email });
+    } catch (err) {
+        console.error('[Login Error]:', err.message);
+        res.status(500).json({ error: 'Login failed: ' + err.message });
+    }
 });
 
 app.post('/api/forgot-password', async (req, res) => {
