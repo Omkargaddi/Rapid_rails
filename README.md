@@ -20,9 +20,9 @@
 
 Traditional railway search systems struggle when querying multi-leg routes requiring platform transfers across complex national networks. Unlike road networks modeled as static spatial graphs, railway routing is **inherently dynamic and time-dependent**:
 
-* **Temporal Edge Validity**: A connection between Station $A$ and Station $B$ does not exist statically; it is only traversable at discrete moments governed by operating calendars and timetable departures.
-* **Realistic Transfer Layover Buffers**: Feasible transfers demand human-realistic layovers (`min_buffer` $\le \Delta t \le$ `max_buffer`) preventing missed connections or grueling multi-hour station waits.
-* **State-Space Explosion**: Multi-leg permutations explode combinatorially ($\mathcal{O}(B^L)$) if naive breadth-first or depth-first searches are executed across thousands of interconnected trains.
+- **Temporal Edge Validity**: A connection between Station `A` and Station `B` does not exist statically; it is only traversable at discrete moments governed by operating calendars and timetable departures.
+- **Realistic Transfer Layover Buffers**: Feasible transfers demand human-realistic layovers (`min_buffer` ≤ layover ≤ `max_buffer`) preventing missed connections or grueling multi-hour station waits.
+- **State-Space Explosion**: Multi-leg permutations explode combinatorially (`O(B^L)`, where `B` is the branching factor and `L` the number of legs) if naive breadth-first or depth-first searches are executed across thousands of interconnected trains.
 
 **RapidRails** resolves this by decoupling compute-heavy graph processing from I/O operations:
 1. **Core C++17 Routing Engine**: Executes a specialized **Bounded State-Space Search (Modified Time-Dependent Dijkstra)** utilizing **Top-K Relaxed Pareto Pruning** and origin-offset cycle prevention.
@@ -93,9 +93,9 @@ flowchart TD
 
 ### Architectural Highlights
 
-* **Zero Garbage Collection Overhead during Graph Search**: State-space traversal creates and destroys millions of priority queue entries. Moving this logic to C++ eliminates V8 garbage collection pauses, keeping search latency predictable.
-* **Line-Delimited JSON IPC**: Instead of Node-API (N-API) bindings that induce context-switching overhead and thread-boundary synchronization costs, the Node gateway communicates with the compiled C++ binary through persistent `stdin`/`stdout` streams with UUID-tagged request/response envelopes.
-* **In-Memory Pre-Indexed Graph**: At launch, 1,725+ train schedules spanning 8,400+ stations are loaded into an inverted station-to-train adjacency index (`StationManager::stationToTrains`), enabling $\mathcal{O}(1)$ train lookup per station expansion.
+- **Zero Garbage Collection Overhead during Graph Search**: State-space traversal creates and destroys millions of priority queue entries. Moving this logic to C++ eliminates V8 garbage collection pauses, keeping search latency predictable.
+- **Line-Delimited JSON IPC**: Instead of Node-API (N-API) bindings that induce context-switching overhead and thread-boundary synchronization costs, the Node gateway communicates with the compiled C++ binary through persistent `stdin`/`stdout` streams with UUID-tagged request/response envelopes.
+- **In-Memory Pre-Indexed Graph**: At launch, 1,725+ train schedules spanning 8,400+ stations are loaded into an inverted station-to-train adjacency index (`StationManager::stationToTrains`), enabling `O(1)` train lookup per station expansion.
 
 ---
 
@@ -108,44 +108,59 @@ Standard Dijkstra calculates the shortest path on a static weight graph. In rail
 Each state in the priority queue tracks:
 `State = { station, absolute_time, legs, path }`
 
-* **Min-Heap Evaluation**: States are prioritized by the **earliest absolute arrival time** (`absolute_time`). If times tie, journeys with fewer transfers (`legs`) take precedence.
-* **Cyclic Multi-Day Timetable Wrapping**: Train departures are evaluated against 7-day cyclical schedules using backward origin calculation. If the user departs at relative minute $T$ and the timetable departure is at minute $M$, the origin day offset $K$ is computed with a custom `floorDiv` helper:
-  $$K = \left\lfloor \frac{T - M}{1440} \right\rfloor$$
+- **Min-Heap Evaluation**: States are prioritized by the **earliest absolute arrival time** (`absolute_time`). If times tie, journeys with fewer transfers (`legs`) take precedence.
+- **Cyclic Multi-Day Timetable Wrapping**: Train departures are evaluated against 7-day cyclical schedules using backward origin calculation. If the user departs at relative minute `T` and the timetable departure is at minute `M`, the origin day offset `K` is computed with a custom `floorDiv` helper:
+
+  ```text
+  K = floor((T - M) / 1440)
+  ```
+
   This prevents C++ integer division round-towards-zero bugs when evaluating negative minute offsets across midnight boundaries.
-* **Cycle Prevention**: Each state checks its internal `path` history in $\mathcal{O}(L)$ to ensure the user does not revisit an already traversed station.
+- **Cycle Prevention**: Each state checks its internal `path` history in `O(L)` to ensure the user does not revisit an already traversed station.
 
 ### 2. Pruning Strategy: Top-K Relaxed Pareto Front
 
 Unconstrained state search leads to exponential branching. RapidRails applies a dual-layer pruning mechanism:
 
-1. **Top-K Pareto Frontier ($K = 4$)**:
-   The engine maintains `best_times[station][legs]`, storing up to $K = 4$ non-dominated arrival timestamps per station for each leg count. This permits slightly later trains to survive if they enable high-speed onward connections, without preserving uncompetitive branches.
+1. **Top-K Pareto Frontier (K = 4)**:
+   The engine maintains `best_times[station][legs]`, storing up to `K = 4` non-dominated arrival timestamps per station for each leg count. This permits slightly later trains to survive if they enable high-speed onward connections, without preserving uncompetitive branches.
 2. **Aggressive Arrival Ceiling**:
    If a candidate route arrives more than 12 hours (720 minutes) later than an existing route that required fewer transfers, the candidate branch is killed immediately:
-   $$\text{Arr}_{\text{candidate}} > \text{Arr}_{\text{fewer}} + 720\text{ min}$$
+
+   ```text
+   Arr_candidate > Arr_fewer + 720 min
+   ```
 
 ---
 
 ### 3. Time Complexity Formulation
 
 Let the network variables be defined as:
-* $S$: Total stations in the network ($\approx 8,480$)
-* $L$: Maximum allowed transfer legs (`max_legs` $\le 8$, typically default 2 to 4)
-* $K$: Relaxed Pareto factor ($K = 4$)
-* $T_s$: Average number of trains serving a single station ($\approx 15\text{--}45$)
+- `S`: Total stations in the network (≈ 8,480)
+- `L`: Maximum allowed transfer legs (`max_legs` ≤ 8, typically default 2 to 4)
+- `K`: Relaxed Pareto factor (K = 4)
+- `T_s`: Average number of trains serving a single station (≈ 15–45)
 
-$$\boxed{\mathbf{Time\ Complexity} = \mathcal{O}\Big(S \cdot K \cdot L \cdot T_s \cdot \big(L + \log(S \cdot K \cdot L)\big)\Big)}$$
+**Time Complexity:**
 
-#### Mathematical Breakdown:
-1. **Maximum State Expansions**: Due to the Pareto filter, each station can be extracted from the priority queue at most $K \cdot L$ times, bounding total popped states to $\mathcal{O}(S \cdot K \cdot L)$.
-2. **Branching Factor per State**: For each popped state, the engine iterates over $T_s$ passing trains and explores $M$ downstream stops.
+```text
+O( S · K · L · T_s · ( L + log(S · K · L) ) )
+```
+
+#### Breakdown:
+1. **Maximum State Expansions**: Due to the Pareto filter, each station can be extracted from the priority queue at most `K · L` times, bounding total popped states to `O(S · K · L)`.
+2. **Branching Factor per State**: For each popped state, the engine iterates over `T_s` passing trains and explores `M` downstream stops.
 3. **Inner Loop Cost**:
-   * Cycle validation against journey history: $\mathcal{O}(L)$
-   * Pareto check across fewer-leg records: $\mathcal{O}(L)$
-   * Priority queue insertion: $\mathcal{O}(\log(S \cdot K \cdot L))$
+   * Cycle validation against journey history: `O(L)`
+   * Pareto check across fewer-leg records: `O(L)`
+   * Priority queue insertion: `O(log(S · K · L))`
 
 #### Space Complexity:
-$$\mathbf{Space\ Complexity} = \mathcal{O}(S \cdot K \cdot L)$$
+
+```text
+O(S · K · L)
+```
+
 Bounded by the Pareto tracking table `best_times` and heap elements allocated during exploration.
 
 ---
@@ -165,29 +180,29 @@ Bounded by the Pareto tracking table `best_times` and heap elements allocated du
 ## Tech Stack
 
 ### Core Routing Engine (C++)
-* **Language**: C++17 (`-std=c++17 -O2`)
-* **Data Structures**: Min-Heap (`std::priority_queue`), Hash Indices (`std::unordered_map`), Deque storage (`std::deque`)
-* **Serialization**: `nlohmann/json` (Header-only modern JSON parsing)
-* **Build System**: GNU Make
+- **Language**: C++17 (`-std=c++17 -O2`)
+- **Data Structures**: Min-Heap (`std::priority_queue`), Hash Indices (`std::unordered_map`), Deque storage (`std::deque`)
+- **Serialization**: `nlohmann/json` (Header-only modern JSON parsing)
+- **Build System**: GNU Make
 
 ### Backend Gateway (Node.js)
-* **Runtime**: Node.js (ES Modules)
-* **Framework**: Express 5
-* **Database ODM**: Mongoose 9 / MongoDB 7
-* **Security & Auth**: JSON Web Tokens (`jsonwebtoken`), `bcryptjs`
-* **Mailer**: Nodemailer (SMTP password reset verification)
+- **Runtime**: Node.js (ES Modules)
+- **Framework**: Express 5
+- **Database ODM**: Mongoose 9 / MongoDB 7
+- **Security & Auth**: JSON Web Tokens (`jsonwebtoken`), `bcryptjs`
+- **Mailer**: Nodemailer (SMTP password reset verification)
 
 ### Frontend Application (React)
-* **Framework**: React 19 + Vite 7
-* **Styling**: Tailwind CSS v4 + Custom Responsive Themes (Light / Dark)
-* **Geo-Mapping**: Leaflet + React-Leaflet
-* **Icons & Notifications**: Lucide React + React-Toastify
-* **Routing**: React Router 7
+- **Framework**: React 19 + Vite 7
+- **Styling**: Tailwind CSS v4 + Custom Responsive Themes (Light / Dark)
+- **Geo-Mapping**: Leaflet + React-Leaflet
+- **Icons & Notifications**: Lucide React + React-Toastify
+- **Routing**: React Router 7
 
 ### DevOps & Containerization
-* **Container Orchestration**: Docker Compose
-* **Frontend Server**: Nginx (Alpine-based reverse proxy)
-* **Database**: MongoDB 7 Official Image
+- **Container Orchestration**: Docker Compose
+- **Frontend Server**: Nginx (Alpine-based reverse proxy)
+- **Database**: MongoDB 7 Official Image
 
 ---
 
@@ -315,4 +330,3 @@ npm install
 npm run dev
 ```
 Open [http://localhost:5173](http://localhost:5173) in your browser.
-
