@@ -1,11 +1,6 @@
 #ifndef DATAMODELS_HPP
 #define DATAMODELS_HPP
-#include <algorithm>
-#include <map>
-#include <string>
-#include <vector>
-#include <iomanip>
-#include <sstream>
+#include <bits/stdc++.h>
 #include "json.hpp"
 
 using namespace std;
@@ -18,15 +13,25 @@ struct Stop {
     int sequence_number;
 
     // Time relative to 00:00
-    static int timeToMin(const string &s) {
-        if (s.empty() || s == "null" || s == "SRC" || s == "DSTN") return 0;
+    static int timeToMin(string s) {
+        if (s.empty()) {
+            return 0;
+        } else if (s == "null") {
+            return 0;
+        } else if (s == "SRC") {
+            return 0;
+        } else if (s == "DSTN") {
+            return 0;
+        }
+
         try {
             int h = stoi(s.substr(0, 2));
             int m = stoi(s.substr(3, 2));
             return h * 60 + m;
-        } catch (...) { return 0; }
+        } catch (...) {
+            return 0;
+        }
     }
-
 
     static string minToClock(int m) {
         m = (m % 1440 + 1440) % 1440;
@@ -42,8 +47,8 @@ struct JourneyLeg {
     string dep_clock, arr_clock;
     vector<string> classes;
 
-    JourneyLeg(const string &tn, const string &tname, const string &ty,const string &f, const string &t, const string &l,
-               int d_abs, int a_abs, const vector<string> &cls)
+    JourneyLeg(string tn, string tname, string ty, string f, string t, string l,
+               int d_abs, int a_abs, vector<string> cls)
         : train_num(tn), train_name(tname), train_type(ty), from(f), to(t), link(l),
           dep_abs(d_abs), arr_abs(a_abs), classes(cls) {
         dep_day = (d_abs / 1440) + 1;
@@ -58,9 +63,11 @@ struct JourneyResponse {
     vector<JourneyLeg> legs;
     int total_duration;
 
-    static string generateHash(const vector<JourneyLeg> &legs) {
+    static string generateHash(vector<JourneyLeg> &legs) {
         stringstream ss;
-        for (const auto &leg : legs) ss << leg.train_num << "|" << leg.from << "|" << leg.to << "|";
+        for (auto &leg : legs) {
+            ss << leg.train_num << "|" << leg.from << "|" << leg.to << "|";
+        }
         return to_string(std::hash<string>{}(ss.str()));
     }
 };
@@ -86,7 +93,15 @@ public:
     bool runsOn(int dayNum) {
         static vector<string> dNames = {"monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"};
         string name = dNames[(dayNum - 1) % 7];
-        return operating_days.count(name) && operating_days[name];
+        if (operating_days.count(name)) {
+            if (operating_days[name]) {
+                return true;
+            } else {
+                return false;
+            }
+        } else {
+            return false;
+        }
     }
 };
 #endif
